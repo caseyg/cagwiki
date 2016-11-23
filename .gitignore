@@ -1,2 +1,12 @@
 config.json
 status/owner.json
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.cloud-locale-test.skip
+.npm/
+.profile
+.ssh/
+.sudo_as_admin_successful
+.wiki/
