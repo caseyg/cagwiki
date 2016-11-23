@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to CAG's [[Federated Wiki]] site. From this page you can find who I am and what I do.",
+      "text": "Welcome to CAG's [[Federated Wiki]] site. From this page you can find who I am and what I do. Test edit.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -772,6 +772,16 @@
         "text": "[[Books]]"
       },
       "date": 1479923402002
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to CAG's [[Federated Wiki]] site. From this page you can find who I am and what I do. Test edit.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1479944701571
     }
   ]
 }

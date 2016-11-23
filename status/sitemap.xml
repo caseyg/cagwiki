@@ -25,6 +25,10 @@
     <lastmod>2016-11-23</lastmod>
   </url>
   <url>
+    <loc>http://localhost:3000/federated-wiki.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:3000/instruments.html</loc>
     <lastmod>2016-11-23</lastmod>
   </url>
@@ -61,10 +65,6 @@
   </url>
   <url>
     <loc>http://localhost:3000/words.html</loc>
-    <lastmod>2016-11-23</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:3000/federated-wiki.html</loc>
     <lastmod>2016-11-23</lastmod>
   </url>
 </urlset>
