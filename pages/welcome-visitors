@@ -1,0 +1,572 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. ",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "Pages about us:"
+    },
+    {
+      "type": "paragraph",
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+      "text": "[[Casey Gollan]] "
+    },
+    {
+      "type": "paragraph",
+      "id": "2bbd646ff3f44b51",
+      "text": "Pages where we do and share:"
+    },
+    {
+      "type": "factory",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "pagefold",
+      "id": "4889b9f9da3bb731",
+      "text": "Interesting Sites"
+    },
+    {
+      "type": "reference",
+      "id": "5408c1f7f10c5205",
+      "site": "fed.wiki.org",
+      "slug": "how-to-wiki",
+      "title": "How To Wiki",
+      "text": "This is our help documentation. Read a little bit. Then move on to our [http://sandbox.fed.wiki.org Sandbox] and give your new knowledge a workout. Still confused? Look through our our [[Frequently Asked Questions]]."
+    },
+    {
+      "type": "reference",
+      "id": "604f08c0ce9d2c85",
+      "site": "ward.fed.wiki.org",
+      "slug": "ward-cunningham",
+      "title": "Ward Cunningham",
+      "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+    },
+    {
+      "type": "reference",
+      "id": "3e66c3a00ae4b16f",
+      "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://machines.hapgood.net/teaching-machines-mike-caulfield.html",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+      },
+      "site": "machines.hapgood.net",
+      "slug": "teaching-machines-mike-caulfield",
+      "title": "Teaching Machines (Mike Caulfield)",
+      "text": "The Teaching Machines Happening ran officially in March 2015. These were some of the topics."
+    },
+    {
+      "type": "markdown",
+      "id": "1442098f2651897e",
+      "text": "# jkljkl\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3b7c78c92c3e1a8f",
+      "text": "<h2> jkljkl"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": ":)"
+      },
+      "date": 1479885459162,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share. Test."
+      },
+      "date": 1479885677125,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1479886686549
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc88d13a3c264b8c"
+      },
+      "id": "cc88d13a3c264b8c",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1479886726574
+    },
+    {
+      "type": "add",
+      "id": "596011f6e7f937dd",
+      "item": {
+        "type": "paragraph",
+        "id": "596011f6e7f937dd",
+        "text": "http://machines.hapgood.net/teaching-machines-mike-caulfield.html"
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1479889105607
+    },
+    {
+      "type": "remove",
+      "id": "596011f6e7f937dd",
+      "date": 1479889110870
+    },
+    {
+      "type": "remove",
+      "id": "cc88d13a3c264b8c",
+      "date": 1479889110976
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e57986d6e5d2fd5"
+      },
+      "id": "1e57986d6e5d2fd5",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1479889112560
+    },
+    {
+      "type": "edit",
+      "id": "1e57986d6e5d2fd5",
+      "item": {
+        "type": "paragraph",
+        "id": "1e57986d6e5d2fd5",
+        "text": "http://machines.hapgood.net/teaching-machines-mike-caulfield.html"
+      },
+      "date": 1479889117820
+    },
+    {
+      "type": "remove",
+      "id": "1e57986d6e5d2fd5",
+      "date": 1479889120274
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e66c3a00ae4b16f"
+      },
+      "id": "3e66c3a00ae4b16f",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1479889138176
+    },
+    {
+      "type": "edit",
+      "id": "3e66c3a00ae4b16f",
+      "item": {
+        "type": "factory",
+        "id": "3e66c3a00ae4b16f",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://machines.hapgood.net/teaching-machines-mike-caulfield.html",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+        }
+      },
+      "date": 1479889146345
+    },
+    {
+      "type": "edit",
+      "id": "3e66c3a00ae4b16f",
+      "item": {
+        "type": "reference",
+        "id": "3e66c3a00ae4b16f",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://machines.hapgood.net/teaching-machines-mike-caulfield.html",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
+        },
+        "site": "machines.hapgood.net",
+        "slug": "teaching-machines-mike-caulfield",
+        "title": "Teaching Machines (Mike Caulfield)",
+        "text": "The Teaching Machines Happening ran officially in March 2015. These were some of the topics."
+      },
+      "date": 1479889160689
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4889b9f9da3bb731"
+      },
+      "id": "4889b9f9da3bb731",
+      "type": "add",
+      "after": "3e66c3a00ae4b16f",
+      "date": 1479889194938
+    },
+    {
+      "type": "edit",
+      "id": "4889b9f9da3bb731",
+      "item": {
+        "type": "pagefold",
+        "id": "4889b9f9da3bb731",
+        "text": "Interesting Sites"
+      },
+      "date": 1479889210102
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "4889b9f9da3bb731",
+        "3e66c3a00ae4b16f"
+      ],
+      "id": "4889b9f9da3bb731",
+      "date": 1479889211881
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "[[Casey Gollan]]"
+      },
+      "date": 1479889220911
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share:"
+      },
+      "date": 1479889228943
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us:"
+      },
+      "date": 1479889231563
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5408c1f7f10c5205"
+      },
+      "id": "5408c1f7f10c5205",
+      "type": "add",
+      "after": "3e66c3a00ae4b16f",
+      "date": 1479889382693
+    },
+    {
+      "type": "edit",
+      "id": "5408c1f7f10c5205",
+      "item": {
+        "type": "reference",
+        "id": "5408c1f7f10c5205",
+        "site": "fed.wiki.org",
+        "slug": "how-to-wiki",
+        "title": "How To Wiki",
+        "text": "This is our help documentation. Read a little bit. Then move on to our [http://sandbox.fed.wiki.org Sandbox] and give your new knowledge a workout. Still confused? Look through our our [[Frequently Asked Questions]]."
+      },
+      "date": 1479889445328
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "4889b9f9da3bb731",
+        "5408c1f7f10c5205",
+        "3e66c3a00ae4b16f"
+      ],
+      "id": "5408c1f7f10c5205",
+      "date": 1479889447557
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.  [[new]]",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1479889866927
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "[[Casey Gollan]] "
+      },
+      "date": 1479890422984
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1479890433609
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1152b115ed638dae"
+      },
+      "id": "1152b115ed638dae",
+      "type": "add",
+      "after": "3e66c3a00ae4b16f",
+      "date": 1479890510377
+    },
+    {
+      "type": "edit",
+      "id": "1152b115ed638dae",
+      "item": {
+        "type": "reference",
+        "id": "1152b115ed638dae",
+        "site": "ward.fed.wiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the Federated Wiki."
+      },
+      "date": 1479890528482
+    },
+    {
+      "type": "remove",
+      "id": "1152b115ed638dae",
+      "date": 1479890535609
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "604f08c0ce9d2c85"
+      },
+      "id": "604f08c0ce9d2c85",
+      "type": "add",
+      "after": "3e66c3a00ae4b16f",
+      "date": 1479890537457
+    },
+    {
+      "type": "edit",
+      "id": "604f08c0ce9d2c85",
+      "item": {
+        "type": "reference",
+        "id": "604f08c0ce9d2c85",
+        "site": "ward.fed.wiki.org",
+        "slug": "ward-cunningham",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "date": 1479890550010
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "4889b9f9da3bb731",
+        "5408c1f7f10c5205",
+        "604f08c0ce9d2c85",
+        "3e66c3a00ae4b16f"
+      ],
+      "id": "604f08c0ce9d2c85",
+      "date": 1479890555133
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1442098f2651897e"
+      },
+      "id": "1442098f2651897e",
+      "type": "add",
+      "after": "3e66c3a00ae4b16f",
+      "date": 1479890919767
+    },
+    {
+      "type": "edit",
+      "id": "1442098f2651897e",
+      "item": {
+        "type": "markdown",
+        "id": "1442098f2651897e",
+        "text": "jkljkl"
+      },
+      "date": 1479890955516
+    },
+    {
+      "type": "edit",
+      "id": "1442098f2651897e",
+      "item": {
+        "type": "markdown",
+        "id": "1442098f2651897e",
+        "text": "jkljkl\n"
+      },
+      "date": 1479890962009
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b7c78c92c3e1a8f"
+      },
+      "id": "3b7c78c92c3e1a8f",
+      "type": "add",
+      "after": "1442098f2651897e",
+      "date": 1479890963598
+    },
+    {
+      "type": "edit",
+      "id": "3b7c78c92c3e1a8f",
+      "item": {
+        "type": "paragraph",
+        "id": "3b7c78c92c3e1a8f",
+        "text": "jkljkl"
+      },
+      "date": 1479890968102
+    },
+    {
+      "type": "edit",
+      "id": "1442098f2651897e",
+      "item": {
+        "type": "markdown",
+        "id": "1442098f2651897e",
+        "text": "# jkljkl\n"
+      },
+      "date": 1479890980681
+    },
+    {
+      "type": "edit",
+      "id": "3b7c78c92c3e1a8f",
+      "item": {
+        "type": "paragraph",
+        "id": "3b7c78c92c3e1a8f",
+        "text": "# jkljkl"
+      },
+      "date": 1479890988427
+    },
+    {
+      "type": "edit",
+      "id": "3b7c78c92c3e1a8f",
+      "item": {
+        "type": "paragraph",
+        "id": "3b7c78c92c3e1a8f",
+        "text": "<h2> jkljkl"
+      },
+      "date": 1479890996953
+    }
+  ]
+}

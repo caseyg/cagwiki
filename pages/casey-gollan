@@ -1,0 +1,184 @@
+{
+  "title": "Casey Gollan",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "75ddd0673c33c0bb",
+      "text": "[http://caseyagollan.com website]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Casey Gollan",
+        "story": []
+      },
+      "date": 1479889243696
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "53a53efcbaf30cbf"
+      },
+      "id": "53a53efcbaf30cbf",
+      "type": "add",
+      "date": 1479889245642
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "75ddd0673c33c0bb"
+      },
+      "id": "75ddd0673c33c0bb",
+      "type": "add",
+      "after": "53a53efcbaf30cbf",
+      "date": 1479889251383
+    },
+    {
+      "type": "edit",
+      "id": "53a53efcbaf30cbf",
+      "item": {
+        "type": "paragraph",
+        "id": "53a53efcbaf30cbf",
+        "text": "http://caseyagollan.com"
+      },
+      "date": 1479889258263
+    },
+    {
+      "type": "edit",
+      "id": "53a53efcbaf30cbf",
+      "item": {
+        "type": "paragraph",
+        "id": "53a53efcbaf30cbf",
+        "text": "[http://caseyagollan.com]"
+      },
+      "date": 1479889264586
+    },
+    {
+      "type": "edit",
+      "id": "53a53efcbaf30cbf",
+      "item": {
+        "type": "paragraph",
+        "id": "53a53efcbaf30cbf",
+        "text": "[website](http://caseyagollan.com)"
+      },
+      "date": 1479889276852
+    },
+    {
+      "type": "remove",
+      "id": "53a53efcbaf30cbf",
+      "date": 1479889283147
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[website](http://caseyagollan.com)"
+      },
+      "date": 1479889286513
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[website](http://caseyagollan.com)\n\n(test)[]"
+      },
+      "date": 1479889301333
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[website](http://caseyagollan.com)"
+      },
+      "date": 1479889304815
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[http://caseyagollan.com]"
+      },
+      "date": 1479889332478
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[[http://caseyagollan.com]]"
+      },
+      "date": 1479889337324
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[[http://caseyagollan.com webpage]]"
+      },
+      "date": 1479891081695
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[http://caseyagollan.com webpage]"
+      },
+      "date": 1479891086107
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[http://caseyagollan.com]"
+      },
+      "date": 1479891089983
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[http://caseyagollan.com webpage]"
+      },
+      "date": 1479891093975
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[http://caseyagollan.com caseyagollan.com]"
+      },
+      "date": 1479891157344
+    },
+    {
+      "type": "edit",
+      "id": "75ddd0673c33c0bb",
+      "item": {
+        "type": "markdown",
+        "id": "75ddd0673c33c0bb",
+        "text": "[http://caseyagollan.com website]"
+      },
+      "date": 1479891167325
+    }
+  ]
+}
