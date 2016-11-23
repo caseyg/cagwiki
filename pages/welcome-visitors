@@ -2,14 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. test.",
+      "text": "Welcome to CAG's [[Federated Wiki]] site. From this page you can find who I am and what I do.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
       "id": "821827c99b90cfd1",
-      "text": "Pages about us:"
+      "text": "About me:"
     },
     {
       "type": "paragraph",
@@ -20,61 +20,37 @@
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share:"
+      "text": "Pages:"
     },
     {
-      "type": "factory",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      "type": "paragraph",
+      "id": "2c54be814c872593",
+      "text": "[[Closing tabs]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef5863bf2a1c624a",
+      "text": "[[Books]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a8ff1d4629deb381",
+      "text": "[[Tools]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6186185fcfef5ce6",
+      "text": "[[Neighborhood]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e9f455ad9ca60b25",
+      "text": " [[Recent Changes]] "
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "pagefold",
-      "id": "4889b9f9da3bb731",
-      "text": "Interesting Sites"
-    },
-    {
-      "type": "reference",
-      "id": "5408c1f7f10c5205",
-      "site": "fed.wiki.org",
-      "slug": "how-to-wiki",
-      "title": "How To Wiki",
-      "text": "This is our help documentation. Read a little bit. Then move on to our [http://sandbox.fed.wiki.org Sandbox] and give your new knowledge a workout. Still confused? Look through our our [[Frequently Asked Questions]]."
-    },
-    {
-      "type": "reference",
-      "id": "604f08c0ce9d2c85",
-      "site": "ward.fed.wiki.org",
-      "slug": "ward-cunningham",
-      "title": "Ward Cunningham",
-      "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
-    },
-    {
-      "type": "reference",
-      "id": "3e66c3a00ae4b16f",
-      "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
-      "punt": {
-        "url": "http://machines.hapgood.net/teaching-machines-mike-caulfield.html",
-        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50"
-      },
-      "site": "machines.hapgood.net",
-      "slug": "teaching-machines-mike-caulfield",
-      "title": "Teaching Machines (Mike Caulfield)",
-      "text": "The Teaching Machines Happening ran officially in March 2015. These were some of the topics."
-    },
-    {
-      "type": "markdown",
-      "id": "1442098f2651897e",
-      "text": "# jkljkl\n"
-    },
-    {
-      "type": "paragraph",
-      "id": "3b7c78c92c3e1a8f",
-      "text": "<h2> jkljkl"
     }
   ],
   "journal": [
@@ -577,6 +553,225 @@
         "type": "paragraph"
       },
       "date": 1479891295427
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1479891632674
+    },
+    {
+      "type": "remove",
+      "id": "1442098f2651897e",
+      "date": 1479891653690
+    },
+    {
+      "type": "remove",
+      "id": "3b7c78c92c3e1a8f",
+      "date": 1479891657883
+    },
+    {
+      "type": "add",
+      "id": "6186185fcfef5ce6",
+      "item": {
+        "type": "paragraph",
+        "id": "6186185fcfef5ce6",
+        "text": "[[Neighborhood"
+      },
+      "after": "2bbd646ff3f44b51",
+      "date": 1479891691208
+    },
+    {
+      "type": "edit",
+      "id": "6186185fcfef5ce6",
+      "item": {
+        "type": "paragraph",
+        "id": "6186185fcfef5ce6",
+        "text": "[[Neighborhood]]"
+      },
+      "date": 1479891694720
+    },
+    {
+      "type": "remove",
+      "id": "4889b9f9da3bb731",
+      "date": 1479891701730
+    },
+    {
+      "type": "remove",
+      "id": "5408c1f7f10c5205",
+      "date": 1479891704052
+    },
+    {
+      "type": "remove",
+      "id": "604f08c0ce9d2c85",
+      "date": 1479891707690
+    },
+    {
+      "type": "remove",
+      "id": "3e66c3a00ae4b16f",
+      "date": 1479891710882
+    },
+    {
+      "type": "add",
+      "id": "a8ff1d4629deb381",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ff1d4629deb381",
+        "text": "[[Tools]]"
+      },
+      "after": "6186185fcfef5ce6",
+      "date": 1479892424375,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1479892440640
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1479892829003
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to CAG's [[Federated Wiki]] site. From this page you can find who I am and what I do.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1479892876784
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "About me:"
+      },
+      "date": 1479892883964
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Interesting pages:"
+      },
+      "date": 1479892891294
+    },
+    {
+      "type": "add",
+      "id": "e9f455ad9ca60b25",
+      "item": {
+        "type": "paragraph",
+        "id": "e9f455ad9ca60b25",
+        "text": " [[Recent Changes]] "
+      },
+      "after": "2bbd646ff3f44b51",
+      "date": 1479892902032
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "6186185fcfef5ce6",
+        "a8ff1d4629deb381",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "e9f455ad9ca60b25",
+      "date": 1479922972139
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "a8ff1d4629deb381",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "6186185fcfef5ce6",
+      "date": 1479922975940
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "P"
+      },
+      "date": 1479922980600
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages:"
+      },
+      "date": 1479922982490
+    },
+    {
+      "type": "add",
+      "id": "2c54be814c872593",
+      "item": {
+        "type": "paragraph",
+        "id": "2c54be814c872593",
+        "text": "[[Closing tabs"
+      },
+      "after": "2bbd646ff3f44b51",
+      "date": 1479922992288
+    },
+    {
+      "type": "edit",
+      "id": "2c54be814c872593",
+      "item": {
+        "type": "paragraph",
+        "id": "2c54be814c872593",
+        "text": "[[Closing tabs]]"
+      },
+      "date": 1479922994394
+    },
+    {
+      "type": "add",
+      "id": "ef5863bf2a1c624a",
+      "item": {
+        "type": "paragraph",
+        "id": "ef5863bf2a1c624a",
+        "text": "[[Books"
+      },
+      "after": "2c54be814c872593",
+      "date": 1479923400346
+    },
+    {
+      "type": "edit",
+      "id": "ef5863bf2a1c624a",
+      "item": {
+        "type": "paragraph",
+        "id": "ef5863bf2a1c624a",
+        "text": "[[Books]]"
+      },
+      "date": 1479923402002
     }
   ]
 }

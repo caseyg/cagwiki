@@ -1,0 +1,73 @@
+{
+  "title": "Speaking Into The Air",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "829d8724eace88d1",
+      "text": "quotes"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea8ad22f3112af03",
+      "text": "\"The Dead Letter Office deals with the materiality of communication, not its supposed spirituality. It is the dump for everything that misfires. The need for it to exist at all is an everlasting monument to the fact that communication cannot escape embodiment and there is no such thing as a pure sign on the model of angels. Further, the contrast between items that are \"intrinsically of worth\" and ones of worth only to the owners reveals the ways that shared histories can in fact fill in the meaning of signs. The sense of familiar letters is often peculiar to the parties and not generalizable to those not privy to the code and history. Like the body, dead letters underscore the inalienability of certain sorts of meaning. A human finger to a torturer is just a piece of meat: but to its possessor it is a potential poem, violin song, or caress. In this way private letters are like bodies, objects of immense value that, when detached from their proper setting, are almost utterly useless: my glasses and my eyes, my shoes and my feet, my notebooks and my brain. To me these things are almost infinitely precious; to almost everyone else they are almost infinitely worthless. The disproportionate value of the body to its owner and to anyone else is the firmest proof that not all meanings are public and general.\""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Speaking Into The Air",
+        "story": []
+      },
+      "date": 1479923579600
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ea8ad22f3112af03"
+      },
+      "id": "ea8ad22f3112af03",
+      "type": "add",
+      "date": 1479923615322
+    },
+    {
+      "type": "edit",
+      "id": "ea8ad22f3112af03",
+      "item": {
+        "type": "paragraph",
+        "id": "ea8ad22f3112af03",
+        "text": "\"The Dead Letter Office deals with the materiality of communication, not its supposed spirituality. It is the dump for everything that misfires. The need for it to exist at all is an everlasting monument to the fact that communication cannot escape embodiment and there is no such thing as a pure sign on the model of angels. Further, the contrast between items that are \"intrinsically of worth\" and ones of worth only to the owners reveals the ways that shared histories can in fact fill in the meaning of signs. The sense of familiar letters is often peculiar to the parties and not generalizable to those not privy to the code and history. Like the body, dead letters underscore the inalienability of certain sorts of meaning. A human finger to a torturer is just a piece of meat: but to its possessor it is a potential poem, violin song, or caress. In this way private letters are like bodies, objects of immense value that, when detached from their proper setting, are almost utterly useless: my glasses and my eyes, my shoes and my feet, my notebooks and my brain. To me these things are almost infinitely precious; to almost everyone else they are almost infinitely worthless. The disproportionate value of the body to its owner and to anyone else is the firmest proof that not all meanings are public and general.\""
+      },
+      "date": 1479923627628
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "829d8724eace88d1"
+      },
+      "id": "829d8724eace88d1",
+      "type": "add",
+      "after": "ea8ad22f3112af03",
+      "date": 1479923677195
+    },
+    {
+      "type": "edit",
+      "id": "829d8724eace88d1",
+      "item": {
+        "type": "pagefold",
+        "id": "829d8724eace88d1",
+        "text": "quotes"
+      },
+      "date": 1479923706470
+    },
+    {
+      "type": "move",
+      "order": [
+        "829d8724eace88d1",
+        "ea8ad22f3112af03"
+      ],
+      "id": "829d8724eace88d1",
+      "date": 1479923709433
+    }
+  ]
+}

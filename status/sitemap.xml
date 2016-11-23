@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://localhost:3000/a-pattern-language.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/about-html-plugin.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/books.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:3000/casey.html</loc>
     <lastmod>2016-11-23</lastmod>
   </url>
   <url>
     <loc>http://localhost:3000/casey-gollan.html</loc>
     <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/closing-tabs.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/instruments.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/neighborhood.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/new.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/speaking-into-the-air.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/teaching-machines-mike-caulfield.html</loc>
+    <lastmod>2015-06-24</lastmod>
   </url>
   <url>
     <loc>http://localhost:3000/test.html</loc>
@@ -17,14 +52,19 @@
     <lastmod>2016-11-23</lastmod>
   </url>
   <url>
+    <loc>http://localhost:3000/tools.html</loc>
+    <lastmod>2016-11-23</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:3000/welcome-visitors.html</loc>
     <lastmod>2016-11-23</lastmod>
   </url>
   <url>
-    <loc>http://localhost:3000/new.html</loc>
+    <loc>http://localhost:3000/words.html</loc>
+    <lastmod>2016-11-23</lastmod>
   </url>
   <url>
-    <loc>http://localhost:3000/about-html-plugin.html</loc>
+    <loc>http://localhost:3000/federated-wiki.html</loc>
     <lastmod>2016-11-23</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,541 @@
+{
+  "title": "Tools",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "a7d60867b6218800",
+      "text": "Related concepts"
+    },
+    {
+      "type": "paragraph",
+      "id": "badb53566a21a8e5",
+      "text": "[[Instruments]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d837ea7481df28d5",
+      "text": "[[Appliance]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "449e3f4dc4d58207",
+      "text": "To check out"
+    },
+    {
+      "type": "paragraph",
+      "id": "1c394ba91d7a4735",
+      "text": "[[Federated Wiki]] [https://github.com/fedwiki/wiki github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4206d3ffc0498b8a",
+      "text": "TagTeam [http://tagteam.harvard.edu website]"
+    },
+    {
+      "type": "paragraph",
+      "id": "00604f19092f8bd7",
+      "text": "TiddlyWiki [http://tiddlywiki.com website]"
+    },
+    {
+      "type": "paragraph",
+      "id": "440d0992a5108cd3",
+      "text": "Bytebeat (built into FW) [http://canonical.org/~kragen/bytebeat/ website] and Glitch [http://naivesound.com/glitch website]"
+    },
+    {
+      "type": "pagefold",
+      "id": "fd92b66ac0caf01c",
+      "text": "Tools I use"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tools",
+        "story": []
+      },
+      "date": 1479892444384
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "449e3f4dc4d58207"
+      },
+      "id": "449e3f4dc4d58207",
+      "type": "add",
+      "date": 1479892446036
+    },
+    {
+      "type": "edit",
+      "id": "449e3f4dc4d58207",
+      "item": {
+        "type": "pagefold",
+        "id": "449e3f4dc4d58207",
+        "text": "To check out"
+      },
+      "date": 1479892456319
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb2c9a2477dd3426"
+      },
+      "id": "bb2c9a2477dd3426",
+      "type": "add",
+      "after": "449e3f4dc4d58207",
+      "date": 1479892457548
+    },
+    {
+      "type": "remove",
+      "id": "bb2c9a2477dd3426",
+      "date": 1479892468275
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c828ce7f708da76a"
+      },
+      "id": "c828ce7f708da76a",
+      "type": "add",
+      "after": "449e3f4dc4d58207",
+      "date": 1479892476436
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5a17440a4f4b06c"
+      },
+      "id": "b5a17440a4f4b06c",
+      "type": "add",
+      "after": "c828ce7f708da76a",
+      "date": 1479892479374
+    },
+    {
+      "type": "remove",
+      "id": "b5a17440a4f4b06c",
+      "date": 1479892483742
+    },
+    {
+      "type": "remove",
+      "id": "c828ce7f708da76a",
+      "date": 1479892484994
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c394ba91d7a4735"
+      },
+      "id": "1c394ba91d7a4735",
+      "type": "add",
+      "after": "449e3f4dc4d58207",
+      "date": 1479892499548
+    },
+    {
+      "type": "edit",
+      "id": "1c394ba91d7a4735",
+      "item": {
+        "type": "paragraph",
+        "id": "1c394ba91d7a4735",
+        "text": "Sm"
+      },
+      "date": 1479892518364
+    },
+    {
+      "type": "edit",
+      "id": "1c394ba91d7a4735",
+      "item": {
+        "type": "paragraph",
+        "id": "1c394ba91d7a4735",
+        "text": "[https://github.com/fedwiki/wiki "
+      },
+      "date": 1479892527364
+    },
+    {
+      "type": "edit",
+      "id": "1c394ba91d7a4735",
+      "item": {
+        "type": "paragraph",
+        "id": "1c394ba91d7a4735",
+        "text": "[https://github.com/fedwiki/wiki Federated Wiki]"
+      },
+      "date": 1479892531782
+    },
+    {
+      "type": "edit",
+      "id": "1c394ba91d7a4735",
+      "item": {
+        "type": "paragraph",
+        "id": "1c394ba91d7a4735",
+        "text": "Federated Wiki [https://github.com/fedwiki/wiki github]"
+      },
+      "date": 1479892544750
+    },
+    {
+      "type": "add",
+      "id": "4206d3ffc0498b8a",
+      "item": {
+        "type": "paragraph",
+        "id": "4206d3ffc0498b8a",
+        "text": "TagTeam [http://tagteam.harvard.edu website"
+      },
+      "after": "1c394ba91d7a4735",
+      "date": 1479892585726
+    },
+    {
+      "type": "edit",
+      "id": "4206d3ffc0498b8a",
+      "item": {
+        "type": "paragraph",
+        "id": "4206d3ffc0498b8a",
+        "text": "TagTeam [http://tagteam.harvard.edu website]"
+      },
+      "date": 1479892587854
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "37970cf4b267160d"
+      },
+      "id": "37970cf4b267160d",
+      "type": "add",
+      "after": "4206d3ffc0498b8a",
+      "date": 1479892596384
+    },
+    {
+      "type": "edit",
+      "id": "37970cf4b267160d",
+      "item": {
+        "type": "markdown",
+        "id": "37970cf4b267160d",
+        "text": "> The open-source tagging platform and feed aggregator."
+      },
+      "date": 1479892606604
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9ec55d44fb4e10b0"
+      },
+      "id": "9ec55d44fb4e10b0",
+      "type": "add",
+      "after": "37970cf4b267160d",
+      "date": 1479892610782
+    },
+    {
+      "type": "edit",
+      "id": "9ec55d44fb4e10b0",
+      "item": {
+        "type": "markdown",
+        "id": "9ec55d44fb4e10b0",
+        "text": "> The open-source tagging platform and feed aggregator."
+      },
+      "date": 1479892614890
+    },
+    {
+      "type": "remove",
+      "id": "9ec55d44fb4e10b0",
+      "date": 1479892619771
+    },
+    {
+      "type": "edit",
+      "id": "37970cf4b267160d",
+      "item": {
+        "type": "markdown",
+        "id": "37970cf4b267160d",
+        "text": "_The open-source tagging platform and feed aggregator._"
+      },
+      "date": 1479892625913
+    },
+    {
+      "type": "edit",
+      "id": "37970cf4b267160d",
+      "item": {
+        "type": "markdown",
+        "id": "37970cf4b267160d",
+        "text": "  _The open-source tagging platform and feed aggregator._"
+      },
+      "date": 1479892629760
+    },
+    {
+      "type": "edit",
+      "id": "37970cf4b267160d",
+      "item": {
+        "type": "markdown",
+        "id": "37970cf4b267160d",
+        "text": "_The open-source tagging platform and feed aggregator._"
+      },
+      "date": 1479892632550
+    },
+    {
+      "type": "remove",
+      "id": "37970cf4b267160d",
+      "date": 1479892639173
+    },
+    {
+      "type": "move",
+      "order": [
+        "1c394ba91d7a4735",
+        "4206d3ffc0498b8a",
+        "449e3f4dc4d58207"
+      ],
+      "id": "449e3f4dc4d58207",
+      "date": 1479892700581
+    },
+    {
+      "type": "move",
+      "order": [
+        "449e3f4dc4d58207",
+        "1c394ba91d7a4735",
+        "4206d3ffc0498b8a"
+      ],
+      "id": "449e3f4dc4d58207",
+      "date": 1479892702413
+    },
+    {
+      "type": "move",
+      "order": [
+        "1c394ba91d7a4735",
+        "4206d3ffc0498b8a",
+        "449e3f4dc4d58207"
+      ],
+      "id": "449e3f4dc4d58207",
+      "date": 1479892711616
+    },
+    {
+      "type": "move",
+      "order": [
+        "449e3f4dc4d58207",
+        "1c394ba91d7a4735",
+        "4206d3ffc0498b8a"
+      ],
+      "id": "449e3f4dc4d58207",
+      "date": 1479892712818
+    },
+    {
+      "type": "move",
+      "order": [
+        "1c394ba91d7a4735",
+        "449e3f4dc4d58207",
+        "4206d3ffc0498b8a"
+      ],
+      "id": "449e3f4dc4d58207",
+      "date": 1479892713791
+    },
+    {
+      "type": "move",
+      "order": [
+        "449e3f4dc4d58207",
+        "1c394ba91d7a4735",
+        "4206d3ffc0498b8a"
+      ],
+      "id": "449e3f4dc4d58207",
+      "date": 1479892716332
+    },
+    {
+      "type": "move",
+      "order": [
+        "1c394ba91d7a4735",
+        "449e3f4dc4d58207",
+        "4206d3ffc0498b8a"
+      ],
+      "id": "449e3f4dc4d58207",
+      "date": 1479892717421
+    },
+    {
+      "type": "move",
+      "order": [
+        "449e3f4dc4d58207",
+        "1c394ba91d7a4735",
+        "4206d3ffc0498b8a"
+      ],
+      "id": "449e3f4dc4d58207",
+      "date": 1479892723675
+    },
+    {
+      "type": "add",
+      "id": "badb53566a21a8e5",
+      "item": {
+        "type": "paragraph",
+        "id": "badb53566a21a8e5",
+        "text": "[[Instruments]]"
+      },
+      "after": "4206d3ffc0498b8a",
+      "date": 1479892737158
+    },
+    {
+      "type": "move",
+      "order": [
+        "badb53566a21a8e5",
+        "449e3f4dc4d58207",
+        "1c394ba91d7a4735",
+        "4206d3ffc0498b8a"
+      ],
+      "id": "badb53566a21a8e5",
+      "date": 1479892996879
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7d60867b6218800"
+      },
+      "id": "a7d60867b6218800",
+      "type": "add",
+      "after": "4206d3ffc0498b8a",
+      "date": 1479893004250
+    },
+    {
+      "type": "edit",
+      "id": "a7d60867b6218800",
+      "item": {
+        "type": "pagefold",
+        "id": "a7d60867b6218800",
+        "text": "Related concepts"
+      },
+      "date": 1479893017792
+    },
+    {
+      "type": "move",
+      "order": [
+        "a7d60867b6218800",
+        "badb53566a21a8e5",
+        "449e3f4dc4d58207",
+        "1c394ba91d7a4735",
+        "4206d3ffc0498b8a"
+      ],
+      "id": "a7d60867b6218800",
+      "date": 1479893019451
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd92b66ac0caf01c"
+      },
+      "id": "fd92b66ac0caf01c",
+      "type": "add",
+      "after": "4206d3ffc0498b8a",
+      "date": 1479893025184
+    },
+    {
+      "type": "edit",
+      "id": "fd92b66ac0caf01c",
+      "item": {
+        "type": "pagefold",
+        "id": "fd92b66ac0caf01c",
+        "text": "Tools I use"
+      },
+      "date": 1479893032386
+    },
+    {
+      "type": "add",
+      "id": "d837ea7481df28d5",
+      "item": {
+        "type": "paragraph",
+        "id": "d837ea7481df28d5",
+        "text": "[[Appliance"
+      },
+      "after": "badb53566a21a8e5",
+      "date": 1479893047413
+    },
+    {
+      "type": "edit",
+      "id": "d837ea7481df28d5",
+      "item": {
+        "type": "paragraph",
+        "id": "d837ea7481df28d5",
+        "text": "[[Appliance]]"
+      },
+      "date": 1479893049410
+    },
+    {
+      "type": "add",
+      "id": "00604f19092f8bd7",
+      "item": {
+        "type": "paragraph",
+        "id": "00604f19092f8bd7",
+        "text": "TiddlyWiki [http://tiddlywiki.com website"
+      },
+      "after": "4206d3ffc0498b8a",
+      "date": 1479895635990
+    },
+    {
+      "type": "edit",
+      "id": "00604f19092f8bd7",
+      "item": {
+        "type": "paragraph",
+        "id": "00604f19092f8bd7",
+        "text": "TiddlyWiki [http://tiddlywiki.com website]"
+      },
+      "date": 1479895638722
+    },
+    {
+      "type": "add",
+      "id": "440d0992a5108cd3",
+      "item": {
+        "type": "paragraph",
+        "id": "440d0992a5108cd3",
+        "text": "Bytebeat"
+      },
+      "after": "00604f19092f8bd7",
+      "date": 1479924020266
+    },
+    {
+      "type": "edit",
+      "id": "440d0992a5108cd3",
+      "item": {
+        "type": "paragraph",
+        "id": "440d0992a5108cd3",
+        "text": "Bytebeat (built into FW) [Bytebeat — Kragen website]"
+      },
+      "date": 1479924035412
+    },
+    {
+      "type": "edit",
+      "id": "440d0992a5108cd3",
+      "item": {
+        "type": "paragraph",
+        "id": "440d0992a5108cd3",
+        "text": "Bytebeat (built into FW) [http://canonical.org/~kragen/bytebeat/"
+      },
+      "date": 1479924047599
+    },
+    {
+      "type": "edit",
+      "id": "440d0992a5108cd3",
+      "item": {
+        "type": "paragraph",
+        "id": "440d0992a5108cd3",
+        "text": "Bytebeat (built into FW) [http://canonical.org/~kragen/bytebeat/ website]"
+      },
+      "date": 1479924049762
+    },
+    {
+      "type": "edit",
+      "id": "440d0992a5108cd3",
+      "item": {
+        "type": "paragraph",
+        "id": "440d0992a5108cd3",
+        "text": "Bytebeat (built into FW) [http://canonical.org/~kragen/bytebeat/ website] and Glitch [http://naivesound.com/glitch website]"
+      },
+      "date": 1479924087758
+    },
+    {
+      "type": "edit",
+      "id": "1c394ba91d7a4735",
+      "item": {
+        "type": "paragraph",
+        "id": "1c394ba91d7a4735",
+        "text": "[[Federated Wiki]] [https://github.com/fedwiki/wiki github]"
+      },
+      "date": 1479930817166,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1479930840421
+    }
+  ]
+}

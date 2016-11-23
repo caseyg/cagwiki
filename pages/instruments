@@ -1,0 +1,39 @@
+{
+  "title": "Instruments",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "48f0575d45823a4c",
+      "text": "What's the difference between a tool an appliance and an instrument?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Instruments",
+        "story": []
+      },
+      "date": 1479892740928
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48f0575d45823a4c"
+      },
+      "id": "48f0575d45823a4c",
+      "type": "add",
+      "date": 1479892744579
+    },
+    {
+      "type": "edit",
+      "id": "48f0575d45823a4c",
+      "item": {
+        "type": "paragraph",
+        "id": "48f0575d45823a4c",
+        "text": "What's the difference between a tool an appliance and an instrument?"
+      },
+      "date": 1479892761533
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "title": "A Pattern Language",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "689f644c32e0e4bb",
+      "text": " (speech to text)"
+    },
+    {
+      "type": "pagefold",
+      "id": "7f49ca6921d8995d",
+      "text": "book jacket"
+    },
+    {
+      "type": "paragraph",
+      "id": "6d8c2c8504eae20a",
+      "text": "You can use this book Teavana house for yourself with your family; you can use it to work with your neighbors improve your town and neighborhood me: you can use it to design an office, or workshop, or a public building. And you can use it to guide you in the actual process of construction.\n\nAt the core of these books is the idea that people should designs for them solve their own houses, streets, and communities. Parentheses it implies a radical transformation of the architectural profession and parentheses but it comes simply from the observation that most of the wonderful places on earth of the world were not made by architect by the people.\n\nAt the crew of the books to you is the point that in designing their environments people always rely on certain quote languages,"
+    },
+    {
+      "type": "pagefold",
+      "id": "6e287d7862af7e89",
+      "text": "xix"
+    },
+    {
+      "type": "paragraph",
+      "id": "98a2358b78ab6517",
+      "text": "One independent regions to the distribution of town three city country fingers"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "A Pattern Language",
+        "story": []
+      },
+      "date": 1479923262714
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "6d8c2c8504eae20a",
+        "text": "You can use this book Teavana house for yourself with your family; you can use it to work with your neighbors improve your town and neighborhood me: you can use it to design an office, or workshop, or a public building. And you can use it to guide you in the actual process of construction.\n\nAt the core of these books is the idea that people should designs for them solve their own houses, streets, and communities. Parentheses it implies a radical transformation of the architectural profession and parentheses but it comes simply from the observation that most of the wonderful places on earth of the world were not made by architect by the people.\n\nAt the crew of the books to you is the point that in designing their environments people always rely on certain quote languages,"
+      },
+      "id": "6d8c2c8504eae20a",
+      "date": 1479923264780
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "6e287d7862af7e89",
+        "text": "xix"
+      },
+      "after": "6d8c2c8504eae20a",
+      "id": "6e287d7862af7e89",
+      "date": 1479923268543
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "98a2358b78ab6517",
+        "text": "One independent regions to the distribution of town three city country fingers"
+      },
+      "after": "6e287d7862af7e89",
+      "id": "98a2358b78ab6517",
+      "date": 1479923271092
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "689f644c32e0e4bb"
+      },
+      "id": "689f644c32e0e4bb",
+      "type": "add",
+      "after": "98a2358b78ab6517",
+      "date": 1479923284857
+    },
+    {
+      "type": "edit",
+      "id": "689f644c32e0e4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "689f644c32e0e4bb",
+        "text": " (speech to text)"
+      },
+      "date": 1479923288333
+    },
+    {
+      "type": "move",
+      "order": [
+        "689f644c32e0e4bb",
+        "6d8c2c8504eae20a",
+        "6e287d7862af7e89",
+        "98a2358b78ab6517"
+      ],
+      "id": "689f644c32e0e4bb",
+      "date": 1479923289747
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f49ca6921d8995d"
+      },
+      "id": "7f49ca6921d8995d",
+      "type": "add",
+      "after": "98a2358b78ab6517",
+      "date": 1479923291064
+    },
+    {
+      "type": "edit",
+      "id": "7f49ca6921d8995d",
+      "item": {
+        "type": "pagefold",
+        "id": "7f49ca6921d8995d",
+        "text": "book jacket"
+      },
+      "date": 1479923295988
+    },
+    {
+      "type": "move",
+      "order": [
+        "689f644c32e0e4bb",
+        "7f49ca6921d8995d",
+        "6d8c2c8504eae20a",
+        "6e287d7862af7e89",
+        "98a2358b78ab6517"
+      ],
+      "id": "7f49ca6921d8995d",
+      "date": 1479923298226
+    }
+  ]
+}
