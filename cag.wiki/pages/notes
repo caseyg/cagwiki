@@ -1,0 +1,39 @@
+{
+  "title": "Notes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "142a84db5675d2a9",
+      "text": "[[Index cards]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Notes",
+        "story": []
+      },
+      "date": 1479959904685
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "142a84db5675d2a9"
+      },
+      "id": "142a84db5675d2a9",
+      "type": "add",
+      "date": 1479959905993
+    },
+    {
+      "type": "edit",
+      "id": "142a84db5675d2a9",
+      "item": {
+        "type": "paragraph",
+        "id": "142a84db5675d2a9",
+        "text": "[[Index cards]]"
+      },
+      "date": 1479959913129
+    }
+  ]
+}

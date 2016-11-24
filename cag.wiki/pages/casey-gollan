@@ -2,34 +2,9 @@
   "title": "Casey Gollan",
   "story": [
     {
-      "type": "pagefold",
-      "id": "5b2a0e043ccbf74c",
-      "text": "Practical links"
-    },
-    {
       "type": "markdown",
       "id": "75ddd0673c33c0bb",
       "text": "[http://caseyagollan.com website] [http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
-    },
-    {
-      "type": "pagefold",
-      "id": "c2d56504739cd3a1",
-      "text": "Pages"
-    },
-    {
-      "type": "paragraph",
-      "id": "04ce57a6415100c1",
-      "text": "[[Books]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "871575710406ed1d",
-      "text": "[[Words]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "51f54e54024c4d3a",
-      "text": "[[Files]]"
     }
   ],
   "journal": [
@@ -404,6 +379,31 @@
         "text": "[http://caseyagollan.com website] [http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
       },
       "date": 1479924404828
+    },
+    {
+      "type": "remove",
+      "id": "c2d56504739cd3a1",
+      "date": 1479958742523
+    },
+    {
+      "type": "remove",
+      "id": "51f54e54024c4d3a",
+      "date": 1479958744742
+    },
+    {
+      "type": "remove",
+      "id": "871575710406ed1d",
+      "date": 1479958746681
+    },
+    {
+      "type": "remove",
+      "id": "04ce57a6415100c1",
+      "date": 1479958748468
+    },
+    {
+      "type": "remove",
+      "id": "5b2a0e043ccbf74c",
+      "date": 1479958755457
     }
   ]
 }

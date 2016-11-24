@@ -2,9 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to CAG's [[Federated Wiki]] site!",
+      "text": "You've found CAG's [[Federated Wiki]] farm.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "ece82bf05c83c1e2",
+      "text": "NOTE: This is an ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
     },
     {
       "type": "pagefold",
@@ -20,12 +25,7 @@
     {
       "type": "pagefold",
       "id": "08cfde0d44acc465",
-      "text": "Starting pages"
-    },
-    {
-      "type": "paragraph",
-      "id": "2c54be814c872593",
-      "text": "[[Closing tabs]]"
+      "text": "Pages"
     },
     {
       "type": "paragraph",
@@ -38,9 +38,29 @@
       "text": "[[Tools]]"
     },
     {
+      "type": "paragraph",
+      "id": "2c54be814c872593",
+      "text": "[[Closing tabs]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3904814310e8f71e",
+      "text": "[[Notes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "db3f56bca4b32f89",
+      "text": "[[Projectfile]]"
+    },
+    {
       "type": "pagefold",
       "id": "6f79d9508fb6b8f7",
       "text": "Wiki stuff"
+    },
+    {
+      "type": "paragraph",
+      "id": "87eccaf5f52ebdfd",
+      "text": "[[CAG's Wikis]]"
     },
     {
       "type": "paragraph",
@@ -962,6 +982,280 @@
         "type": "paragraph"
       },
       "date": 1479952942401
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "Starting pages (in progress)"
+      },
+      "date": 1479953067736
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "You've found CAG's [[Federated Wiki]] site.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1479953082754
+    },
+    {
+      "type": "add",
+      "id": "1c286f94f2867b4c",
+      "item": {
+        "type": "paragraph",
+        "id": "1c286f94f2867b4c",
+        "text": "[[Recent Farm Activity]]"
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1479953527359
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "87eccaf5f52ebdfd",
+        "text": "[[CAG's Wikis]]"
+      },
+      "id": "87eccaf5f52ebdfd",
+      "type": "add",
+      "after": "1c286f94f2867b4c",
+      "date": 1479953621534
+    },
+    {
+      "type": "edit",
+      "id": "87eccaf5f52ebdfd",
+      "item": {
+        "type": "paragraph",
+        "id": "87eccaf5f52ebdfd",
+        "text": "[[CAG's Wikis]]"
+      },
+      "date": 1479953636078
+    },
+    {
+      "type": "edit",
+      "id": "87eccaf5f52ebdfd",
+      "item": {
+        "type": "paragraph",
+        "id": "87eccaf5f52ebdfd",
+        "text": "[[CAG's Wikis]]"
+      },
+      "date": 1479953643255
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "2c54be814c872593",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "6f79d9508fb6b8f7",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4",
+        "1c286f94f2867b4c",
+        "147a3aff0d128e50"
+      ],
+      "id": "87eccaf5f52ebdfd",
+      "date": 1479953645055,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1479953820893
+    },
+    {
+      "type": "remove",
+      "id": "1c286f94f2867b4c",
+      "date": 1479953917944
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "You've found CAG's [[Federated Wiki]] farm.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1479956593835
+    },
+    {
+      "type": "add",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "NOTE: This is an ~experimental server~! Expect data loss! Nothing gold can stay!"
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1479956684214
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "NOTE: This is an ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
+      },
+      "date": 1479956754064
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "480ca08bca87851f"
+      },
+      "id": "480ca08bca87851f",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1479957437580
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "see also"
+      },
+      "date": 1479957440981
+    },
+    {
+      "type": "remove",
+      "id": "480ca08bca87851f",
+      "date": 1479957444999
+    },
+    {
+      "type": "add",
+      "id": "3904814310e8f71e",
+      "item": {
+        "type": "paragraph",
+        "id": "3904814310e8f71e",
+        "text": "[[Notes]]"
+      },
+      "after": "a8ff1d4629deb381",
+      "date": 1479957658395
+    },
+    {
+      "type": "add",
+      "id": "db3f56bca4b32f89",
+      "item": {
+        "type": "paragraph",
+        "id": "db3f56bca4b32f89",
+        "text": "[[Projectfile"
+      },
+      "after": "3904814310e8f71e",
+      "date": 1479957666596
+    },
+    {
+      "type": "edit",
+      "id": "db3f56bca4b32f89",
+      "item": {
+        "type": "paragraph",
+        "id": "db3f56bca4b32f89",
+        "text": "[[Projectfile]]"
+      },
+      "date": 1479957668205
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "Pages"
+      },
+      "date": 1479957675719
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "2c54be814c872593",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "6f79d9508fb6b8f7",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "ef5863bf2a1c624a",
+      "date": 1479957687410
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "2c54be814c872593",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "6f79d9508fb6b8f7",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "a8ff1d4629deb381",
+      "date": 1479957689310
+    },
+    {
+      "type": "edit",
+      "id": "2c54be814c872593",
+      "item": {
+        "type": "paragraph",
+        "id": "2c54be814c872593",
+        "text": "[[]]"
+      },
+      "date": 1479957698929
+    },
+    {
+      "type": "edit",
+      "id": "2c54be814c872593",
+      "item": {
+        "type": "paragraph",
+        "id": "2c54be814c872593",
+        "text": "[[Closing tabs]]"
+      },
+      "date": 1479957706398
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "87473b0f9165b950"
+      },
+      "id": "87473b0f9165b950",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1479961619050
+    },
+    {
+      "type": "remove",
+      "id": "87473b0f9165b950",
+      "date": 1479961626258
     }
   ]
 }

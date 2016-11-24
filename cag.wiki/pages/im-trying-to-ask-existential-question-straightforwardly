@@ -1,0 +1,39 @@
+{
+  "title": "I'm trying to ask existential question straightforwardly",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3d2fff5351e42c6b",
+      "text": "(Dumbass.)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "I'm trying to ask existential question straightforwardly",
+        "story": []
+      },
+      "date": 1479960164644
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d2fff5351e42c6b"
+      },
+      "id": "3d2fff5351e42c6b",
+      "type": "add",
+      "date": 1479960166814
+    },
+    {
+      "type": "edit",
+      "id": "3d2fff5351e42c6b",
+      "item": {
+        "type": "paragraph",
+        "id": "3d2fff5351e42c6b",
+        "text": "(Dumbass.)"
+      },
+      "date": 1479960170439
+    }
+  ]
+}

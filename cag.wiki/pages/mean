@@ -1,0 +1,81 @@
+{
+  "title": "Mean",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8bc1455f0e87a377",
+      "text": "emotional"
+    },
+    {
+      "type": "paragraph",
+      "id": "18fbdb331ed1e457",
+      "text": "mathematical"
+    },
+    {
+      "type": "paragraph",
+      "id": "192f6549e16c1db9",
+      "text": "ontological (I still don't know what this word...[[mean]]s)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Mean",
+        "story": []
+      },
+      "date": 1479960093125
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8bc1455f0e87a377"
+      },
+      "id": "8bc1455f0e87a377",
+      "type": "add",
+      "date": 1479960095013
+    },
+    {
+      "type": "edit",
+      "id": "8bc1455f0e87a377",
+      "item": {
+        "type": "paragraph",
+        "id": "8bc1455f0e87a377",
+        "text": "emotional"
+      },
+      "date": 1479960099734
+    },
+    {
+      "type": "add",
+      "id": "18fbdb331ed1e457",
+      "item": {
+        "type": "paragraph",
+        "id": "18fbdb331ed1e457",
+        "text": "mathematical"
+      },
+      "after": "8bc1455f0e87a377",
+      "date": 1479960102497
+    },
+    {
+      "type": "add",
+      "id": "192f6549e16c1db9",
+      "item": {
+        "type": "paragraph",
+        "id": "192f6549e16c1db9",
+        "text": "ontological (I still don't know what this word...means)"
+      },
+      "after": "18fbdb331ed1e457",
+      "date": 1479960112238
+    },
+    {
+      "type": "edit",
+      "id": "192f6549e16c1db9",
+      "item": {
+        "type": "paragraph",
+        "id": "192f6549e16c1db9",
+        "text": "ontological (I still don't know what this word...[[mean]]s)"
+      },
+      "date": 1479961057883
+    }
+  ]
+}

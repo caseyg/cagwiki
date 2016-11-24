@@ -1,0 +1,39 @@
+{
+  "title": "information-action-ratio",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4c002259880cd836",
+      "text": "[[Amusing Ourselves to Death]], [[Neil Postman]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "information-action-ratio",
+        "story": []
+      },
+      "date": 1479962040788
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c002259880cd836"
+      },
+      "id": "4c002259880cd836",
+      "type": "add",
+      "date": 1479962043536
+    },
+    {
+      "type": "edit",
+      "id": "4c002259880cd836",
+      "item": {
+        "type": "paragraph",
+        "id": "4c002259880cd836",
+        "text": "[[Amusing Ourselves to Death]], [[Neil Postman]]"
+      },
+      "date": 1479962057349
+    }
+  ]
+}

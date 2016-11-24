@@ -1,0 +1,39 @@
+{
+  "title": "electric brain",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3205676ccff166b9",
+      "text": "\"Now every time I write a word I see it spun around by the electric brain.\" [[Italo Calvino]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "electric brain",
+        "story": []
+      },
+      "date": 1479961968754
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3205676ccff166b9"
+      },
+      "id": "3205676ccff166b9",
+      "type": "add",
+      "date": 1479961970466
+    },
+    {
+      "type": "edit",
+      "id": "3205676ccff166b9",
+      "item": {
+        "type": "paragraph",
+        "id": "3205676ccff166b9",
+        "text": "\"Now every time I write a word I see it spun around by the electric brain.\" [[Italo Calvino]]"
+      },
+      "date": 1479962011393
+    }
+  ]
+}

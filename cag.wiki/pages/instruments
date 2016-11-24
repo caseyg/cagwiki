@@ -4,7 +4,12 @@
     {
       "type": "paragraph",
       "id": "48f0575d45823a4c",
-      "text": "What's the difference between a tool an appliance and an instrument?"
+      "text": "Instruments. (Not [[tools]]!)"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a3af0be18aa90d7",
+      "text": "What...is...the difference between [[tools]], [[appliances]], and instruments?"
     }
   ],
   "journal": [
@@ -34,6 +39,77 @@
         "text": "What's the difference between a tool an appliance and an instrument?"
       },
       "date": 1479892761533
+    },
+    {
+      "type": "edit",
+      "id": "48f0575d45823a4c",
+      "item": {
+        "type": "paragraph",
+        "id": "48f0575d45823a4c",
+        "text": "What's the difference between a [[tools tool]] an [appliances appliance] and an instrument?"
+      },
+      "date": 1479960510781
+    },
+    {
+      "type": "edit",
+      "id": "48f0575d45823a4c",
+      "item": {
+        "type": "paragraph",
+        "id": "48f0575d45823a4c",
+        "text": "What's the difference between [[tools]], [[appliances]], and [[instruments]]?"
+      },
+      "date": 1479960537867
+    },
+    {
+      "type": "edit",
+      "id": "48f0575d45823a4c",
+      "item": {
+        "type": "paragraph",
+        "id": "48f0575d45823a4c",
+        "text": "What's the difference between [[tools]], [[appliances]], and instruments?"
+      },
+      "date": 1479960550065
+    },
+    {
+      "type": "edit",
+      "id": "48f0575d45823a4c",
+      "item": {
+        "type": "paragraph",
+        "id": "48f0575d45823a4c",
+        "text": "Instruments. (Not tools!)"
+      },
+      "date": 1479960980027
+    },
+    {
+      "type": "add",
+      "id": "0a3af0be18aa90d7",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3af0be18aa90d7",
+        "text": "What's the difference between [[tools]], [[appliances]], and instruments?"
+      },
+      "after": "48f0575d45823a4c",
+      "date": 1479960982401
+    },
+    {
+      "type": "edit",
+      "id": "48f0575d45823a4c",
+      "item": {
+        "type": "paragraph",
+        "id": "48f0575d45823a4c",
+        "text": "Instruments. (Not [[tools]]!)"
+      },
+      "date": 1479960987536
+    },
+    {
+      "type": "edit",
+      "id": "0a3af0be18aa90d7",
+      "item": {
+        "type": "paragraph",
+        "id": "0a3af0be18aa90d7",
+        "text": "What...is...the difference between [[tools]], [[appliances]], and instruments?"
+      },
+      "date": 1479960995991
     }
   ]
 }

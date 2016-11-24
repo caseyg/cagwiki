@@ -1,0 +1,493 @@
+{
+  "title": "Index cards",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "094e8c1e4d2ca3c2",
+      "text": "[[Bread (Play)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f008bf2c7391292",
+      "text": "[[Buster/Public]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef090b0ed4ee6e96",
+      "text": "[[Mean]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7e99fcdbcfb0a3ff",
+      "text": "[[I'm trying to ask existential question straightforwardly]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d8aa146db27492b3",
+      "text": "[[Leverage points]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a1e8475c0b737781",
+      "text": "[[Leading and lagging indicators]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6e60813579be133a",
+      "text": "[[Care]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0081a36783d03655",
+      "text": "[[Maintaining our collective clunker]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c6a8c82a6da83534",
+      "text": "[[Glass bead game]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b825a26ff75029d9",
+      "text": "[[Appliances]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5931c2f60b1e272e",
+      "text": "[[Instruments]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5d960ac0f4965714",
+      "text": "[[If I'm making progress it's slowest-ever]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6808ff6744f2dfe1",
+      "text": "[[Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "67b8b41f803d70fc",
+      "text": "[[MIT]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0403c927b9ed5c26",
+      "text": "[[Electric brain]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4787233d9b66b030",
+      "text": "[[Information-action ratio]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef99956ec9feff6c",
+      "text": "[[Vaporware]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a16fedc9b3263c75",
+      "text": "[[Premature optimization]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Index cards",
+        "story": []
+      },
+      "date": 1479959918243
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "094e8c1e4d2ca3c2"
+      },
+      "id": "094e8c1e4d2ca3c2",
+      "type": "add",
+      "date": 1479959919792
+    },
+    {
+      "type": "edit",
+      "id": "094e8c1e4d2ca3c2",
+      "item": {
+        "type": "paragraph",
+        "id": "094e8c1e4d2ca3c2",
+        "text": "[[Bread (Play)]]"
+      },
+      "date": 1479959927735
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f008bf2c7391292"
+      },
+      "id": "9f008bf2c7391292",
+      "type": "add",
+      "after": "094e8c1e4d2ca3c2",
+      "date": 1479960060260
+    },
+    {
+      "type": "edit",
+      "id": "9f008bf2c7391292",
+      "item": {
+        "type": "paragraph",
+        "id": "9f008bf2c7391292",
+        "text": "[[Buster/Public]]"
+      },
+      "date": 1479960075050
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef090b0ed4ee6e96"
+      },
+      "id": "ef090b0ed4ee6e96",
+      "type": "add",
+      "after": "9f008bf2c7391292",
+      "date": 1479960085974
+    },
+    {
+      "type": "edit",
+      "id": "ef090b0ed4ee6e96",
+      "item": {
+        "type": "paragraph",
+        "id": "ef090b0ed4ee6e96",
+        "text": "[[Mean]]"
+      },
+      "date": 1479960090587
+    },
+    {
+      "type": "edit",
+      "id": "ef090b0ed4ee6e96",
+      "item": {
+        "type": "paragraph",
+        "id": "ef090b0ed4ee6e96",
+        "text": "[[mean]]"
+      },
+      "date": 1479960120499
+    },
+    {
+      "type": "edit",
+      "id": "ef090b0ed4ee6e96",
+      "item": {
+        "type": "paragraph",
+        "id": "ef090b0ed4ee6e96",
+        "text": "[[Mean]]"
+      },
+      "date": 1479960127172
+    },
+    {
+      "type": "add",
+      "id": "7e99fcdbcfb0a3ff",
+      "item": {
+        "type": "paragraph",
+        "id": "7e99fcdbcfb0a3ff",
+        "text": "[[I'm trying to ask existential question straightforwardly]]"
+      },
+      "after": "ef090b0ed4ee6e96",
+      "date": 1479960162175
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d8aa146db27492b3"
+      },
+      "id": "d8aa146db27492b3",
+      "type": "add",
+      "after": "7e99fcdbcfb0a3ff",
+      "date": 1479960176551
+    },
+    {
+      "type": "edit",
+      "id": "d8aa146db27492b3",
+      "item": {
+        "type": "paragraph",
+        "id": "d8aa146db27492b3",
+        "text": "[[Leverage points]]"
+      },
+      "date": 1479960184230
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1e8475c0b737781"
+      },
+      "id": "a1e8475c0b737781",
+      "type": "add",
+      "after": "d8aa146db27492b3",
+      "date": 1479960225635
+    },
+    {
+      "type": "edit",
+      "id": "a1e8475c0b737781",
+      "item": {
+        "type": "paragraph",
+        "id": "a1e8475c0b737781",
+        "text": "Leading and lagging indicators"
+      },
+      "date": 1479960234873
+    },
+    {
+      "type": "edit",
+      "id": "a1e8475c0b737781",
+      "item": {
+        "type": "paragraph",
+        "id": "a1e8475c0b737781",
+        "text": "[[Leading and lagging indicators]]"
+      },
+      "date": 1479960239476
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e60813579be133a"
+      },
+      "id": "6e60813579be133a",
+      "type": "add",
+      "after": "a1e8475c0b737781",
+      "date": 1479960256020
+    },
+    {
+      "type": "edit",
+      "id": "6e60813579be133a",
+      "item": {
+        "type": "paragraph",
+        "id": "6e60813579be133a",
+        "text": "[[Care]]"
+      },
+      "date": 1479960261171
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0081a36783d03655"
+      },
+      "id": "0081a36783d03655",
+      "type": "add",
+      "after": "6e60813579be133a",
+      "date": 1479960310940
+    },
+    {
+      "type": "edit",
+      "id": "0081a36783d03655",
+      "item": {
+        "type": "paragraph",
+        "id": "0081a36783d03655",
+        "text": "[[Maintaining our collective clunker]]"
+      },
+      "date": 1479960329947
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c6a8c82a6da83534"
+      },
+      "id": "c6a8c82a6da83534",
+      "type": "add",
+      "after": "0081a36783d03655",
+      "date": 1479960376020
+    },
+    {
+      "type": "edit",
+      "id": "c6a8c82a6da83534",
+      "item": {
+        "type": "paragraph",
+        "id": "c6a8c82a6da83534",
+        "text": "[[Glass bead game]]"
+      },
+      "date": 1479960382714
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b825a26ff75029d9"
+      },
+      "id": "b825a26ff75029d9",
+      "type": "add",
+      "after": "c6a8c82a6da83534",
+      "date": 1479960420831
+    },
+    {
+      "type": "edit",
+      "id": "b825a26ff75029d9",
+      "item": {
+        "type": "paragraph",
+        "id": "b825a26ff75029d9",
+        "text": "[[Appliances]]"
+      },
+      "date": 1479960428303
+    },
+    {
+      "type": "add",
+      "id": "5931c2f60b1e272e",
+      "item": {
+        "type": "paragraph",
+        "id": "5931c2f60b1e272e",
+        "text": "[[Instruments]]"
+      },
+      "after": "b825a26ff75029d9",
+      "date": 1479960973328
+    },
+    {
+      "type": "add",
+      "id": "5d960ac0f4965714",
+      "item": {
+        "type": "paragraph",
+        "id": "5d960ac0f4965714",
+        "text": "[[If I'm making progress it's slowest-ever"
+      },
+      "after": "5931c2f60b1e272e",
+      "date": 1479961033634
+    },
+    {
+      "type": "edit",
+      "id": "5d960ac0f4965714",
+      "item": {
+        "type": "paragraph",
+        "id": "5d960ac0f4965714",
+        "text": "[[If I'm making progress it's slowest-ever]]"
+      },
+      "date": 1479961035057
+    },
+    {
+      "type": "add",
+      "id": "6808ff6744f2dfe1",
+      "item": {
+        "type": "paragraph",
+        "id": "6808ff6744f2dfe1",
+        "text": "[[Wiki"
+      },
+      "after": "5d960ac0f4965714",
+      "date": 1479961082949
+    },
+    {
+      "type": "edit",
+      "id": "6808ff6744f2dfe1",
+      "item": {
+        "type": "paragraph",
+        "id": "6808ff6744f2dfe1",
+        "text": "[[Wiki]]"
+      },
+      "date": 1479961084714
+    },
+    {
+      "type": "add",
+      "id": "67b8b41f803d70fc",
+      "item": {
+        "type": "paragraph",
+        "id": "67b8b41f803d70fc",
+        "text": "[[MIT]]"
+      },
+      "after": "6808ff6744f2dfe1",
+      "date": 1479961898920
+    },
+    {
+      "type": "add",
+      "id": "0403c927b9ed5c26",
+      "item": {
+        "type": "paragraph",
+        "id": "0403c927b9ed5c26",
+        "text": "[[electric brain]]"
+      },
+      "after": "67b8b41f803d70fc",
+      "date": 1479961958335
+    },
+    {
+      "type": "edit",
+      "id": "0403c927b9ed5c26",
+      "item": {
+        "type": "paragraph",
+        "id": "0403c927b9ed5c26",
+        "text": "[[Electric brain]]"
+      },
+      "date": 1479961962585
+    },
+    {
+      "type": "edit",
+      "id": "0403c927b9ed5c26",
+      "item": {
+        "type": "paragraph",
+        "id": "0403c927b9ed5c26",
+        "text": "[[electric brain]]"
+      },
+      "date": 1479961966513
+    },
+    {
+      "type": "add",
+      "id": "4787233d9b66b030",
+      "item": {
+        "type": "paragraph",
+        "id": "4787233d9b66b030",
+        "text": "[[information-action ratio]]"
+      },
+      "after": "0403c927b9ed5c26",
+      "date": 1479962033129
+    },
+    {
+      "type": "add",
+      "id": "ef99956ec9feff6c",
+      "item": {
+        "type": "paragraph",
+        "id": "ef99956ec9feff6c",
+        "text": "vaporware"
+      },
+      "after": "4787233d9b66b030",
+      "date": 1479962074828
+    },
+    {
+      "type": "edit",
+      "id": "ef99956ec9feff6c",
+      "item": {
+        "type": "paragraph",
+        "id": "ef99956ec9feff6c",
+        "text": "[[vaporware]]"
+      },
+      "date": 1479962079713
+    },
+    {
+      "type": "edit",
+      "id": "ef99956ec9feff6c",
+      "item": {
+        "type": "paragraph",
+        "id": "ef99956ec9feff6c",
+        "text": "[[Vaporware]]"
+      },
+      "date": 1479962123711
+    },
+    {
+      "type": "edit",
+      "id": "4787233d9b66b030",
+      "item": {
+        "type": "paragraph",
+        "id": "4787233d9b66b030",
+        "text": "[[Information-action ratio]]"
+      },
+      "date": 1479962130224
+    },
+    {
+      "type": "edit",
+      "id": "0403c927b9ed5c26",
+      "item": {
+        "type": "paragraph",
+        "id": "0403c927b9ed5c26",
+        "text": "[[Electric brain]]"
+      },
+      "date": 1479962132669
+    },
+    {
+      "type": "add",
+      "id": "a16fedc9b3263c75",
+      "item": {
+        "type": "paragraph",
+        "id": "a16fedc9b3263c75",
+        "text": "[[Premature optimization]]"
+      },
+      "after": "ef99956ec9feff6c",
+      "date": 1479962146946
+    }
+  ]
+}

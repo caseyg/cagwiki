@@ -1,0 +1,39 @@
+{
+  "title": "Leading and lagging indicators",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5cbfafa37590293f",
+      "text": "buffers, delays"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Leading and lagging indicators",
+        "story": []
+      },
+      "date": 1479960242015
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5cbfafa37590293f"
+      },
+      "id": "5cbfafa37590293f",
+      "type": "add",
+      "date": 1479960243486
+    },
+    {
+      "type": "edit",
+      "id": "5cbfafa37590293f",
+      "item": {
+        "type": "paragraph",
+        "id": "5cbfafa37590293f",
+        "text": "buffers, delays"
+      },
+      "date": 1479960247335
+    }
+  ]
+}

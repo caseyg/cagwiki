@@ -1,0 +1,55 @@
+{
+  "title": "Glass bead game",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a71ed2bc9e090490",
+      "text": "playing all of culture in a chess-like monastic larp?!"
+    },
+    {
+      "type": "paragraph",
+      "id": "307b4244823a3140",
+      "text": "end of civilization, huh?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Glass bead game",
+        "story": []
+      },
+      "date": 1479960384965
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a71ed2bc9e090490"
+      },
+      "id": "a71ed2bc9e090490",
+      "type": "add",
+      "date": 1479960386401
+    },
+    {
+      "type": "edit",
+      "id": "a71ed2bc9e090490",
+      "item": {
+        "type": "paragraph",
+        "id": "a71ed2bc9e090490",
+        "text": "playing all of culture in a chess-like monastic larp?!"
+      },
+      "date": 1479960402258
+    },
+    {
+      "type": "add",
+      "id": "307b4244823a3140",
+      "item": {
+        "type": "paragraph",
+        "id": "307b4244823a3140",
+        "text": "end of civilization, huh?"
+      },
+      "after": "a71ed2bc9e090490",
+      "date": 1479960407659
+    }
+  ]
+}

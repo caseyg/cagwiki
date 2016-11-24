@@ -1,0 +1,196 @@
+{
+  "title": "Projectfile",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "556077c89e6948a5",
+      "text": "tools"
+    },
+    {
+      "type": "paragraph",
+      "id": "a91c3fbcb7565320",
+      "text": "tag plumbing\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f353a2c7ff3bbe79",
+      "text": "canvas post-prezi\nfigma\nedges of images\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0c8247c4b2c56303",
+      "text": "livescribe\nintercept\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "2d6fc099eae530a3",
+      "text": "image management\nmaybe guardian grid"
+    },
+    {
+      "type": "paragraph",
+      "id": "16450767c0c22d0d",
+      "text": "@commonplace_bot\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d9a3a86335f424c1",
+      "text": "commonplacebook\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0081b88bd32e185e",
+      "text": "caggledocs"
+    },
+    {
+      "type": "paragraph",
+      "id": "0e04499a85c778e7",
+      "text": "platforms\ntools for 1 person, other people, probably not lots of people tho\ngroup annotation overlay\ndiscourse/as a blog?\ndiscourse flux conversations not working\nwriting\nregular writing, weekly, daily, etc\nemailing people nonlogistically\n[[bread (play)]] lol\nrevisit\nsystems\nslideshow club\nuser generated content\npost-admin\ncar registration hacker bribe\nprojects wiki thoughts\ntwitter rants\nbot death\ngary questions\ngroup writing\nauthorless\nrotational\nvideo\nnawmal/plotagon/valve3d\nget a windows comp\nlogging\npoprs\nconversations\nedited\ntalkshow.im lol ugh but hm\npublications\nnonstop book\nreview of books\nvic tc\nregular lowstakes stuff\nwebsites\nfinish researching web presence years\nbooks to borrow or get (easy to add to? staticman?)\nlink to highlights\nnonstop website 2.0\nblock party documentation\nnon fb invites/microsite\nbroadly conceive of a way to not be on fb\nrecaps and plans\n6 months\nyear projection\nvlc\nkp\nshadow conglomerate"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Projectfile",
+        "story": []
+      },
+      "date": 1479957737680
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "556077c89e6948a5"
+      },
+      "id": "556077c89e6948a5",
+      "type": "add",
+      "date": 1479957739374
+    },
+    {
+      "type": "edit",
+      "id": "556077c89e6948a5",
+      "item": {
+        "type": "pagefold",
+        "id": "556077c89e6948a5",
+        "text": "tools"
+      },
+      "date": 1479957772581
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a91c3fbcb7565320"
+      },
+      "id": "a91c3fbcb7565320",
+      "type": "add",
+      "after": "556077c89e6948a5",
+      "date": 1479957774240
+    },
+    {
+      "type": "edit",
+      "id": "a91c3fbcb7565320",
+      "item": {
+        "type": "paragraph",
+        "id": "a91c3fbcb7565320",
+        "text": "tag plumbing\n"
+      },
+      "date": 1479957780985
+    },
+    {
+      "type": "add",
+      "id": "f353a2c7ff3bbe79",
+      "item": {
+        "type": "paragraph",
+        "id": "f353a2c7ff3bbe79",
+        "text": "canvas post-prezi\nfigma\nedges of images\n"
+      },
+      "after": "a91c3fbcb7565320",
+      "date": 1479957784394
+    },
+    {
+      "type": "add",
+      "id": "0c8247c4b2c56303",
+      "item": {
+        "type": "paragraph",
+        "id": "0c8247c4b2c56303",
+        "text": "livescribe\nintercept\n"
+      },
+      "after": "f353a2c7ff3bbe79",
+      "date": 1479957786531
+    },
+    {
+      "type": "add",
+      "id": "2d6fc099eae530a3",
+      "item": {
+        "type": "paragraph",
+        "id": "2d6fc099eae530a3",
+        "text": "image management\nmaybe guardian grid\ncw offered to help\n"
+      },
+      "after": "0c8247c4b2c56303",
+      "date": 1479957788781
+    },
+    {
+      "type": "add",
+      "id": "16450767c0c22d0d",
+      "item": {
+        "type": "paragraph",
+        "id": "16450767c0c22d0d",
+        "text": "@commonplace_bot\n"
+      },
+      "after": "2d6fc099eae530a3",
+      "date": 1479957791391
+    },
+    {
+      "type": "add",
+      "id": "d9a3a86335f424c1",
+      "item": {
+        "type": "paragraph",
+        "id": "d9a3a86335f424c1",
+        "text": "commonplacebook\n"
+      },
+      "after": "16450767c0c22d0d",
+      "date": 1479957791751
+    },
+    {
+      "type": "add",
+      "id": "0081b88bd32e185e",
+      "item": {
+        "type": "paragraph",
+        "id": "0081b88bd32e185e",
+        "text": "caggledocs"
+      },
+      "after": "d9a3a86335f424c1",
+      "date": 1479957793247
+    },
+    {
+      "type": "add",
+      "id": "0e04499a85c778e7",
+      "item": {
+        "type": "paragraph",
+        "id": "0e04499a85c778e7",
+        "text": "platforms\ntools for 1 person, other people, probably not lots of people tho\ngroup annotation overlay\ndiscourse/as a blog?\ndiscourse flux conversations not working\nwriting\nregular writing, weekly, daily, etc\nemailing people nonlogistically\nbread play lol\nrevisit\nsystems\nslideshow club\nuser generated content\npost-admin\ncar registration hacker bribe\nprojects wiki thoughts\ntwitter rants\nbot death\ngary questions\ngroup writing\nauthorless\nrotational\nvideo\nnawmal/plotagon/valve3d\nget a windows comp\nlogging\npoprs\nconversations\nedited\ntalkshow.im lol ugh but hm\npublications\nnonstop book\nreview of books\nvic tc\nregular lowstakes stuff\nwebsites\nfinish researching web presence years\nbooks to borrow or get (easy to add to? staticman?)\nlink to highlights\nnonstop website 2.0\nblock party documentation\nnon fb invites/microsite\nbroadly conceive of a way to not be on fb\nrecaps and plans\n6 months\nyear projection\nvlc\nkp\nshadow conglomerate"
+      },
+      "after": "0081b88bd32e185e",
+      "date": 1479957814520
+    },
+    {
+      "type": "edit",
+      "id": "2d6fc099eae530a3",
+      "item": {
+        "type": "paragraph",
+        "id": "2d6fc099eae530a3",
+        "text": "image management\nmaybe guardian grid"
+      },
+      "date": 1479958627402
+    },
+    {
+      "type": "edit",
+      "id": "0e04499a85c778e7",
+      "item": {
+        "type": "paragraph",
+        "id": "0e04499a85c778e7",
+        "text": "platforms\ntools for 1 person, other people, probably not lots of people tho\ngroup annotation overlay\ndiscourse/as a blog?\ndiscourse flux conversations not working\nwriting\nregular writing, weekly, daily, etc\nemailing people nonlogistically\n[[bread (play)]] lol\nrevisit\nsystems\nslideshow club\nuser generated content\npost-admin\ncar registration hacker bribe\nprojects wiki thoughts\ntwitter rants\nbot death\ngary questions\ngroup writing\nauthorless\nrotational\nvideo\nnawmal/plotagon/valve3d\nget a windows comp\nlogging\npoprs\nconversations\nedited\ntalkshow.im lol ugh but hm\npublications\nnonstop book\nreview of books\nvic tc\nregular lowstakes stuff\nwebsites\nfinish researching web presence years\nbooks to borrow or get (easy to add to? staticman?)\nlink to highlights\nnonstop website 2.0\nblock party documentation\nnon fb invites/microsite\nbroadly conceive of a way to not be on fb\nrecaps and plans\n6 months\nyear projection\nvlc\nkp\nshadow conglomerate"
+      },
+      "date": 1479961170065
+    }
+  ]
+}

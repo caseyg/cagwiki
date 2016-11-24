@@ -1,12 +1,6 @@
 {
   "title": "Closing tabs",
-  "story": [
-    {
-      "type": "paragraph",
-      "id": "2e11a3f6a5ef10e7",
-      "text": "[[A Pattern Language]]"
-    }
-  ],
+  "story": [],
   "journal": [
     {
       "type": "create",
@@ -160,6 +154,11 @@
         "text": "[[A Pattern Language]]"
       },
       "date": 1479923279074
+    },
+    {
+      "type": "remove",
+      "id": "2e11a3f6a5ef10e7",
+      "date": 1479957203247
     }
   ]
 }

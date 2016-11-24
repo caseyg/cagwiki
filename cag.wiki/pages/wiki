@@ -1,0 +1,39 @@
+{
+  "title": "Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9ba5ffc24171ea86",
+      "text": "The wiki is a mix of content and meta content. Its form is itself a kind of content."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki",
+        "story": []
+      },
+      "date": 1479961087270
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9ba5ffc24171ea86"
+      },
+      "id": "9ba5ffc24171ea86",
+      "type": "add",
+      "date": 1479961088640
+    },
+    {
+      "type": "edit",
+      "id": "9ba5ffc24171ea86",
+      "item": {
+        "type": "paragraph",
+        "id": "9ba5ffc24171ea86",
+        "text": "The wiki is a mix of content and meta content. Its form is itself a kind of content."
+      },
+      "date": 1479961103309
+    }
+  ]
+}

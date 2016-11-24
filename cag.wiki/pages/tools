@@ -4,7 +4,7 @@
     {
       "type": "pagefold",
       "id": "a7d60867b6218800",
-      "text": "Related concepts"
+      "text": "Related concepts?"
     },
     {
       "type": "paragraph",
@@ -14,17 +14,47 @@
     {
       "type": "paragraph",
       "id": "d837ea7481df28d5",
-      "text": "[[Appliance]]"
+      "text": "[[Appliances]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "49157618bce84007",
+      "text": "[[Systems]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4243e634b2ad6ae7",
+      "text": "[[Glue]] [[Tape]] [[Pipes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ca89f8629c35e62",
+      "text": "[[Games]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f4b0eb3753b6fe32",
+      "text": "[[Band-aids]] [[Jerry-rigging]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6f097ecafaa442fa",
+      "text": "[[Workflows]]"
     },
     {
       "type": "pagefold",
-      "id": "449e3f4dc4d58207",
-      "text": "To check out"
+      "id": "fd92b66ac0caf01c",
+      "text": "Tools I use"
     },
     {
       "type": "paragraph",
       "id": "1c394ba91d7a4735",
       "text": "[[Federated Wiki]] [https://github.com/fedwiki/wiki github]"
+    },
+    {
+      "type": "pagefold",
+      "id": "449e3f4dc4d58207",
+      "text": "To check out"
     },
     {
       "type": "paragraph",
@@ -40,11 +70,6 @@
       "type": "paragraph",
       "id": "440d0992a5108cd3",
       "text": "Bytebeat (built into FW) [http://canonical.org/~kragen/bytebeat/ website] and Glitch [http://naivesound.com/glitch website]"
-    },
-    {
-      "type": "pagefold",
-      "id": "fd92b66ac0caf01c",
-      "text": "Tools I use"
     }
   ],
   "journal": [
@@ -536,6 +561,145 @@
     {
       "type": "fork",
       "date": 1479930840421
+    },
+    {
+      "type": "add",
+      "id": "49157618bce84007",
+      "item": {
+        "type": "paragraph",
+        "id": "49157618bce84007",
+        "text": "[[Systems]]"
+      },
+      "after": "d837ea7481df28d5",
+      "date": 1479957520415
+    },
+    {
+      "type": "add",
+      "id": "4243e634b2ad6ae7",
+      "item": {
+        "type": "paragraph",
+        "id": "4243e634b2ad6ae7",
+        "text": "[[Glue]] [[Tape]] [[Pipes]] [[Band-aids]]"
+      },
+      "after": "49157618bce84007",
+      "date": 1479957555087
+    },
+    {
+      "type": "move",
+      "order": [
+        "a7d60867b6218800",
+        "badb53566a21a8e5",
+        "d837ea7481df28d5",
+        "49157618bce84007",
+        "4243e634b2ad6ae7",
+        "449e3f4dc4d58207",
+        "4206d3ffc0498b8a",
+        "00604f19092f8bd7",
+        "440d0992a5108cd3",
+        "fd92b66ac0caf01c",
+        "1c394ba91d7a4735"
+      ],
+      "id": "1c394ba91d7a4735",
+      "date": 1479957570703
+    },
+    {
+      "type": "move",
+      "order": [
+        "a7d60867b6218800",
+        "badb53566a21a8e5",
+        "d837ea7481df28d5",
+        "49157618bce84007",
+        "4243e634b2ad6ae7",
+        "fd92b66ac0caf01c",
+        "449e3f4dc4d58207",
+        "4206d3ffc0498b8a",
+        "00604f19092f8bd7",
+        "440d0992a5108cd3",
+        "1c394ba91d7a4735"
+      ],
+      "id": "fd92b66ac0caf01c",
+      "date": 1479957579039
+    },
+    {
+      "type": "move",
+      "order": [
+        "a7d60867b6218800",
+        "badb53566a21a8e5",
+        "d837ea7481df28d5",
+        "49157618bce84007",
+        "4243e634b2ad6ae7",
+        "fd92b66ac0caf01c",
+        "1c394ba91d7a4735",
+        "449e3f4dc4d58207",
+        "4206d3ffc0498b8a",
+        "00604f19092f8bd7",
+        "440d0992a5108cd3"
+      ],
+      "id": "1c394ba91d7a4735",
+      "date": 1479957581649
+    },
+    {
+      "type": "add",
+      "id": "4ca89f8629c35e62",
+      "item": {
+        "type": "paragraph",
+        "id": "4ca89f8629c35e62",
+        "text": "[[Games]]"
+      },
+      "after": "4243e634b2ad6ae7",
+      "date": 1479958555976
+    },
+    {
+      "type": "edit",
+      "id": "a7d60867b6218800",
+      "item": {
+        "type": "pagefold",
+        "id": "a7d60867b6218800",
+        "text": "Related concepts?"
+      },
+      "date": 1479958559239
+    },
+    {
+      "type": "edit",
+      "id": "d837ea7481df28d5",
+      "item": {
+        "type": "paragraph",
+        "id": "d837ea7481df28d5",
+        "text": "[[Appliances]]"
+      },
+      "date": 1479958562006
+    },
+    {
+      "type": "edit",
+      "id": "4243e634b2ad6ae7",
+      "item": {
+        "type": "paragraph",
+        "id": "4243e634b2ad6ae7",
+        "text": "[[Glue]] [[Tape]] [[Pipes]]"
+      },
+      "date": 1479958569037
+    },
+    {
+      "type": "add",
+      "id": "f4b0eb3753b6fe32",
+      "item": {
+        "type": "paragraph",
+        "id": "f4b0eb3753b6fe32",
+        "text": "[[Band-aids]] [[Jerry-rigging]]"
+      },
+      "after": "4ca89f8629c35e62",
+      "date": 1479958580185
+    },
+    {
+      "type": "add",
+      "id": "6f097ecafaa442fa",
+      "item": {
+        "type": "paragraph",
+        "id": "6f097ecafaa442fa",
+        "text": "[[Workflows]]"
+      },
+      "after": "f4b0eb3753b6fe32",
+      "date": 1479958583661
     }
   ]
 }

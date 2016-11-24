@@ -1,0 +1,39 @@
+{
+  "title": "Premature optimization",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cd97bf8a57bee68d",
+      "text": "\"Premature optimization is the [[root of all evil]].\" [[Donald Knuth]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Premature optimization",
+        "story": []
+      },
+      "date": 1479962149392
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd97bf8a57bee68d"
+      },
+      "id": "cd97bf8a57bee68d",
+      "type": "add",
+      "date": 1479962150920
+    },
+    {
+      "type": "edit",
+      "id": "cd97bf8a57bee68d",
+      "item": {
+        "type": "paragraph",
+        "id": "cd97bf8a57bee68d",
+        "text": "\"Premature optimization is the [[root of all evil]].\" [[Donald Knuth]]"
+      },
+      "date": 1479962175050
+    }
+  ]
+}

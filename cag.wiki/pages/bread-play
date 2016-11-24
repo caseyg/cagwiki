@@ -1,0 +1,39 @@
+{
+  "title": "Bread (Play)",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ab7be9c4a5aaab1c",
+      "text": "Just [[work]] in a [[bakery]] on a street, in a town,"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Bread (Play)",
+        "story": []
+      },
+      "date": 1479960008355
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab7be9c4a5aaab1c"
+      },
+      "id": "ab7be9c4a5aaab1c",
+      "type": "add",
+      "date": 1479960009746
+    },
+    {
+      "type": "edit",
+      "id": "ab7be9c4a5aaab1c",
+      "item": {
+        "type": "paragraph",
+        "id": "ab7be9c4a5aaab1c",
+        "text": "Just [[work]] in a [[bakery]] on a street, in a town,"
+      },
+      "date": 1479960025268
+    }
+  ]
+}
