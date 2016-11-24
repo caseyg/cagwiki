@@ -1,0 +1,81 @@
+{
+  "title": "Ornery",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0758d4a3abf6287e",
+      "text": "Where I used to be so ornery (that's how Judy described me), I'm trying to be like a rock in streams. Duck water. "
+    },
+    {
+      "type": "paragraph",
+      "id": "56228684976f3391",
+      "text": "But what was left unresolved is still there."
+    },
+    {
+      "type": "paragraph",
+      "id": "c1f986f4b141dc0a",
+      "text": "[[Orrery]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ornery",
+        "story": []
+      },
+      "date": 1479969052727
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0758d4a3abf6287e"
+      },
+      "id": "0758d4a3abf6287e",
+      "type": "add",
+      "date": 1479969054794
+    },
+    {
+      "type": "edit",
+      "id": "0758d4a3abf6287e",
+      "item": {
+        "type": "paragraph",
+        "id": "0758d4a3abf6287e",
+        "text": "Where I used to be so ornery (that's how Judy described me), I'm trying to be like a rock in streams. Duck water. "
+      },
+      "date": 1479969089738
+    },
+    {
+      "type": "add",
+      "id": "56228684976f3391",
+      "item": {
+        "type": "paragraph",
+        "id": "56228684976f3391",
+        "text": "But what was left unresolved is still there."
+      },
+      "after": "0758d4a3abf6287e",
+      "date": 1479969090774
+    },
+    {
+      "type": "add",
+      "id": "c1f986f4b141dc0a",
+      "item": {
+        "type": "paragraph",
+        "id": "c1f986f4b141dc0a",
+        "text": "[["
+      },
+      "after": "56228684976f3391",
+      "date": 1479969104581
+    },
+    {
+      "type": "edit",
+      "id": "c1f986f4b141dc0a",
+      "item": {
+        "type": "paragraph",
+        "id": "c1f986f4b141dc0a",
+        "text": "[[Orrery]]"
+      },
+      "date": 1479969106332
+    }
+  ]
+}

@@ -90,6 +90,101 @@
       "type": "paragraph",
       "id": "a16fedc9b3263c75",
       "text": "[[Premature optimization]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "de2692085bfe3fe1",
+      "text": "[[Not fear of death!]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c7f116a0e8abc9f9",
+      "text": "[[Mapping maps you]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c2a9394e09a5d5e6",
+      "text": "[[What is a system?]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "414affd1581b533d",
+      "text": "[[What isn't a system?]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c0d9e344e9f2dc6",
+      "text": "[[Universal law of retroactive advice]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b52b592829f536fa",
+      "text": "[[Gjovernance]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "710db4ccbb4c31cc",
+      "text": "[[Hypertext]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9ca97925c2d5caeb",
+      "text": "[[A better pen]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0731e830d1bf2a42",
+      "text": "[[I want to]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf08d793bb83f02d",
+      "text": "[[Living archive]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f44c9107da5f2ac6",
+      "text": "[[Arch archive day]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ccc621b204a5404b",
+      "text": "[[Haven't spoken about data since I was much younger]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "88cc843b28e6971f",
+      "text": "[[Sand garden]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f6eed99edb3661a1",
+      "text": "[[Technological metaphors]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "89bb9c063054a288",
+      "text": "[[Can communication escape embodiment?]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "be31d4d14cfce8d6",
+      "text": "[[Communication (is literally just a) theory!]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "66301a80c3c538cf",
+      "text": "[[Ornery]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fbb97617e11bd8dd",
+      "text": "[[Not integration]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0c30e9e1f3ffabed",
+      "text": "[[There's got to be a way to move through it]]"
     }
   ],
   "journal": [
@@ -488,6 +583,331 @@
       },
       "after": "ef99956ec9feff6c",
       "date": 1479962146946
+    },
+    {
+      "type": "add",
+      "id": "de2692085bfe3fe1",
+      "item": {
+        "type": "paragraph",
+        "id": "de2692085bfe3fe1",
+        "text": "[[Not fear of death!]]"
+      },
+      "after": "a16fedc9b3263c75",
+      "date": 1479962818823
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c7f116a0e8abc9f9"
+      },
+      "id": "c7f116a0e8abc9f9",
+      "type": "add",
+      "after": "de2692085bfe3fe1",
+      "date": 1479967481058
+    },
+    {
+      "type": "edit",
+      "id": "c7f116a0e8abc9f9",
+      "item": {
+        "type": "paragraph",
+        "id": "c7f116a0e8abc9f9",
+        "text": "[[Mapping maps you]]"
+      },
+      "date": 1479967508877
+    },
+    {
+      "type": "add",
+      "id": "414affd1581b533d",
+      "item": {
+        "type": "paragraph",
+        "id": "414affd1581b533d",
+        "text": "[[What isn't a system?]]"
+      },
+      "after": "c7f116a0e8abc9f9",
+      "date": 1479967563626
+    },
+    {
+      "type": "add",
+      "id": "3c0d9e344e9f2dc6",
+      "item": {
+        "type": "paragraph",
+        "id": "3c0d9e344e9f2dc6",
+        "text": "[[Universal law of retroactive advice]]"
+      },
+      "after": "414affd1581b533d",
+      "date": 1479967598672
+    },
+    {
+      "type": "add",
+      "id": "c2a9394e09a5d5e6",
+      "item": {
+        "type": "paragraph",
+        "id": "c2a9394e09a5d5e6",
+        "text": "What is a system?"
+      },
+      "after": "c7f116a0e8abc9f9",
+      "date": 1479967613466
+    },
+    {
+      "type": "edit",
+      "id": "c2a9394e09a5d5e6",
+      "item": {
+        "type": "paragraph",
+        "id": "c2a9394e09a5d5e6",
+        "text": "[[What is a system?]]"
+      },
+      "date": 1479967617586
+    },
+    {
+      "type": "add",
+      "id": "b52b592829f536fa",
+      "item": {
+        "type": "paragraph",
+        "id": "b52b592829f536fa",
+        "text": "[[Gjovernance]]"
+      },
+      "after": "3c0d9e344e9f2dc6",
+      "date": 1479967653785
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "710db4ccbb4c31cc"
+      },
+      "id": "710db4ccbb4c31cc",
+      "type": "add",
+      "after": "b52b592829f536fa",
+      "date": 1479967676853
+    },
+    {
+      "type": "edit",
+      "id": "710db4ccbb4c31cc",
+      "item": {
+        "type": "paragraph",
+        "id": "710db4ccbb4c31cc",
+        "text": "[[Hypertext]]"
+      },
+      "date": 1479967687406
+    },
+    {
+      "type": "add",
+      "id": "9ca97925c2d5caeb",
+      "item": {
+        "type": "paragraph",
+        "id": "9ca97925c2d5caeb",
+        "text": "[[A better pen]]"
+      },
+      "after": "710db4ccbb4c31cc",
+      "date": 1479967735277
+    },
+    {
+      "type": "add",
+      "id": "0731e830d1bf2a42",
+      "item": {
+        "type": "paragraph",
+        "id": "0731e830d1bf2a42",
+        "text": "[[I want to]]"
+      },
+      "after": "9ca97925c2d5caeb",
+      "date": 1479967821862
+    },
+    {
+      "type": "add",
+      "id": "bf08d793bb83f02d",
+      "item": {
+        "type": "paragraph",
+        "id": "bf08d793bb83f02d",
+        "text": "[[Living archive]]"
+      },
+      "after": "0731e830d1bf2a42",
+      "date": 1479968691584
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f44c9107da5f2ac6"
+      },
+      "id": "f44c9107da5f2ac6",
+      "type": "add",
+      "after": "bf08d793bb83f02d",
+      "date": 1479968712839
+    },
+    {
+      "type": "edit",
+      "id": "f44c9107da5f2ac6",
+      "item": {
+        "type": "paragraph",
+        "id": "f44c9107da5f2ac6",
+        "text": "[[Arch archive day]]"
+      },
+      "date": 1479968718072
+    },
+    {
+      "type": "add",
+      "id": "ccc621b204a5404b",
+      "item": {
+        "type": "paragraph",
+        "id": "ccc621b204a5404b",
+        "text": "[[Haven't spoken about data since I was much younger]]"
+      },
+      "after": "f44c9107da5f2ac6",
+      "date": 1479968745355
+    },
+    {
+      "type": "add",
+      "id": "88cc843b28e6971f",
+      "item": {
+        "type": "paragraph",
+        "id": "88cc843b28e6971f",
+        "text": "Sand garden"
+      },
+      "after": "ccc621b204a5404b",
+      "date": 1479968807032
+    },
+    {
+      "type": "edit",
+      "id": "88cc843b28e6971f",
+      "item": {
+        "type": "paragraph",
+        "id": "88cc843b28e6971f",
+        "text": "[[Sand garden]]"
+      },
+      "date": 1479968811629
+    },
+    {
+      "type": "add",
+      "id": "f6eed99edb3661a1",
+      "item": {
+        "type": "paragraph",
+        "id": "f6eed99edb3661a1",
+        "text": "[[Technological metaphors"
+      },
+      "after": "88cc843b28e6971f",
+      "date": 1479968914036
+    },
+    {
+      "type": "edit",
+      "id": "f6eed99edb3661a1",
+      "item": {
+        "type": "paragraph",
+        "id": "f6eed99edb3661a1",
+        "text": "[[Technological metaphors]]"
+      },
+      "date": 1479968916128
+    },
+    {
+      "type": "add",
+      "id": "89bb9c063054a288",
+      "item": {
+        "type": "paragraph",
+        "id": "89bb9c063054a288",
+        "text": "[[Can communication escape embodiment?]]"
+      },
+      "after": "f6eed99edb3661a1",
+      "date": 1479968971414
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be31d4d14cfce8d6"
+      },
+      "id": "be31d4d14cfce8d6",
+      "type": "add",
+      "after": "89bb9c063054a288",
+      "date": 1479968982612
+    },
+    {
+      "type": "edit",
+      "id": "be31d4d14cfce8d6",
+      "item": {
+        "type": "paragraph",
+        "id": "be31d4d14cfce8d6",
+        "text": "Communication (is literally just a) theory"
+      },
+      "date": 1479968997091
+    },
+    {
+      "type": "edit",
+      "id": "be31d4d14cfce8d6",
+      "item": {
+        "type": "paragraph",
+        "id": "be31d4d14cfce8d6",
+        "text": "[[Communication (is literally just a) theory!]]"
+      },
+      "date": 1479969002988
+    },
+    {
+      "type": "add",
+      "id": "66301a80c3c538cf",
+      "item": {
+        "type": "paragraph",
+        "id": "66301a80c3c538cf",
+        "text": "[["
+      },
+      "after": "be31d4d14cfce8d6",
+      "date": 1479969047326
+    },
+    {
+      "type": "edit",
+      "id": "66301a80c3c538cf",
+      "item": {
+        "type": "paragraph",
+        "id": "66301a80c3c538cf",
+        "text": "[[Ornery]]"
+      },
+      "date": 1479969049693
+    },
+    {
+      "type": "add",
+      "id": "fbb97617e11bd8dd",
+      "item": {
+        "type": "paragraph",
+        "id": "fbb97617e11bd8dd",
+        "text": "Not integration"
+      },
+      "after": "66301a80c3c538cf",
+      "date": 1479969121046
+    },
+    {
+      "type": "edit",
+      "id": "fbb97617e11bd8dd",
+      "item": {
+        "type": "paragraph",
+        "id": "fbb97617e11bd8dd",
+        "text": "[["
+      },
+      "date": 1479969125662
+    },
+    {
+      "type": "edit",
+      "id": "fbb97617e11bd8dd",
+      "item": {
+        "type": "paragraph",
+        "id": "fbb97617e11bd8dd",
+        "text": "[[Not integration]]"
+      },
+      "date": 1479969126817
+    },
+    {
+      "type": "add",
+      "id": "0c30e9e1f3ffabed",
+      "item": {
+        "type": "paragraph",
+        "id": "0c30e9e1f3ffabed",
+        "text": "[[There's got to be a way to move through it"
+      },
+      "after": "fbb97617e11bd8dd",
+      "date": 1479969191741
+    },
+    {
+      "type": "edit",
+      "id": "0c30e9e1f3ffabed",
+      "item": {
+        "type": "paragraph",
+        "id": "0c30e9e1f3ffabed",
+        "text": "[[There's got to be a way to move through it]]"
+      },
+      "date": 1479969193319
     }
   ]
 }

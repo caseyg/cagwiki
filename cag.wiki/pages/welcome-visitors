@@ -25,7 +25,7 @@
     {
       "type": "pagefold",
       "id": "08cfde0d44acc465",
-      "text": "Pages"
+      "text": "Collections?"
     },
     {
       "type": "paragraph",
@@ -53,9 +53,19 @@
       "text": "[[Projectfile]]"
     },
     {
+      "type": "paragraph",
+      "id": "beb56681fe2a64da",
+      "text": "[[Lyrics]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e26b116da592400",
+      "text": "[[Things]]"
+    },
+    {
       "type": "pagefold",
       "id": "6f79d9508fb6b8f7",
-      "text": "Wiki stuff"
+      "text": "Wiki meta"
     },
     {
       "type": "paragraph",
@@ -1256,6 +1266,58 @@
       "type": "remove",
       "id": "87473b0f9165b950",
       "date": 1479961626258
+    },
+    {
+      "type": "add",
+      "id": "beb56681fe2a64da",
+      "item": {
+        "type": "paragraph",
+        "id": "beb56681fe2a64da",
+        "text": "[[Lyrics]]"
+      },
+      "after": "db3f56bca4b32f89",
+      "date": 1479963164644
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "Collections"
+      },
+      "date": 1479963667755
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "Collections?"
+      },
+      "date": 1479964352643
+    },
+    {
+      "type": "edit",
+      "id": "6f79d9508fb6b8f7",
+      "item": {
+        "type": "pagefold",
+        "id": "6f79d9508fb6b8f7",
+        "text": "Wiki meta"
+      },
+      "date": 1479964367661
+    },
+    {
+      "type": "add",
+      "id": "9e26b116da592400",
+      "item": {
+        "type": "paragraph",
+        "id": "9e26b116da592400",
+        "text": "[[Things]]"
+      },
+      "after": "beb56681fe2a64da",
+      "date": 1479965106588
     }
   ]
 }

@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "142a84db5675d2a9",
       "text": "[[Index cards]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "19c2c7af270cbfc3",
+      "text": "[[Notebooks]]"
     }
   ],
   "journal": [
@@ -34,6 +39,17 @@
         "text": "[[Index cards]]"
       },
       "date": 1479959913129
+    },
+    {
+      "type": "add",
+      "id": "19c2c7af270cbfc3",
+      "item": {
+        "type": "paragraph",
+        "id": "19c2c7af270cbfc3",
+        "text": "[[Notebooks]]"
+      },
+      "after": "142a84db5675d2a9",
+      "date": 1479964955830
     }
   ]
 }

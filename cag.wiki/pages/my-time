@@ -1,0 +1,113 @@
+{
+  "title": "My Time",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e25ea71d81bf9432",
+      "text": "[[Ann Steel]]"
+    },
+    {
+      "type": "markdown",
+      "id": "b90e98761226f7ce",
+      "text": "Stored on the shelves of my memory\nmy thoughts are in perfect array\n  \nMy life runs smooth like a highway\nbillboards show me the way\n  \nMy way of life has the glamour\nof an artificial neon ad\n  \nI need overwhelming information\nfor a complete shopping list\n  \nAcrylic colours oscillate my eyes\nwhen I wal down a drugstore aisle\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nStored on the shelves of my memory\nmy thoughts are in perfect array\n  \nI learn do it yourself cybernetics\nwhile I'm jogging on a rolling tray\n  \nI love my weekends in the pure air\non the heights of the Eiffel tower\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nMy life runs smooth like a highway\nbillboards show me the way\n  \nMy love stories have the flavour\nof a swiss made digital watch\n  \nWhen I have to know what to love\nI recall my stored data\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nMy thoughts are still like a photo\nin the hall of a Hilton Hotel\n  \nMy reflex actions are mechanized\nlike japanese camera tourists\n  \nhappily milling in Bloomingdales\nshooting at beautiful symbols\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time"
+    },
+    {
+      "type": "paragraph",
+      "id": "629d97c82b2ed3d0",
+      "text": "[http://log31.tripod.com/text/poesie/annsteel.htm Source]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "My Time",
+        "story": []
+      },
+      "date": 1479963536524
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b90e98761226f7ce"
+      },
+      "id": "b90e98761226f7ce",
+      "type": "add",
+      "date": 1479963537666
+    },
+    {
+      "type": "edit",
+      "id": "b90e98761226f7ce",
+      "item": {
+        "type": "markdown",
+        "id": "b90e98761226f7ce",
+        "text": "Stored on the shelves of my memory\nmy thoughts are in perfect array\n  \nMy life runs smooth like a highway\nbillboards show me the way\n  \nMy way of life has the glamour\nof an artificial neon ad\n  \nI need overwhelming information\nfor a complete shopping list\n  \nAcrylic colours oscillate my eyes\nwhen I wal down a drugstore aisle\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nStored on the shelves of my memory\nmy thoughts are in perfect array\n  \nI learn do it yourself cybernetics\nwhile I'm jogging on a rolling tray\n  \nI love my weekends in the pure air\non the heights of the Eiffel tower\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nMy life runs smooth like a highway\nbillboards show me the way\n  \nMy love stories have the flavour\nof a swiss made digital watch\n  \nWhen I have to know what to love\nI recall my stored data\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nMy thoughts are still like a photo\nin the hall of a Hilton Hotel\n  \nMy reflex actions are mechanized\nlike japanese camera tourists\n  \nhappily milling in Bloomingdales\nshooting at beautiful symbols\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time"
+      },
+      "date": 1479963565519
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e25ea71d81bf9432"
+      },
+      "id": "e25ea71d81bf9432",
+      "type": "add",
+      "after": "b90e98761226f7ce",
+      "date": 1479963568522
+    },
+    {
+      "type": "edit",
+      "id": "e25ea71d81bf9432",
+      "item": {
+        "type": "paragraph",
+        "id": "e25ea71d81bf9432",
+        "text": "[[Ann Steel]]"
+      },
+      "date": 1479963572860
+    },
+    {
+      "type": "move",
+      "order": [
+        "e25ea71d81bf9432",
+        "b90e98761226f7ce"
+      ],
+      "id": "e25ea71d81bf9432",
+      "date": 1479963576129
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae733a39833a8142"
+      },
+      "id": "ae733a39833a8142",
+      "type": "add",
+      "after": "b90e98761226f7ce",
+      "date": 1479963587944
+    },
+    {
+      "type": "remove",
+      "id": "ae733a39833a8142",
+      "date": 1479963589143
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "629d97c82b2ed3d0"
+      },
+      "id": "629d97c82b2ed3d0",
+      "type": "add",
+      "after": "b90e98761226f7ce",
+      "date": 1479963595311
+    },
+    {
+      "type": "edit",
+      "id": "629d97c82b2ed3d0",
+      "item": {
+        "type": "paragraph",
+        "id": "629d97c82b2ed3d0",
+        "text": "[http://log31.tripod.com/text/poesie/annsteel.htm Source]"
+      },
+      "date": 1479963612393
+    }
+  ]
+}

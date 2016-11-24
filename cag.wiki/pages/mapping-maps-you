@@ -1,0 +1,39 @@
+{
+  "title": "Mapping maps you",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e2acf37bc2713349",
+      "text": "\"When you map, you're being mapped.\" [[Wendy Chun]] (paraphrasing?)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Mapping maps you",
+        "story": []
+      },
+      "date": 1479967511807
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e2acf37bc2713349"
+      },
+      "id": "e2acf37bc2713349",
+      "type": "add",
+      "date": 1479967513399
+    },
+    {
+      "type": "edit",
+      "id": "e2acf37bc2713349",
+      "item": {
+        "type": "paragraph",
+        "id": "e2acf37bc2713349",
+        "text": "\"When you map, you're being mapped.\" [[Wendy Chun]] (paraphrasing?)"
+      },
+      "date": 1479967528983
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Notebooks",
+  "story": [
+    {
+      "type": "factory",
+      "id": "debdb02f522803ee"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Notebooks",
+        "story": []
+      },
+      "date": 1479964995110
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "debdb02f522803ee"
+      },
+      "id": "debdb02f522803ee",
+      "type": "add",
+      "date": 1479964996025
+    }
+  ]
+}

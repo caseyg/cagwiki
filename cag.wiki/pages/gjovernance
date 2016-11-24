@@ -1,0 +1,49 @@
+{
+  "title": "Gjovernance",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dff045fcfa1d3d86",
+      "text": "A [[system]]-[[tool]]?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Gjovernance",
+        "story": []
+      },
+      "date": 1479967655842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dff045fcfa1d3d86"
+      },
+      "id": "dff045fcfa1d3d86",
+      "type": "add",
+      "date": 1479967657224
+    },
+    {
+      "type": "edit",
+      "id": "dff045fcfa1d3d86",
+      "item": {
+        "type": "paragraph",
+        "id": "dff045fcfa1d3d86",
+        "text": "A system-tool?"
+      },
+      "date": 1479967661419
+    },
+    {
+      "type": "edit",
+      "id": "dff045fcfa1d3d86",
+      "item": {
+        "type": "paragraph",
+        "id": "dff045fcfa1d3d86",
+        "text": "A [[system]]-[[tool]]?"
+      },
+      "date": 1479967669502
+    }
+  ]
+}

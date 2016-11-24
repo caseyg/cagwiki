@@ -1,0 +1,55 @@
+{
+  "title": "A better pen",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b0f41c04d21f02fb",
+      "text": "will not make a better writer. That it would, that's the dream, right?"
+    },
+    {
+      "type": "paragraph",
+      "id": "2ff99662eb1be5b5",
+      "text": "To think that better wiring could eliminate the ghosts!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "A better pen",
+        "story": []
+      },
+      "date": 1479967775767
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0f41c04d21f02fb"
+      },
+      "id": "b0f41c04d21f02fb",
+      "type": "add",
+      "date": 1479967777185
+    },
+    {
+      "type": "edit",
+      "id": "b0f41c04d21f02fb",
+      "item": {
+        "type": "paragraph",
+        "id": "b0f41c04d21f02fb",
+        "text": "will not make a better writer. That it would, that's the dream, right?"
+      },
+      "date": 1479967793855
+    },
+    {
+      "type": "add",
+      "id": "2ff99662eb1be5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "2ff99662eb1be5b5",
+        "text": "To think that better wiring could eliminate the ghosts!"
+      },
+      "after": "b0f41c04d21f02fb",
+      "date": 1479967806259
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Technological metaphors",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e3fa1b7dfb36ce31",
+      "text": "Why is a mind a series of transmitters, signals? And not, like, a cake?"
+    },
+    {
+      "type": "paragraph",
+      "id": "e94ddb2441b492ad",
+      "text": "Why was it a steam engine and not, like, a bottle of wine or a glass of milk or a droplet of rain?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Technological metaphors",
+        "story": []
+      },
+      "date": 1479968918855
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e3fa1b7dfb36ce31"
+      },
+      "id": "e3fa1b7dfb36ce31",
+      "type": "add",
+      "date": 1479968920114
+    },
+    {
+      "type": "edit",
+      "id": "e3fa1b7dfb36ce31",
+      "item": {
+        "type": "paragraph",
+        "id": "e3fa1b7dfb36ce31",
+        "text": "Why is a mind a series of transmitters, signals? And not, like, a cake?"
+      },
+      "date": 1479968935369
+    },
+    {
+      "type": "add",
+      "id": "e94ddb2441b492ad",
+      "item": {
+        "type": "paragraph",
+        "id": "e94ddb2441b492ad",
+        "text": "Why was it a steam engine and not, like, a bottle of wine or a glass of milk or a droplet of rain?"
+      },
+      "after": "e3fa1b7dfb36ce31",
+      "date": 1479968955573
+    }
+  ]
+}
