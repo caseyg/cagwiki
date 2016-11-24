@@ -10,3 +10,4 @@ status/owner.json
 .ssh/
 .sudo_as_admin_successful
 .wiki/
+owner.json
