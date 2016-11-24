@@ -1,0 +1,133 @@
+{
+  "title": "Games",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "01d5777669ca500b",
+      "text": "[[Homo Ludens]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9425e9695c2bb9df",
+      "text": "The [[Glass Bead Game]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7527f3f6133f0762",
+      "text": "[[Nordic LARP]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "74e998a6bc5359b5",
+      "text": "[[The Sims]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Games",
+        "story": []
+      },
+      "date": 1479969844963
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "01d5777669ca500b"
+      },
+      "id": "01d5777669ca500b",
+      "type": "add",
+      "date": 1479969846116
+    },
+    {
+      "type": "edit",
+      "id": "01d5777669ca500b",
+      "item": {
+        "type": "paragraph",
+        "id": "01d5777669ca500b",
+        "text": "[[Homo Ludens]]"
+      },
+      "date": 1479969855945
+    },
+    {
+      "type": "add",
+      "id": "9425e9695c2bb9df",
+      "item": {
+        "type": "paragraph",
+        "id": "9425e9695c2bb9df",
+        "text": "The [[Glass Bead Game]]"
+      },
+      "after": "01d5777669ca500b",
+      "date": 1479969863714
+    },
+    {
+      "type": "add",
+      "id": "b5e589de73f22d00",
+      "item": {
+        "type": "paragraph",
+        "id": "b5e589de73f22d00",
+        "text": "Nordic LARP"
+      },
+      "after": "9425e9695c2bb9df",
+      "date": 1479969880120
+    },
+    {
+      "type": "add",
+      "id": "74e998a6bc5359b5",
+      "item": {
+        "type": "paragraph",
+        "id": "74e998a6bc5359b5",
+        "text": "The Sims"
+      },
+      "after": "b5e589de73f22d00",
+      "date": 1479969881703
+    },
+    {
+      "type": "edit",
+      "id": "b5e589de73f22d00",
+      "item": {
+        "type": "paragraph",
+        "id": "b5e589de73f22d00",
+        "text": "Nordic LARP]]"
+      },
+      "date": 1479969888111
+    },
+    {
+      "type": "add",
+      "id": "7527f3f6133f0762",
+      "item": {
+        "type": "paragraph",
+        "id": "7527f3f6133f0762",
+        "text": "[["
+      },
+      "after": "9425e9695c2bb9df",
+      "date": 1479969891627
+    },
+    {
+      "type": "remove",
+      "id": "b5e589de73f22d00",
+      "date": 1479969894109
+    },
+    {
+      "type": "edit",
+      "id": "7527f3f6133f0762",
+      "item": {
+        "type": "paragraph",
+        "id": "7527f3f6133f0762",
+        "text": "[[Nordic LARP]]"
+      },
+      "date": 1479969895419
+    },
+    {
+      "type": "edit",
+      "id": "74e998a6bc5359b5",
+      "item": {
+        "type": "paragraph",
+        "id": "74e998a6bc5359b5",
+        "text": "[[The Sims]]"
+      },
+      "date": 1479969899043
+    }
+  ]
+}
