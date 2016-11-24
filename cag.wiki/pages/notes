@@ -10,6 +10,10 @@
       "type": "paragraph",
       "id": "19c2c7af270cbfc3",
       "text": "[[Notebooks]]"
+    },
+    {
+      "type": "factory",
+      "id": "b293d5da1366c54e"
     }
   ],
   "journal": [
@@ -50,6 +54,16 @@
       },
       "after": "142a84db5675d2a9",
       "date": 1479964955830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b293d5da1366c54e"
+      },
+      "id": "b293d5da1366c54e",
+      "type": "add",
+      "after": "19c2c7af270cbfc3",
+      "date": 1479969311215
     }
   ]
 }
