@@ -2,14 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to CAG's [[Federated Wiki]] site. From this page you can find who I am and what I do.",
+      "text": "Welcome to CAG's [[Federated Wiki]] site!",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
-      "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "About me:"
+      "type": "pagefold",
+      "id": "83c772dc3b1bd0bb",
+      "text": "About me"
     },
     {
       "type": "paragraph",
@@ -18,9 +18,9 @@
       "text": "[[Casey Gollan]] "
     },
     {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages:"
+      "type": "pagefold",
+      "id": "08cfde0d44acc465",
+      "text": "Starting pages"
     },
     {
       "type": "paragraph",
@@ -38,6 +38,11 @@
       "text": "[[Tools]]"
     },
     {
+      "type": "pagefold",
+      "id": "6f79d9508fb6b8f7",
+      "text": "Wiki stuff"
+    },
+    {
       "type": "paragraph",
       "id": "6186185fcfef5ce6",
       "text": "[[Neighborhood]]"
@@ -50,7 +55,7 @@
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "text": "[[How to Wiki]]"
     }
   ],
   "journal": [
@@ -792,6 +797,171 @@
         "type": "paragraph"
       },
       "date": 1479946645104
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3000",
+      "date": 1479952845024
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "[[How to Wiki]]"
+      },
+      "date": 1479952877466
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "83c772dc3b1bd0bb"
+      },
+      "id": "83c772dc3b1bd0bb",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1479952879202
+    },
+    {
+      "type": "edit",
+      "id": "83c772dc3b1bd0bb",
+      "item": {
+        "type": "pagefold",
+        "id": "83c772dc3b1bd0bb",
+        "text": "About me"
+      },
+      "date": 1479952886196
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "2c54be814c872593",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "83c772dc3b1bd0bb",
+      "date": 1479952887974
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1479952891967
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1479952894678
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08cfde0d44acc465"
+      },
+      "id": "08cfde0d44acc465",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1479952895998
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "Starting pages"
+      },
+      "date": 1479952916739
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "83c772dc3b1bd0bb",
+        "08cfde0d44acc465",
+        "63ad2e58eecdd9e5",
+        "2c54be814c872593",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "08cfde0d44acc465",
+      "date": 1479952918439
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "2c54be814c872593",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "08cfde0d44acc465",
+      "date": 1479952919788
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f79d9508fb6b8f7"
+      },
+      "id": "6f79d9508fb6b8f7",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1479952923684
+    },
+    {
+      "type": "edit",
+      "id": "6f79d9508fb6b8f7",
+      "item": {
+        "type": "pagefold",
+        "id": "6f79d9508fb6b8f7",
+        "text": "Wiki stuff"
+      },
+      "date": 1479952929947
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "2c54be814c872593",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "6f79d9508fb6b8f7",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "6f79d9508fb6b8f7",
+      "date": 1479952931758
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to CAG's [[Federated Wiki]] site!",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1479952942401
     }
   ]
 }
