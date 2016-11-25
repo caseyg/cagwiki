@@ -2,6 +2,11 @@
   "title": "Wiki meta",
   "story": [
     {
+      "type": "paragraph",
+      "id": "ea2df13dda899267",
+      "text": "Handy symbols: ✔ done, • also, ✘ fail, ★ favorite."
+    },
+    {
       "type": "reference",
       "id": "ff3e31e0ebfed02b",
       "site": "cag.wiki",
@@ -72,6 +77,30 @@
       "slug": "configuring-wiki-security-passportjs",
       "title": "Configuring Wiki-Security-Passportjs",
       "text": "Configuring each OAuth provider requires two steps: i) regestering our wiki installation, as an app, with the OAuth provider, and ii) configuring Federated Wiki to use the shared secrets created."
+    },
+    {
+      "type": "reference",
+      "id": "6bd3e08f911f1fca",
+      "site": "admin.asia.wiki.org",
+      "slug": "farm-roster-script",
+      "title": "Farm Roster Script",
+      "text": "This is a shell command that will print a list of non-empty sites in a farm. Copy its output to a new roster to see the activity in these sites."
+    },
+    {
+      "type": "reference",
+      "id": "0ad737b35cc21541",
+      "site": "fedwiki.org",
+      "slug": "json-schema",
+      "title": "JSON Schema",
+      "text": "Here we describe the JSON Schema for a [[Wiki Page]], that is the [[Wiki Page JSON]] that [[Fedwiki Page]]s are built out of. You can see this JSON for any particular page by selecting the JSON link at the bottom of the page."
+    },
+    {
+      "type": "reference",
+      "id": "6f97b18b5666ed3b",
+      "site": "ward.fed.wiki.org",
+      "slug": "first-write-who--what",
+      "title": "First Write Who & What",
+      "text": "New sites are born with a single page that encourages the creation of two more, who and what. Here I reflect on the wisdom of that guidance."
     },
     {
       "type": "pagefold",
@@ -482,6 +511,148 @@
       "type": "remove",
       "id": "7ceeb5917b15c43d",
       "date": 1480030964703
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6bd3e08f911f1fca"
+      },
+      "id": "6bd3e08f911f1fca",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480041585359
+    },
+    {
+      "type": "edit",
+      "id": "6bd3e08f911f1fca",
+      "item": {
+        "type": "reference",
+        "id": "6bd3e08f911f1fca",
+        "site": "admin.asia.wiki.org",
+        "slug": "farm-roster-script",
+        "title": "Farm Roster Script",
+        "text": "This is a shell command that will print a list of non-empty sites in a farm. Copy its output to a new roster to see the activity in these sites."
+      },
+      "date": 1480041588273
+    },
+    {
+      "type": "move",
+      "order": [
+        "ff3e31e0ebfed02b",
+        "3306c48249b479d2",
+        "c6fe957104a75ca9",
+        "32bb31fdb69cdd8f",
+        "7f58b23de81fca34",
+        "e66de5bd8f9f20c8",
+        "3e9f54a598b0f35f",
+        "31b85617809dc00c",
+        "f4f1255d5475b87f",
+        "6bd3e08f911f1fca",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "6bd3e08f911f1fca",
+      "date": 1480041591720
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ad737b35cc21541"
+      },
+      "id": "0ad737b35cc21541",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480041796882
+    },
+    {
+      "type": "edit",
+      "id": "0ad737b35cc21541",
+      "item": {
+        "type": "reference",
+        "id": "0ad737b35cc21541",
+        "site": "fedwiki.org",
+        "slug": "json-schema",
+        "title": "JSON Schema",
+        "text": "Here we describe the JSON Schema for a [[Wiki Page]], that is the [[Wiki Page JSON]] that [[Fedwiki Page]]s are built out of. You can see this JSON for any particular page by selecting the JSON link at the bottom of the page."
+      },
+      "date": 1480041800990
+    },
+    {
+      "type": "move",
+      "order": [
+        "ff3e31e0ebfed02b",
+        "3306c48249b479d2",
+        "c6fe957104a75ca9",
+        "32bb31fdb69cdd8f",
+        "7f58b23de81fca34",
+        "e66de5bd8f9f20c8",
+        "3e9f54a598b0f35f",
+        "31b85617809dc00c",
+        "f4f1255d5475b87f",
+        "6bd3e08f911f1fca",
+        "0ad737b35cc21541",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "0ad737b35cc21541",
+      "date": 1480041804448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f97b18b5666ed3b"
+      },
+      "id": "6f97b18b5666ed3b",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480041845508
+    },
+    {
+      "type": "edit",
+      "id": "6f97b18b5666ed3b",
+      "item": {
+        "type": "reference",
+        "id": "6f97b18b5666ed3b",
+        "site": "ward.fed.wiki.org",
+        "slug": "first-write-who--what",
+        "title": "First Write Who & What",
+        "text": "New sites are born with a single page that encourages the creation of two more, who and what. Here I reflect on the wisdom of that guidance."
+      },
+      "date": 1480041847828
+    },
+    {
+      "type": "move",
+      "order": [
+        "ff3e31e0ebfed02b",
+        "3306c48249b479d2",
+        "c6fe957104a75ca9",
+        "32bb31fdb69cdd8f",
+        "7f58b23de81fca34",
+        "e66de5bd8f9f20c8",
+        "3e9f54a598b0f35f",
+        "31b85617809dc00c",
+        "f4f1255d5475b87f",
+        "6bd3e08f911f1fca",
+        "0ad737b35cc21541",
+        "6f97b18b5666ed3b",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "6f97b18b5666ed3b",
+      "date": 1480041849777
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ea2df13dda899267",
+        "text": "Handy symbols: ✔ done, • also, ✘ fail, ★ favorite."
+      },
+      "id": "ea2df13dda899267",
+      "date": 1480041914783
     }
   ]
 }

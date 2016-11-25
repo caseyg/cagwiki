@@ -500,6 +500,22 @@
         "text": "[http://caseyagollan.com homepage]"
       },
       "date": 1480015500731
+    },
+    {
+      "type": "add",
+      "id": "933a02ec855f04f1",
+      "item": {
+        "type": "paragraph",
+        "id": "933a02ec855f04f1",
+        "text": "test"
+      },
+      "after": "7ed134afa25ff19c",
+      "date": 1480039549801
+    },
+    {
+      "type": "remove",
+      "id": "933a02ec855f04f1",
+      "date": 1480039553945
     }
   ]
 }

@@ -2,32 +2,9 @@
   "title": "CAG's Wikis",
   "story": [
     {
-      "type": "reference",
-      "id": "1767c73a37468ab3",
-      "site": "cag.wiki",
-      "slug": "welcome-visitors",
-      "title": "Welcome Visitors",
-      "text": "You've found CAG's [[Federated Wiki]] site."
-    },
-    {
-      "type": "reference",
-      "id": "d056935daafc269f",
-      "site": "projects.cag.wiki",
-      "slug": "welcome-visitors",
-      "title": "Welcome Visitors",
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
-    },
-    {
-      "type": "reference",
-      "id": "50818a63b1178396",
-      "site": "test.cag.wiki",
-      "slug": "welcome-visitors",
-      "title": "Welcome Visitors",
-      "text": "Welcome to this TEST [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this infdasasdasormat??ion and then claim the site as their own. You will need your ownasdasdsa site to participate. test.asd"
-    },
-    {
-      "type": "factory",
-      "id": "69073fbc33447465"
+      "type": "roster",
+      "id": "99a1869b080c5b5c",
+      "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\nlocalhost:3000\nlocal\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
     }
   ],
   "journal": [
@@ -126,6 +103,318 @@
       "type": "add",
       "after": "50818a63b1178396",
       "date": 1479955684724
+    },
+    {
+      "type": "remove",
+      "id": "d056935daafc269f",
+      "date": 1480040357478
+    },
+    {
+      "type": "edit",
+      "id": "69073fbc33447465",
+      "item": {
+        "type": "reference",
+        "id": "69073fbc33447465",
+        "site": "projects.cag.wiki",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "Testing page on the projects wiki."
+      },
+      "date": 1480040364999
+    },
+    {
+      "type": "move",
+      "order": [
+        "1767c73a37468ab3",
+        "69073fbc33447465",
+        "50818a63b1178396"
+      ],
+      "id": "69073fbc33447465",
+      "date": 1480040379693
+    },
+    {
+      "type": "fork",
+      "site": "cag.wiki"
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "Main\n\ncag.wiki\n\nProjects\n\nprojects.cag.wiki\n\nTest\n\ntest.cag.wiki"
+      },
+      "id": "99a1869b080c5b5c",
+      "date": 1480040891507
+    },
+    {
+      "type": "fork",
+      "site": "projects.cag.wiki",
+      "date": 1480040914226
+    },
+    {
+      "type": "remove",
+      "id": "1767c73a37468ab3",
+      "date": 1480040945181
+    },
+    {
+      "type": "remove",
+      "id": "69073fbc33447465",
+      "date": 1480040950673
+    },
+    {
+      "type": "remove",
+      "id": "50818a63b1178396",
+      "date": 1480040952800
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\ncag.wiki\n\nProjects\n\nprojects.cag.wiki\n\nTest\n\ntest.cag.wiki"
+      },
+      "date": 1480040956463
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "\"cag.wiki\"\n\ncag.wiki\n\nProjects\n\nprojects.cag.wiki\n\nTest\n\ntest.cag.wiki"
+      },
+      "date": 1480040967604
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\nProjects\n\nprojects.cag.wiki\n\nTest\n\ntest.cag.wiki"
+      },
+      "date": 1480040970732
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\n\nProjects\n\nprojects.cag.wiki\n\nTest\n\ntest.cag.wiki"
+      },
+      "date": 1480040973249
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\n\nProjects\n\nprojects.cag.wiki\n\n\nTest\n\ntest.cag.wiki"
+      },
+      "date": 1480040975741
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\n\nProjects:\n\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki"
+      },
+      "date": 1480040985423
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\n\nProjects:\n\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480040995270
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\n\nProjects:\n\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480040999708
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\n\nProjects:\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480041121692
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\n\n\nProjects\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480041124482
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "CAG cag.wiki\n\n\nProjects\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480041128181
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "CAG cag.wiki\n\nProjects\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480041130808
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag cag.wiki\n\nProjects\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480041139837
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "Cag cag.wiki\n\nProjects\nprojects.cag.wiki\n\n\nTesting:\n\ntest.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480041142396
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "Cag cag.wiki\n\nProjects\nprojects.cag.wiki\n\n\nTesting test.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480041148612
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "CAG\ncag.wiki\n\nProjects\nprojects.cag.wiki\n\nTesting\ntest.cag.wiki\n\n\nLocal: \n\nlocalhost:3000"
+      },
+      "date": 1480041158175
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "CAG\ncag.wiki\n\nProjects\nprojects.cag.wiki\n\nTesting\ntest.cag.wiki\n\nLocal\nlocalhost:3000"
+      },
+      "date": 1480041165128
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nProjects\nprojects.cag.wiki\n\nTesting\ntest.cag.wiki\n\nLocal\nlocalhost:3000"
+      },
+      "date": 1480041174049
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nProjects\n\ntest.cag.wiki\nTesting\n\nlocalhost:3000Local\n"
+      },
+      "date": 1480041181998
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\nlocalhost:3000\nlocal"
+      },
+      "date": 1480041197207
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\nlocalhost:3000\nlocal\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480041240059
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4dfa1772aca795d3"
+      },
+      "id": "4dfa1772aca795d3",
+      "type": "add",
+      "after": "99a1869b080c5b5c",
+      "date": 1480041271923
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\nlocalhost:3000\nlocal\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480042861566
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d43800f10cdcfc78"
+      },
+      "id": "d43800f10cdcfc78",
+      "type": "add",
+      "after": "4dfa1772aca795d3",
+      "date": 1480042872875
+    },
+    {
+      "type": "remove",
+      "id": "4dfa1772aca795d3",
+      "date": 1480042878221
+    },
+    {
+      "type": "remove",
+      "id": "d43800f10cdcfc78",
+      "date": 1480042879168
     }
   ]
 }

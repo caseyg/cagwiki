@@ -20,6 +20,26 @@
       "type": "paragraph",
       "id": "695c0bca5a34f47e",
       "text": "Local edit."
+    },
+    {
+      "type": "paragraph",
+      "id": "ccf1cfee100176c3",
+      "text": "Test, again."
+    },
+    {
+      "type": "paragraph",
+      "id": "fcbb29f65c22e69f",
+      "text": "And again."
+    },
+    {
+      "type": "paragraph",
+      "id": "40d7ec035809b2cc",
+      "text": "Test."
+    },
+    {
+      "type": "paragraph",
+      "id": "c5d6a8d46d6ac151",
+      "text": "(Friend auth seems to have much less trouble between browsers and session than GH via Passport!)"
     }
   ],
   "journal": [
@@ -128,6 +148,50 @@
     {
       "type": "fork",
       "date": 1480038772281
+    },
+    {
+      "type": "add",
+      "id": "ccf1cfee100176c3",
+      "item": {
+        "type": "paragraph",
+        "id": "ccf1cfee100176c3",
+        "text": "Test, again."
+      },
+      "after": "695c0bca5a34f47e",
+      "date": 1480039309744
+    },
+    {
+      "type": "add",
+      "id": "fcbb29f65c22e69f",
+      "item": {
+        "type": "paragraph",
+        "id": "fcbb29f65c22e69f",
+        "text": "And again."
+      },
+      "after": "ccf1cfee100176c3",
+      "date": 1480039941824
+    },
+    {
+      "type": "add",
+      "id": "40d7ec035809b2cc",
+      "item": {
+        "type": "paragraph",
+        "id": "40d7ec035809b2cc",
+        "text": "Test."
+      },
+      "after": "fcbb29f65c22e69f",
+      "date": 1480039985401
+    },
+    {
+      "type": "add",
+      "id": "c5d6a8d46d6ac151",
+      "item": {
+        "type": "paragraph",
+        "id": "c5d6a8d46d6ac151",
+        "text": "(Friend auth seems to have much less trouble between browsers and session than GH via Passport!)"
+      },
+      "after": "40d7ec035809b2cc",
+      "date": 1480040013591
     }
   ]
 }

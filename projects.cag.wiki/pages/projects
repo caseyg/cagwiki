@@ -1,0 +1,39 @@
+{
+  "title": "Projects",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a68e9c6e65565db6",
+      "text": "Testing page on the projects wiki."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Projects",
+        "story": []
+      },
+      "date": 1480040270450
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a68e9c6e65565db6"
+      },
+      "id": "a68e9c6e65565db6",
+      "type": "add",
+      "date": 1480040302065
+    },
+    {
+      "type": "edit",
+      "id": "a68e9c6e65565db6",
+      "item": {
+        "type": "paragraph",
+        "id": "a68e9c6e65565db6",
+        "text": "Testing page on the projects wiki."
+      },
+      "date": 1480040314031
+    }
+  ]
+}
