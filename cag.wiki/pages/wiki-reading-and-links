@@ -96,6 +96,14 @@
       "slug": "first-write-who--what",
       "title": "First Write Who & What",
       "text": "New sites are born with a single page that encourages the creation of two more, who and what. Here I reflect on the wisdom of that guidance."
+    },
+    {
+      "type": "reference",
+      "id": "2f108a62763fed85",
+      "site": "admin.asia.wiki.org",
+      "slug": "backup",
+      "title": "Backup",
+      "text": "You will want to make backups of the sites you own or host for others. Don't confuse the journal with a backup strategy. The journal tells others how the pages you decide to keep got the way they are. If you loose pages, the journals go with them."
     }
   ],
   "journal": [
@@ -273,6 +281,29 @@
       "after": "0ad737b35cc21541",
       "id": "6f97b18b5666ed3b",
       "date": 1480050089024
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f108a62763fed85"
+      },
+      "id": "2f108a62763fed85",
+      "type": "add",
+      "after": "6f97b18b5666ed3b",
+      "date": 1480056277880
+    },
+    {
+      "type": "edit",
+      "id": "2f108a62763fed85",
+      "item": {
+        "type": "reference",
+        "id": "2f108a62763fed85",
+        "site": "admin.asia.wiki.org",
+        "slug": "backup",
+        "title": "Backup",
+        "text": "You will want to make backups of the sites you own or host for others. Don't confuse the journal with a backup strategy. The journal tells others how the pages you decide to keep got the way they are. If you loose pages, the journals go with them."
+      },
+      "date": 1480056303611
     }
   ]
 }

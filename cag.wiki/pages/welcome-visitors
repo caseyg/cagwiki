@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "You've found CAG's [[Federated Wiki]] farm?",
+      "text": "You've found CAG's [[Federated Wiki]] farm.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -29,28 +29,18 @@
     },
     {
       "type": "pagefold",
-      "id": "85ebfd6523401808",
-      "text": "The farm"
-    },
-    {
-      "type": "roster",
-      "id": "da47516fe37d0364",
-      "text": "ROSTER cag.wiki/cags-wikis"
-    },
-    {
-      "type": "pagefold",
       "id": "08cfde0d44acc465",
-      "text": "Collections?"
+      "text": "Collections"
+    },
+    {
+      "type": "paragraph",
+      "id": "ab9655e63da9551c",
+      "text": "[[Words]]"
     },
     {
       "type": "paragraph",
       "id": "ef5863bf2a1c624a",
       "text": "[[Books]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "a8ff1d4629deb381",
-      "text": "[[Tools]]"
     },
     {
       "type": "paragraph",
@@ -64,8 +54,18 @@
     },
     {
       "type": "paragraph",
+      "id": "a8ff1d4629deb381",
+      "text": "[[Tools]]"
+    },
+    {
+      "type": "paragraph",
       "id": "beb56681fe2a64da",
       "text": "[[Lyrics]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "4cf63300a9094a6b",
+      "text": "Not yet pages"
     },
     {
       "type": "paragraph",
@@ -73,14 +73,19 @@
       "text": "[[Things]]"
     },
     {
-      "type": "paragraph",
-      "id": "2c54be814c872593",
-      "text": "[[Closing tabs]]"
-    },
-    {
       "type": "pagefold",
       "id": "6f79d9508fb6b8f7",
-      "text": "Wiki meta"
+      "text": "Meta"
+    },
+    {
+      "type": "markdown",
+      "id": "cce0344a26a73f1b",
+      "text": "### Wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "934be21b2a59883c",
+      "text": "[[Wiki reference]]"
     },
     {
       "type": "paragraph",
@@ -88,9 +93,14 @@
       "text": "[[Wiki reading and links]]"
     },
     {
-      "type": "paragraph",
-      "id": "934be21b2a59883c",
-      "text": "[[Wiki reference]]"
+      "type": "markdown",
+      "id": "918c7868337f8810",
+      "text": "### Farm and Neighbors"
+    },
+    {
+      "type": "roster",
+      "id": "da47516fe37d0364",
+      "text": "ROSTER cag.wiki/cags-wikis"
     },
     {
       "type": "paragraph",
@@ -103,6 +113,11 @@
       "text": "[[Neighborhood]]"
     },
     {
+      "type": "markdown",
+      "id": "8b3fb883f750e75f",
+      "text": "### What's goin' on"
+    },
+    {
       "type": "paragraph",
       "id": "e9f455ad9ca60b25",
       "text": " [[Recent Changes]]"
@@ -113,9 +128,19 @@
       "text": "[[Local Changes]]"
     },
     {
-      "type": "paragraph",
-      "id": "ee416d431ebf4fb4",
-      "text": "[[How to Wiki]]"
+      "type": "pagefold",
+      "id": "93ef02b6fe714d5a",
+      "text": "Last 12 Hours"
+    },
+    {
+      "type": "activity",
+      "id": "c43a88598cb67997",
+      "text": "SINCE 12 hours"
+    },
+    {
+      "type": "html",
+      "id": "7a746f3784b28f79",
+      "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif);}</style>\n<small style=\"color:lightgray\">css</small>"
     }
   ],
   "journal": [
@@ -1918,6 +1943,1217 @@
       "type": "remove",
       "id": "9f92b1a367dfedbd",
       "date": 1480050817214
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "85ebfd6523401808",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "da47516fe37d0364",
+        "6f79d9508fb6b8f7",
+        "5574dace265d1ffb",
+        "934be21b2a59883c",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "da47516fe37d0364",
+      "date": 1480050926496
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "85ebfd6523401808",
+        "da47516fe37d0364",
+        "6f79d9508fb6b8f7",
+        "5574dace265d1ffb",
+        "934be21b2a59883c",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "85ebfd6523401808",
+      "date": 1480050928952
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "You've found CAG's [[Federated Wiki]] farm.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1480050995774
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "85ebfd6523401808",
+        "da47516fe37d0364",
+        "6f79d9508fb6b8f7",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "934be21b2a59883c",
+      "date": 1480051008747
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cce0344a26a73f1b"
+      },
+      "id": "cce0344a26a73f1b",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1480051019768
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "85ebfd6523401808",
+        "da47516fe37d0364",
+        "6f79d9508fb6b8f7",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "ee416d431ebf4fb4",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "cce0344a26a73f1b"
+      ],
+      "id": "ee416d431ebf4fb4",
+      "date": 1480051024043
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "85ebfd6523401808",
+        "da47516fe37d0364",
+        "6f79d9508fb6b8f7",
+        "ee416d431ebf4fb4",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "cce0344a26a73f1b"
+      ],
+      "id": "ee416d431ebf4fb4",
+      "date": 1480051030818
+    },
+    {
+      "type": "remove",
+      "id": "ee416d431ebf4fb4",
+      "date": 1480051035358
+    },
+    {
+      "type": "edit",
+      "id": "cce0344a26a73f1b",
+      "item": {
+        "type": "markdown",
+        "id": "cce0344a26a73f1b",
+        "text": "### About"
+      },
+      "date": 1480051073590
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "85ebfd6523401808",
+        "da47516fe37d0364",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "cce0344a26a73f1b",
+      "date": 1480051076630
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c305b59a5b13836"
+      },
+      "id": "4c305b59a5b13836",
+      "type": "add",
+      "after": "c527b8fa29fa235d",
+      "date": 1480051079256
+    },
+    {
+      "type": "edit",
+      "id": "4c305b59a5b13836",
+      "item": {
+        "type": "markdown",
+        "id": "4c305b59a5b13836",
+        "text": "Farm and Neighbors"
+      },
+      "date": 1480051094709
+    },
+    {
+      "type": "remove",
+      "id": "4c305b59a5b13836",
+      "date": 1480051098188
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "918c7868337f8810"
+      },
+      "id": "918c7868337f8810",
+      "type": "add",
+      "after": "c527b8fa29fa235d",
+      "date": 1480051099897
+    },
+    {
+      "type": "edit",
+      "id": "918c7868337f8810",
+      "item": {
+        "type": "markdown",
+        "id": "918c7868337f8810",
+        "text": "### Farm and Neighbors"
+      },
+      "date": 1480051103554
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "85ebfd6523401808",
+        "da47516fe37d0364",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "918c7868337f8810",
+      "date": 1480051105956
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "85ebfd6523401808",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "87eccaf5f52ebdfd",
+        "da47516fe37d0364",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "da47516fe37d0364",
+      "date": 1480051108439
+    },
+    {
+      "type": "remove",
+      "id": "85ebfd6523401808",
+      "date": 1480051114591
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8b3fb883f750e75f"
+      },
+      "id": "8b3fb883f750e75f",
+      "type": "add",
+      "after": "c527b8fa29fa235d",
+      "date": 1480051128360
+    },
+    {
+      "type": "edit",
+      "id": "8b3fb883f750e75f",
+      "item": {
+        "type": "markdown",
+        "id": "8b3fb883f750e75f",
+        "text": "### What's goin' on"
+      },
+      "date": 1480051138081
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "87eccaf5f52ebdfd",
+        "da47516fe37d0364",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "8b3fb883f750e75f",
+      "date": 1480051140658
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "da47516fe37d0364",
+      "date": 1480051154131
+    },
+    {
+      "type": "edit",
+      "id": "6f79d9508fb6b8f7",
+      "item": {
+        "type": "pagefold",
+        "id": "6f79d9508fb6b8f7",
+        "text": "Meta"
+      },
+      "date": 1480051177382
+    },
+    {
+      "type": "edit",
+      "id": "cce0344a26a73f1b",
+      "item": {
+        "type": "markdown",
+        "id": "cce0344a26a73f1b",
+        "text": "### Wiki"
+      },
+      "date": 1480051183650
+    },
+    {
+      "type": "add",
+      "id": "ab9655e63da9551c",
+      "item": {
+        "type": "paragraph",
+        "id": "ab9655e63da9551c",
+        "text": "[[Words]]"
+      },
+      "after": "a8ff1d4629deb381",
+      "date": 1480052365547
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "ab9655e63da9551c",
+      "date": 1480052367059
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "Pages"
+      },
+      "date": 1480053369798
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "a8ff1d4629deb381",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "a8ff1d4629deb381",
+      "date": 1480054518767
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4cf63300a9094a6b"
+      },
+      "id": "4cf63300a9094a6b",
+      "type": "add",
+      "after": "c527b8fa29fa235d",
+      "date": 1480054527073
+    },
+    {
+      "type": "edit",
+      "id": "4cf63300a9094a6b",
+      "item": {
+        "type": "pagefold",
+        "id": "4cf63300a9094a6b",
+        "text": "Not yet pages"
+      },
+      "date": 1480054548233
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "a8ff1d4629deb381",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "4cf63300a9094a6b",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "4cf63300a9094a6b",
+      "date": 1480054550697
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "a8ff1d4629deb381",
+        "4cf63300a9094a6b",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d"
+      ],
+      "id": "4cf63300a9094a6b",
+      "date": 1480054552175
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "Collections"
+      },
+      "date": 1480054560491
+    },
+    {
+      "type": "edit",
+      "id": "c43a88598cb67997",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997",
+        "text": "SINCE today"
+      },
+      "date": 1480054842669
+    },
+    {
+      "type": "edit",
+      "id": "c43a88598cb67997",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997",
+        "text": "SINCE 1 day"
+      },
+      "date": 1480054875036
+    },
+    {
+      "type": "edit",
+      "id": "c43a88598cb67997",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997",
+        "text": "SINCE 12 hours"
+      },
+      "date": 1480054913564
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "93ef02b6fe714d5a"
+      },
+      "id": "93ef02b6fe714d5a",
+      "type": "add",
+      "after": "c43a88598cb67997",
+      "date": 1480054943567
+    },
+    {
+      "type": "edit",
+      "id": "93ef02b6fe714d5a",
+      "item": {
+        "type": "pagefold",
+        "id": "93ef02b6fe714d5a",
+        "text": "Last 12 Hours"
+      },
+      "date": 1480054956159
+    },
+    {
+      "type": "edit",
+      "id": "c43a88598cb67997",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997",
+        "text": "SINCE 12 hours\nMINE only"
+      },
+      "date": 1480054997333
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "a8ff1d4629deb381",
+        "4cf63300a9094a6b",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a"
+      ],
+      "id": "93ef02b6fe714d5a",
+      "date": 1480055046104
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997"
+      },
+      "after": "c527b8fa29fa235d",
+      "id": "c43a88598cb67997",
+      "date": 1480055062103
+    },
+    {
+      "type": "edit",
+      "id": "c43a88598cb67997",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997",
+        "text": "WITHIN 12 hours"
+      },
+      "date": 1480055071746
+    },
+    {
+      "type": "edit",
+      "id": "c43a88598cb67997",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997",
+        "text": "SINCE 12 hours"
+      },
+      "date": 1480055082639
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "a8ff1d4629deb381",
+        "4cf63300a9094a6b",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997"
+      ],
+      "id": "93ef02b6fe714d5a",
+      "date": 1480055098434
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a746f3784b28f79"
+      },
+      "id": "7a746f3784b28f79",
+      "type": "add",
+      "after": "c43a88598cb67997",
+      "date": 1480057960494
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>.parasep{width: 200px; height: 4px;padding:2px; }p{padding:2px; border: 1px dashed grey;</style>\n.styles."
+      },
+      "date": 1480057966815
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>.body{background:#000;}</style>\n.styles."
+      },
+      "date": 1480057980649
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>.body{background:#000!important;}</style>\n.styles."
+      },
+      "date": 1480057988573
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:#000;}</style>\n.styles."
+      },
+      "date": 1480057992758
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:url(http://bullshit.systems/sisu.gif);}</style>\n.styles."
+      },
+      "date": 1480058103198
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n.styles."
+      },
+      "date": 1480058120191
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n.style."
+      },
+      "date": 1480058165030
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:url(http://bullshit.systems/sisu.gif);background-size:fill;}</style>\n.style."
+      },
+      "date": 1480058299456
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:url(http://bullshit.systems/sisu.gif);background-size:full;}</style>\n.style."
+      },
+      "date": 1480058307527
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:url(http://bullshit.systems/sisu.gif);background-size:cover;background-repeat:no-repeat;}</style>\n.style."
+      },
+      "date": 1480058316961
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n.style."
+      },
+      "date": 1480058324261
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background:url(http://bullshit.systems/sisu.gif);background-size:cover!important;}</style>\n.style."
+      },
+      "date": 1480058404267
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/sisu.gif);background-size:cover!important;}</style>\n.style."
+      },
+      "date": 1480058420146
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover!important;}</style>\n.style."
+      },
+      "date": 1480058434823
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;background-position:center;}</style>\n.style."
+      },
+      "date": 1480058454200
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;background-position:top center;}</style>\n.style."
+      },
+      "date": 1480058463060
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;background-position:center;}</style>\n.style."
+      },
+      "date": 1480058468590
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;background-position:contain;}</style>\n.style."
+      },
+      "date": 1480058473682
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:contain;background-position:center;}</style>\n.style."
+      },
+      "date": 1480058480836
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;background-position:center;}</style>\n.style."
+      },
+      "date": 1480058497956
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;}</style>\n.style."
+      },
+      "date": 1480058503065
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;background-position:bottom center;}</style>\n.style."
+      },
+      "date": 1480058519266
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;background-position:center top;}</style>\n.style."
+      },
+      "date": 1480058525207
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;background-position:bottom;}</style>\n.style."
+      },
+      "date": 1480058530316
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);background-size:cover;}</style>\n.style."
+      },
+      "date": 1480058539939
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);}</style>\n.style."
+      },
+      "date": 1480058544405
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>.main > #welcome-visitors:first-child:not(.remote) {background-image:url(http://bullshit.systems/moomin.gif)}</style>\n.style."
+      },
+      "date": 1480058698430
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>.main > #welcome-visitors {background-image:url(http://bullshit.systems/moomin.gif)}</style>\n.style."
+      },
+      "date": 1480058719318
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>.main < #welcome-visitors {background-image:url(http://bullshit.systems/moomin.gif)}</style>\n.style."
+      },
+      "date": 1480058723493
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>#welcome-visitors {background-image:url(http://bullshit.systems/moomin.gif)}</style>\n.style."
+      },
+      "date": 1480058904004
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>#main {background-image:url(http://bullshit.systems/moomin.gif)}</style>\n.style."
+      },
+      "date": 1480058915298
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>.main {background-image:url(http://bullshit.systems/moomin.gif)}</style>\n.style."
+      },
+      "date": 1480058918726
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif)}</style>\n.style."
+      },
+      "date": 1480059020033
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body {background-image:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n.style."
+      },
+      "date": 1480059058113
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body {background-image:url(http://bullshit.systems/sisu.gif);background-size:100%;}</style>\n.style."
+      },
+      "date": 1480059067083
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body {background-image:url(http://bullshit.systems/sisu.gif);background-size:100% 100%;}</style>\n.style."
+      },
+      "date": 1480059074342
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body {background-image:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n.style."
+      },
+      "date": 1480059079990
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif);}</style>\n.style."
+      },
+      "date": 1480059388073
+    },
+    {
+      "type": "remove",
+      "id": "2c54be814c872593",
+      "date": 1480059568700
+    },
+    {
+      "type": "edit",
+      "id": "7a746f3784b28f79",
+      "item": {
+        "type": "html",
+        "id": "7a746f3784b28f79",
+        "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif);}</style>\n<small style=\"color:lightgray\">css</small>"
+      },
+      "date": 1480059634472
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "a8ff1d4629deb381",
+        "beb56681fe2a64da",
+        "4cf63300a9094a6b",
+        "9e26b116da592400",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "7a746f3784b28f79"
+      ],
+      "id": "a8ff1d4629deb381",
+      "date": 1480059777695
     }
   ]
 }

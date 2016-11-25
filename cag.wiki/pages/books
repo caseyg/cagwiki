@@ -9,12 +9,37 @@
     {
       "type": "paragraph",
       "id": "480ca08bca87851f",
-      "text": "See also: [http://caseyagollan.com/#bibliography Casey's book page]"
+      "text": "Books I've read, am reading, or have lying around."
+    },
+    {
+      "type": "paragraph",
+      "id": "9d9d966f12bbe8ec",
+      "text": "(Inspired by Max's [https://maxfenton.com/biblio/ biblio])"
+    },
+    {
+      "type": "paragraph",
+      "id": "47676ecd343914c8",
+      "text": "TODO: add books from 5yd, add new books, format headings, pages by year?"
+    },
+    {
+      "type": "pagefold",
+      "id": "a0b58ac9f65c9a6f",
+      "text": "See also"
+    },
+    {
+      "type": "paragraph",
+      "id": "947cfabbf9ad748c",
+      "text": "[[Books To Borrow Or Get]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f2cfaff283f5031",
+      "text": "[http://caseyagollan.com/#bibliography Casey's (other) book page]"
     },
     {
       "type": "paragraph",
       "id": "539d1fb838f3b6e5",
-      "text": "(Porting the list below from the page above, slowly.)"
+      "text": "NOTE: Porting the list below from the page above, slowly."
     },
     {
       "type": "pagefold",
@@ -354,7 +379,402 @@
     {
       "type": "paragraph",
       "id": "dcf8e944d718ee79",
-      "text": "Silicon Valley Urbanism — Alexandra Lange\n\n2015\n\nNetworks of New York — Ingrid Burrington\nThe New Jim Crow — Michelle Alexander\nThe Creative Habit — Twyla Tharp incomplete\nZen in the Art of Archery incomplete\nProcess and Reality — Alfred North Whitehead Currently Reading\nThe Creative Habit — Twyla Tharp Currently Reading\nZen in the Art of Archery finished\nThe Struggle for Black Education (from Education and Capitalism) — Brian Jones finished\nThe E-Myth Revisited — Michael E. Gerber finished\nPrinciples — Ray Dalio finished\nI Will Drown My Words finished\nTeaching to Transgress — Bell Hooks finished\nWork — Crimethinc. not finished\nThe New Jim Crow — Michelle Alexander not finished\nPedagogy of the Oppressed — Paulo Friere not finished\nThe Queer Art of Failure — Judith Jack Halberstam not finished\nDifficult Conversations — Roger Fisher not finished\nThe Systems Thinking Playbook — Dennis Meadows and Linda Booth Sweeney not finished\nEnvisioning the Cooperative University not finished\nThe 7 Habits of Highly Effective People — Stephen R. Covey not finished\nHolacracy have but not started\nDebt — David Graeber have but not started\nHow to Know Higher Worlds — Rudolph Steiner Looking For\nThis is It — Alan Watts Looking For\nThis is Why We Can’t Have Nice Things Looking For\nHeroes — Franco Berardi Looking For\nThe Coming Insurrection — The Invisible Committee Looking For\n\n2014\n\nNicely Said — Nicole Fenton\nBe Slightly Evil — Venkatesh Rao\nThe Art of Not Being Governed — James C. Scott\n\n2013\n\nBinding Chaos — Heather Marsh\nSystemantics — John Gall\nThe Art of Power — Thich Nhat Hanh\nTwo Cheers for Anarchism — James C. Scott\nGetting to Yes — Roger Fisher\nTenth of December — George Saunders\nUnderstanding Power — Noam Chomsky\nBoth Flesh and Not Flesh — David Foster Wallace\nUncreative Writing — Kenneth Goldsmith\n\n2012\n\nLeverage Points — Donella Meadows\nThe Psychopath Test — Jon Ronson\nDumbing Us Down — John Taylor Gatto\nInfinite Jest — David Foster Wallace\nThe Twenty-four Hour Mind — Rosalind Cartwright\nNick Harkaway\nAlone Together: Why We Expect More from Technology and Less from Each Other — Sherry Turkle\nAmusing Ourselves to Death — Neil Postman\nClose to the Machine: Technophilia and Its Discontents — Ellen Ullman\nIf on a winter's night a traveller — Italo Calvino\nThe Pleasures and Sorrows of Work — Alain De Botton\nThe Shape of Design — Frank Chimero\nProgrammed Visions: Software and Memory — Wendy Hui-Kyong Chun\nThe Handmaid's Tale — Margaret Atwood\nNetworks Without a Cause — Geert Lovink\nMy Mother Was a Computer: Digital Subjects and Literary Texts — N. Katherine Hayles\nCensoring Culture: Contemporary Threats to Free-Expression\nLiterary Machines — Ted Nelson\nPeer Pressure — Brad Troemel\nArcades Project — Walter Benjamin\n\n2011\n\nAll Tomorrow’s Parties — William Gibson\nHow to Count — Steven Frank\nChaos: Making a New Science — James Gleick\nNewsgames: Journalism at Play — Ian Bogost, Simon Ferrari, Bobby Schweizer\nLiving with Complexity — Donald Norman\nYou Are Not A Gadget — Jaron Lanier\nSeeing Is Forgetting the Name of the Things One Sees: A Life of Contemporary Artist Robert Irwin — Lawrence Weschler\nGlut: Mastering Information Through the Ages — Alex Wright\nWorld as Design — Otl Aicher\nRethinking History — Keith Jenkins\nThe Fall — Albert Camus\nProust Was a Neuroscientist — Jonah Lehrer\nGrid Systems — Joseph Muller Brockman\nRiver of Shadows — Rebecca Solnit\nUncorporate Identity — Metahaven\nInternet Art — Rachel Greene"
+      "text": "Silicon Valley Urbanism — Alexandra Lange\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a720c226765b388d",
+      "text": "2015\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c5385e23b9d54ad2",
+      "text": "Networks of New York — Ingrid Burrington\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ad722fb3593d0ec8",
+      "text": "The New Jim Crow — Michelle Alexander\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "95268e8d88356a04",
+      "text": "The Creative Habit — Twyla Tharp incomplete\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "bdf10afbf9c7188f",
+      "text": "Zen in the Art of Archery incomplete\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "762fee93b60b265e",
+      "text": "Process and Reality — Alfred North Whitehead Currently Reading\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "28f939b86a63bc21",
+      "text": "The Creative Habit — Twyla Tharp Currently Reading\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ff2167442a1bfa35",
+      "text": "Zen in the Art of Archery finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "1109ee9c1cf46253",
+      "text": "The Struggle for Black Education (from Education and Capitalism) — Brian Jones finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "27e844d2d1248a43",
+      "text": "The E-Myth Revisited — Michael E. Gerber finished\nPrinciples — Ray Dalio finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "8c39a78d5118dc67",
+      "text": "I Will Drown My Words finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9951d5299495b6f2",
+      "text": "Teaching to Transgress — Bell Hooks finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "812b06471534fb57",
+      "text": "Work — Crimethinc. not finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5040020a4b30286c",
+      "text": "The New Jim Crow — Michelle Alexander not finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "524e9e7c9178163a",
+      "text": "Pedagogy of the Oppressed — Paulo Friere not finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "40b0cc5616359994",
+      "text": "The Queer Art of Failure — Judith Jack Halberstam not finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e8aa3392708bfd40",
+      "text": "Difficult Conversations — Roger Fisher not finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e6b587b63abd15c8",
+      "text": "The Systems Thinking Playbook — Dennis Meadows and Linda Booth Sweeney not finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d86fd6b2e87e851",
+      "text": "Envisioning the Cooperative University not finished\nThe 7 Habits of Highly Effective People — Stephen R. Covey not finished\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "60bd0358c09e3d45",
+      "text": "Holacracy have but not started\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "711f7557e5d5fac6",
+      "text": "Debt — David Graeber have but not started\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d00a8d2fc234cb7b",
+      "text": "How to Know Higher Worlds — Rudolph Steiner Looking For\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "cf9214f5aa2c1814",
+      "text": "This is It — Alan Watts Looking For\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c80d8787aab8f9f7",
+      "text": "This is Why We Can’t Have Nice Things Looking For\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e90e8413ed7516e4",
+      "text": "Heroes — Franco Berardi Looking For\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "73f86777d40e33cd",
+      "text": "The Coming Insurrection — The Invisible Committee Looking For\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e2deb7669c21e266",
+      "text": "2014\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "b56513a13373a045",
+      "text": "Nicely Said — Nicole Fenton\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5e1016152fb0d6fc",
+      "text": "Be Slightly Evil — Venkatesh Rao\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "bccbd1e7a9fa81e8",
+      "text": "The Art of Not Being Governed — James C. Scott\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "375d0f0a21a2687f",
+      "text": "2013\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c12899652e5520de",
+      "text": "Binding Chaos — Heather Marsh\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "048de7ebecab1f92",
+      "text": "Systemantics — John Gall\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0cf0d2b25b0ac789",
+      "text": "The Art of Power — Thich Nhat Hanh\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "66316f4c2f6faac5",
+      "text": "Two Cheers for Anarchism — James C. Scott\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "73b92c6bbc56b318",
+      "text": "Getting to Yes — Roger Fisher\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "55acf84ca1f99714",
+      "text": "Tenth of December — George Saunders\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "88add536e9b9b4a5",
+      "text": "Understanding Power — Noam Chomsky\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "8016303176035f2f",
+      "text": "Both Flesh and Not Flesh — David Foster Wallace\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f2d781b9b559cd70",
+      "text": "Uncreative Writing — Kenneth Goldsmith\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0cfaafcacfe1ccfd",
+      "text": "2012\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7374959a7af1d0ac",
+      "text": "Leverage Points — Donella Meadows\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "80891dbbd1c528d7",
+      "text": "The Psychopath Test — Jon Ronson\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "36f6d9577dba9792",
+      "text": "Dumbing Us Down — John Taylor Gatto\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "df492d4dbaec6d67",
+      "text": "Infinite Jest — David Foster Wallace\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "379476e08e7d75dd",
+      "text": "The Twenty-four Hour Mind — Rosalind Cartwright\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4a91b1b55c43abd7",
+      "text": "Nick Harkaway"
+    },
+    {
+      "type": "paragraph",
+      "id": "0c2fd8a0dd391317",
+      "text": "Alone Together: Why We Expect More from Technology and Less from Each Other — Sherry Turkle\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4a41c4d423272b39",
+      "text": "Amusing Ourselves to Death — Neil Postman\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c28e202a4a264ba6",
+      "text": "Close to the Machine: Technophilia and Its Discontents — Ellen Ullman\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "975586a2ba84fb1c",
+      "text": "If on a winter's night a traveller — Italo Calvino\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "29d6ae2d6e111db0",
+      "text": "The Pleasures and Sorrows of Work — Alain De Botton\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7cb1d8b4198c4662",
+      "text": "The Shape of Design — Frank Chimero\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3d6be155803b175f",
+      "text": "Programmed Visions: Software and Memory — Wendy Hui-Kyong Chun\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "96119a710a88f651",
+      "text": "The Handmaid's Tale — Margaret Atwood\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ed77a3c91a646934",
+      "text": "Networks Without a Cause — Geert Lovink\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f08415629c3072a6",
+      "text": "My Mother Was a Computer: Digital Subjects and Literary Texts — N. Katherine Hayles\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "04f719c5554f5299",
+      "text": "Censoring Culture: Contemporary Threats to Free-Expression\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "29a2a2e6be2ee506",
+      "text": "Literary Machines — Ted Nelson\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d1f3a5c216948e1",
+      "text": "Peer Pressure — Brad Troemel\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "76dcc4be725f16dc",
+      "text": "Arcades Project — Walter Benjamin\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "6dd521e77619d161",
+      "text": "2011\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "2cbb80aab929ec81",
+      "text": "All Tomorrow’s Parties — William Gibson\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "2995e6ab7c189832",
+      "text": "How to Count — Steven Frank\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "864cd9f26435e4bc",
+      "text": "Chaos: Making a New Science — James Gleick\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c4dabe9f0344868b",
+      "text": "Newsgames: Journalism at Play — Ian Bogost, Simon Ferrari, Bobby Schweizer\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a604a0f21fd26e5a",
+      "text": "Living with Complexity — Donald Norman\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "bb7dd50055a47c26",
+      "text": "You Are Not A Gadget — Jaron Lanier\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a391fa8b74a8094",
+      "text": "Seeing Is Forgetting the Name of the Things One Sees: "
+    },
+    {
+      "type": "paragraph",
+      "id": "2b709a9401b981b0",
+      "text": "A Life of Contemporary Artist Robert Irwin — Lawrence Weschler\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3757085fdc52e559",
+      "text": "Glut: Mastering Information Through the Ages — Alex Wright\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "00092b492c6500ff",
+      "text": "World as Design — Otl Aicher\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5c7ce424937f3986",
+      "text": "Rethinking History — Keith Jenkins\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "385622ced7e7de1c",
+      "text": "The Fall — Albert Camus\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "41d4d177980f2664",
+      "text": "Proust Was a Neuroscientist — Jonah Lehrer\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "b0cd0d90453283a5",
+      "text": "Grid Systems — Joseph Muller Brockman\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e3b79b07755beae3",
+      "text": "River of Shadows — Rebecca Solnit\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "440317d4a99a825e",
+      "text": "Uncorporate Identity — Metahaven\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "08cffa8b7434e481",
+      "text": "Internet Art — Rachel Greene"
     },
     {
       "type": "paragraph",
@@ -364,7 +784,277 @@
     {
       "type": "paragraph",
       "id": "acf68a4f971a1136",
-      "text": "* The Gift: Creativity and The Artist in the Modern World — Lewis Hyde\n* The Information — James Gleick\n* Outliers: The Story of Success — Malcom Gladwell\n* Murphy — Samuel Beckett\n* Essays on the Blurring of Art and Life — Alan Kaprow\n* The Society of Mind — Marvin Minsky\n\n**2010**\n\n* Confessions of Griseledes Royal\n* I Wonder — Marian Bantjes\n* Outside Inside — Bruce Davidson\n* They Called Her Styrene, Etc. — Ed Ruscha\n* Maps of the Imagination: The Writer as Cartographer — Peter Turchi\n* Oroonoko — ??\n* Of Walking on Ice — Werner Herzog\n* Illuminations — Walter Benjamin\n* Understanding Comics — Scott McCloud\n* Gabriel Ororzco — Ann Temkin et al\n\n**2009**\n\n* Processing: A Programming Handbook for Visual Designers and Artists — Casey Reas and Ben Fry\n\n**2008**\n\n* Cat’s Cradle — Kurt Vonnegut\n* The Metamorphosis — Franz Kafka\n* Daniel Eatock Imprint: Works 1975-2007 — Daniel Eatock\n* Peace is Every Step — Thich Nhat Hahn\n* The Fountainhead — Ayn Rand (looool)\n* The Road — Cormac McCarthy\n* Waiting for Godot — Samuel Beckett\n* The Stranger — Alfred Camus\n\n**2007**\n\n**2006**\n\n**2005**\n\n* Harry Potter and the Half-Blood Prince — J.K. Rowling\n* Me Talk Pretty One Day — David Sedaris\n* The House on Mango Street — ??\n\n**2004**\n\n**2003**\n\n**2002**\n\n**2001**\n\n**2000**\n\n**1999**\n\n**1998**\n\n**1997**\n\n**1996**\n\n**1995**\n\n**1994**\n\n**1993**\n\n**1992**\n\n**1991**\n\n**unknown**\n\n* When You Are Engulfed in Flames — David Sedaris\n* A Long Way Down — Nick Hornby\n* Sex, Drugs, and Cocoa Puffs — Chuck Klosterman\n* The Great Gatsby — F. Scott Fitzgerald\n* Tellmewhy — Karlssonwilker\n\n**books to borrow or get**"
+      "text": "The Gift: Creativity and The Artist in the Modern World — Lewis Hyde\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5eb937a6fdd2c0b9",
+      "text": "The Information — James Gleick\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "23b22c8b0f47dee0",
+      "text": "Outliers: The Story of Success — Malcom Gladwell\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "fbc86858b942fd60",
+      "text": "Murphy — Samuel Beckett\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "73feaab1692b3075",
+      "text": "Essays on the Blurring of Art and Life — Alan Kaprow\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c746903e0286c090",
+      "text": "The Society of Mind — Marvin Minsky\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5dc8967cb670b3ad",
+      "text": "2010\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c117725b96a8ab7",
+      "text": "Confessions of Griseledes Royal\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "53605458ccc663bb",
+      "text": "I Wonder — Marian Bantjes\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d1780aa379e4b1f7",
+      "text": "Outside Inside — Bruce Davidson\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c8cd2eac80929781",
+      "text": "They Called Her Styrene, Etc. — Ed Ruscha\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "df00d3bc7278af10",
+      "text": "Maps of the Imagination: The Writer as Cartographer — Peter Turchi\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ec63250a624bfd15",
+      "text": "Oroonoko — ??\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "12a42a4f4469dd78",
+      "text": "Of Walking on Ice — Werner Herzog\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "71535a55a6e70e86",
+      "text": "Illuminations — Walter Benjamin\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4256cf6225d92f9",
+      "text": "Understanding Comics — Scott McCloud\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "734216c4ab73f22d",
+      "text": "Gabriel Ororzco — Ann Temkin et al\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a3bdeafed7ac6c2c",
+      "text": "2009\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "8132b00ea409e474",
+      "text": "Processing: A Programming Handbook for Visual "
+    },
+    {
+      "type": "paragraph",
+      "id": "578715d15d1abfab",
+      "text": "Designers and Artists — Casey Reas and Ben Fry\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7961350027529920",
+      "text": "2008\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "000ae15bb4b83b67",
+      "text": "Cat’s Cradle — Kurt Vonnegut\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "54e27d32912a72b5",
+      "text": "The Metamorphosis — Franz Kafka\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "68ef9fc279ca3ce6",
+      "text": "Daniel Eatock Imprint: Works 1975-2007 — Daniel Eatock\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3913f09d279d6c2c",
+      "text": "Peace is Every Step — Thich Nhat Hahn\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "000ff93d8e286cff",
+      "text": "The Fountainhead — Ayn Rand (looool)\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9735ce9d63d30999",
+      "text": "The Road — Cormac McCarthy\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e7a998403ee86c3a",
+      "text": "Waiting for Godot — Samuel Beckett\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "80ef686711b4695f",
+      "text": "The Stranger — Alfred Camus\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "b599744f256c22e6",
+      "text": "2007\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d679e9e0f0347bb9",
+      "text": "2006\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "021c9873d8cfcae4",
+      "text": "2005\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4fdb5c3a93771a05",
+      "text": "Harry Potter and the Half-Blood Prince — J.K. Rowling\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "49baf281efd1b0d7",
+      "text": "Me Talk Pretty One Day — David Sedaris\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7adb9fa70ea153a5",
+      "text": "The House on Mango Street — ??\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "44b59d8157e50887",
+      "text": "2004\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "efc2a732adc7dba8",
+      "text": "2003\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9c8c88bc298d1354",
+      "text": "2002\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "bb0f4708ed751c66",
+      "text": "2001\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ed355acde5b2d031",
+      "text": "2000\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "6ac4b0c2c53ddcb0",
+      "text": "1999\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ce6b9416832fc6aa",
+      "text": "1998\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "10759da8c89d4d1c",
+      "text": "1997\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "2b08091e4594e532",
+      "text": "1996\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e1a7a5de6e60541e",
+      "text": "1995\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f1453c686ee6426",
+      "text": "1994\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "227bbfa780253000",
+      "text": "1993\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "be134d93660be604",
+      "text": "1992\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f1a5c4d8be468979",
+      "text": "1991\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c3757dc92c4ff1f9",
+      "text": "unknown\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e2e19b607867bf27",
+      "text": "When You Are Engulfed in Flames — David Sedaris\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "1770896f6673f938",
+      "text": "A Long Way Down — Nick Hornby\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a359364927ac49c",
+      "text": "Sex, Drugs, and Cocoa Puffs — Chuck Klosterman\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d7e15684596ecf85",
+      "text": "The Great Gatsby — F. Scott Fitzgerald\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4d5e214dff4f379",
+      "text": "Tellmewhy — Karlssonwilker\n"
     }
   ],
   "journal": [
@@ -1651,6 +2341,2688 @@
         "text": "(Porting the list below from the page above, slowly.)"
       },
       "date": 1479958749271
+    },
+    {
+      "type": "edit",
+      "id": "dcf8e944d718ee79",
+      "item": {
+        "type": "paragraph",
+        "id": "dcf8e944d718ee79",
+        "text": "Silicon Valley Urbanism — Alexandra Lange\n"
+      },
+      "date": 1480051279112
+    },
+    {
+      "type": "add",
+      "id": "a720c226765b388d",
+      "item": {
+        "type": "paragraph",
+        "id": "a720c226765b388d",
+        "text": "2015\n"
+      },
+      "after": "dcf8e944d718ee79",
+      "date": 1480051281536
+    },
+    {
+      "type": "add",
+      "id": "c5385e23b9d54ad2",
+      "item": {
+        "type": "paragraph",
+        "id": "c5385e23b9d54ad2",
+        "text": "Networks of New York — Ingrid Burrington\n"
+      },
+      "after": "a720c226765b388d",
+      "date": 1480051284098
+    },
+    {
+      "type": "add",
+      "id": "ad722fb3593d0ec8",
+      "item": {
+        "type": "paragraph",
+        "id": "ad722fb3593d0ec8",
+        "text": "The New Jim Crow — Michelle Alexander\n"
+      },
+      "after": "c5385e23b9d54ad2",
+      "date": 1480051285517
+    },
+    {
+      "type": "add",
+      "id": "95268e8d88356a04",
+      "item": {
+        "type": "paragraph",
+        "id": "95268e8d88356a04",
+        "text": "The Creative Habit — Twyla Tharp incomplete\n"
+      },
+      "after": "ad722fb3593d0ec8",
+      "date": 1480051287427
+    },
+    {
+      "type": "add",
+      "id": "bdf10afbf9c7188f",
+      "item": {
+        "type": "paragraph",
+        "id": "bdf10afbf9c7188f",
+        "text": "Zen in the Art of Archery incomplete\n"
+      },
+      "after": "95268e8d88356a04",
+      "date": 1480051288348
+    },
+    {
+      "type": "add",
+      "id": "762fee93b60b265e",
+      "item": {
+        "type": "paragraph",
+        "id": "762fee93b60b265e",
+        "text": "Process and Reality — Alfred North Whitehead Currently Reading\nThe Creative Habit — Twyla Tharp Currently Reading\nZen in the Art of Archery finished\nThe Struggle for Black Education (from Education and Capitalism) — Brian Jones finished\nThe E-Myth Revisited — Michael E. Gerber finished\nPrinciples — Ray Dalio finished\nI Will Drown My Words finished\nTeaching to Transgress — Bell Hooks finished\nWork — Crimethinc. not finished\nThe New Jim Crow — Michelle Alexander not finished\nPedagogy of the Oppressed — Paulo Friere not finished\nThe Queer Art of Failure — Judith Jack Halberstam not finished\nDifficult Conversations — Roger Fisher not finished\nThe Systems Thinking Playbook — Dennis Meadows and Linda Booth Sweeney not finished\nEnvisioning the Cooperative University not finished\nThe 7 Habits of Highly Effective People — Stephen R. Covey not finished\nHolacracy have but not started\nDebt — David Graeber have but not started\nHow to Know Higher Worlds — Rudolph Steiner Looking For\nThis is It — Alan Watts Looking For\nThis is Why We Can’t Have Nice Things Looking For\nHeroes — Franco Berardi Looking For\nThe Coming Insurrection — The Invisible Committee Looking For\n\n2014\n\nNicely Said — Nicole Fenton\nBe Slightly Evil — Venkatesh Rao\nThe Art of Not Being Governed — James C. Scott\n\n2013\n\nBinding Chaos — Heather Marsh\nSystemantics — John Gall\nThe Art of Power — Thich Nhat Hanh\nTwo Cheers for Anarchism — James C. Scott\nGetting to Yes — Roger Fisher\nTenth of December — George Saunders\nUnderstanding Power — Noam Chomsky\nBoth Flesh and Not Flesh — David Foster Wallace\nUncreative Writing — Kenneth Goldsmith\n\n2012\n\nLeverage Points — Donella Meadows\nThe Psychopath Test — Jon Ronson\nDumbing Us Down — John Taylor Gatto\nInfinite Jest — David Foster Wallace\nThe Twenty-four Hour Mind — Rosalind Cartwright\nNick Harkaway\nAlone Together: Why We Expect More from Technology and Less from Each Other — Sherry Turkle\nAmusing Ourselves to Death — Neil Postman\nClose to the Machine: Technophilia and Its Discontents — Ellen Ullman\nIf on a winter's night a traveller — Italo Calvino\nThe Pleasures and Sorrows of Work — Alain De Botton\nThe Shape of Design — Frank Chimero\nProgrammed Visions: Software and Memory — Wendy Hui-Kyong Chun\nThe Handmaid's Tale — Margaret Atwood\nNetworks Without a Cause — Geert Lovink\nMy Mother Was a Computer: Digital Subjects and Literary Texts — N. Katherine Hayles\nCensoring Culture: Contemporary Threats to Free-Expression\nLiterary Machines — Ted Nelson\nPeer Pressure — Brad Troemel\nArcades Project — Walter Benjamin\n\n2011\n\nAll Tomorrow’s Parties — William Gibson\nHow to Count — Steven Frank\nChaos: Making a New Science — James Gleick\nNewsgames: Journalism at Play — Ian Bogost, Simon Ferrari, Bobby Schweizer\nLiving with Complexity — Donald Norman\nYou Are Not A Gadget — Jaron Lanier\nSeeing Is Forgetting the Name of the Things One Sees: A Life of Contemporary Artist Robert Irwin — Lawrence Weschler\nGlut: Mastering Information Through the Ages — Alex Wright\nWorld as Design — Otl Aicher\nRethinking History — Keith Jenkins\nThe Fall — Albert Camus\nProust Was a Neuroscientist — Jonah Lehrer\nGrid Systems — Joseph Muller Brockman\nRiver of Shadows — Rebecca Solnit\nUncorporate Identity — Metahaven\nInternet Art — Rachel Greene"
+      },
+      "after": "bdf10afbf9c7188f",
+      "date": 1480051289722
+    },
+    {
+      "type": "edit",
+      "id": "762fee93b60b265e",
+      "item": {
+        "type": "paragraph",
+        "id": "762fee93b60b265e",
+        "text": "Process and Reality — Alfred North Whitehead Currently Reading\n"
+      },
+      "date": 1480051307048
+    },
+    {
+      "type": "add",
+      "id": "28f939b86a63bc21",
+      "item": {
+        "type": "paragraph",
+        "id": "28f939b86a63bc21",
+        "text": "The Creative Habit — Twyla Tharp Currently Reading\n"
+      },
+      "after": "762fee93b60b265e",
+      "date": 1480051308171
+    },
+    {
+      "type": "add",
+      "id": "ff2167442a1bfa35",
+      "item": {
+        "type": "paragraph",
+        "id": "ff2167442a1bfa35",
+        "text": "Zen in the Art of Archery finished\n"
+      },
+      "after": "28f939b86a63bc21",
+      "date": 1480051309184
+    },
+    {
+      "type": "add",
+      "id": "1109ee9c1cf46253",
+      "item": {
+        "type": "paragraph",
+        "id": "1109ee9c1cf46253",
+        "text": "The Struggle for Black Education (from Education and Capitalism) — Brian Jones finished\n"
+      },
+      "after": "ff2167442a1bfa35",
+      "date": 1480051310742
+    },
+    {
+      "type": "add",
+      "id": "27e844d2d1248a43",
+      "item": {
+        "type": "paragraph",
+        "id": "27e844d2d1248a43",
+        "text": "The E-Myth Revisited — Michael E. Gerber finished\nPrinciples — Ray Dalio finished\n"
+      },
+      "after": "1109ee9c1cf46253",
+      "date": 1480051311930
+    },
+    {
+      "type": "add",
+      "id": "8c39a78d5118dc67",
+      "item": {
+        "type": "paragraph",
+        "id": "8c39a78d5118dc67",
+        "text": "I Will Drown My Words finished\n"
+      },
+      "after": "27e844d2d1248a43",
+      "date": 1480051312648
+    },
+    {
+      "type": "add",
+      "id": "9951d5299495b6f2",
+      "item": {
+        "type": "paragraph",
+        "id": "9951d5299495b6f2",
+        "text": "Teaching to Transgress — Bell Hooks finished\n"
+      },
+      "after": "8c39a78d5118dc67",
+      "date": 1480051313885
+    },
+    {
+      "type": "add",
+      "id": "812b06471534fb57",
+      "item": {
+        "type": "paragraph",
+        "id": "812b06471534fb57",
+        "text": "Work — Crimethinc. not finished\n"
+      },
+      "after": "9951d5299495b6f2",
+      "date": 1480051314491
+    },
+    {
+      "type": "add",
+      "id": "5040020a4b30286c",
+      "item": {
+        "type": "paragraph",
+        "id": "5040020a4b30286c",
+        "text": "The New Jim Crow — Michelle Alexander not finished\n"
+      },
+      "after": "812b06471534fb57",
+      "date": 1480051315603
+    },
+    {
+      "type": "add",
+      "id": "524e9e7c9178163a",
+      "item": {
+        "type": "paragraph",
+        "id": "524e9e7c9178163a",
+        "text": "Pedagogy of the Oppressed — Paulo Friere not finished\n"
+      },
+      "after": "5040020a4b30286c",
+      "date": 1480051316728
+    },
+    {
+      "type": "add",
+      "id": "40b0cc5616359994",
+      "item": {
+        "type": "paragraph",
+        "id": "40b0cc5616359994",
+        "text": "The Queer Art of Failure — Judith Jack Halberstam not finished\n"
+      },
+      "after": "524e9e7c9178163a",
+      "date": 1480051317822
+    },
+    {
+      "type": "add",
+      "id": "e8aa3392708bfd40",
+      "item": {
+        "type": "paragraph",
+        "id": "e8aa3392708bfd40",
+        "text": "Difficult Conversations — Roger Fisher not finished\n"
+      },
+      "after": "40b0cc5616359994",
+      "date": 1480051318922
+    },
+    {
+      "type": "add",
+      "id": "e6b587b63abd15c8",
+      "item": {
+        "type": "paragraph",
+        "id": "e6b587b63abd15c8",
+        "text": "The Systems Thinking Playbook — Dennis Meadows and Linda Booth Sweeney not finished\n"
+      },
+      "after": "e8aa3392708bfd40",
+      "date": 1480051320280
+    },
+    {
+      "type": "add",
+      "id": "7d86fd6b2e87e851",
+      "item": {
+        "type": "paragraph",
+        "id": "7d86fd6b2e87e851",
+        "text": "Envisioning the Cooperative University not finished\nThe 7 Habits of Highly Effective People — Stephen R. Covey not finished\n"
+      },
+      "after": "e6b587b63abd15c8",
+      "date": 1480051323603
+    },
+    {
+      "type": "add",
+      "id": "60bd0358c09e3d45",
+      "item": {
+        "type": "paragraph",
+        "id": "60bd0358c09e3d45",
+        "text": "Holacracy have but not started\n"
+      },
+      "after": "7d86fd6b2e87e851",
+      "date": 1480051325684
+    },
+    {
+      "type": "add",
+      "id": "711f7557e5d5fac6",
+      "item": {
+        "type": "paragraph",
+        "id": "711f7557e5d5fac6",
+        "text": "Debt — David Graeber have but not started\n"
+      },
+      "after": "60bd0358c09e3d45",
+      "date": 1480051326490
+    },
+    {
+      "type": "add",
+      "id": "d00a8d2fc234cb7b",
+      "item": {
+        "type": "paragraph",
+        "id": "d00a8d2fc234cb7b",
+        "text": "How to Know Higher Worlds — Rudolph Steiner Looking For\n"
+      },
+      "after": "711f7557e5d5fac6",
+      "date": 1480051328076
+    },
+    {
+      "type": "add",
+      "id": "cf9214f5aa2c1814",
+      "item": {
+        "type": "paragraph",
+        "id": "cf9214f5aa2c1814",
+        "text": "This is It — Alan Watts Looking For\n"
+      },
+      "after": "d00a8d2fc234cb7b",
+      "date": 1480051330646
+    },
+    {
+      "type": "add",
+      "id": "c80d8787aab8f9f7",
+      "item": {
+        "type": "paragraph",
+        "id": "c80d8787aab8f9f7",
+        "text": "This is Why We Can’t Have Nice Things Looking For\n"
+      },
+      "after": "cf9214f5aa2c1814",
+      "date": 1480051340993
+    },
+    {
+      "type": "add",
+      "id": "e90e8413ed7516e4",
+      "item": {
+        "type": "paragraph",
+        "id": "e90e8413ed7516e4",
+        "text": "Heroes — Franco Berardi Looking For\n"
+      },
+      "after": "c80d8787aab8f9f7",
+      "date": 1480051345345
+    },
+    {
+      "type": "add",
+      "id": "73f86777d40e33cd",
+      "item": {
+        "type": "paragraph",
+        "id": "73f86777d40e33cd",
+        "text": "The Coming Insurrection — The Invisible Committee Looking For\n"
+      },
+      "after": "e90e8413ed7516e4",
+      "date": 1480051349656
+    },
+    {
+      "type": "add",
+      "id": "e2deb7669c21e266",
+      "item": {
+        "type": "paragraph",
+        "id": "e2deb7669c21e266",
+        "text": "2014\n"
+      },
+      "after": "73f86777d40e33cd",
+      "date": 1480051351052
+    },
+    {
+      "type": "add",
+      "id": "b56513a13373a045",
+      "item": {
+        "type": "paragraph",
+        "id": "b56513a13373a045",
+        "text": "Nicely Said — Nicole Fenton\n"
+      },
+      "after": "e2deb7669c21e266",
+      "date": 1480051351736
+    },
+    {
+      "type": "add",
+      "id": "5e1016152fb0d6fc",
+      "item": {
+        "type": "paragraph",
+        "id": "5e1016152fb0d6fc",
+        "text": "Be Slightly Evil — Venkatesh Rao\n"
+      },
+      "after": "b56513a13373a045",
+      "date": 1480051352899
+    },
+    {
+      "type": "add",
+      "id": "bccbd1e7a9fa81e8",
+      "item": {
+        "type": "paragraph",
+        "id": "bccbd1e7a9fa81e8",
+        "text": "The Art of Not Being Governed — James C. Scott\n"
+      },
+      "after": "5e1016152fb0d6fc",
+      "date": 1480051354438
+    },
+    {
+      "type": "add",
+      "id": "375d0f0a21a2687f",
+      "item": {
+        "type": "paragraph",
+        "id": "375d0f0a21a2687f",
+        "text": "2013\n"
+      },
+      "after": "bccbd1e7a9fa81e8",
+      "date": 1480051355776
+    },
+    {
+      "type": "add",
+      "id": "c12899652e5520de",
+      "item": {
+        "type": "paragraph",
+        "id": "c12899652e5520de",
+        "text": "Binding Chaos — Heather Marsh\n"
+      },
+      "after": "375d0f0a21a2687f",
+      "date": 1480051356726
+    },
+    {
+      "type": "add",
+      "id": "048de7ebecab1f92",
+      "item": {
+        "type": "paragraph",
+        "id": "048de7ebecab1f92",
+        "text": "Systemantics — John Gall\n"
+      },
+      "after": "c12899652e5520de",
+      "date": 1480051357169
+    },
+    {
+      "type": "add",
+      "id": "0cf0d2b25b0ac789",
+      "item": {
+        "type": "paragraph",
+        "id": "0cf0d2b25b0ac789",
+        "text": "The Art of Power — Thich Nhat Hanh\n"
+      },
+      "after": "048de7ebecab1f92",
+      "date": 1480051358964
+    },
+    {
+      "type": "add",
+      "id": "66316f4c2f6faac5",
+      "item": {
+        "type": "paragraph",
+        "id": "66316f4c2f6faac5",
+        "text": "Two Cheers for Anarchism — James C. Scott\n"
+      },
+      "after": "0cf0d2b25b0ac789",
+      "date": 1480051364695
+    },
+    {
+      "type": "add",
+      "id": "73b92c6bbc56b318",
+      "item": {
+        "type": "paragraph",
+        "id": "73b92c6bbc56b318",
+        "text": "Getting to Yes — Roger Fisher\n"
+      },
+      "after": "66316f4c2f6faac5",
+      "date": 1480051365202
+    },
+    {
+      "type": "add",
+      "id": "55acf84ca1f99714",
+      "item": {
+        "type": "paragraph",
+        "id": "55acf84ca1f99714",
+        "text": "Tenth of December — George Saunders\n"
+      },
+      "after": "73b92c6bbc56b318",
+      "date": 1480051365705
+    },
+    {
+      "type": "add",
+      "id": "88add536e9b9b4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "88add536e9b9b4a5",
+        "text": "Understanding Power — Noam Chomsky\n"
+      },
+      "after": "55acf84ca1f99714",
+      "date": 1480051366219
+    },
+    {
+      "type": "add",
+      "id": "8016303176035f2f",
+      "item": {
+        "type": "paragraph",
+        "id": "8016303176035f2f",
+        "text": "Both Flesh and Not Flesh — David Foster Wallace\n"
+      },
+      "after": "88add536e9b9b4a5",
+      "date": 1480051366689
+    },
+    {
+      "type": "add",
+      "id": "f2d781b9b559cd70",
+      "item": {
+        "type": "paragraph",
+        "id": "f2d781b9b559cd70",
+        "text": "Uncreative Writing — Kenneth Goldsmith\n"
+      },
+      "after": "8016303176035f2f",
+      "date": 1480051368588
+    },
+    {
+      "type": "add",
+      "id": "0cfaafcacfe1ccfd",
+      "item": {
+        "type": "paragraph",
+        "id": "0cfaafcacfe1ccfd",
+        "text": "2012\n"
+      },
+      "after": "f2d781b9b559cd70",
+      "date": 1480051369870
+    },
+    {
+      "type": "add",
+      "id": "7374959a7af1d0ac",
+      "item": {
+        "type": "paragraph",
+        "id": "7374959a7af1d0ac",
+        "text": "Leverage Points — Donella Meadows\n"
+      },
+      "after": "0cfaafcacfe1ccfd",
+      "date": 1480051370330
+    },
+    {
+      "type": "add",
+      "id": "80891dbbd1c528d7",
+      "item": {
+        "type": "paragraph",
+        "id": "80891dbbd1c528d7",
+        "text": "The Psychopath Test — Jon Ronson\n"
+      },
+      "after": "7374959a7af1d0ac",
+      "date": 1480051371230
+    },
+    {
+      "type": "add",
+      "id": "36f6d9577dba9792",
+      "item": {
+        "type": "paragraph",
+        "id": "36f6d9577dba9792",
+        "text": "Dumbing Us Down — John Taylor Gatto\n"
+      },
+      "after": "80891dbbd1c528d7",
+      "date": 1480051371655
+    },
+    {
+      "type": "add",
+      "id": "df492d4dbaec6d67",
+      "item": {
+        "type": "paragraph",
+        "id": "df492d4dbaec6d67",
+        "text": "Infinite Jest — David Foster Wallace\n"
+      },
+      "after": "36f6d9577dba9792",
+      "date": 1480051372169
+    },
+    {
+      "type": "add",
+      "id": "379476e08e7d75dd",
+      "item": {
+        "type": "paragraph",
+        "id": "379476e08e7d75dd",
+        "text": "The Twenty-four Hour Mind — Rosalind Cartwright\nNick Harkaway\n"
+      },
+      "after": "df492d4dbaec6d67",
+      "date": 1480051378309
+    },
+    {
+      "type": "add",
+      "id": "0c2fd8a0dd391317",
+      "item": {
+        "type": "paragraph",
+        "id": "0c2fd8a0dd391317",
+        "text": "Alone Together: Why We Expect More from Technology and Less from Each Other — Sherry Turkle\nAmusing Ourselves to Death — Neil Postman\nClose to the Machine: Technophilia and Its Discontents — Ellen Ullman\nIf on a winter's night a traveller — Italo Calvino\nThe Pleasures and Sorrows of Work — Alain De Botton\nThe Shape of Design — Frank Chimero\nProgrammed Visions: Software and Memory — Wendy Hui-Kyong Chun\nThe Handmaid's Tale — Margaret Atwood\nNetworks Without a Cause — Geert Lovink\nMy Mother Was a Computer: Digital Subjects and Literary Texts — N. Katherine Hayles\nCensoring Culture: Contemporary Threats to Free-Expression\nLiterary Machines — Ted Nelson\nPeer Pressure — Brad Troemel\nArcades Project — Walter Benjamin\n\n2011\n\nAll Tomorrow’s Parties — William Gibson\nHow to Count — Steven Frank\nChaos: Making a New Science — James Gleick\nNewsgames: Journalism at Play — Ian Bogost, Simon Ferrari, Bobby Schweizer\nLiving with Complexity — Donald Norman\nYou Are Not A Gadget — Jaron Lanier\nSeeing Is Forgetting the Name of the Things One Sees: A Life of Contemporary Artist Robert Irwin — Lawrence Weschler\nGlut: Mastering Information Through the Ages — Alex Wright\nWorld as Design — Otl Aicher\nRethinking History — Keith Jenkins\nThe Fall — Albert Camus\nProust Was a Neuroscientist — Jonah Lehrer\nGrid Systems — Joseph Muller Brockman\nRiver of Shadows — Rebecca Solnit\nUncorporate Identity — Metahaven\nInternet Art — Rachel Greene"
+      },
+      "after": "379476e08e7d75dd",
+      "date": 1480051380843
+    },
+    {
+      "type": "edit",
+      "id": "379476e08e7d75dd",
+      "item": {
+        "type": "paragraph",
+        "id": "379476e08e7d75dd",
+        "text": "The Twenty-four Hour Mind — Rosalind Cartwright\n"
+      },
+      "date": 1480051383038
+    },
+    {
+      "type": "add",
+      "id": "4a91b1b55c43abd7",
+      "item": {
+        "type": "paragraph",
+        "id": "4a91b1b55c43abd7",
+        "text": "Nick Harkaway"
+      },
+      "after": "379476e08e7d75dd",
+      "date": 1480051386980
+    },
+    {
+      "type": "edit",
+      "id": "0c2fd8a0dd391317",
+      "item": {
+        "type": "paragraph",
+        "id": "0c2fd8a0dd391317",
+        "text": "Alone Together: Why We Expect More from Technology and Less from Each Other — Sherry Turkle\n"
+      },
+      "date": 1480051393889
+    },
+    {
+      "type": "add",
+      "id": "4a41c4d423272b39",
+      "item": {
+        "type": "paragraph",
+        "id": "4a41c4d423272b39",
+        "text": "Amusing Ourselves to Death — Neil Postman\n"
+      },
+      "after": "0c2fd8a0dd391317",
+      "date": 1480051394694
+    },
+    {
+      "type": "add",
+      "id": "c28e202a4a264ba6",
+      "item": {
+        "type": "paragraph",
+        "id": "c28e202a4a264ba6",
+        "text": "Close to the Machine: Technophilia and Its Discontents — Ellen Ullman\n"
+      },
+      "after": "4a41c4d423272b39",
+      "date": 1480051395623
+    },
+    {
+      "type": "add",
+      "id": "975586a2ba84fb1c",
+      "item": {
+        "type": "paragraph",
+        "id": "975586a2ba84fb1c",
+        "text": "If on a winter's night a traveller — Italo Calvino\n"
+      },
+      "after": "c28e202a4a264ba6",
+      "date": 1480051396425
+    },
+    {
+      "type": "add",
+      "id": "29d6ae2d6e111db0",
+      "item": {
+        "type": "paragraph",
+        "id": "29d6ae2d6e111db0",
+        "text": "The Pleasures and Sorrows of Work — Alain De Botton\n"
+      },
+      "after": "975586a2ba84fb1c",
+      "date": 1480051397080
+    },
+    {
+      "type": "add",
+      "id": "7cb1d8b4198c4662",
+      "item": {
+        "type": "paragraph",
+        "id": "7cb1d8b4198c4662",
+        "text": "The Shape of Design — Frank Chimero\n"
+      },
+      "after": "29d6ae2d6e111db0",
+      "date": 1480051397765
+    },
+    {
+      "type": "add",
+      "id": "3d6be155803b175f",
+      "item": {
+        "type": "paragraph",
+        "id": "3d6be155803b175f",
+        "text": "Programmed Visions: Software and Memory — Wendy Hui-Kyong Chun\n"
+      },
+      "after": "7cb1d8b4198c4662",
+      "date": 1480051398773
+    },
+    {
+      "type": "add",
+      "id": "96119a710a88f651",
+      "item": {
+        "type": "paragraph",
+        "id": "96119a710a88f651",
+        "text": "The Handmaid's Tale — Margaret Atwood\n"
+      },
+      "after": "3d6be155803b175f",
+      "date": 1480051400310
+    },
+    {
+      "type": "add",
+      "id": "ed77a3c91a646934",
+      "item": {
+        "type": "paragraph",
+        "id": "ed77a3c91a646934",
+        "text": "Networks Without a Cause — Geert Lovink\n"
+      },
+      "after": "96119a710a88f651",
+      "date": 1480051401056
+    },
+    {
+      "type": "add",
+      "id": "f08415629c3072a6",
+      "item": {
+        "type": "paragraph",
+        "id": "f08415629c3072a6",
+        "text": "My Mother Was a Computer: Digital Subjects and Literary Texts — N. Katherine Hayles\n"
+      },
+      "after": "ed77a3c91a646934",
+      "date": 1480051402082
+    },
+    {
+      "type": "add",
+      "id": "04f719c5554f5299",
+      "item": {
+        "type": "paragraph",
+        "id": "04f719c5554f5299",
+        "text": "Censoring Culture: Contemporary Threats to Free-Expression\n"
+      },
+      "after": "f08415629c3072a6",
+      "date": 1480051403277
+    },
+    {
+      "type": "add",
+      "id": "29a2a2e6be2ee506",
+      "item": {
+        "type": "paragraph",
+        "id": "29a2a2e6be2ee506",
+        "text": "Literary Machines — Ted Nelson\n"
+      },
+      "after": "04f719c5554f5299",
+      "date": 1480051403982
+    },
+    {
+      "type": "add",
+      "id": "7d1f3a5c216948e1",
+      "item": {
+        "type": "paragraph",
+        "id": "7d1f3a5c216948e1",
+        "text": "Peer Pressure — Brad Troemel\n"
+      },
+      "after": "29a2a2e6be2ee506",
+      "date": 1480051404694
+    },
+    {
+      "type": "add",
+      "id": "76dcc4be725f16dc",
+      "item": {
+        "type": "paragraph",
+        "id": "76dcc4be725f16dc",
+        "text": "Arcades Project — Walter Benjamin\n"
+      },
+      "after": "7d1f3a5c216948e1",
+      "date": 1480051405332
+    },
+    {
+      "type": "add",
+      "id": "6dd521e77619d161",
+      "item": {
+        "type": "paragraph",
+        "id": "6dd521e77619d161",
+        "text": "2011\n"
+      },
+      "after": "76dcc4be725f16dc",
+      "date": 1480051406266
+    },
+    {
+      "type": "add",
+      "id": "2cbb80aab929ec81",
+      "item": {
+        "type": "paragraph",
+        "id": "2cbb80aab929ec81",
+        "text": "All Tomorrow’s Parties — William Gibson\n"
+      },
+      "after": "6dd521e77619d161",
+      "date": 1480051408020
+    },
+    {
+      "type": "add",
+      "id": "2995e6ab7c189832",
+      "item": {
+        "type": "paragraph",
+        "id": "2995e6ab7c189832",
+        "text": "How to Count — Steven Frank\nChaos: Making a New Science — James Gleick\nNewsgames: Journalism at Play — Ian Bogost, Simon Ferrari, Bobby Schweizer\nLiving with Complexity — Donald Norman\nYou Are Not A Gadget — Jaron Lanier\nSeeing Is Forgetting the Name of the Things One Sees: A Life of Contemporary Artist Robert Irwin — Lawrence Weschler\nGlut: Mastering Information Through the Ages — Alex Wright\nWorld as Design — Otl Aicher\nRethinking History — Keith Jenkins\nThe Fall — Albert Camus\nProust Was a Neuroscientist — Jonah Lehrer\nGrid Systems — Joseph Muller Brockman\nRiver of Shadows — Rebecca Solnit\nUncorporate Identity — Metahaven\nInternet Art — Rachel Greene"
+      },
+      "after": "2cbb80aab929ec81",
+      "date": 1480051411500
+    },
+    {
+      "type": "add",
+      "id": "47676ecd343914c8",
+      "item": {
+        "type": "paragraph",
+        "id": "47676ecd343914c8",
+        "text": "MARKDOWN"
+      },
+      "after": "539d1fb838f3b6e5",
+      "date": 1480051419118
+    },
+    {
+      "type": "edit",
+      "id": "47676ecd343914c8",
+      "item": {
+        "type": "paragraph",
+        "id": "47676ecd343914c8",
+        "text": "Todo: add books from 5yd, add headings"
+      },
+      "date": 1480051432529
+    },
+    {
+      "type": "edit",
+      "id": "2995e6ab7c189832",
+      "item": {
+        "type": "paragraph",
+        "id": "2995e6ab7c189832",
+        "text": "How to Count — Steven Frank\n"
+      },
+      "date": 1480051441986
+    },
+    {
+      "type": "add",
+      "id": "864cd9f26435e4bc",
+      "item": {
+        "type": "paragraph",
+        "id": "864cd9f26435e4bc",
+        "text": "Chaos: Making a New Science — James Gleick\n"
+      },
+      "after": "2995e6ab7c189832",
+      "date": 1480051442594
+    },
+    {
+      "type": "add",
+      "id": "c4dabe9f0344868b",
+      "item": {
+        "type": "paragraph",
+        "id": "c4dabe9f0344868b",
+        "text": "Newsgames: Journalism at Play — Ian Bogost, Simon "
+      },
+      "after": "864cd9f26435e4bc",
+      "date": 1480051443073
+    },
+    {
+      "type": "edit",
+      "id": "c4dabe9f0344868b",
+      "item": {
+        "type": "paragraph",
+        "id": "c4dabe9f0344868b",
+        "text": "Newsgames: Journalism at Play — Ian Bogost, Simon Ferrari, Bobby Schweizer\n"
+      },
+      "date": 1480051446078
+    },
+    {
+      "type": "add",
+      "id": "a604a0f21fd26e5a",
+      "item": {
+        "type": "paragraph",
+        "id": "a604a0f21fd26e5a",
+        "text": "Living with Complexity — Donald Norman\n"
+      },
+      "after": "c4dabe9f0344868b",
+      "date": 1480051448716
+    },
+    {
+      "type": "add",
+      "id": "bb7dd50055a47c26",
+      "item": {
+        "type": "paragraph",
+        "id": "bb7dd50055a47c26",
+        "text": "You Are Not A Gadget — Jaron Lanier\n"
+      },
+      "after": "a604a0f21fd26e5a",
+      "date": 1480051449201
+    },
+    {
+      "type": "add",
+      "id": "0a391fa8b74a8094",
+      "item": {
+        "type": "paragraph",
+        "id": "0a391fa8b74a8094",
+        "text": "Seeing Is Forgetting the Name of the Things One Sees: "
+      },
+      "after": "bb7dd50055a47c26",
+      "date": 1480051450493
+    },
+    {
+      "type": "add",
+      "id": "2b709a9401b981b0",
+      "item": {
+        "type": "paragraph",
+        "id": "2b709a9401b981b0",
+        "text": "A Life of Contemporary Artist Robert Irwin — Lawrence Weschler\n"
+      },
+      "after": "0a391fa8b74a8094",
+      "date": 1480051452039
+    },
+    {
+      "type": "add",
+      "id": "3757085fdc52e559",
+      "item": {
+        "type": "paragraph",
+        "id": "3757085fdc52e559",
+        "text": "Glut: Mastering Information Through the Ages — Alex Wright\n"
+      },
+      "after": "2b709a9401b981b0",
+      "date": 1480051453180
+    },
+    {
+      "type": "add",
+      "id": "00092b492c6500ff",
+      "item": {
+        "type": "paragraph",
+        "id": "00092b492c6500ff",
+        "text": "World as Design — Otl Aicher\n"
+      },
+      "after": "3757085fdc52e559",
+      "date": 1480051454199
+    },
+    {
+      "type": "add",
+      "id": "5c7ce424937f3986",
+      "item": {
+        "type": "paragraph",
+        "id": "5c7ce424937f3986",
+        "text": "Rethinking History — Keith Jenkins\n"
+      },
+      "after": "00092b492c6500ff",
+      "date": 1480051455211
+    },
+    {
+      "type": "add",
+      "id": "385622ced7e7de1c",
+      "item": {
+        "type": "paragraph",
+        "id": "385622ced7e7de1c",
+        "text": "The Fall — Albert Camus\n"
+      },
+      "after": "5c7ce424937f3986",
+      "date": 1480051456304
+    },
+    {
+      "type": "add",
+      "id": "41d4d177980f2664",
+      "item": {
+        "type": "paragraph",
+        "id": "41d4d177980f2664",
+        "text": "Proust Was a Neuroscientist — Jonah Lehrer\n"
+      },
+      "after": "385622ced7e7de1c",
+      "date": 1480051457459
+    },
+    {
+      "type": "add",
+      "id": "b0cd0d90453283a5",
+      "item": {
+        "type": "paragraph",
+        "id": "b0cd0d90453283a5",
+        "text": "Grid Systems — Joseph Muller Brockman\n"
+      },
+      "after": "41d4d177980f2664",
+      "date": 1480051458557
+    },
+    {
+      "type": "add",
+      "id": "e3b79b07755beae3",
+      "item": {
+        "type": "paragraph",
+        "id": "e3b79b07755beae3",
+        "text": "River of Shadows — Rebecca Solnit\n"
+      },
+      "after": "b0cd0d90453283a5",
+      "date": 1480051460506
+    },
+    {
+      "type": "add",
+      "id": "440317d4a99a825e",
+      "item": {
+        "type": "paragraph",
+        "id": "440317d4a99a825e",
+        "text": "Uncorporate Identity — Metahaven\n"
+      },
+      "after": "e3b79b07755beae3",
+      "date": 1480051461407
+    },
+    {
+      "type": "add",
+      "id": "08cffa8b7434e481",
+      "item": {
+        "type": "paragraph",
+        "id": "08cffa8b7434e481",
+        "text": "Internet Art — Rachel Greene"
+      },
+      "after": "440317d4a99a825e",
+      "date": 1480051464369
+    },
+    {
+      "type": "edit",
+      "id": "acf68a4f971a1136",
+      "item": {
+        "type": "paragraph",
+        "id": "acf68a4f971a1136",
+        "text": "The Gift: Creativity and The Artist in the Modern World — Lewis Hyde\nThe Information — James Gleick\nOutliers: The Story of Success — Malcom Gladwell\nMurphy — Samuel Beckett\nEssays on the Blurring of Art and Life — Alan Kaprow\nThe Society of Mind — Marvin Minsky\n\n2010\n\nConfessions of Griseledes Royal\nI Wonder — Marian Bantjes\nOutside Inside — Bruce Davidson\nThey Called Her Styrene, Etc. — Ed Ruscha\nMaps of the Imagination: The Writer as Cartographer — Peter Turchi\nOroonoko — ??\nOf Walking on Ice — Werner Herzog\nIlluminations — Walter Benjamin\nUnderstanding Comics — Scott McCloud\nGabriel Ororzco — Ann Temkin et al\n\n2009\n\nProcessing: A Programming Handbook for Visual Designers and Artists — Casey Reas and Ben Fry\n\n2008\n\nCat’s Cradle — Kurt Vonnegut\nThe Metamorphosis — Franz Kafka\nDaniel Eatock Imprint: Works 1975-2007 — Daniel Eatock\nPeace is Every Step — Thich Nhat Hahn\nThe Fountainhead — Ayn Rand (looool)\nThe Road — Cormac McCarthy\nWaiting for Godot — Samuel Beckett\nThe Stranger — Alfred Camus\n\n2007\n\n2006\n\n2005\n\nHarry Potter and the Half-Blood Prince — J.K. Rowling\nMe Talk Pretty One Day — David Sedaris\nThe House on Mango Street — ??\n\n2004\n\n2003\n\n2002\n\n2001\n\n2000\n\n1999\n\n1998\n\n1997\n\n1996\n\n1995\n\n1994\n\n1993\n\n1992\n\n1991\n\nunknown\n\nWhen You Are Engulfed in Flames — David Sedaris\nA Long Way Down — Nick Hornby\nSex, Drugs, and Cocoa Puffs — Chuck Klosterman\nThe Great Gatsby — F. Scott Fitzgerald\nTellmewhy — Karlssonwilker\n\nbooks to borrow or get"
+      },
+      "date": 1480051659212
+    },
+    {
+      "type": "add",
+      "id": "947cfabbf9ad748c",
+      "item": {
+        "type": "paragraph",
+        "id": "947cfabbf9ad748c",
+        "text": "[[Books To Borrow Or Get]]"
+      },
+      "after": "47676ecd343914c8",
+      "date": 1480051689042
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a0b58ac9f65c9a6f"
+      },
+      "id": "a0b58ac9f65c9a6f",
+      "type": "add",
+      "after": "acf68a4f971a1136",
+      "date": 1480051706972
+    },
+    {
+      "type": "edit",
+      "id": "a0b58ac9f65c9a6f",
+      "item": {
+        "type": "pagefold",
+        "id": "a0b58ac9f65c9a6f",
+        "text": "Book pages"
+      },
+      "date": 1480051735837
+    },
+    {
+      "type": "move",
+      "order": [
+        "04395b0d9594d53a",
+        "480ca08bca87851f",
+        "539d1fb838f3b6e5",
+        "47676ecd343914c8",
+        "a0b58ac9f65c9a6f",
+        "947cfabbf9ad748c",
+        "b8573327cf3ed72f",
+        "e92b47cd063127c2",
+        "ac855d5bc12d8429",
+        "67d598c3e7dfc493",
+        "37d6b755a8642a22",
+        "3997157a1ad84ed8",
+        "cb8f24f740572355",
+        "232fcf0ccfd6636a",
+        "44bbec53d6c14203",
+        "69783f579426846f",
+        "71d44e7cfa566814",
+        "139f270a57b56f5a",
+        "72a368ad97d483dc",
+        "fb1f69423b661abf",
+        "b6490e892262c7d3",
+        "d221f745d3fdafb3",
+        "c068c4f3f9c4d690",
+        "3205743977affbc2",
+        "2942a74b80b962bf",
+        "b9600dbd4d70d2a7",
+        "99cfa14052c85d7a",
+        "f936eba72da6ef04",
+        "e4e28c4baa60c6a0",
+        "a7891244b3917bdf",
+        "0663cc8ff60bf19a",
+        "f44f09703885da2b",
+        "2b27a939d2f98aed",
+        "7da896afa3bb7129",
+        "de54ade353eb3d2e",
+        "6a9985e79566b354",
+        "9064c378f245031c",
+        "e4931b59ab5c5997",
+        "650f86d55ef032e9",
+        "72aa9f266145fb54",
+        "a059e778ee270c74",
+        "5b75da8d9e61bbce",
+        "281d72dec93ec577",
+        "4e984b87146fcaf5",
+        "90ec56f7f5189b25",
+        "baeb9bc685ef1804",
+        "f66e291e3d43f43d",
+        "0ed3cb2eddf56162",
+        "7069334ede737c7b",
+        "80bf622de8442f6c",
+        "6c6936572a5b4eeb",
+        "148a2a785156586b",
+        "20e19fffc2dbdbf7",
+        "07805c3e4ec88f0e",
+        "535f3c0107ec092a",
+        "9163293c74d3cace",
+        "1f5d391ac24e3c13",
+        "79e5f145b75bc57c",
+        "85f57f745ed0f2ac",
+        "d8330371bd463dd8",
+        "32194bfc7327fa82",
+        "519c61169db55416",
+        "e84c13c18504326f",
+        "f0b47f5b4c28e3de",
+        "58308b253c3baadf",
+        "96b46295cf690349",
+        "eb1b95c4440e585f",
+        "2663dd6f353a2bd7",
+        "736e9a7bdb89e0d3",
+        "8a793b018160827d",
+        "cd6d42775db37d1c",
+        "9b283acef8026c9e",
+        "9b75beb3b87f4085",
+        "dcf8e944d718ee79",
+        "a720c226765b388d",
+        "c5385e23b9d54ad2",
+        "ad722fb3593d0ec8",
+        "95268e8d88356a04",
+        "bdf10afbf9c7188f",
+        "762fee93b60b265e",
+        "28f939b86a63bc21",
+        "ff2167442a1bfa35",
+        "1109ee9c1cf46253",
+        "27e844d2d1248a43",
+        "8c39a78d5118dc67",
+        "9951d5299495b6f2",
+        "812b06471534fb57",
+        "5040020a4b30286c",
+        "524e9e7c9178163a",
+        "40b0cc5616359994",
+        "e8aa3392708bfd40",
+        "e6b587b63abd15c8",
+        "7d86fd6b2e87e851",
+        "60bd0358c09e3d45",
+        "711f7557e5d5fac6",
+        "d00a8d2fc234cb7b",
+        "cf9214f5aa2c1814",
+        "c80d8787aab8f9f7",
+        "e90e8413ed7516e4",
+        "73f86777d40e33cd",
+        "e2deb7669c21e266",
+        "b56513a13373a045",
+        "5e1016152fb0d6fc",
+        "bccbd1e7a9fa81e8",
+        "375d0f0a21a2687f",
+        "c12899652e5520de",
+        "048de7ebecab1f92",
+        "0cf0d2b25b0ac789",
+        "66316f4c2f6faac5",
+        "73b92c6bbc56b318",
+        "55acf84ca1f99714",
+        "88add536e9b9b4a5",
+        "8016303176035f2f",
+        "f2d781b9b559cd70",
+        "0cfaafcacfe1ccfd",
+        "7374959a7af1d0ac",
+        "80891dbbd1c528d7",
+        "36f6d9577dba9792",
+        "df492d4dbaec6d67",
+        "379476e08e7d75dd",
+        "4a91b1b55c43abd7",
+        "0c2fd8a0dd391317",
+        "4a41c4d423272b39",
+        "c28e202a4a264ba6",
+        "975586a2ba84fb1c",
+        "29d6ae2d6e111db0",
+        "7cb1d8b4198c4662",
+        "3d6be155803b175f",
+        "96119a710a88f651",
+        "ed77a3c91a646934",
+        "f08415629c3072a6",
+        "04f719c5554f5299",
+        "29a2a2e6be2ee506",
+        "7d1f3a5c216948e1",
+        "76dcc4be725f16dc",
+        "6dd521e77619d161",
+        "2cbb80aab929ec81",
+        "2995e6ab7c189832",
+        "864cd9f26435e4bc",
+        "c4dabe9f0344868b",
+        "a604a0f21fd26e5a",
+        "bb7dd50055a47c26",
+        "0a391fa8b74a8094",
+        "2b709a9401b981b0",
+        "3757085fdc52e559",
+        "00092b492c6500ff",
+        "5c7ce424937f3986",
+        "385622ced7e7de1c",
+        "41d4d177980f2664",
+        "b0cd0d90453283a5",
+        "e3b79b07755beae3",
+        "440317d4a99a825e",
+        "08cffa8b7434e481",
+        "cde9c35ef8d014f8",
+        "acf68a4f971a1136"
+      ],
+      "id": "a0b58ac9f65c9a6f",
+      "date": 1480051745043
+    },
+    {
+      "type": "add",
+      "id": "9ac789003949514b",
+      "item": {
+        "type": "paragraph",
+        "id": "9ac789003949514b",
+        "text": "[[Books 2015]]"
+      },
+      "after": "947cfabbf9ad748c",
+      "date": 1480051830592
+    },
+    {
+      "type": "remove",
+      "id": "c5385e23b9d54ad2",
+      "date": 1480051852202
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c5385e23b9d54ad2",
+        "text": "Networks of New York — Ingrid Burrington\n"
+      },
+      "after": "a720c226765b388d",
+      "id": "c5385e23b9d54ad2",
+      "date": 1480051859090
+    },
+    {
+      "type": "remove",
+      "id": "9ac789003949514b",
+      "date": 1480051915268
+    },
+    {
+      "type": "edit",
+      "id": "acf68a4f971a1136",
+      "item": {
+        "type": "paragraph",
+        "id": "acf68a4f971a1136",
+        "text": "The Gift: Creativity and The Artist in the Modern World — Lewis Hyde\n"
+      },
+      "date": 1480051937750
+    },
+    {
+      "type": "add",
+      "id": "5eb937a6fdd2c0b9",
+      "item": {
+        "type": "paragraph",
+        "id": "5eb937a6fdd2c0b9",
+        "text": "The Information — James Gleick\n"
+      },
+      "after": "acf68a4f971a1136",
+      "date": 1480051938743
+    },
+    {
+      "type": "add",
+      "id": "23b22c8b0f47dee0",
+      "item": {
+        "type": "paragraph",
+        "id": "23b22c8b0f47dee0",
+        "text": "Outliers: The Story of Success — Malcom Gladwell\n"
+      },
+      "after": "5eb937a6fdd2c0b9",
+      "date": 1480051940796
+    },
+    {
+      "type": "add",
+      "id": "fbc86858b942fd60",
+      "item": {
+        "type": "paragraph",
+        "id": "fbc86858b942fd60",
+        "text": "Murphy — Samuel Beckett\n"
+      },
+      "after": "23b22c8b0f47dee0",
+      "date": 1480051941336
+    },
+    {
+      "type": "add",
+      "id": "73feaab1692b3075",
+      "item": {
+        "type": "paragraph",
+        "id": "73feaab1692b3075",
+        "text": "Essays on the Blurring of Art and Life — Alan Kaprow\n"
+      },
+      "after": "fbc86858b942fd60",
+      "date": 1480051942464
+    },
+    {
+      "type": "add",
+      "id": "c746903e0286c090",
+      "item": {
+        "type": "paragraph",
+        "id": "c746903e0286c090",
+        "text": "The Society of Mind — Marvin Minsky\n"
+      },
+      "after": "73feaab1692b3075",
+      "date": 1480051943095
+    },
+    {
+      "type": "add",
+      "id": "5dc8967cb670b3ad",
+      "item": {
+        "type": "paragraph",
+        "id": "5dc8967cb670b3ad",
+        "text": "2010\n"
+      },
+      "after": "c746903e0286c090",
+      "date": 1480051943586
+    },
+    {
+      "type": "add",
+      "id": "3c117725b96a8ab7",
+      "item": {
+        "type": "paragraph",
+        "id": "3c117725b96a8ab7",
+        "text": "Confessions of Griseledes Royal\n"
+      },
+      "after": "5dc8967cb670b3ad",
+      "date": 1480051946767
+    },
+    {
+      "type": "add",
+      "id": "53605458ccc663bb",
+      "item": {
+        "type": "paragraph",
+        "id": "53605458ccc663bb",
+        "text": "I Wonder — Marian Bantjes\n"
+      },
+      "after": "3c117725b96a8ab7",
+      "date": 1480051947953
+    },
+    {
+      "type": "add",
+      "id": "d1780aa379e4b1f7",
+      "item": {
+        "type": "paragraph",
+        "id": "d1780aa379e4b1f7",
+        "text": "Outside Inside — Bruce Davidson\n"
+      },
+      "after": "53605458ccc663bb",
+      "date": 1480051951728
+    },
+    {
+      "type": "add",
+      "id": "c8cd2eac80929781",
+      "item": {
+        "type": "paragraph",
+        "id": "c8cd2eac80929781",
+        "text": "They Called Her Styrene, Etc. — Ed Ruscha\n"
+      },
+      "after": "d1780aa379e4b1f7",
+      "date": 1480051952589
+    },
+    {
+      "type": "add",
+      "id": "df00d3bc7278af10",
+      "item": {
+        "type": "paragraph",
+        "id": "df00d3bc7278af10",
+        "text": "Maps of the Imagination: The Writer as Cartographer — Peter Turchi\n"
+      },
+      "after": "c8cd2eac80929781",
+      "date": 1480051953381
+    },
+    {
+      "type": "add",
+      "id": "ec63250a624bfd15",
+      "item": {
+        "type": "paragraph",
+        "id": "ec63250a624bfd15",
+        "text": "Oroonoko — ??\n"
+      },
+      "after": "df00d3bc7278af10",
+      "date": 1480051954254
+    },
+    {
+      "type": "add",
+      "id": "12a42a4f4469dd78",
+      "item": {
+        "type": "paragraph",
+        "id": "12a42a4f4469dd78",
+        "text": "Of Walking on Ice — Werner Herzog\n"
+      },
+      "after": "ec63250a624bfd15",
+      "date": 1480051954798
+    },
+    {
+      "type": "add",
+      "id": "71535a55a6e70e86",
+      "item": {
+        "type": "paragraph",
+        "id": "71535a55a6e70e86",
+        "text": "Illuminations — Walter Benjamin\n"
+      },
+      "after": "12a42a4f4469dd78",
+      "date": 1480051955282
+    },
+    {
+      "type": "add",
+      "id": "d4256cf6225d92f9",
+      "item": {
+        "type": "paragraph",
+        "id": "d4256cf6225d92f9",
+        "text": "Understanding Comics — Scott McCloud\n"
+      },
+      "after": "71535a55a6e70e86",
+      "date": 1480051956123
+    },
+    {
+      "type": "add",
+      "id": "734216c4ab73f22d",
+      "item": {
+        "type": "paragraph",
+        "id": "734216c4ab73f22d",
+        "text": "Gabriel Ororzco — Ann Temkin et al\n"
+      },
+      "after": "d4256cf6225d92f9",
+      "date": 1480051956758
+    },
+    {
+      "type": "add",
+      "id": "a3bdeafed7ac6c2c",
+      "item": {
+        "type": "paragraph",
+        "id": "a3bdeafed7ac6c2c",
+        "text": "2009\n"
+      },
+      "after": "734216c4ab73f22d",
+      "date": 1480051957157
+    },
+    {
+      "type": "add",
+      "id": "8132b00ea409e474",
+      "item": {
+        "type": "paragraph",
+        "id": "8132b00ea409e474",
+        "text": "Processing: A Programming Handbook for Visual "
+      },
+      "after": "a3bdeafed7ac6c2c",
+      "date": 1480051958215
+    },
+    {
+      "type": "add",
+      "id": "578715d15d1abfab",
+      "item": {
+        "type": "paragraph",
+        "id": "578715d15d1abfab",
+        "text": "Designers and Artists — Casey Reas and Ben Fry\n"
+      },
+      "after": "8132b00ea409e474",
+      "date": 1480051959038
+    },
+    {
+      "type": "add",
+      "id": "7961350027529920",
+      "item": {
+        "type": "paragraph",
+        "id": "7961350027529920",
+        "text": "2008\n"
+      },
+      "after": "578715d15d1abfab",
+      "date": 1480051959486
+    },
+    {
+      "type": "add",
+      "id": "000ae15bb4b83b67",
+      "item": {
+        "type": "paragraph",
+        "id": "000ae15bb4b83b67",
+        "text": "Cat’s Cradle — Kurt Vonnegut\n"
+      },
+      "after": "7961350027529920",
+      "date": 1480051960207
+    },
+    {
+      "type": "add",
+      "id": "54e27d32912a72b5",
+      "item": {
+        "type": "paragraph",
+        "id": "54e27d32912a72b5",
+        "text": "The Metamorphosis — Franz Kafka\n"
+      },
+      "after": "000ae15bb4b83b67",
+      "date": 1480051960747
+    },
+    {
+      "type": "add",
+      "id": "68ef9fc279ca3ce6",
+      "item": {
+        "type": "paragraph",
+        "id": "68ef9fc279ca3ce6",
+        "text": "Daniel Eatock Imprint: Works 1975-2007 — Daniel Eatock\n"
+      },
+      "after": "54e27d32912a72b5",
+      "date": 1480051961735
+    },
+    {
+      "type": "add",
+      "id": "3913f09d279d6c2c",
+      "item": {
+        "type": "paragraph",
+        "id": "3913f09d279d6c2c",
+        "text": "Peace is Every Step — Thich Nhat Hahn\n"
+      },
+      "after": "68ef9fc279ca3ce6",
+      "date": 1480051962425
+    },
+    {
+      "type": "add",
+      "id": "000ff93d8e286cff",
+      "item": {
+        "type": "paragraph",
+        "id": "000ff93d8e286cff",
+        "text": "The Fountainhead — Ayn Rand (looool)\n"
+      },
+      "after": "3913f09d279d6c2c",
+      "date": 1480051966115
+    },
+    {
+      "type": "add",
+      "id": "9735ce9d63d30999",
+      "item": {
+        "type": "paragraph",
+        "id": "9735ce9d63d30999",
+        "text": "The Road — Cormac McCarthy\n"
+      },
+      "after": "000ff93d8e286cff",
+      "date": 1480051966865
+    },
+    {
+      "type": "add",
+      "id": "e7a998403ee86c3a",
+      "item": {
+        "type": "paragraph",
+        "id": "e7a998403ee86c3a",
+        "text": "Waiting for Godot — Samuel Beckett\n"
+      },
+      "after": "9735ce9d63d30999",
+      "date": 1480051967315
+    },
+    {
+      "type": "add",
+      "id": "80ef686711b4695f",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef686711b4695f",
+        "text": "The Stranger — Alfred Camus\n"
+      },
+      "after": "e7a998403ee86c3a",
+      "date": 1480051968036
+    },
+    {
+      "type": "add",
+      "id": "b599744f256c22e6",
+      "item": {
+        "type": "paragraph",
+        "id": "b599744f256c22e6",
+        "text": "2007\n"
+      },
+      "after": "80ef686711b4695f",
+      "date": 1480051968452
+    },
+    {
+      "type": "add",
+      "id": "d679e9e0f0347bb9",
+      "item": {
+        "type": "paragraph",
+        "id": "d679e9e0f0347bb9",
+        "text": "2006\n"
+      },
+      "after": "b599744f256c22e6",
+      "date": 1480051968941
+    },
+    {
+      "type": "add",
+      "id": "021c9873d8cfcae4",
+      "item": {
+        "type": "paragraph",
+        "id": "021c9873d8cfcae4",
+        "text": "2005\n"
+      },
+      "after": "d679e9e0f0347bb9",
+      "date": 1480051969376
+    },
+    {
+      "type": "add",
+      "id": "4fdb5c3a93771a05",
+      "item": {
+        "type": "paragraph",
+        "id": "4fdb5c3a93771a05",
+        "text": "Harry Potter and the Half-Blood Prince — J.K. Rowling\n"
+      },
+      "after": "021c9873d8cfcae4",
+      "date": 1480051970119
+    },
+    {
+      "type": "add",
+      "id": "49baf281efd1b0d7",
+      "item": {
+        "type": "paragraph",
+        "id": "49baf281efd1b0d7",
+        "text": "Me Talk Pretty One Day — David Sedaris\n"
+      },
+      "after": "4fdb5c3a93771a05",
+      "date": 1480051970511
+    },
+    {
+      "type": "add",
+      "id": "7adb9fa70ea153a5",
+      "item": {
+        "type": "paragraph",
+        "id": "7adb9fa70ea153a5",
+        "text": "The House on Mango Street — ??\n"
+      },
+      "after": "49baf281efd1b0d7",
+      "date": 1480051971016
+    },
+    {
+      "type": "add",
+      "id": "44b59d8157e50887",
+      "item": {
+        "type": "paragraph",
+        "id": "44b59d8157e50887",
+        "text": "2004\n"
+      },
+      "after": "7adb9fa70ea153a5",
+      "date": 1480051971428
+    },
+    {
+      "type": "add",
+      "id": "efc2a732adc7dba8",
+      "item": {
+        "type": "paragraph",
+        "id": "efc2a732adc7dba8",
+        "text": "2003\n"
+      },
+      "after": "44b59d8157e50887",
+      "date": 1480051971838
+    },
+    {
+      "type": "add",
+      "id": "9c8c88bc298d1354",
+      "item": {
+        "type": "paragraph",
+        "id": "9c8c88bc298d1354",
+        "text": "2002\n"
+      },
+      "after": "efc2a732adc7dba8",
+      "date": 1480051972203
+    },
+    {
+      "type": "add",
+      "id": "bb0f4708ed751c66",
+      "item": {
+        "type": "paragraph",
+        "id": "bb0f4708ed751c66",
+        "text": "2001\n"
+      },
+      "after": "9c8c88bc298d1354",
+      "date": 1480051972533
+    },
+    {
+      "type": "add",
+      "id": "ed355acde5b2d031",
+      "item": {
+        "type": "paragraph",
+        "id": "ed355acde5b2d031",
+        "text": "2000\n"
+      },
+      "after": "bb0f4708ed751c66",
+      "date": 1480051973205
+    },
+    {
+      "type": "add",
+      "id": "6ac4b0c2c53ddcb0",
+      "item": {
+        "type": "paragraph",
+        "id": "6ac4b0c2c53ddcb0",
+        "text": "1999\n"
+      },
+      "after": "ed355acde5b2d031",
+      "date": 1480051973635
+    },
+    {
+      "type": "add",
+      "id": "ce6b9416832fc6aa",
+      "item": {
+        "type": "paragraph",
+        "id": "ce6b9416832fc6aa",
+        "text": "1998\n"
+      },
+      "after": "6ac4b0c2c53ddcb0",
+      "date": 1480051974188
+    },
+    {
+      "type": "add",
+      "id": "10759da8c89d4d1c",
+      "item": {
+        "type": "paragraph",
+        "id": "10759da8c89d4d1c",
+        "text": "1997\n"
+      },
+      "after": "ce6b9416832fc6aa",
+      "date": 1480051974675
+    },
+    {
+      "type": "add",
+      "id": "2b08091e4594e532",
+      "item": {
+        "type": "paragraph",
+        "id": "2b08091e4594e532",
+        "text": "1996\n"
+      },
+      "after": "10759da8c89d4d1c",
+      "date": 1480051975195
+    },
+    {
+      "type": "add",
+      "id": "e1a7a5de6e60541e",
+      "item": {
+        "type": "paragraph",
+        "id": "e1a7a5de6e60541e",
+        "text": "1995\n"
+      },
+      "after": "2b08091e4594e532",
+      "date": 1480051975669
+    },
+    {
+      "type": "add",
+      "id": "9f1453c686ee6426",
+      "item": {
+        "type": "paragraph",
+        "id": "9f1453c686ee6426",
+        "text": "1994\n"
+      },
+      "after": "e1a7a5de6e60541e",
+      "date": 1480051976214
+    },
+    {
+      "type": "add",
+      "id": "227bbfa780253000",
+      "item": {
+        "type": "paragraph",
+        "id": "227bbfa780253000",
+        "text": "1993\n"
+      },
+      "after": "9f1453c686ee6426",
+      "date": 1480051976757
+    },
+    {
+      "type": "add",
+      "id": "be134d93660be604",
+      "item": {
+        "type": "paragraph",
+        "id": "be134d93660be604",
+        "text": "1992\n"
+      },
+      "after": "227bbfa780253000",
+      "date": 1480051977318
+    },
+    {
+      "type": "add",
+      "id": "f1a5c4d8be468979",
+      "item": {
+        "type": "paragraph",
+        "id": "f1a5c4d8be468979",
+        "text": "1991\n"
+      },
+      "after": "be134d93660be604",
+      "date": 1480051977904
+    },
+    {
+      "type": "add",
+      "id": "c3757dc92c4ff1f9",
+      "item": {
+        "type": "paragraph",
+        "id": "c3757dc92c4ff1f9",
+        "text": "unknown\n"
+      },
+      "after": "f1a5c4d8be468979",
+      "date": 1480051979038
+    },
+    {
+      "type": "add",
+      "id": "e2e19b607867bf27",
+      "item": {
+        "type": "paragraph",
+        "id": "e2e19b607867bf27",
+        "text": "When You Are Engulfed in Flames — David Sedaris\n"
+      },
+      "after": "c3757dc92c4ff1f9",
+      "date": 1480051980033
+    },
+    {
+      "type": "add",
+      "id": "1770896f6673f938",
+      "item": {
+        "type": "paragraph",
+        "id": "1770896f6673f938",
+        "text": "A Long Way Down — Nick Hornby\n"
+      },
+      "after": "e2e19b607867bf27",
+      "date": 1480051980482
+    },
+    {
+      "type": "add",
+      "id": "5a359364927ac49c",
+      "item": {
+        "type": "paragraph",
+        "id": "5a359364927ac49c",
+        "text": "Sex, Drugs, and Cocoa Puffs — Chuck Klosterman\n"
+      },
+      "after": "1770896f6673f938",
+      "date": 1480051980937
+    },
+    {
+      "type": "add",
+      "id": "d7e15684596ecf85",
+      "item": {
+        "type": "paragraph",
+        "id": "d7e15684596ecf85",
+        "text": "The Great Gatsby — F. Scott Fitzgerald\n"
+      },
+      "after": "5a359364927ac49c",
+      "date": 1480051981355
+    },
+    {
+      "type": "add",
+      "id": "d4d5e214dff4f379",
+      "item": {
+        "type": "paragraph",
+        "id": "d4d5e214dff4f379",
+        "text": "Tellmewhy — Karlssonwilker\n"
+      },
+      "after": "d7e15684596ecf85",
+      "date": 1480051981802
+    },
+    {
+      "type": "edit",
+      "id": "a0b58ac9f65c9a6f",
+      "item": {
+        "type": "pagefold",
+        "id": "a0b58ac9f65c9a6f",
+        "text": "See also"
+      },
+      "date": 1480052000523
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "A partial list of every book I've read or own."
+      },
+      "date": 1480052052848
+    },
+    {
+      "type": "add",
+      "id": "9f2cfaff283f5031",
+      "item": {
+        "type": "paragraph",
+        "id": "9f2cfaff283f5031",
+        "text": "See also: [http://caseyagollan.com/#bibliography Casey's book page]"
+      },
+      "after": "480ca08bca87851f",
+      "date": 1480052054372
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "An incomplete list of books I've read or own."
+      },
+      "date": 1480052061517
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "An incomplete list of books I've read or own. Inspired by [https://maxfenton.com/biblio/ Max]"
+      },
+      "date": 1480052093535
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "An incomplete list of books I've read or own. Inspired by Max's [https://maxfenton.com/biblio/ biblio]"
+      },
+      "date": 1480052106123
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "An incomplete list of books I've read or own. Inspired by Max's [https://maxfenton.com/biblio/ biblio]."
+      },
+      "date": 1480052112783
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "An incomplete list of books I've read or own. Inspired by Max's [https://maxfenton.com/biblio/ biblio]"
+      },
+      "date": 1480052118007
+    },
+    {
+      "type": "move",
+      "order": [
+        "04395b0d9594d53a",
+        "480ca08bca87851f",
+        "539d1fb838f3b6e5",
+        "47676ecd343914c8",
+        "a0b58ac9f65c9a6f",
+        "9f2cfaff283f5031",
+        "947cfabbf9ad748c",
+        "b8573327cf3ed72f",
+        "e92b47cd063127c2",
+        "ac855d5bc12d8429",
+        "67d598c3e7dfc493",
+        "37d6b755a8642a22",
+        "3997157a1ad84ed8",
+        "cb8f24f740572355",
+        "232fcf0ccfd6636a",
+        "44bbec53d6c14203",
+        "69783f579426846f",
+        "71d44e7cfa566814",
+        "139f270a57b56f5a",
+        "72a368ad97d483dc",
+        "fb1f69423b661abf",
+        "b6490e892262c7d3",
+        "d221f745d3fdafb3",
+        "c068c4f3f9c4d690",
+        "3205743977affbc2",
+        "2942a74b80b962bf",
+        "b9600dbd4d70d2a7",
+        "99cfa14052c85d7a",
+        "f936eba72da6ef04",
+        "e4e28c4baa60c6a0",
+        "a7891244b3917bdf",
+        "0663cc8ff60bf19a",
+        "f44f09703885da2b",
+        "2b27a939d2f98aed",
+        "7da896afa3bb7129",
+        "de54ade353eb3d2e",
+        "6a9985e79566b354",
+        "9064c378f245031c",
+        "e4931b59ab5c5997",
+        "650f86d55ef032e9",
+        "72aa9f266145fb54",
+        "a059e778ee270c74",
+        "5b75da8d9e61bbce",
+        "281d72dec93ec577",
+        "4e984b87146fcaf5",
+        "90ec56f7f5189b25",
+        "baeb9bc685ef1804",
+        "f66e291e3d43f43d",
+        "0ed3cb2eddf56162",
+        "7069334ede737c7b",
+        "80bf622de8442f6c",
+        "6c6936572a5b4eeb",
+        "148a2a785156586b",
+        "20e19fffc2dbdbf7",
+        "07805c3e4ec88f0e",
+        "535f3c0107ec092a",
+        "9163293c74d3cace",
+        "1f5d391ac24e3c13",
+        "79e5f145b75bc57c",
+        "85f57f745ed0f2ac",
+        "d8330371bd463dd8",
+        "32194bfc7327fa82",
+        "519c61169db55416",
+        "e84c13c18504326f",
+        "f0b47f5b4c28e3de",
+        "58308b253c3baadf",
+        "96b46295cf690349",
+        "eb1b95c4440e585f",
+        "2663dd6f353a2bd7",
+        "736e9a7bdb89e0d3",
+        "8a793b018160827d",
+        "cd6d42775db37d1c",
+        "9b283acef8026c9e",
+        "9b75beb3b87f4085",
+        "dcf8e944d718ee79",
+        "a720c226765b388d",
+        "c5385e23b9d54ad2",
+        "ad722fb3593d0ec8",
+        "95268e8d88356a04",
+        "bdf10afbf9c7188f",
+        "762fee93b60b265e",
+        "28f939b86a63bc21",
+        "ff2167442a1bfa35",
+        "1109ee9c1cf46253",
+        "27e844d2d1248a43",
+        "8c39a78d5118dc67",
+        "9951d5299495b6f2",
+        "812b06471534fb57",
+        "5040020a4b30286c",
+        "524e9e7c9178163a",
+        "40b0cc5616359994",
+        "e8aa3392708bfd40",
+        "e6b587b63abd15c8",
+        "7d86fd6b2e87e851",
+        "60bd0358c09e3d45",
+        "711f7557e5d5fac6",
+        "d00a8d2fc234cb7b",
+        "cf9214f5aa2c1814",
+        "c80d8787aab8f9f7",
+        "e90e8413ed7516e4",
+        "73f86777d40e33cd",
+        "e2deb7669c21e266",
+        "b56513a13373a045",
+        "5e1016152fb0d6fc",
+        "bccbd1e7a9fa81e8",
+        "375d0f0a21a2687f",
+        "c12899652e5520de",
+        "048de7ebecab1f92",
+        "0cf0d2b25b0ac789",
+        "66316f4c2f6faac5",
+        "73b92c6bbc56b318",
+        "55acf84ca1f99714",
+        "88add536e9b9b4a5",
+        "8016303176035f2f",
+        "f2d781b9b559cd70",
+        "0cfaafcacfe1ccfd",
+        "7374959a7af1d0ac",
+        "80891dbbd1c528d7",
+        "36f6d9577dba9792",
+        "df492d4dbaec6d67",
+        "379476e08e7d75dd",
+        "4a91b1b55c43abd7",
+        "0c2fd8a0dd391317",
+        "4a41c4d423272b39",
+        "c28e202a4a264ba6",
+        "975586a2ba84fb1c",
+        "29d6ae2d6e111db0",
+        "7cb1d8b4198c4662",
+        "3d6be155803b175f",
+        "96119a710a88f651",
+        "ed77a3c91a646934",
+        "f08415629c3072a6",
+        "04f719c5554f5299",
+        "29a2a2e6be2ee506",
+        "7d1f3a5c216948e1",
+        "76dcc4be725f16dc",
+        "6dd521e77619d161",
+        "2cbb80aab929ec81",
+        "2995e6ab7c189832",
+        "864cd9f26435e4bc",
+        "c4dabe9f0344868b",
+        "a604a0f21fd26e5a",
+        "bb7dd50055a47c26",
+        "0a391fa8b74a8094",
+        "2b709a9401b981b0",
+        "3757085fdc52e559",
+        "00092b492c6500ff",
+        "5c7ce424937f3986",
+        "385622ced7e7de1c",
+        "41d4d177980f2664",
+        "b0cd0d90453283a5",
+        "e3b79b07755beae3",
+        "440317d4a99a825e",
+        "08cffa8b7434e481",
+        "cde9c35ef8d014f8",
+        "acf68a4f971a1136",
+        "5eb937a6fdd2c0b9",
+        "23b22c8b0f47dee0",
+        "fbc86858b942fd60",
+        "73feaab1692b3075",
+        "c746903e0286c090",
+        "5dc8967cb670b3ad",
+        "3c117725b96a8ab7",
+        "53605458ccc663bb",
+        "d1780aa379e4b1f7",
+        "c8cd2eac80929781",
+        "df00d3bc7278af10",
+        "ec63250a624bfd15",
+        "12a42a4f4469dd78",
+        "71535a55a6e70e86",
+        "d4256cf6225d92f9",
+        "734216c4ab73f22d",
+        "a3bdeafed7ac6c2c",
+        "8132b00ea409e474",
+        "578715d15d1abfab",
+        "7961350027529920",
+        "000ae15bb4b83b67",
+        "54e27d32912a72b5",
+        "68ef9fc279ca3ce6",
+        "3913f09d279d6c2c",
+        "000ff93d8e286cff",
+        "9735ce9d63d30999",
+        "e7a998403ee86c3a",
+        "80ef686711b4695f",
+        "b599744f256c22e6",
+        "d679e9e0f0347bb9",
+        "021c9873d8cfcae4",
+        "4fdb5c3a93771a05",
+        "49baf281efd1b0d7",
+        "7adb9fa70ea153a5",
+        "44b59d8157e50887",
+        "efc2a732adc7dba8",
+        "9c8c88bc298d1354",
+        "bb0f4708ed751c66",
+        "ed355acde5b2d031",
+        "6ac4b0c2c53ddcb0",
+        "ce6b9416832fc6aa",
+        "10759da8c89d4d1c",
+        "2b08091e4594e532",
+        "e1a7a5de6e60541e",
+        "9f1453c686ee6426",
+        "227bbfa780253000",
+        "be134d93660be604",
+        "f1a5c4d8be468979",
+        "c3757dc92c4ff1f9",
+        "e2e19b607867bf27",
+        "1770896f6673f938",
+        "5a359364927ac49c",
+        "d7e15684596ecf85",
+        "d4d5e214dff4f379"
+      ],
+      "id": "9f2cfaff283f5031",
+      "date": 1480052120956
+    },
+    {
+      "type": "edit",
+      "id": "9f2cfaff283f5031",
+      "item": {
+        "type": "paragraph",
+        "id": "9f2cfaff283f5031",
+        "text": "[http://caseyagollan.com/#bibliography Casey's (other) book page]"
+      },
+      "date": 1480052130068
+    },
+    {
+      "type": "move",
+      "order": [
+        "04395b0d9594d53a",
+        "480ca08bca87851f",
+        "539d1fb838f3b6e5",
+        "47676ecd343914c8",
+        "a0b58ac9f65c9a6f",
+        "947cfabbf9ad748c",
+        "9f2cfaff283f5031",
+        "b8573327cf3ed72f",
+        "e92b47cd063127c2",
+        "ac855d5bc12d8429",
+        "67d598c3e7dfc493",
+        "37d6b755a8642a22",
+        "3997157a1ad84ed8",
+        "cb8f24f740572355",
+        "232fcf0ccfd6636a",
+        "44bbec53d6c14203",
+        "69783f579426846f",
+        "71d44e7cfa566814",
+        "139f270a57b56f5a",
+        "72a368ad97d483dc",
+        "fb1f69423b661abf",
+        "b6490e892262c7d3",
+        "d221f745d3fdafb3",
+        "c068c4f3f9c4d690",
+        "3205743977affbc2",
+        "2942a74b80b962bf",
+        "b9600dbd4d70d2a7",
+        "99cfa14052c85d7a",
+        "f936eba72da6ef04",
+        "e4e28c4baa60c6a0",
+        "a7891244b3917bdf",
+        "0663cc8ff60bf19a",
+        "f44f09703885da2b",
+        "2b27a939d2f98aed",
+        "7da896afa3bb7129",
+        "de54ade353eb3d2e",
+        "6a9985e79566b354",
+        "9064c378f245031c",
+        "e4931b59ab5c5997",
+        "650f86d55ef032e9",
+        "72aa9f266145fb54",
+        "a059e778ee270c74",
+        "5b75da8d9e61bbce",
+        "281d72dec93ec577",
+        "4e984b87146fcaf5",
+        "90ec56f7f5189b25",
+        "baeb9bc685ef1804",
+        "f66e291e3d43f43d",
+        "0ed3cb2eddf56162",
+        "7069334ede737c7b",
+        "80bf622de8442f6c",
+        "6c6936572a5b4eeb",
+        "148a2a785156586b",
+        "20e19fffc2dbdbf7",
+        "07805c3e4ec88f0e",
+        "535f3c0107ec092a",
+        "9163293c74d3cace",
+        "1f5d391ac24e3c13",
+        "79e5f145b75bc57c",
+        "85f57f745ed0f2ac",
+        "d8330371bd463dd8",
+        "32194bfc7327fa82",
+        "519c61169db55416",
+        "e84c13c18504326f",
+        "f0b47f5b4c28e3de",
+        "58308b253c3baadf",
+        "96b46295cf690349",
+        "eb1b95c4440e585f",
+        "2663dd6f353a2bd7",
+        "736e9a7bdb89e0d3",
+        "8a793b018160827d",
+        "cd6d42775db37d1c",
+        "9b283acef8026c9e",
+        "9b75beb3b87f4085",
+        "dcf8e944d718ee79",
+        "a720c226765b388d",
+        "c5385e23b9d54ad2",
+        "ad722fb3593d0ec8",
+        "95268e8d88356a04",
+        "bdf10afbf9c7188f",
+        "762fee93b60b265e",
+        "28f939b86a63bc21",
+        "ff2167442a1bfa35",
+        "1109ee9c1cf46253",
+        "27e844d2d1248a43",
+        "8c39a78d5118dc67",
+        "9951d5299495b6f2",
+        "812b06471534fb57",
+        "5040020a4b30286c",
+        "524e9e7c9178163a",
+        "40b0cc5616359994",
+        "e8aa3392708bfd40",
+        "e6b587b63abd15c8",
+        "7d86fd6b2e87e851",
+        "60bd0358c09e3d45",
+        "711f7557e5d5fac6",
+        "d00a8d2fc234cb7b",
+        "cf9214f5aa2c1814",
+        "c80d8787aab8f9f7",
+        "e90e8413ed7516e4",
+        "73f86777d40e33cd",
+        "e2deb7669c21e266",
+        "b56513a13373a045",
+        "5e1016152fb0d6fc",
+        "bccbd1e7a9fa81e8",
+        "375d0f0a21a2687f",
+        "c12899652e5520de",
+        "048de7ebecab1f92",
+        "0cf0d2b25b0ac789",
+        "66316f4c2f6faac5",
+        "73b92c6bbc56b318",
+        "55acf84ca1f99714",
+        "88add536e9b9b4a5",
+        "8016303176035f2f",
+        "f2d781b9b559cd70",
+        "0cfaafcacfe1ccfd",
+        "7374959a7af1d0ac",
+        "80891dbbd1c528d7",
+        "36f6d9577dba9792",
+        "df492d4dbaec6d67",
+        "379476e08e7d75dd",
+        "4a91b1b55c43abd7",
+        "0c2fd8a0dd391317",
+        "4a41c4d423272b39",
+        "c28e202a4a264ba6",
+        "975586a2ba84fb1c",
+        "29d6ae2d6e111db0",
+        "7cb1d8b4198c4662",
+        "3d6be155803b175f",
+        "96119a710a88f651",
+        "ed77a3c91a646934",
+        "f08415629c3072a6",
+        "04f719c5554f5299",
+        "29a2a2e6be2ee506",
+        "7d1f3a5c216948e1",
+        "76dcc4be725f16dc",
+        "6dd521e77619d161",
+        "2cbb80aab929ec81",
+        "2995e6ab7c189832",
+        "864cd9f26435e4bc",
+        "c4dabe9f0344868b",
+        "a604a0f21fd26e5a",
+        "bb7dd50055a47c26",
+        "0a391fa8b74a8094",
+        "2b709a9401b981b0",
+        "3757085fdc52e559",
+        "00092b492c6500ff",
+        "5c7ce424937f3986",
+        "385622ced7e7de1c",
+        "41d4d177980f2664",
+        "b0cd0d90453283a5",
+        "e3b79b07755beae3",
+        "440317d4a99a825e",
+        "08cffa8b7434e481",
+        "cde9c35ef8d014f8",
+        "acf68a4f971a1136",
+        "5eb937a6fdd2c0b9",
+        "23b22c8b0f47dee0",
+        "fbc86858b942fd60",
+        "73feaab1692b3075",
+        "c746903e0286c090",
+        "5dc8967cb670b3ad",
+        "3c117725b96a8ab7",
+        "53605458ccc663bb",
+        "d1780aa379e4b1f7",
+        "c8cd2eac80929781",
+        "df00d3bc7278af10",
+        "ec63250a624bfd15",
+        "12a42a4f4469dd78",
+        "71535a55a6e70e86",
+        "d4256cf6225d92f9",
+        "734216c4ab73f22d",
+        "a3bdeafed7ac6c2c",
+        "8132b00ea409e474",
+        "578715d15d1abfab",
+        "7961350027529920",
+        "000ae15bb4b83b67",
+        "54e27d32912a72b5",
+        "68ef9fc279ca3ce6",
+        "3913f09d279d6c2c",
+        "000ff93d8e286cff",
+        "9735ce9d63d30999",
+        "e7a998403ee86c3a",
+        "80ef686711b4695f",
+        "b599744f256c22e6",
+        "d679e9e0f0347bb9",
+        "021c9873d8cfcae4",
+        "4fdb5c3a93771a05",
+        "49baf281efd1b0d7",
+        "7adb9fa70ea153a5",
+        "44b59d8157e50887",
+        "efc2a732adc7dba8",
+        "9c8c88bc298d1354",
+        "bb0f4708ed751c66",
+        "ed355acde5b2d031",
+        "6ac4b0c2c53ddcb0",
+        "ce6b9416832fc6aa",
+        "10759da8c89d4d1c",
+        "2b08091e4594e532",
+        "e1a7a5de6e60541e",
+        "9f1453c686ee6426",
+        "227bbfa780253000",
+        "be134d93660be604",
+        "f1a5c4d8be468979",
+        "c3757dc92c4ff1f9",
+        "e2e19b607867bf27",
+        "1770896f6673f938",
+        "5a359364927ac49c",
+        "d7e15684596ecf85",
+        "d4d5e214dff4f379"
+      ],
+      "id": "9f2cfaff283f5031",
+      "date": 1480052132276
+    },
+    {
+      "type": "edit",
+      "id": "539d1fb838f3b6e5",
+      "item": {
+        "type": "paragraph",
+        "id": "539d1fb838f3b6e5",
+        "text": "NOTE: Porting the list below from the page above, slowly."
+      },
+      "date": 1480052144226
+    },
+    {
+      "type": "move",
+      "order": [
+        "04395b0d9594d53a",
+        "480ca08bca87851f",
+        "47676ecd343914c8",
+        "a0b58ac9f65c9a6f",
+        "947cfabbf9ad748c",
+        "9f2cfaff283f5031",
+        "539d1fb838f3b6e5",
+        "b8573327cf3ed72f",
+        "e92b47cd063127c2",
+        "ac855d5bc12d8429",
+        "67d598c3e7dfc493",
+        "37d6b755a8642a22",
+        "3997157a1ad84ed8",
+        "cb8f24f740572355",
+        "232fcf0ccfd6636a",
+        "44bbec53d6c14203",
+        "69783f579426846f",
+        "71d44e7cfa566814",
+        "139f270a57b56f5a",
+        "72a368ad97d483dc",
+        "fb1f69423b661abf",
+        "b6490e892262c7d3",
+        "d221f745d3fdafb3",
+        "c068c4f3f9c4d690",
+        "3205743977affbc2",
+        "2942a74b80b962bf",
+        "b9600dbd4d70d2a7",
+        "99cfa14052c85d7a",
+        "f936eba72da6ef04",
+        "e4e28c4baa60c6a0",
+        "a7891244b3917bdf",
+        "0663cc8ff60bf19a",
+        "f44f09703885da2b",
+        "2b27a939d2f98aed",
+        "7da896afa3bb7129",
+        "de54ade353eb3d2e",
+        "6a9985e79566b354",
+        "9064c378f245031c",
+        "e4931b59ab5c5997",
+        "650f86d55ef032e9",
+        "72aa9f266145fb54",
+        "a059e778ee270c74",
+        "5b75da8d9e61bbce",
+        "281d72dec93ec577",
+        "4e984b87146fcaf5",
+        "90ec56f7f5189b25",
+        "baeb9bc685ef1804",
+        "f66e291e3d43f43d",
+        "0ed3cb2eddf56162",
+        "7069334ede737c7b",
+        "80bf622de8442f6c",
+        "6c6936572a5b4eeb",
+        "148a2a785156586b",
+        "20e19fffc2dbdbf7",
+        "07805c3e4ec88f0e",
+        "535f3c0107ec092a",
+        "9163293c74d3cace",
+        "1f5d391ac24e3c13",
+        "79e5f145b75bc57c",
+        "85f57f745ed0f2ac",
+        "d8330371bd463dd8",
+        "32194bfc7327fa82",
+        "519c61169db55416",
+        "e84c13c18504326f",
+        "f0b47f5b4c28e3de",
+        "58308b253c3baadf",
+        "96b46295cf690349",
+        "eb1b95c4440e585f",
+        "2663dd6f353a2bd7",
+        "736e9a7bdb89e0d3",
+        "8a793b018160827d",
+        "cd6d42775db37d1c",
+        "9b283acef8026c9e",
+        "9b75beb3b87f4085",
+        "dcf8e944d718ee79",
+        "a720c226765b388d",
+        "c5385e23b9d54ad2",
+        "ad722fb3593d0ec8",
+        "95268e8d88356a04",
+        "bdf10afbf9c7188f",
+        "762fee93b60b265e",
+        "28f939b86a63bc21",
+        "ff2167442a1bfa35",
+        "1109ee9c1cf46253",
+        "27e844d2d1248a43",
+        "8c39a78d5118dc67",
+        "9951d5299495b6f2",
+        "812b06471534fb57",
+        "5040020a4b30286c",
+        "524e9e7c9178163a",
+        "40b0cc5616359994",
+        "e8aa3392708bfd40",
+        "e6b587b63abd15c8",
+        "7d86fd6b2e87e851",
+        "60bd0358c09e3d45",
+        "711f7557e5d5fac6",
+        "d00a8d2fc234cb7b",
+        "cf9214f5aa2c1814",
+        "c80d8787aab8f9f7",
+        "e90e8413ed7516e4",
+        "73f86777d40e33cd",
+        "e2deb7669c21e266",
+        "b56513a13373a045",
+        "5e1016152fb0d6fc",
+        "bccbd1e7a9fa81e8",
+        "375d0f0a21a2687f",
+        "c12899652e5520de",
+        "048de7ebecab1f92",
+        "0cf0d2b25b0ac789",
+        "66316f4c2f6faac5",
+        "73b92c6bbc56b318",
+        "55acf84ca1f99714",
+        "88add536e9b9b4a5",
+        "8016303176035f2f",
+        "f2d781b9b559cd70",
+        "0cfaafcacfe1ccfd",
+        "7374959a7af1d0ac",
+        "80891dbbd1c528d7",
+        "36f6d9577dba9792",
+        "df492d4dbaec6d67",
+        "379476e08e7d75dd",
+        "4a91b1b55c43abd7",
+        "0c2fd8a0dd391317",
+        "4a41c4d423272b39",
+        "c28e202a4a264ba6",
+        "975586a2ba84fb1c",
+        "29d6ae2d6e111db0",
+        "7cb1d8b4198c4662",
+        "3d6be155803b175f",
+        "96119a710a88f651",
+        "ed77a3c91a646934",
+        "f08415629c3072a6",
+        "04f719c5554f5299",
+        "29a2a2e6be2ee506",
+        "7d1f3a5c216948e1",
+        "76dcc4be725f16dc",
+        "6dd521e77619d161",
+        "2cbb80aab929ec81",
+        "2995e6ab7c189832",
+        "864cd9f26435e4bc",
+        "c4dabe9f0344868b",
+        "a604a0f21fd26e5a",
+        "bb7dd50055a47c26",
+        "0a391fa8b74a8094",
+        "2b709a9401b981b0",
+        "3757085fdc52e559",
+        "00092b492c6500ff",
+        "5c7ce424937f3986",
+        "385622ced7e7de1c",
+        "41d4d177980f2664",
+        "b0cd0d90453283a5",
+        "e3b79b07755beae3",
+        "440317d4a99a825e",
+        "08cffa8b7434e481",
+        "cde9c35ef8d014f8",
+        "acf68a4f971a1136",
+        "5eb937a6fdd2c0b9",
+        "23b22c8b0f47dee0",
+        "fbc86858b942fd60",
+        "73feaab1692b3075",
+        "c746903e0286c090",
+        "5dc8967cb670b3ad",
+        "3c117725b96a8ab7",
+        "53605458ccc663bb",
+        "d1780aa379e4b1f7",
+        "c8cd2eac80929781",
+        "df00d3bc7278af10",
+        "ec63250a624bfd15",
+        "12a42a4f4469dd78",
+        "71535a55a6e70e86",
+        "d4256cf6225d92f9",
+        "734216c4ab73f22d",
+        "a3bdeafed7ac6c2c",
+        "8132b00ea409e474",
+        "578715d15d1abfab",
+        "7961350027529920",
+        "000ae15bb4b83b67",
+        "54e27d32912a72b5",
+        "68ef9fc279ca3ce6",
+        "3913f09d279d6c2c",
+        "000ff93d8e286cff",
+        "9735ce9d63d30999",
+        "e7a998403ee86c3a",
+        "80ef686711b4695f",
+        "b599744f256c22e6",
+        "d679e9e0f0347bb9",
+        "021c9873d8cfcae4",
+        "4fdb5c3a93771a05",
+        "49baf281efd1b0d7",
+        "7adb9fa70ea153a5",
+        "44b59d8157e50887",
+        "efc2a732adc7dba8",
+        "9c8c88bc298d1354",
+        "bb0f4708ed751c66",
+        "ed355acde5b2d031",
+        "6ac4b0c2c53ddcb0",
+        "ce6b9416832fc6aa",
+        "10759da8c89d4d1c",
+        "2b08091e4594e532",
+        "e1a7a5de6e60541e",
+        "9f1453c686ee6426",
+        "227bbfa780253000",
+        "be134d93660be604",
+        "f1a5c4d8be468979",
+        "c3757dc92c4ff1f9",
+        "e2e19b607867bf27",
+        "1770896f6673f938",
+        "5a359364927ac49c",
+        "d7e15684596ecf85",
+        "d4d5e214dff4f379"
+      ],
+      "id": "539d1fb838f3b6e5",
+      "date": 1480052148360
+    },
+    {
+      "type": "edit",
+      "id": "47676ecd343914c8",
+      "item": {
+        "type": "paragraph",
+        "id": "47676ecd343914c8",
+        "text": "TODO: add books from 5yd, add headings"
+      },
+      "date": 1480052153489
+    },
+    {
+      "type": "edit",
+      "id": "47676ecd343914c8",
+      "item": {
+        "type": "paragraph",
+        "id": "47676ecd343914c8",
+        "text": "TODO: add books from 5yd, format headings"
+      },
+      "date": 1480052155765
+    },
+    {
+      "type": "edit",
+      "id": "47676ecd343914c8",
+      "item": {
+        "type": "paragraph",
+        "id": "47676ecd343914c8",
+        "text": "TODO: add books from 5yd, format headings, pages by year?"
+      },
+      "date": 1480052161282
+    },
+    {
+      "type": "edit",
+      "id": "47676ecd343914c8",
+      "item": {
+        "type": "paragraph",
+        "id": "47676ecd343914c8",
+        "text": "TODO: add books from 5yd, add new books, format headings, pages by year?"
+      },
+      "date": 1480052180181
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "An incomplete list of books I've read or own. (Inspired by Max's [https://maxfenton.com/biblio/ biblio])"
+      },
+      "date": 1480052214046
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "An incomplete list of books I've read or own. "
+      },
+      "date": 1480052218728
+    },
+    {
+      "type": "add",
+      "id": "9d9d966f12bbe8ec",
+      "item": {
+        "type": "paragraph",
+        "id": "9d9d966f12bbe8ec",
+        "text": "(Inspired by Max's [https://maxfenton.com/biblio/ biblio])"
+      },
+      "after": "480ca08bca87851f",
+      "date": 1480052219688
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "(An incomplete list of) books I've read or own. "
+      },
+      "date": 1480053273079
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "Books I've read or own. (Not all of them, though.)"
+      },
+      "date": 1480053285940
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "Books I've read, am reading, or have lying around. (Not all of them, though.)"
+      },
+      "date": 1480053294623
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "Books I've read, am reading, or have lying around."
+      },
+      "date": 1480053298048
+    },
+    {
+      "type": "edit",
+      "id": "67d598c3e7dfc493",
+      "item": {
+        "type": "paragraph",
+        "id": "67d598c3e7dfc493",
+        "text": "__State of Exception__ — Giorgio Agamben\n"
+      },
+      "date": 1480058255441
+    },
+    {
+      "type": "edit",
+      "id": "67d598c3e7dfc493",
+      "item": {
+        "type": "paragraph",
+        "id": "67d598c3e7dfc493",
+        "text": "___State of Exception___ — Giorgio Agamben\n"
+      },
+      "date": 1480058260412
+    },
+    {
+      "type": "edit",
+      "id": "67d598c3e7dfc493",
+      "item": {
+        "type": "paragraph",
+        "id": "67d598c3e7dfc493",
+        "text": "State of Exception — Giorgio Agamben\n"
+      },
+      "date": 1480058265664
     }
   ]
 }

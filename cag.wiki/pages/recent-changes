@@ -8,7 +8,7 @@
     },
     {
       "type": "activity",
-      "id": "e9e9f102158e1382"
+      "id": "c43a88598cb67997"
     }
   ],
   "journal": [
@@ -51,6 +51,44 @@
     {
       "type": "fork",
       "date": 1479957629192
+    },
+    {
+      "type": "remove",
+      "id": "e9e9f102158e1382",
+      "date": 1480054695738
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997"
+      },
+      "after": "435d07cf9bf34a70",
+      "id": "c43a88598cb67997",
+      "date": 1480054702855
+    },
+    {
+      "type": "remove",
+      "id": "c43a88598cb67997",
+      "date": 1480054721118
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997"
+      },
+      "id": "c43a88598cb67997",
+      "date": 1480054726779
+    },
+    {
+      "type": "move",
+      "order": [
+        "435d07cf9bf34a70",
+        "c43a88598cb67997"
+      ],
+      "id": "435d07cf9bf34a70",
+      "date": 1480054749110
     }
   ]
 }

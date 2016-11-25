@@ -12,6 +12,11 @@
       "text": "[[Notebooks]]"
     },
     {
+      "type": "paragraph",
+      "id": "2c54be814c872593",
+      "text": "[[Closing tabs]]"
+    },
+    {
       "type": "factory",
       "id": "b293d5da1366c54e"
     }
@@ -64,6 +69,17 @@
       "type": "add",
       "after": "19c2c7af270cbfc3",
       "date": 1479969311215
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2c54be814c872593",
+        "text": "[[Closing tabs]]"
+      },
+      "after": "19c2c7af270cbfc3",
+      "id": "2c54be814c872593",
+      "date": 1480059568713
     }
   ]
 }

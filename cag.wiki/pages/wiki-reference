@@ -2,6 +2,31 @@
   "title": "Wiki reference",
   "story": [
     {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "Start here: "
+    },
+    {
+      "type": "paragraph",
+      "id": "9d815f1ccc9fe9d7",
+      "text": "[[How to Wiki]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "d1ad125a71368cdb",
+      "text": "Page background snippet"
+    },
+    {
+      "type": "paragraph",
+      "id": "f1b886becee364d0",
+      "text": "Insert HTML block with a variation on:"
+    },
+    {
+      "type": "code",
+      "id": "b7aee8b26a7475ca",
+      "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif);}</style>\n<small style=\"color:lightgray\">css</small>"
+    },
+    {
       "type": "pagefold",
       "id": "7e2e7490d05917a8",
       "text": "Checking resetting farm ownership"
@@ -34,7 +59,7 @@
     {
       "type": "grep",
       "id": "935a5faeafd926a4",
-      "text": "ITEM paragraph\nTEXT Casey"
+      "text": "ITEM\n"
     }
   ],
   "journal": [
@@ -270,6 +295,382 @@
       "type": "remove",
       "id": "200eeb714a1523a0",
       "date": 1480050213006
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "[[How to Wiki]]"
+      },
+      "id": "ee416d431ebf4fb4",
+      "date": 1480051035361
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Start here: "
+      },
+      "date": 1480051046779
+    },
+    {
+      "type": "add",
+      "id": "9d815f1ccc9fe9d7",
+      "item": {
+        "type": "paragraph",
+        "id": "9d815f1ccc9fe9d7",
+        "text": "[[How to Wiki]]"
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1480051047626
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTEXT"
+      },
+      "date": 1480052298996
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "PAGE\nTEXT"
+      },
+      "date": 1480052305144
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTEXT"
+      },
+      "date": 1480052312170
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTEXT Casey"
+      },
+      "date": 1480052315486
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTEXT"
+      },
+      "date": 1480052317742
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTEXT keller"
+      },
+      "date": 1480053415787
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTEXT"
+      },
+      "date": 1480053419009
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM page"
+      },
+      "date": 1480053426409
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM text"
+      },
+      "date": 1480053431661
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM text\nTEXT"
+      },
+      "date": 1480053434885
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTEXT"
+      },
+      "date": 1480053438077
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTITLE"
+      },
+      "date": 1480053454699
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM\nTITLE"
+      },
+      "date": 1480053486487
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM *\nTITLE"
+      },
+      "date": 1480053493452
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM any\nTITLE"
+      },
+      "date": 1480053496734
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM\nTITLE"
+      },
+      "date": 1480053500630
+    },
+    {
+      "type": "edit",
+      "id": "935a5faeafd926a4",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM\n"
+      },
+      "date": 1480053504259
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3030be7bee8831a1"
+      },
+      "id": "3030be7bee8831a1",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480058024379
+    },
+    {
+      "type": "edit",
+      "id": "3030be7bee8831a1",
+      "item": {
+        "type": "html",
+        "id": "3030be7bee8831a1",
+        "text": "<style>body{background:#f00;}</style>\n.styles."
+      },
+      "date": 1480058029433
+    },
+    {
+      "type": "remove",
+      "id": "3030be7bee8831a1",
+      "date": 1480058067220
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1ad125a71368cdb"
+      },
+      "id": "d1ad125a71368cdb",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480059663034
+    },
+    {
+      "type": "edit",
+      "id": "d1ad125a71368cdb",
+      "item": {
+        "type": "pagefold",
+        "id": "d1ad125a71368cdb",
+        "text": "Page background snippet"
+      },
+      "date": 1480059671825
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "d1ad125a71368cdb",
+        "935a5faeafd926a4"
+      ],
+      "id": "d1ad125a71368cdb",
+      "date": 1480059676679
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "d1ad125a71368cdb",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "d1ad125a71368cdb",
+      "date": 1480059679187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7aee8b26a7475ca"
+      },
+      "id": "b7aee8b26a7475ca",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480059682746
+    },
+    {
+      "type": "edit",
+      "id": "b7aee8b26a7475ca",
+      "item": {
+        "type": "code",
+        "id": "b7aee8b26a7475ca",
+        "text": "<small style=\"color:lightgray\">css</small>"
+      },
+      "date": 1480059686236
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "d1ad125a71368cdb",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "b7aee8b26a7475ca",
+        "935a5faeafd926a4"
+      ],
+      "id": "b7aee8b26a7475ca",
+      "date": 1480059690140
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "d1ad125a71368cdb",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "b7aee8b26a7475ca",
+      "date": 1480059693412
+    },
+    {
+      "type": "edit",
+      "id": "b7aee8b26a7475ca",
+      "item": {
+        "type": "code",
+        "id": "b7aee8b26a7475ca",
+        "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif);}</style>\n<small style=\"color:lightgray\">css</small>"
+      },
+      "date": 1480059702508
+    },
+    {
+      "type": "add",
+      "id": "f1b886becee364d0",
+      "item": {
+        "type": "paragraph",
+        "id": "f1b886becee364d0",
+        "text": "Insert HTML block with a variation on:"
+      },
+      "after": "9d815f1ccc9fe9d7",
+      "date": 1480059718172
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "f1b886becee364d0",
+      "date": 1480059719756
     }
   ]
 }

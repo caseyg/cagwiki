@@ -26,11 +26,19 @@
   </url>
   <url>
     <loc>http://cag.wiki/books.html</loc>
-    <lastmod>2016-11-24</lastmod>
+    <lastmod>2016-11-25</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/books-2015.html</loc>
+    <lastmod>2016-11-25</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/books-to-borrow-or-get.html</loc>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/bread-play.html</loc>
-    <lastmod>2016-11-24</lastmod>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/busterpublic.html</loc>
@@ -146,7 +154,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/lyrics.html</loc>
-    <lastmod>2016-11-25</lastmod>
+    <lastmod>2016-11-24</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/maintaining-our-collective-clunker.html</loc>
@@ -193,7 +201,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/notes.html</loc>
-    <lastmod>2016-11-24</lastmod>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/ornery.html</loc>
@@ -221,7 +229,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/recent-changes.html</loc>
-    <lastmod>2013-03-10</lastmod>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/repair.html</loc>
@@ -229,7 +237,11 @@
   </url>
   <url>
     <loc>http://cag.wiki/sand-garden.html</loc>
-    <lastmod>2016-11-24</lastmod>
+    <lastmod>2016-11-25</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/sand-table.html</loc>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/south-afternoon.html</loc>
@@ -249,7 +261,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/test.html</loc>
-    <lastmod>2016-11-23</lastmod>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/theres-got-to-be-a-way-to-move-through-it.html</loc>
@@ -257,11 +269,15 @@
   </url>
   <url>
     <loc>http://cag.wiki/tools.html</loc>
-    <lastmod>2016-11-24</lastmod>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/vaporware.html</loc>
     <lastmod>2016-11-24</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/vertebr-by-vertebr.html</loc>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/weather-vibes.html</loc>
@@ -284,23 +300,31 @@
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/wiki-meta.html</loc>
+    <loc>http://cag.wiki/wiki-reading-and-links.html</loc>
+    <lastmod>2016-11-25</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/wiki-reference.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/words.html</loc>
-    <lastmod>2016-11-23</lastmod>
+    <lastmod>2016-11-25</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/work.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/vertebr-by-vertebr.html</loc>
+    <loc>http://cag.wiki/about-activity-plugin.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/wiki-reference.html</loc>
+    <loc>http://cag.wiki/word-processor.html</loc>
+    <lastmod>2016-11-25</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/backup.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
 </urlset>

@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "7ed134afa25ff19c",
       "text": "email: casey@bullshit.systems"
+    },
+    {
+      "type": "html",
+      "id": "e168c99602d170af",
+      "text": "<style>body {background-image:url(http://bullshit.systems/demons.gif);background-size:auto;}</style>\n<small style=\"color:lightgray\">css</small>"
     }
   ],
   "journal": [
@@ -516,6 +521,126 @@
       "type": "remove",
       "id": "933a02ec855f04f1",
       "date": 1480039553945
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e168c99602d170af"
+      },
+      "id": "e168c99602d170af",
+      "type": "add",
+      "after": "7ed134afa25ff19c",
+      "date": 1480058577210
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body{background-image:url(http://bullshit.systems/moomin.gif);}</style>\n.style."
+      },
+      "date": 1480058581319
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body{background-image:url(http://bullshit.systems/sisu.gif);}</style>\n.style."
+      },
+      "date": 1480058585555
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif)}</style>\n.style."
+      },
+      "date": 1480059037719
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif);background-size:auto;}</style>\n.style."
+      },
+      "date": 1480059181418
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/demons.gif);background-size:auto;}</style>\n.style."
+      },
+      "date": 1480059424327
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/demons.gif);background-size:auto;}</style>\n<small>.style.</small>"
+      },
+      "date": 1480059598224
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/demons.gif);background-size:auto;}</style>\n<small>CSS</small>"
+      },
+      "date": 1480059605124
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/demons.gif);background-size:auto;}</style>\n<small>css</small>"
+      },
+      "date": 1480059607910
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/demons.gif);background-size:auto;}</style>\n<small style=\"gray\">css</small>"
+      },
+      "date": 1480059614944
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/demons.gif);background-size:auto;}</style>\n<small style=\"color:gray\">css</small>"
+      },
+      "date": 1480059619665
+    },
+    {
+      "type": "edit",
+      "id": "e168c99602d170af",
+      "item": {
+        "type": "html",
+        "id": "e168c99602d170af",
+        "text": "<style>body {background-image:url(http://bullshit.systems/demons.gif);background-size:auto;}</style>\n<small style=\"color:lightgray\">css</small>"
+      },
+      "date": 1480059622942
     }
   ]
 }

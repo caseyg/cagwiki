@@ -47,6 +47,11 @@
       "text": "[[Maps]]"
     },
     {
+      "type": "paragraph",
+      "id": "ca7886c9ed579491",
+      "text": "[[Word Processor]]"
+    },
+    {
       "type": "pagefold",
       "id": "fd92b66ac0caf01c",
       "text": "Tools I use"
@@ -802,6 +807,27 @@
       "type": "remove",
       "id": "557a61dd6c426709",
       "date": 1479969713014
+    },
+    {
+      "type": "add",
+      "id": "ca7886c9ed579491",
+      "item": {
+        "type": "paragraph",
+        "id": "ca7886c9ed579491",
+        "text": "Typewriter"
+      },
+      "after": "c65e4489382058cc",
+      "date": 1480055544746
+    },
+    {
+      "type": "edit",
+      "id": "ca7886c9ed579491",
+      "item": {
+        "type": "paragraph",
+        "id": "ca7886c9ed579491",
+        "text": "[[Word Processor]]"
+      },
+      "date": 1480055613125
     }
   ]
 }

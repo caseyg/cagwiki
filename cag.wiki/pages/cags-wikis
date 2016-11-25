@@ -4,7 +4,12 @@
     {
       "type": "roster",
       "id": "99a1869b080c5b5c",
-      "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+    },
+    {
+      "type": "html",
+      "id": "ba9faee8ba44c254",
+      "text": "<style>body {background-image:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n<small style=\"color:lightgray\">css</small>"
     }
   ],
   "journal": [
@@ -435,6 +440,66 @@
       "type": "fork",
       "site": "localhost:3000",
       "date": 1480050739697
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480055282168
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nall"
+      },
+      "date": 1480055293677
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480055307229
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba9faee8ba44c254"
+      },
+      "id": "ba9faee8ba44c254",
+      "type": "add",
+      "after": "99a1869b080c5b5c",
+      "date": 1480059374605
+    },
+    {
+      "type": "edit",
+      "id": "ba9faee8ba44c254",
+      "item": {
+        "type": "html",
+        "id": "ba9faee8ba44c254",
+        "text": "<style>body {background-image:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n.style."
+      },
+      "date": 1480059377925
+    },
+    {
+      "type": "edit",
+      "id": "ba9faee8ba44c254",
+      "item": {
+        "type": "html",
+        "id": "ba9faee8ba44c254",
+        "text": "<style>body {background-image:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n<small style=\"color:lightgray\">css</small>"
+      },
+      "date": 1480059651913
     }
   ]
 }

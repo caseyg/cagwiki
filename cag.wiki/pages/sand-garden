@@ -40,6 +40,11 @@
       "type": "paragraph",
       "id": "8004e1541821e86d",
       "text": "oblicity"
+    },
+    {
+      "type": "paragraph",
+      "id": "45ed89730d991f5a",
+      "text": "[[Sand Table]]"
     }
   ],
   "journal": [
@@ -146,6 +151,27 @@
       },
       "after": "ef080337784b3102",
       "date": 1479968856720
+    },
+    {
+      "type": "fork",
+      "site": "cag.wiki",
+      "date": 1480053815497
+    },
+    {
+      "type": "add",
+      "id": "45ed89730d991f5a",
+      "item": {
+        "type": "paragraph",
+        "id": "45ed89730d991f5a",
+        "text": "[[Sand Table]]"
+      },
+      "after": "8004e1541821e86d",
+      "date": 1480053823364
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3000",
+      "date": 1480054102460
     }
   ]
 }
