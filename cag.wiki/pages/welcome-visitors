@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "You've found CAG's [[Federated Wiki]] farm.",
+      "text": "You've found CAG's [[Federated Wiki]] farm?",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -76,6 +76,11 @@
       "type": "paragraph",
       "id": "9f92b1a367dfedbd",
       "text": "[[Wiki meta]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "934be21b2a59883c",
+      "text": "[[Wiki reference]]"
     },
     {
       "type": "paragraph",
@@ -1622,6 +1627,55 @@
         "text": "NOTE: This is an ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
       },
       "date": 1480045511454
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "You've found CAG's [[Federated Wiki]] farm?",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1480049548201
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "934be21b2a59883c",
+        "text": "[[Wiki reference]]"
+      },
+      "after": "6f79d9508fb6b8f7",
+      "id": "934be21b2a59883c",
+      "date": 1480049674722
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "9f92b1a367dfedbd",
+        "934be21b2a59883c",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "934be21b2a59883c",
+      "date": 1480049678052
     }
   ]
 }
