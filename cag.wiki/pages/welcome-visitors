@@ -44,11 +44,6 @@
     },
     {
       "type": "paragraph",
-      "id": "2c54be814c872593",
-      "text": "[[Closing tabs]]"
-    },
-    {
-      "type": "paragraph",
       "id": "3904814310e8f71e",
       "text": "[[Notes]]"
     },
@@ -68,9 +63,19 @@
       "text": "[[Things]]"
     },
     {
+      "type": "paragraph",
+      "id": "2c54be814c872593",
+      "text": "[[Closing tabs]]"
+    },
+    {
       "type": "pagefold",
       "id": "6f79d9508fb6b8f7",
       "text": "Wiki meta"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f92b1a367dfedbd",
+      "text": "[[Wiki meta]]"
     },
     {
       "type": "paragraph",
@@ -85,7 +90,12 @@
     {
       "type": "paragraph",
       "id": "e9f455ad9ca60b25",
-      "text": " [[Recent Changes]] "
+      "text": " [[Recent Changes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c527b8fa29fa235d",
+      "text": "[[Local Changes]]"
     },
     {
       "type": "paragraph",
@@ -1393,6 +1403,185 @@
       ],
       "id": "0cd3d9790ee0a7ce",
       "date": 1479969397695
+    },
+    {
+      "type": "edit",
+      "id": "e9f455ad9ca60b25",
+      "item": {
+        "type": "paragraph",
+        "id": "e9f455ad9ca60b25",
+        "text": " [[Recent Changes]] [[Local Changes]]"
+      },
+      "date": 1480015676838
+    },
+    {
+      "type": "edit",
+      "id": "e9f455ad9ca60b25",
+      "item": {
+        "type": "paragraph",
+        "id": "e9f455ad9ca60b25",
+        "text": " [[Recent Changes]]"
+      },
+      "date": 1480015682082
+    },
+    {
+      "type": "add",
+      "id": "c527b8fa29fa235d",
+      "item": {
+        "type": "paragraph",
+        "id": "c527b8fa29fa235d",
+        "text": "[[Local Changes]]"
+      },
+      "after": "e9f455ad9ca60b25",
+      "date": 1480015683242
+    },
+    {
+      "type": "add",
+      "id": "06f4086d2b214216",
+      "item": {
+        "type": "paragraph",
+        "id": "06f4086d2b214216",
+        "text": "[[Federated Wiki]]"
+      },
+      "after": "c527b8fa29fa235d",
+      "date": 1480015710011
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "06f4086d2b214216",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "2c54be814c872593",
+      "date": 1480027720253
+    },
+    {
+      "type": "add",
+      "id": "9f92b1a367dfedbd",
+      "item": {
+        "type": "paragraph",
+        "id": "9f92b1a367dfedbd",
+        "text": "[[Wiki meta"
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1480028684734
+    },
+    {
+      "type": "edit",
+      "id": "9f92b1a367dfedbd",
+      "item": {
+        "type": "paragraph",
+        "id": "9f92b1a367dfedbd",
+        "text": "[[Wiki meta]]"
+      },
+      "date": 1480028687189
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "9f92b1a367dfedbd",
+        "06f4086d2b214216",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "9f92b1a367dfedbd",
+      "date": 1480028688564
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "9f92b1a367dfedbd",
+        "6f79d9508fb6b8f7",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "06f4086d2b214216",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "9f92b1a367dfedbd",
+      "date": 1480030705031
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ef5863bf2a1c624a",
+        "a8ff1d4629deb381",
+        "3904814310e8f71e",
+        "db3f56bca4b32f89",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "2c54be814c872593",
+        "6f79d9508fb6b8f7",
+        "9f92b1a367dfedbd",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "06f4086d2b214216",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "9f92b1a367dfedbd",
+      "date": 1480030706587
+    },
+    {
+      "type": "remove",
+      "id": "06f4086d2b214216",
+      "date": 1480031142065
     }
   ]
 }

@@ -37,22 +37,6 @@
       "type": "paragraph",
       "id": "c98da3668968b289",
       "text": "Consdering setting this site up as an open (or maybe closed) farm"
-    },
-    {
-      "type": "reference",
-      "id": "32bb31fdb69cdd8f",
-      "site": "fedwikihappening.rodwell.me",
-      "slug": "closed-farm",
-      "title": "Closed farm",
-      "text": "Most wiki farms are open. This is for flexibility, and ease of setup. But with a little work they don't have to be."
-    },
-    {
-      "type": "reference",
-      "id": "7f58b23de81fca34",
-      "site": "david.bovill.me",
-      "slug": "local-fedwiki-farm",
-      "title": "Local Fedwiki Farm",
-      "text": "Serving a local [[Fedwiki Farm]] on OSX involves the following steps:"
     }
   ],
   "journal": [
@@ -387,6 +371,90 @@
       ],
       "id": "7f58b23de81fca34",
       "date": 1479931075514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c6fe957104a75ca9"
+      },
+      "id": "c6fe957104a75ca9",
+      "type": "add",
+      "after": "7f58b23de81fca34",
+      "date": 1480012328125
+    },
+    {
+      "type": "edit",
+      "id": "c6fe957104a75ca9",
+      "item": {
+        "type": "reference",
+        "id": "c6fe957104a75ca9",
+        "site": "dev.asia.wiki.org",
+        "slug": "more-wiki-resources",
+        "title": "More Wiki Resources",
+        "text": "Look here for similar writing for those using, administering and developing federated wiki software."
+      },
+      "date": 1480012331938
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e66de5bd8f9f20c8"
+      },
+      "id": "e66de5bd8f9f20c8",
+      "type": "add",
+      "after": "c6fe957104a75ca9",
+      "date": 1480012334124
+    },
+    {
+      "type": "edit",
+      "id": "e66de5bd8f9f20c8",
+      "item": {
+        "type": "reference",
+        "id": "e66de5bd8f9f20c8",
+        "site": "dev.asia.wiki.org",
+        "slug": "hacking-federated-wiki",
+        "title": "Hacking Federated Wiki",
+        "text": "Federated wiki is designed to be a growing, moving, sprawling thing that can outlive any advice that I might give here. But start somewhere we must."
+      },
+      "date": 1480012338771
+    },
+    {
+      "type": "move",
+      "order": [
+        "530fa0c6d830da7d",
+        "efb2a20c1ef9eacf",
+        "d72fef48db142972",
+        "74269607fa946000",
+        "be5beb04ec02236f",
+        "e065466c23c55a6c",
+        "c6fe957104a75ca9",
+        "c98da3668968b289",
+        "32bb31fdb69cdd8f",
+        "7f58b23de81fca34",
+        "e66de5bd8f9f20c8"
+      ],
+      "id": "c6fe957104a75ca9",
+      "date": 1480012351124
+    },
+    {
+      "type": "remove",
+      "id": "c6fe957104a75ca9",
+      "date": 1480028737229
+    },
+    {
+      "type": "remove",
+      "id": "32bb31fdb69cdd8f",
+      "date": 1480028741061
+    },
+    {
+      "type": "remove",
+      "id": "7f58b23de81fca34",
+      "date": 1480028742318
+    },
+    {
+      "type": "remove",
+      "id": "e66de5bd8f9f20c8",
+      "date": 1480028743903
     }
   ]
 }

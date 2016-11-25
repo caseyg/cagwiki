@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "f5e48ba051192ab1",
-      "text": "Song lyrics that are hard to find, personally transcribed, or that I'm returning to all the time."
+      "text": "Song lyrics that are hard to find, that I transcribed, or that I'm returning to all the time."
     },
     {
       "type": "pagefold",
@@ -444,6 +444,16 @@
         "text": "Song lyrics that are hard to find, personally transcribed, or that I'm returning to all the time."
       },
       "date": 1479965433669
+    },
+    {
+      "type": "edit",
+      "id": "f5e48ba051192ab1",
+      "item": {
+        "type": "paragraph",
+        "id": "f5e48ba051192ab1",
+        "text": "Song lyrics that are hard to find, that I transcribed, or that I'm returning to all the time."
+      },
+      "date": 1480015735099
     }
   ]
 }

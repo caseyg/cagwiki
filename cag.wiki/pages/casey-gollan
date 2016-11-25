@@ -2,9 +2,19 @@
   "title": "Casey Gollan",
   "story": [
     {
-      "type": "markdown",
-      "id": "75ddd0673c33c0bb",
-      "text": "[http://caseyagollan.com website] [http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
+      "type": "paragraph",
+      "id": "c3c1d5811cbfcffb",
+      "text": "[http://caseyagollan.com homepage]"
+    },
+    {
+      "type": "paragraph",
+      "id": "89e353260dac72ee",
+      "text": "[http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7ed134afa25ff19c",
+      "text": "email: casey@bullshit.systems"
     }
   ],
   "journal": [
@@ -404,6 +414,92 @@
       "type": "remove",
       "id": "5b2a0e043ccbf74c",
       "date": 1479958755457
+    },
+    {
+      "type": "remove",
+      "id": "75ddd0673c33c0bb",
+      "date": 1480015463465
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c3c1d5811cbfcffb"
+      },
+      "id": "c3c1d5811cbfcffb",
+      "type": "add",
+      "date": 1480015465048
+    },
+    {
+      "type": "edit",
+      "id": "c3c1d5811cbfcffb",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c1d5811cbfcffb",
+        "text": "[http://caseyagollan.com website] [http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
+      },
+      "date": 1480015466920
+    },
+    {
+      "type": "add",
+      "id": "7ed134afa25ff19c",
+      "item": {
+        "type": "paragraph",
+        "id": "7ed134afa25ff19c",
+        "text": "email: casey@bullshit.systems"
+      },
+      "after": "c3c1d5811cbfcffb",
+      "date": 1480015473268
+    },
+    {
+      "type": "edit",
+      "id": "c3c1d5811cbfcffb",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c1d5811cbfcffb",
+        "text": "[http://caseyagollan.com website]"
+      },
+      "date": 1480015479971
+    },
+    {
+      "type": "add",
+      "id": "89e353260dac72ee",
+      "item": {
+        "type": "paragraph",
+        "id": "89e353260dac72ee",
+        "text": "[http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
+      },
+      "after": "c3c1d5811cbfcffb",
+      "date": 1480015482571
+    },
+    {
+      "type": "edit",
+      "id": "c3c1d5811cbfcffb",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c1d5811cbfcffb",
+        "text": "home caseyagollan.com [http://caseyagollan.com website]"
+      },
+      "date": 1480015491678
+    },
+    {
+      "type": "edit",
+      "id": "c3c1d5811cbfcffb",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c1d5811cbfcffb",
+        "text": "[http://caseyagollan.com website]"
+      },
+      "date": 1480015495203
+    },
+    {
+      "type": "edit",
+      "id": "c3c1d5811cbfcffb",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c1d5811cbfcffb",
+        "text": "[http://caseyagollan.com homepage]"
+      },
+      "date": 1480015500731
     }
   ]
 }

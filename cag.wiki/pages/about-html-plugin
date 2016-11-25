@@ -60,10 +60,6 @@
       "type": "paragraph",
       "id": "4319e863cb1ceb36",
       "text": "Note: fidelity with the Transport plugin api is not required of form handlers."
-    },
-    {
-      "type": "factory",
-      "id": "94d9d0fe9858a4cd"
     }
   ],
   "journal": [
@@ -544,6 +540,11 @@
       "type": "add",
       "after": "4319e863cb1ceb36",
       "date": 1479891026969
+    },
+    {
+      "type": "remove",
+      "id": "94d9d0fe9858a4cd",
+      "date": 1480034112097
     }
   ],
   "plugin": "html"
