@@ -1,0 +1,64 @@
+{
+  "title": "Vertebræ By Vertebræ",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1b579a4521bc5236",
+      "text": "[[Bjork]]"
+    },
+    {
+      "type": "markdown",
+      "id": "4f51377d216b490f",
+      "text": "[Verse 1]\nUp on the toe\nThere is a view\nUp on the toe\nAnd the spine\nStraight and erect\nHungry and curious\nUp on the toe\nLooking forward to\nThe air is thinner here\n  \n[Verse 2]\nShe came here\nTo lose face\nGot down on her knees\nThe beast is back!\nOn four legs\nSet her clock to the moon\nRaises her spine\nVertebrae by vertebrae\nUp on the toe\nLooking\n  \n[Verse 3]\nI have been filled with steam for months, for years\nSame old cloud, claustrophobic me\nLet it burst like old train sounds\nMake them leave me nature\n  \n[Bridge]\nVertebrae by vertebrae\nBy vertebrae\nBy vertebrae\nBy vertebrae\n  \n[Verse 4]\nMy arms squeeze out of my shoulders!\nAnd the arms squeeze out of my shoulders\nI curl my tail inwards, inwards\nI set my clock on the moon\nVertebrae by vertebrae\n  \n[Outro]\nPlease release this pressure of me\nPlease release this pressure of me\nPlease release this pressure of me\nLet off some steam"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Vertebræ By Vertebræ",
+        "story": []
+      },
+      "date": 1480046098953
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b579a4521bc5236"
+      },
+      "id": "1b579a4521bc5236",
+      "type": "add",
+      "date": 1480046100258
+    },
+    {
+      "type": "edit",
+      "id": "1b579a4521bc5236",
+      "item": {
+        "type": "paragraph",
+        "id": "1b579a4521bc5236",
+        "text": "[[Bjork]]"
+      },
+      "date": 1480046104748
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f51377d216b490f"
+      },
+      "id": "4f51377d216b490f",
+      "type": "add",
+      "after": "1b579a4521bc5236",
+      "date": 1480046105618
+    },
+    {
+      "type": "edit",
+      "id": "4f51377d216b490f",
+      "item": {
+        "type": "markdown",
+        "id": "4f51377d216b490f",
+        "text": "[Verse 1]\nUp on the toe\nThere is a view\nUp on the toe\nAnd the spine\nStraight and erect\nHungry and curious\nUp on the toe\nLooking forward to\nThe air is thinner here\n  \n[Verse 2]\nShe came here\nTo lose face\nGot down on her knees\nThe beast is back!\nOn four legs\nSet her clock to the moon\nRaises her spine\nVertebrae by vertebrae\nUp on the toe\nLooking\n  \n[Verse 3]\nI have been filled with steam for months, for years\nSame old cloud, claustrophobic me\nLet it burst like old train sounds\nMake them leave me nature\n  \n[Bridge]\nVertebrae by vertebrae\nBy vertebrae\nBy vertebrae\nBy vertebrae\n  \n[Verse 4]\nMy arms squeeze out of my shoulders!\nAnd the arms squeeze out of my shoulders\nI curl my tail inwards, inwards\nI set my clock on the moon\nVertebrae by vertebrae\n  \n[Outro]\nPlease release this pressure of me\nPlease release this pressure of me\nPlease release this pressure of me\nLet off some steam"
+      },
+      "date": 1480046118014
+    }
+  ]
+}
