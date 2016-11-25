@@ -4,7 +4,7 @@
     {
       "type": "roster",
       "id": "99a1869b080c5b5c",
-      "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\nlocalhost:3000\nlocal\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
     }
   ],
   "journal": [
@@ -415,6 +415,26 @@
       "type": "remove",
       "id": "d43800f10cdcfc78",
       "date": 1480042879168
+    },
+    {
+      "type": "fork",
+      "site": "cag.wiki",
+      "date": 1480050581588
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480050591173
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3000",
+      "date": 1480050739697
     }
   ]
 }

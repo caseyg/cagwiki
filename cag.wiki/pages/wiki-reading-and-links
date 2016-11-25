@@ -1,11 +1,6 @@
 {
-  "title": "Wiki meta",
+  "title": "Wiki reading and links",
   "story": [
-    {
-      "type": "paragraph",
-      "id": "ea2df13dda899267",
-      "text": "Handy symbols: ✔ done, • also, ✘ fail, ★ favorite."
-    },
     {
       "type": "reference",
       "id": "ff3e31e0ebfed02b",
@@ -101,44 +96,19 @@
       "slug": "first-write-who--what",
       "title": "First Write Who & What",
       "text": "New sites are born with a single page that encourages the creation of two more, who and what. Here I reflect on the wisdom of that guidance."
-    },
-    {
-      "type": "pagefold",
-      "id": "0c4d71f6b167688f",
-      "text": "Useful Greps"
-    },
-    {
-      "type": "grep",
-      "id": "a21197d129b2bb15",
-      "text": "ITEM video"
-    },
-    {
-      "type": "grep",
-      "id": "935a5faeafd926a4",
-      "text": "ITEM paragraph\nTEXT Casey"
     }
   ],
   "journal": [
     {
       "type": "create",
       "item": {
-        "title": "Wiki meta",
+        "title": "Wiki reading and links",
         "story": []
       },
-      "date": 1480028691403
+      "date": 1480050038443
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "ff3e31e0ebfed02b"
-      },
-      "id": "ff3e31e0ebfed02b",
       "type": "add",
-      "date": 1480028710048
-    },
-    {
-      "type": "edit",
-      "id": "ff3e31e0ebfed02b",
       "item": {
         "type": "reference",
         "id": "ff3e31e0ebfed02b",
@@ -147,21 +117,11 @@
         "title": "Federated Wiki",
         "text": "Federated Wiki sites share pages circulating within a creative commons. A single-page browser application can read from many sites at once and save changes in that browser. Users who host their own sites can login there to have their edits shared back to the federation as they edit."
       },
-      "date": 1480028711702
+      "id": "ff3e31e0ebfed02b",
+      "date": 1480050048217
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "3306c48249b479d2"
-      },
-      "id": "3306c48249b479d2",
       "type": "add",
-      "after": "ff3e31e0ebfed02b",
-      "date": 1480028713851
-    },
-    {
-      "type": "edit",
-      "id": "3306c48249b479d2",
       "item": {
         "type": "reference",
         "id": "3306c48249b479d2",
@@ -170,7 +130,9 @@
         "title": "How To Wiki",
         "text": "This is our help documentation. Read a little bit. Then move on to our [http://sandbox.fed.wiki.org Sandbox] and give your new knowledge a workout. Still confused? Look through our [[Frequently Asked Questions]]."
       },
-      "date": 1480028718190
+      "after": "ff3e31e0ebfed02b",
+      "id": "3306c48249b479d2",
+      "date": 1480050049614
     },
     {
       "type": "add",
@@ -184,7 +146,7 @@
       },
       "after": "3306c48249b479d2",
       "id": "c6fe957104a75ca9",
-      "date": 1480028737233
+      "date": 1480050051538
     },
     {
       "type": "add",
@@ -198,7 +160,7 @@
       },
       "after": "c6fe957104a75ca9",
       "id": "32bb31fdb69cdd8f",
-      "date": 1480028741064
+      "date": 1480050053650
     },
     {
       "type": "add",
@@ -212,7 +174,7 @@
       },
       "after": "32bb31fdb69cdd8f",
       "id": "7f58b23de81fca34",
-      "date": 1480028742320
+      "date": 1480050065212
     },
     {
       "type": "add",
@@ -226,21 +188,10 @@
       },
       "after": "7f58b23de81fca34",
       "id": "e66de5bd8f9f20c8",
-      "date": 1480028743904
+      "date": 1480050066389
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "3e9f54a598b0f35f"
-      },
-      "id": "3e9f54a598b0f35f",
       "type": "add",
-      "after": "e66de5bd8f9f20c8",
-      "date": 1480028757039
-    },
-    {
-      "type": "edit",
-      "id": "3e9f54a598b0f35f",
       "item": {
         "type": "reference",
         "id": "3e9f54a598b0f35f",
@@ -249,21 +200,12 @@
         "title": "Weeds in the Farm",
         "text": "I've run the fed.wiki.org farm for three years. I've seen weeds sprout. I've weeded on occasion. I've not been stung but then I don't represent a public institution."
       },
-      "date": 1480028761118
+      "after": "e66de5bd8f9f20c8",
+      "id": "3e9f54a598b0f35f",
+      "date": 1480050068125
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "31b85617809dc00c"
-      },
-      "id": "31b85617809dc00c",
       "type": "add",
-      "after": "3e9f54a598b0f35f",
-      "date": 1480028821755
-    },
-    {
-      "type": "edit",
-      "id": "31b85617809dc00c",
       "item": {
         "type": "reference",
         "id": "31b85617809dc00c",
@@ -272,21 +214,12 @@
         "title": "Federated Wiki on Digital Ocean",
         "text": "At some point you may want to run your own Federated Wiki site, or perhaps set one up  for friends or a class. We've had good luck installing on Digital Ocean, which currently offers very cheap hosting and a much simpler setup than services such as Amazon Web Services."
       },
-      "date": 1480028824700
+      "after": "3e9f54a598b0f35f",
+      "id": "31b85617809dc00c",
+      "date": 1480050073620
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "f4f1255d5475b87f"
-      },
-      "id": "f4f1255d5475b87f",
       "type": "add",
-      "after": "31b85617809dc00c",
-      "date": 1480028965917
-    },
-    {
-      "type": "edit",
-      "id": "f4f1255d5475b87f",
       "item": {
         "type": "reference",
         "id": "f4f1255d5475b87f",
@@ -295,236 +228,12 @@
         "title": "Configuring Wiki-Security-Passportjs",
         "text": "Configuring each OAuth provider requires two steps: i) regestering our wiki installation, as an app, with the OAuth provider, and ii) configuring Federated Wiki to use the shared secrets created."
       },
-      "date": 1480028968793
+      "after": "31b85617809dc00c",
+      "id": "f4f1255d5475b87f",
+      "date": 1480050075754
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "78b2394a1b709ca0"
-      },
-      "id": "78b2394a1b709ca0",
       "type": "add",
-      "after": "f4f1255d5475b87f",
-      "date": 1480030711370
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "0c4d71f6b167688f"
-      },
-      "id": "0c4d71f6b167688f",
-      "type": "add",
-      "after": "78b2394a1b709ca0",
-      "date": 1480030714809
-    },
-    {
-      "type": "remove",
-      "id": "78b2394a1b709ca0",
-      "date": 1480030717119
-    },
-    {
-      "type": "edit",
-      "id": "0c4d71f6b167688f",
-      "item": {
-        "type": "pagefold",
-        "id": "0c4d71f6b167688f",
-        "text": "Grep"
-      },
-      "date": 1480030719758
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "cf12aa172c725980"
-      },
-      "id": "cf12aa172c725980",
-      "type": "add",
-      "after": "0c4d71f6b167688f",
-      "date": 1480030720932
-    },
-    {
-      "type": "remove",
-      "id": "cf12aa172c725980",
-      "date": 1480030732755
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "a21197d129b2bb15"
-      },
-      "id": "a21197d129b2bb15",
-      "type": "add",
-      "after": "0c4d71f6b167688f",
-      "date": 1480030735205
-    },
-    {
-      "type": "edit",
-      "id": "a21197d129b2bb15",
-      "item": {
-        "type": "grep",
-        "id": "a21197d129b2bb15",
-        "text": "ITEM video"
-      },
-      "date": 1480030738091
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "935a5faeafd926a4"
-      },
-      "id": "935a5faeafd926a4",
-      "type": "add",
-      "after": "a21197d129b2bb15",
-      "date": 1480030742371
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "9769ca4911682de5"
-      },
-      "id": "9769ca4911682de5",
-      "type": "add",
-      "after": "935a5faeafd926a4",
-      "date": 1480030753082
-    },
-    {
-      "type": "edit",
-      "id": "935a5faeafd926a4",
-      "item": {
-        "type": "grep",
-        "id": "935a5faeafd926a4",
-        "text": "\"apple\""
-      },
-      "date": 1480030758583
-    },
-    {
-      "type": "edit",
-      "id": "935a5faeafd926a4",
-      "item": {
-        "type": "grep",
-        "id": "935a5faeafd926a4",
-        "text": "TEXT \"apple\""
-      },
-      "date": 1480030801548
-    },
-    {
-      "type": "edit",
-      "id": "935a5faeafd926a4",
-      "item": {
-        "type": "grep",
-        "id": "935a5faeafd926a4",
-        "text": "TEXT \"casey\""
-      },
-      "date": 1480030806352
-    },
-    {
-      "type": "edit",
-      "id": "935a5faeafd926a4",
-      "item": {
-        "type": "grep",
-        "id": "935a5faeafd926a4",
-        "text": "TEXT \"Casey\""
-      },
-      "date": 1480030809800
-    },
-    {
-      "type": "edit",
-      "id": "935a5faeafd926a4",
-      "item": {
-        "type": "grep",
-        "id": "935a5faeafd926a4",
-        "text": "TEXT Casey"
-      },
-      "date": 1480030813391
-    },
-    {
-      "type": "edit",
-      "id": "935a5faeafd926a4",
-      "item": {
-        "type": "grep",
-        "id": "935a5faeafd926a4",
-        "text": "TEXT casey"
-      },
-      "date": 1480030816505
-    },
-    {
-      "type": "edit",
-      "id": "935a5faeafd926a4",
-      "item": {
-        "type": "grep",
-        "id": "935a5faeafd926a4",
-        "text": "TEXT website"
-      },
-      "date": 1480030823583
-    },
-    {
-      "type": "edit",
-      "id": "935a5faeafd926a4",
-      "item": {
-        "type": "grep",
-        "id": "935a5faeafd926a4",
-        "text": "ITEM paragraph\nTEXT Casey"
-      },
-      "date": 1480030834636
-    },
-    {
-      "type": "edit",
-      "id": "0c4d71f6b167688f",
-      "item": {
-        "type": "pagefold",
-        "id": "0c4d71f6b167688f",
-        "text": "Useful Greps"
-      },
-      "date": 1480030842860
-    },
-    {
-      "type": "remove",
-      "id": "9769ca4911682de5",
-      "date": 1480030943083
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "e381006112b95592"
-      },
-      "id": "e381006112b95592",
-      "type": "add",
-      "after": "935a5faeafd926a4",
-      "date": 1480030943917
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "7ceeb5917b15c43d"
-      },
-      "id": "7ceeb5917b15c43d",
-      "type": "add",
-      "after": "e381006112b95592",
-      "date": 1480030954724
-    },
-    {
-      "type": "remove",
-      "id": "e381006112b95592",
-      "date": 1480030959311
-    },
-    {
-      "type": "remove",
-      "id": "7ceeb5917b15c43d",
-      "date": 1480030964703
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "6bd3e08f911f1fca"
-      },
-      "id": "6bd3e08f911f1fca",
-      "type": "add",
-      "after": "935a5faeafd926a4",
-      "date": 1480041585359
-    },
-    {
-      "type": "edit",
-      "id": "6bd3e08f911f1fca",
       "item": {
         "type": "reference",
         "id": "6bd3e08f911f1fca",
@@ -533,41 +242,12 @@
         "title": "Farm Roster Script",
         "text": "This is a shell command that will print a list of non-empty sites in a farm. Copy its output to a new roster to see the activity in these sites."
       },
-      "date": 1480041588273
-    },
-    {
-      "type": "move",
-      "order": [
-        "ff3e31e0ebfed02b",
-        "3306c48249b479d2",
-        "c6fe957104a75ca9",
-        "32bb31fdb69cdd8f",
-        "7f58b23de81fca34",
-        "e66de5bd8f9f20c8",
-        "3e9f54a598b0f35f",
-        "31b85617809dc00c",
-        "f4f1255d5475b87f",
-        "6bd3e08f911f1fca",
-        "0c4d71f6b167688f",
-        "a21197d129b2bb15",
-        "935a5faeafd926a4"
-      ],
+      "after": "f4f1255d5475b87f",
       "id": "6bd3e08f911f1fca",
-      "date": 1480041591720
+      "date": 1480050079226
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "0ad737b35cc21541"
-      },
-      "id": "0ad737b35cc21541",
       "type": "add",
-      "after": "935a5faeafd926a4",
-      "date": 1480041796882
-    },
-    {
-      "type": "edit",
-      "id": "0ad737b35cc21541",
       "item": {
         "type": "reference",
         "id": "0ad737b35cc21541",
@@ -576,42 +256,12 @@
         "title": "JSON Schema",
         "text": "Here we describe the JSON Schema for a [[Wiki Page]], that is the [[Wiki Page JSON]] that [[Fedwiki Page]]s are built out of. You can see this JSON for any particular page by selecting the JSON link at the bottom of the page."
       },
-      "date": 1480041800990
-    },
-    {
-      "type": "move",
-      "order": [
-        "ff3e31e0ebfed02b",
-        "3306c48249b479d2",
-        "c6fe957104a75ca9",
-        "32bb31fdb69cdd8f",
-        "7f58b23de81fca34",
-        "e66de5bd8f9f20c8",
-        "3e9f54a598b0f35f",
-        "31b85617809dc00c",
-        "f4f1255d5475b87f",
-        "6bd3e08f911f1fca",
-        "0ad737b35cc21541",
-        "0c4d71f6b167688f",
-        "a21197d129b2bb15",
-        "935a5faeafd926a4"
-      ],
+      "after": "6bd3e08f911f1fca",
       "id": "0ad737b35cc21541",
-      "date": 1480041804448
+      "date": 1480050085541
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "6f97b18b5666ed3b"
-      },
-      "id": "6f97b18b5666ed3b",
       "type": "add",
-      "after": "935a5faeafd926a4",
-      "date": 1480041845508
-    },
-    {
-      "type": "edit",
-      "id": "6f97b18b5666ed3b",
       "item": {
         "type": "reference",
         "id": "6f97b18b5666ed3b",
@@ -620,39 +270,9 @@
         "title": "First Write Who & What",
         "text": "New sites are born with a single page that encourages the creation of two more, who and what. Here I reflect on the wisdom of that guidance."
       },
-      "date": 1480041847828
-    },
-    {
-      "type": "move",
-      "order": [
-        "ff3e31e0ebfed02b",
-        "3306c48249b479d2",
-        "c6fe957104a75ca9",
-        "32bb31fdb69cdd8f",
-        "7f58b23de81fca34",
-        "e66de5bd8f9f20c8",
-        "3e9f54a598b0f35f",
-        "31b85617809dc00c",
-        "f4f1255d5475b87f",
-        "6bd3e08f911f1fca",
-        "0ad737b35cc21541",
-        "6f97b18b5666ed3b",
-        "0c4d71f6b167688f",
-        "a21197d129b2bb15",
-        "935a5faeafd926a4"
-      ],
+      "after": "0ad737b35cc21541",
       "id": "6f97b18b5666ed3b",
-      "date": 1480041849777
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "paragraph",
-        "id": "ea2df13dda899267",
-        "text": "Handy symbols: ✔ done, • also, ✘ fail, ★ favorite."
-      },
-      "id": "ea2df13dda899267",
-      "date": 1480041914783
+      "date": 1480050089024
     }
   ]
 }

@@ -4,7 +4,7 @@
     {
       "type": "pagefold",
       "id": "7e2e7490d05917a8",
-      "text": "Resetting ownership"
+      "text": "Checking resetting farm ownership"
     },
     {
       "type": "code",
@@ -12,9 +12,29 @@
       "text": "> ssh cag@cag.wiki\n> nano [domain].cag.wiki/status/owner.json"
     },
     {
+      "type": "pagefold",
+      "id": "127de404f76a326d",
+      "text": "Handy symbols"
+    },
+    {
       "type": "paragraph",
       "id": "ea2df13dda899267",
-      "text": "Handy symbols: ✔ done, • also, ✘ fail, ★ favorite."
+      "text": "✔ done, • also, ✘ fail, ★ favorite"
+    },
+    {
+      "type": "pagefold",
+      "id": "0c4d71f6b167688f",
+      "text": "Useful Greps"
+    },
+    {
+      "type": "grep",
+      "id": "a21197d129b2bb15",
+      "text": "ITEM video"
+    },
+    {
+      "type": "grep",
+      "id": "935a5faeafd926a4",
+      "text": "ITEM paragraph\nTEXT Casey"
     }
   ],
   "journal": [
@@ -120,6 +140,136 @@
         "text": "> ssh cag@cag.wiki\n> nano [domain].cag.wiki/status/owner.json"
       },
       "date": 1480049789002
+    },
+    {
+      "type": "edit",
+      "id": "7e2e7490d05917a8",
+      "item": {
+        "type": "pagefold",
+        "id": "7e2e7490d05917a8",
+        "text": "Checking ownership"
+      },
+      "date": 1480049937130
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "0c4d71f6b167688f",
+        "text": "Useful Greps"
+      },
+      "after": "ea2df13dda899267",
+      "id": "0c4d71f6b167688f",
+      "date": 1480050143489
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "127de404f76a326d"
+      },
+      "id": "127de404f76a326d",
+      "type": "add",
+      "after": "0c4d71f6b167688f",
+      "date": 1480050145812
+    },
+    {
+      "type": "edit",
+      "id": "127de404f76a326d",
+      "item": {
+        "type": "pagefold",
+        "id": "127de404f76a326d",
+        "text": "Handy symbols"
+      },
+      "date": 1480050150077
+    },
+    {
+      "type": "move",
+      "order": [
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f"
+      ],
+      "id": "127de404f76a326d",
+      "date": 1480050151495
+    },
+    {
+      "type": "edit",
+      "id": "ea2df13dda899267",
+      "item": {
+        "type": "paragraph",
+        "id": "ea2df13dda899267",
+        "text": "✔ done, • also, ✘ fail, ★ favorite."
+      },
+      "date": 1480050154642
+    },
+    {
+      "type": "edit",
+      "id": "ea2df13dda899267",
+      "item": {
+        "type": "paragraph",
+        "id": "ea2df13dda899267",
+        "text": "✔ done, • also, ✘ fail, ★ favorite"
+      },
+      "date": 1480050156771
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "grep",
+        "id": "a21197d129b2bb15",
+        "text": "ITEM video"
+      },
+      "after": "0c4d71f6b167688f",
+      "id": "a21197d129b2bb15",
+      "date": 1480050159753
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "grep",
+        "id": "935a5faeafd926a4",
+        "text": "ITEM paragraph\nTEXT Casey"
+      },
+      "after": "a21197d129b2bb15",
+      "id": "935a5faeafd926a4",
+      "date": 1480050164800
+    },
+    {
+      "type": "edit",
+      "id": "7e2e7490d05917a8",
+      "item": {
+        "type": "pagefold",
+        "id": "7e2e7490d05917a8",
+        "text": "Checking farm ownership"
+      },
+      "date": 1480050178646
+    },
+    {
+      "type": "edit",
+      "id": "7e2e7490d05917a8",
+      "item": {
+        "type": "pagefold",
+        "id": "7e2e7490d05917a8",
+        "text": "Checking resetting farm ownership"
+      },
+      "date": 1480050187133
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "200eeb714a1523a0"
+      },
+      "id": "200eeb714a1523a0",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480050192182
+    },
+    {
+      "type": "remove",
+      "id": "200eeb714a1523a0",
+      "date": 1480050213006
     }
   ]
 }
