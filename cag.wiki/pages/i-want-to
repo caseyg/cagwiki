@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "6f4919d1d0c374bf",
-      "text": "w.i.p.r.n. (work in public, reveal nothing)"
+      "text": "w.i.p.r.n. ([[work in public, reveal nothing]])"
     },
     {
       "type": "paragraph",
@@ -224,6 +224,32 @@
       },
       "after": "294a44d5e6a9e5c9",
       "date": 1479968886070
+    },
+    {
+      "type": "edit",
+      "id": "6f4919d1d0c374bf",
+      "item": {
+        "type": "paragraph",
+        "id": "6f4919d1d0c374bf",
+        "text": "w.i.p.r.n. ([[work in public, reveal nothing]])"
+      },
+      "date": 1480427447830
+    },
+    {
+      "type": "add",
+      "id": "371f1f079b1d21e8",
+      "item": {
+        "type": "paragraph",
+        "id": "371f1f079b1d21e8",
+        "text": "[[Work in Public, Reveal Nothing]]"
+      },
+      "after": "6f4919d1d0c374bf",
+      "date": 1480427469965
+    },
+    {
+      "type": "remove",
+      "id": "371f1f079b1d21e8",
+      "date": 1480432241519
     }
   ]
 }

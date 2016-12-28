@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "480ca08bca87851f",
-      "text": "Books I've read, am reading, or have lying around."
+      "text": "Reading, read, or around."
     },
     {
       "type": "paragraph",
@@ -5023,6 +5023,46 @@
         "text": "State of Exception — Giorgio Agamben\n"
       },
       "date": 1480058265664
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "Books reading, read, or around."
+      },
+      "date": 1480063725193
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "Books reading, read, or around?"
+      },
+      "date": 1480063772431
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "Books reading, read, or around."
+      },
+      "date": 1480063774826
+    },
+    {
+      "type": "edit",
+      "id": "480ca08bca87851f",
+      "item": {
+        "type": "paragraph",
+        "id": "480ca08bca87851f",
+        "text": "Reading, read, or around."
+      },
+      "date": 1480063787168
     }
   ]
 }

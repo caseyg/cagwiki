@@ -1,0 +1,81 @@
+{
+  "title": "Summarization",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4f9589ddb82e2523",
+      "text": "[[Business Book Summaries]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fcc5c8d9c0673d93",
+      "text": "Algorithms"
+    },
+    {
+      "type": "paragraph",
+      "id": "e55be9cbfa777b91",
+      "text": "How does a computer learn what's relevant? [[Society of the Mind]] by [[Marvin Minsky]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Summarization",
+        "story": []
+      },
+      "date": 1480096979023
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f9589ddb82e2523"
+      },
+      "id": "4f9589ddb82e2523",
+      "type": "add",
+      "date": 1480096980539
+    },
+    {
+      "type": "edit",
+      "id": "4f9589ddb82e2523",
+      "item": {
+        "type": "paragraph",
+        "id": "4f9589ddb82e2523",
+        "text": "[[Business Book Summaries]]"
+      },
+      "date": 1480096989018
+    },
+    {
+      "type": "add",
+      "id": "fcc5c8d9c0673d93",
+      "item": {
+        "type": "paragraph",
+        "id": "fcc5c8d9c0673d93",
+        "text": "Algorithms"
+      },
+      "after": "4f9589ddb82e2523",
+      "date": 1480096995667
+    },
+    {
+      "type": "add",
+      "id": "e55be9cbfa777b91",
+      "item": {
+        "type": "paragraph",
+        "id": "e55be9cbfa777b91",
+        "text": "How does a computer learn what's relevant?"
+      },
+      "after": "fcc5c8d9c0673d93",
+      "date": 1480097006780
+    },
+    {
+      "type": "edit",
+      "id": "e55be9cbfa777b91",
+      "item": {
+        "type": "paragraph",
+        "id": "e55be9cbfa777b91",
+        "text": "How does a computer learn what's relevant? [[Society of the Mind]] by [[Marvin Minsky]]"
+      },
+      "date": 1480097021697
+    }
+  ]
+}

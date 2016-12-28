@@ -1,0 +1,205 @@
+{
+  "title": "Wiki Meta Journal",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "972e61bdac311087",
+      "text": "2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "46cecb06b97ec463",
+      "text": "Nov 25 — learned how to use tmux to run wiki so I don't have to use digitalocean's crappy online console, added ideas page, created work.cag.wiki and started to port and update content there"
+    },
+    {
+      "type": "paragraph",
+      "id": "39a1c3886062bc97",
+      "text": "Nov 24 — switched authentication from passportjs to friend secret, reorganized main page, added a roster that can be used across the federation, formatted books"
+    },
+    {
+      "type": "paragraph",
+      "id": "f7f8fbdb072e670d",
+      "text": "Nov 23 — registered http://cag.wiki, signed up for the smallest digitalocean droplet (after paying off $20 debt from a Discourse droplet that had expired), deployed fedwiki, set up farm and worked on debugging because it doesn't quite work yet, added sisu favicon, made a bunch of pages and added index cards from projects presentation, watched fedwiki videos and poked around various federation sites to learn more"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki Meta Journal",
+        "story": []
+      },
+      "date": 1480062049050
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a47128ba8023c09"
+      },
+      "id": "4a47128ba8023c09",
+      "type": "add",
+      "date": 1480062051340
+    },
+    {
+      "type": "remove",
+      "id": "4a47128ba8023c09",
+      "date": 1480062062183
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "972e61bdac311087"
+      },
+      "id": "972e61bdac311087",
+      "type": "add",
+      "date": 1480062064491
+    },
+    {
+      "type": "edit",
+      "id": "972e61bdac311087",
+      "item": {
+        "type": "pagefold",
+        "id": "972e61bdac311087",
+        "text": "november"
+      },
+      "date": 1480062079360
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "39a1c3886062bc97"
+      },
+      "id": "39a1c3886062bc97",
+      "type": "add",
+      "after": "972e61bdac311087",
+      "date": 1480062082918
+    },
+    {
+      "type": "edit",
+      "id": "39a1c3886062bc97",
+      "item": {
+        "type": "paragraph",
+        "id": "39a1c3886062bc97",
+        "text": "Nov 25: "
+      },
+      "date": 1480062091411
+    },
+    {
+      "type": "edit",
+      "id": "39a1c3886062bc97",
+      "item": {
+        "type": "paragraph",
+        "id": "39a1c3886062bc97",
+        "text": "Nov 25 —"
+      },
+      "date": 1480062108161
+    },
+    {
+      "type": "edit",
+      "id": "972e61bdac311087",
+      "item": {
+        "type": "pagefold",
+        "id": "972e61bdac311087",
+        "text": "2016"
+      },
+      "date": 1480062113076
+    },
+    {
+      "type": "edit",
+      "id": "39a1c3886062bc97",
+      "item": {
+        "type": "paragraph",
+        "id": "39a1c3886062bc97",
+        "text": "Nov 25 — switched authentication from passportjs to friend secret"
+      },
+      "date": 1480062149075
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c7c57da3b6a34ca"
+      },
+      "id": "5c7c57da3b6a34ca",
+      "type": "add",
+      "after": "39a1c3886062bc97",
+      "date": 1480062163793
+    },
+    {
+      "type": "remove",
+      "id": "5c7c57da3b6a34ca",
+      "date": 1480062181613
+    },
+    {
+      "type": "edit",
+      "id": "39a1c3886062bc97",
+      "item": {
+        "type": "paragraph",
+        "id": "39a1c3886062bc97",
+        "text": "Nov 24 — switched authentication from passportjs to friend secret"
+      },
+      "date": 1480062183590
+    },
+    {
+      "type": "add",
+      "id": "f7f8fbdb072e670d",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f8fbdb072e670d",
+        "text": "Nov 23 — registered http://cag.wiki, signed up for the smallest digitalocean droplet (after paying off $20 debt from a Discourse droplet that had expired), deployed fedwiki, set up farm and worked on debugging because it doesn"
+      },
+      "after": "39a1c3886062bc97",
+      "date": 1480062313358
+    },
+    {
+      "type": "edit",
+      "id": "f7f8fbdb072e670d",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f8fbdb072e670d",
+        "text": "Nov 23 — registered http://cag.wiki, signed up for the smallest digitalocean droplet (after paying off $20 debt from a Discourse droplet that had expired), deployed fedwiki, set up farm and worked on debugging because it doesn't quite work yet, added sisu favicon, made a bunch of pages and added index cards from projects presentation"
+      },
+      "date": 1480062326948
+    },
+    {
+      "type": "edit",
+      "id": "f7f8fbdb072e670d",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f8fbdb072e670d",
+        "text": "Nov 23 — registered http://cag.wiki, signed up for the smallest digitalocean droplet (after paying off $20 debt from a Discourse droplet that had expired), deployed fedwiki, set up farm and worked on debugging because it doesn't quite work yet, added sisu favicon, made a bunch of pages and added index cards from projects presentation, watched fedwiki videos and poked around various federation sites"
+      },
+      "date": 1480062346893
+    },
+    {
+      "type": "edit",
+      "id": "f7f8fbdb072e670d",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f8fbdb072e670d",
+        "text": "Nov 23 — registered http://cag.wiki, signed up for the smallest digitalocean droplet (after paying off $20 debt from a Discourse droplet that had expired), deployed fedwiki, set up farm and worked on debugging because it doesn't quite work yet, added sisu favicon, made a bunch of pages and added index cards from projects presentation, watched fedwiki videos and poked around various federation sites to learn more"
+      },
+      "date": 1480062350965
+    },
+    {
+      "type": "edit",
+      "id": "39a1c3886062bc97",
+      "item": {
+        "type": "paragraph",
+        "id": "39a1c3886062bc97",
+        "text": "Nov 24 — switched authentication from passportjs to friend secret, reorganized main page, added a roster that can be used across the federation, formatted books"
+      },
+      "date": 1480062434833
+    },
+    {
+      "type": "add",
+      "id": "46cecb06b97ec463",
+      "item": {
+        "type": "paragraph",
+        "id": "46cecb06b97ec463",
+        "text": "Nov 25 — learned how to use tmux to run wiki so I don't have to use digitalocean's crappy online console, added ideas page, created work.cag.wiki and started to port and update content there"
+      },
+      "after": "972e61bdac311087",
+      "date": 1480100951163
+    }
+  ]
+}

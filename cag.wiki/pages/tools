@@ -52,6 +52,11 @@
       "text": "[[Word Processor]]"
     },
     {
+      "type": "paragraph",
+      "id": "9e93e4eede1551cb",
+      "text": "[[Summarization]]"
+    },
+    {
       "type": "pagefold",
       "id": "fd92b66ac0caf01c",
       "text": "Tools I use"
@@ -60,6 +65,16 @@
       "type": "paragraph",
       "id": "1c394ba91d7a4735",
       "text": "[[Federated Wiki]] [https://github.com/fedwiki/wiki github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5bcd520b728e9a33",
+      "text": "[[Tools for Transcription]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2a0dcb9b610f4a76",
+      "text": "[[Lifelogging]]"
     },
     {
       "type": "pagefold",
@@ -80,6 +95,66 @@
       "type": "paragraph",
       "id": "440d0992a5108cd3",
       "text": "Bytebeat (built into FW) [http://canonical.org/~kragen/bytebeat/ website] and Glitch [http://naivesound.com/glitch website]"
+    },
+    {
+      "type": "pagefold",
+      "id": "c4c81150f33ca0d6",
+      "text": "Considering"
+    },
+    {
+      "type": "paragraph",
+      "id": "e57ee0997d28136f",
+      "text": "[[Scanners]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "be06ff274bffbf32",
+      "text": "Image/asset server (maybe with thumbnail service?? maybe integrated with dropbox?)"
+    },
+    {
+      "type": "pagefold",
+      "id": "a61129cf9590d9c3",
+      "text": "Scratchpad"
+    },
+    {
+      "type": "paragraph",
+      "id": "2fea58f0ddd1836b",
+      "text": "[[R.A.C.I.]] (Responsible Accountable Consulted Informed)"
+    },
+    {
+      "type": "paragraph",
+      "id": "7cfcdbe4697d3f9f",
+      "text": "[[Eisenhower Matrix]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f311d3dfebf0f5e4",
+      "text": "[[S.M.A.R.T. Goals]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "434d0a04b47ca65f",
+      "text": "[[5 Whys]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "00fbdd3978446855",
+      "text": "[[Principles (Ray Dalio)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a1c5dcfb484e4468",
+      "text": "[[Tactic Star]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "108173f58ee4d0f4",
+      "text": "[[Procedural Generation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "393e0fc4359dea13",
+      "text": "[[Bureaucratic Intelligence]]"
     }
   ],
   "journal": [
@@ -828,6 +903,331 @@
         "text": "[[Word Processor]]"
       },
       "date": 1480055613125
+    },
+    {
+      "type": "add",
+      "id": "5bcd520b728e9a33",
+      "item": {
+        "type": "paragraph",
+        "id": "5bcd520b728e9a33",
+        "text": "[[Tools for Transcription]]"
+      },
+      "after": "1c394ba91d7a4735",
+      "date": 1480095308076
+    },
+    {
+      "type": "add",
+      "id": "2a0dcb9b610f4a76",
+      "item": {
+        "type": "paragraph",
+        "id": "2a0dcb9b610f4a76",
+        "text": "[[Lifelogging]]"
+      },
+      "after": "5bcd520b728e9a33",
+      "date": 1480095660746
+    },
+    {
+      "type": "add",
+      "id": "e57ee0997d28136f",
+      "item": {
+        "type": "paragraph",
+        "id": "e57ee0997d28136f",
+        "text": "[[Scanners]]"
+      },
+      "after": "2a0dcb9b610f4a76",
+      "date": 1480096487646
+    },
+    {
+      "type": "move",
+      "order": [
+        "a7d60867b6218800",
+        "badb53566a21a8e5",
+        "d837ea7481df28d5",
+        "49157618bce84007",
+        "4243e634b2ad6ae7",
+        "4ca89f8629c35e62",
+        "f4b0eb3753b6fe32",
+        "6f097ecafaa442fa",
+        "c65e4489382058cc",
+        "ca7886c9ed579491",
+        "fd92b66ac0caf01c",
+        "1c394ba91d7a4735",
+        "5bcd520b728e9a33",
+        "2a0dcb9b610f4a76",
+        "449e3f4dc4d58207",
+        "4206d3ffc0498b8a",
+        "00604f19092f8bd7",
+        "440d0992a5108cd3",
+        "e57ee0997d28136f"
+      ],
+      "id": "e57ee0997d28136f",
+      "date": 1480096491732
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4c81150f33ca0d6"
+      },
+      "id": "c4c81150f33ca0d6",
+      "type": "add",
+      "after": "e57ee0997d28136f",
+      "date": 1480096493586
+    },
+    {
+      "type": "edit",
+      "id": "c4c81150f33ca0d6",
+      "item": {
+        "type": "pagefold",
+        "id": "c4c81150f33ca0d6",
+        "text": "Considering"
+      },
+      "date": 1480096506387
+    },
+    {
+      "type": "move",
+      "order": [
+        "a7d60867b6218800",
+        "badb53566a21a8e5",
+        "d837ea7481df28d5",
+        "49157618bce84007",
+        "4243e634b2ad6ae7",
+        "4ca89f8629c35e62",
+        "f4b0eb3753b6fe32",
+        "6f097ecafaa442fa",
+        "c65e4489382058cc",
+        "ca7886c9ed579491",
+        "fd92b66ac0caf01c",
+        "1c394ba91d7a4735",
+        "5bcd520b728e9a33",
+        "2a0dcb9b610f4a76",
+        "449e3f4dc4d58207",
+        "4206d3ffc0498b8a",
+        "00604f19092f8bd7",
+        "440d0992a5108cd3",
+        "c4c81150f33ca0d6",
+        "e57ee0997d28136f"
+      ],
+      "id": "c4c81150f33ca0d6",
+      "date": 1480096507943
+    },
+    {
+      "type": "add",
+      "id": "9e93e4eede1551cb",
+      "item": {
+        "type": "paragraph",
+        "id": "9e93e4eede1551cb",
+        "text": "[[Summarization"
+      },
+      "after": "ca7886c9ed579491",
+      "date": 1480096975720
+    },
+    {
+      "type": "edit",
+      "id": "9e93e4eede1551cb",
+      "item": {
+        "type": "paragraph",
+        "id": "9e93e4eede1551cb",
+        "text": "[[Summarization]]"
+      },
+      "date": 1480096977125
+    },
+    {
+      "type": "add",
+      "id": "be06ff274bffbf32",
+      "item": {
+        "type": "paragraph",
+        "id": "be06ff274bffbf32",
+        "text": "Image/asset server (maybe with thumbnail service?? maybe integrated with dropbox?)"
+      },
+      "after": "e57ee0997d28136f",
+      "date": 1480099063049
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a61129cf9590d9c3"
+      },
+      "id": "a61129cf9590d9c3",
+      "type": "add",
+      "after": "be06ff274bffbf32",
+      "date": 1480106548338
+    },
+    {
+      "type": "edit",
+      "id": "a61129cf9590d9c3",
+      "item": {
+        "type": "pagefold",
+        "id": "a61129cf9590d9c3",
+        "text": "Scratchpad"
+      },
+      "date": 1480106556295
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2fea58f0ddd1836b"
+      },
+      "id": "2fea58f0ddd1836b",
+      "type": "add",
+      "after": "a61129cf9590d9c3",
+      "date": 1480106557491
+    },
+    {
+      "type": "edit",
+      "id": "2fea58f0ddd1836b",
+      "item": {
+        "type": "paragraph",
+        "id": "2fea58f0ddd1836b",
+        "text": "[[R.A.C.I.]]"
+      },
+      "date": 1480106564340
+    },
+    {
+      "type": "edit",
+      "id": "2fea58f0ddd1836b",
+      "item": {
+        "type": "paragraph",
+        "id": "2fea58f0ddd1836b",
+        "text": "[[R.A.C.I.]] (Responsible Accountable Consulted Informed)"
+      },
+      "date": 1480106580493
+    },
+    {
+      "type": "add",
+      "id": "7cfcdbe4697d3f9f",
+      "item": {
+        "type": "paragraph",
+        "id": "7cfcdbe4697d3f9f",
+        "text": "[["
+      },
+      "after": "2fea58f0ddd1836b",
+      "date": 1480106588178
+    },
+    {
+      "type": "edit",
+      "id": "7cfcdbe4697d3f9f",
+      "item": {
+        "type": "paragraph",
+        "id": "7cfcdbe4697d3f9f",
+        "text": "[[Eisenhower Matrix]]"
+      },
+      "date": 1480106589628
+    },
+    {
+      "type": "add",
+      "id": "f311d3dfebf0f5e4",
+      "item": {
+        "type": "paragraph",
+        "id": "f311d3dfebf0f5e4",
+        "text": "S.M.A.R.T. Goals"
+      },
+      "after": "7cfcdbe4697d3f9f",
+      "date": 1480106599000
+    },
+    {
+      "type": "edit",
+      "id": "f311d3dfebf0f5e4",
+      "item": {
+        "type": "paragraph",
+        "id": "f311d3dfebf0f5e4",
+        "text": "[[S.M.A.R.T. Goals]]"
+      },
+      "date": 1480106604028
+    },
+    {
+      "type": "add",
+      "id": "434d0a04b47ca65f",
+      "item": {
+        "type": "paragraph",
+        "id": "434d0a04b47ca65f",
+        "text": "Five Whys"
+      },
+      "after": "f311d3dfebf0f5e4",
+      "date": 1480106620780
+    },
+    {
+      "type": "edit",
+      "id": "434d0a04b47ca65f",
+      "item": {
+        "type": "paragraph",
+        "id": "434d0a04b47ca65f",
+        "text": "[[5 Whys]]"
+      },
+      "date": 1480106632130
+    },
+    {
+      "type": "add",
+      "id": "00fbdd3978446855",
+      "item": {
+        "type": "paragraph",
+        "id": "00fbdd3978446855",
+        "text": "[[Principles (Ray Dalio)]]"
+      },
+      "after": "434d0a04b47ca65f",
+      "date": 1480186688224
+    },
+    {
+      "type": "edit",
+      "id": "00fbdd3978446855",
+      "item": {
+        "type": "paragraph",
+        "id": "00fbdd3978446855",
+        "text": "[[Principles (Ray Dalio)]] and [[Unadhering Tools]]"
+      },
+      "date": 1480186709710
+    },
+    {
+      "type": "edit",
+      "id": "00fbdd3978446855",
+      "item": {
+        "type": "paragraph",
+        "id": "00fbdd3978446855",
+        "text": "[[Principles (Ray Dalio)]]"
+      },
+      "date": 1480186754428
+    },
+    {
+      "type": "add",
+      "id": "a1c5dcfb484e4468",
+      "item": {
+        "type": "paragraph",
+        "id": "a1c5dcfb484e4468",
+        "text": "[[Tactic Star]]"
+      },
+      "after": "00fbdd3978446855",
+      "date": 1480186764857
+    },
+    {
+      "type": "add",
+      "id": "108173f58ee4d0f4",
+      "item": {
+        "type": "paragraph",
+        "id": "108173f58ee4d0f4",
+        "text": "[[Procedural Generation]]"
+      },
+      "after": "a1c5dcfb484e4468",
+      "date": 1480186780843
+    },
+    {
+      "type": "add",
+      "id": "393e0fc4359dea13",
+      "item": {
+        "type": "paragraph",
+        "id": "393e0fc4359dea13",
+        "text": "[[Bureaucratic Intelligence"
+      },
+      "after": "108173f58ee4d0f4",
+      "date": 1480186786457
+    },
+    {
+      "type": "edit",
+      "id": "393e0fc4359dea13",
+      "item": {
+        "type": "paragraph",
+        "id": "393e0fc4359dea13",
+        "text": "[[Bureaucratic Intelligence]]"
+      },
+      "date": 1480186787593
     }
   ]
 }

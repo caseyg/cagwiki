@@ -1,0 +1,39 @@
+{
+  "title": "2016-49",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6efa7bead3659f0f",
+      "text": "Ecclastical Dancing!"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2016-49",
+        "story": []
+      },
+      "date": 1481257548902
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6efa7bead3659f0f"
+      },
+      "id": "6efa7bead3659f0f",
+      "type": "add",
+      "date": 1481257550331
+    },
+    {
+      "type": "edit",
+      "id": "6efa7bead3659f0f",
+      "item": {
+        "type": "paragraph",
+        "id": "6efa7bead3659f0f",
+        "text": "Ecclastical Dancing!"
+      },
+      "date": 1481257558063
+    }
+  ]
+}

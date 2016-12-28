@@ -7,14 +7,14 @@
       "text": "[[Nenad Marković]]"
     },
     {
-      "type": "paragraph",
-      "id": "cacf9edd4c4b1aba",
-      "text": "I once transcribed this but now I can't find it anywhere, even on the internet?"
-    },
-    {
       "type": "video",
       "id": "1bc21d46c99c66ae",
       "text": "YOUTUBE 9FJyi3gQjqo"
+    },
+    {
+      "type": "paragraph",
+      "id": "cacf9edd4c4b1aba",
+      "text": "I once transcribed this but now I can't find it anywhere, even on the internet?"
     }
   ],
   "journal": [
@@ -149,6 +149,16 @@
     {
       "type": "fork",
       "date": 1479965408525
+    },
+    {
+      "type": "move",
+      "order": [
+        "abb25ede04520d77",
+        "1bc21d46c99c66ae",
+        "cacf9edd4c4b1aba"
+      ],
+      "id": "1bc21d46c99c66ae",
+      "date": 1480063399375
     }
   ]
 }

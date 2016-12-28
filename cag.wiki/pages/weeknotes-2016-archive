@@ -1,0 +1,62 @@
+{
+  "title": "Weeknotes 2016 Archive",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bc486e635e17d682",
+      "text": "[[2016-48]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c21c32f5f2fe1d0f",
+      "text": "[[2016-49]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "21da3de7fee2959c",
+      "text": "[[2016-52]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Weeknotes 2016 Archive",
+        "story": []
+      },
+      "date": 1482919933342
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bc486e635e17d682",
+        "text": "[[2016-48]]"
+      },
+      "id": "bc486e635e17d682",
+      "date": 1482919940048
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c21c32f5f2fe1d0f",
+        "text": "[[2016-49]]"
+      },
+      "after": "bc486e635e17d682",
+      "id": "c21c32f5f2fe1d0f",
+      "date": 1482919941548
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "21da3de7fee2959c",
+        "text": "[[2016-52]]"
+      },
+      "after": "c21c32f5f2fe1d0f",
+      "id": "21da3de7fee2959c",
+      "date": 1482920011199
+    }
+  ]
+}

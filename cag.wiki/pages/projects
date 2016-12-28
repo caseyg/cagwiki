@@ -4,7 +4,15 @@
     {
       "type": "paragraph",
       "id": "a68e9c6e65565db6",
-      "text": "Testing page on the projects wiki?"
+      "text": "See the Projects sub-wiki ⤵︎ for more..."
+    },
+    {
+      "type": "reference",
+      "id": "eaa9e16681b683aa",
+      "site": "projects.cag.wiki",
+      "slug": "projects",
+      "title": "Projects",
+      "text": "By the way of [[Work In Public, Reveal Nothing]], I'm gonna workshop some of my notes from class here."
     }
   ],
   "journal": [
@@ -48,6 +56,97 @@
         "text": "Testing page on the projects wiki?"
       },
       "date": 1480040389911
+    },
+    {
+      "type": "edit",
+      "id": "a68e9c6e65565db6",
+      "item": {
+        "type": "paragraph",
+        "id": "a68e9c6e65565db6",
+        "text": "See the Projects sub-wiki for more."
+      },
+      "date": 1480427144332
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd098d5388e6bec5"
+      },
+      "id": "dd098d5388e6bec5",
+      "type": "add",
+      "after": "a68e9c6e65565db6",
+      "date": 1480427145371
+    },
+    {
+      "type": "edit",
+      "id": "dd098d5388e6bec5",
+      "item": {
+        "type": "reference",
+        "id": "dd098d5388e6bec5",
+        "site": "projects.cag.wiki",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "[[Presentation Notes]]"
+      },
+      "date": 1480427151733
+    },
+    {
+      "type": "edit",
+      "id": "a68e9c6e65565db6",
+      "item": {
+        "type": "paragraph",
+        "id": "a68e9c6e65565db6",
+        "text": "See the Projects sub-wiki for more ⤵︎"
+      },
+      "date": 1480427183053
+    },
+    {
+      "type": "edit",
+      "id": "a68e9c6e65565db6",
+      "item": {
+        "type": "paragraph",
+        "id": "a68e9c6e65565db6",
+        "text": "See the Projects sub-wiki ⤵︎ for more"
+      },
+      "date": 1480427190612
+    },
+    {
+      "type": "edit",
+      "id": "a68e9c6e65565db6",
+      "item": {
+        "type": "paragraph",
+        "id": "a68e9c6e65565db6",
+        "text": "See the Projects sub-wiki ⤵︎ for more..."
+      },
+      "date": 1480427195810
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eaa9e16681b683aa"
+      },
+      "id": "eaa9e16681b683aa",
+      "type": "add",
+      "after": "dd098d5388e6bec5",
+      "date": 1480438948280
+    },
+    {
+      "type": "edit",
+      "id": "eaa9e16681b683aa",
+      "item": {
+        "type": "reference",
+        "id": "eaa9e16681b683aa",
+        "site": "projects.cag.wiki",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm gonna workshop some of my notes from class here."
+      },
+      "date": 1480438951166
+    },
+    {
+      "type": "remove",
+      "id": "dd098d5388e6bec5",
+      "date": 1480438955204
     }
   ]
 }

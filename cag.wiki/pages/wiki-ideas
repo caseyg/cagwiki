@@ -1,0 +1,1553 @@
+{
+  "title": "Wiki Ideas",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "7cf5362f451e2c43",
+      "text": "TODO"
+    },
+    {
+      "type": "paragraph",
+      "id": "4eefa0606ab93215",
+      "text": "install/restart script"
+    },
+    {
+      "type": "paragraph",
+      "id": "a9d400de6dda2649",
+      "text": "Git sync cron"
+    },
+    {
+      "type": "paragraph",
+      "id": "f6be6240d3a13f4a",
+      "text": "papertrail app logging"
+    },
+    {
+      "type": "pagefold",
+      "id": "cf8f8556d87c5f15",
+      "text": "Experiments"
+    },
+    {
+      "type": "paragraph",
+      "id": "8010964ec069c5d1",
+      "text": "Use FedWiki as a CMS for a static site compiled using Jekyll-Get [https://github.com/18F/jekyll-get github]"
+    },
+    {
+      "type": "pagefold",
+      "id": "a332a074bff2dab5",
+      "text": "Docs / Writing / Design"
+    },
+    {
+      "type": "paragraph",
+      "id": "61a1d8af99870d92",
+      "text": "Document accidental overwrite within logged in federation"
+    },
+    {
+      "type": "paragraph",
+      "id": "f2597073b8965ccf",
+      "text": "Collate thoughts/references on writing the wiki way"
+    },
+    {
+      "type": "paragraph",
+      "id": "183d605a65e942fc",
+      "text": "Better documentation"
+    },
+    {
+      "type": "paragraph",
+      "id": "67971e1bf6c6921e",
+      "text": "Digitalocean deployment screencast"
+    },
+    {
+      "type": "paragraph",
+      "id": "b92c78c444db0532",
+      "text": "Consider onboarding/learning"
+    },
+    {
+      "type": "paragraph",
+      "id": "fdd534e214fa19e2",
+      "text": "New default styles"
+    },
+    {
+      "type": "pagefold",
+      "id": "2e66bd6b79a0aaf6",
+      "text": "Feature / Plugin Ideas"
+    },
+    {
+      "type": "paragraph",
+      "id": "920f8eb91a68cefd",
+      "text": "Find and delete empty pages"
+    },
+    {
+      "type": "paragraph",
+      "id": "6218cda5f5c6c7ec",
+      "text": "Add from factory at any point between two items (rather than only from the bottom and having to drag up)"
+    },
+    {
+      "type": "paragraph",
+      "id": "77a281541db68428",
+      "text": "Themeing"
+    },
+    {
+      "type": "paragraph",
+      "id": "f6d1a0fd0bba4c0e",
+      "text": "Integration with Finder/OSX, like Dropbox"
+    },
+    {
+      "type": "paragraph",
+      "id": "bcd6b1a61b6180b5",
+      "text": "Smarter merging/conflict resolution, rather than confusing overwrites"
+    },
+    {
+      "type": "paragraph",
+      "id": "396d1a73a220a12c",
+      "text": "Simple (but more complex than the friendsecret) authentication plugin"
+    },
+    {
+      "type": "paragraph",
+      "id": "e0f854ef462a3785",
+      "text": "Farm management interface"
+    },
+    {
+      "type": "paragraph",
+      "id": "cf3ba24c179df2dd",
+      "text": "Etherpad embed"
+    },
+    {
+      "type": "paragraph",
+      "id": "7b1c556b439d9603",
+      "text": "Page background"
+    },
+    {
+      "type": "paragraph",
+      "id": "8ec1f49e1793cdd2",
+      "text": "Edit title"
+    },
+    {
+      "type": "paragraph",
+      "id": "d14499fc013a4e3e",
+      "text": "Delete page"
+    },
+    {
+      "type": "paragraph",
+      "id": "705cacb623f899d2",
+      "text": "Backup site (local and/or cloud, continuous and/or on demand)"
+    },
+    {
+      "type": "paragraph",
+      "id": "8ae49213e93f0d3f",
+      "text": "Unstyled static page export/mirror"
+    },
+    {
+      "type": "paragraph",
+      "id": "1224092a9235ef07",
+      "text": "Select/drag+drop multiple blocks"
+    },
+    {
+      "type": "paragraph",
+      "id": "494476340932d14c",
+      "text": "Text selection mode"
+    },
+    {
+      "type": "paragraph",
+      "id": "fec5d6d900660be1",
+      "text": "Github sync plugin"
+    },
+    {
+      "type": "factory",
+      "id": "7da12f2c3d67a49b"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki Ideas",
+        "story": []
+      },
+      "date": 1480062497659
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6d1a0fd0bba4c0e"
+      },
+      "id": "f6d1a0fd0bba4c0e",
+      "type": "add",
+      "date": 1480062500054
+    },
+    {
+      "type": "edit",
+      "id": "f6d1a0fd0bba4c0e",
+      "item": {
+        "type": "paragraph",
+        "id": "f6d1a0fd0bba4c0e",
+        "text": "Integration with Finder/OSX, like Dropbox"
+      },
+      "date": 1480062508475
+    },
+    {
+      "type": "add",
+      "id": "bcd6b1a61b6180b5",
+      "item": {
+        "type": "paragraph",
+        "id": "bcd6b1a61b6180b5",
+        "text": "Smarter merging/conflict resolution, rather than confusing overwrites"
+      },
+      "after": "f6d1a0fd0bba4c0e",
+      "date": 1480062536577
+    },
+    {
+      "type": "add",
+      "id": "396d1a73a220a12c",
+      "item": {
+        "type": "paragraph",
+        "id": "396d1a73a220a12c",
+        "text": "Simple (but more complex than the friendsecret) authentication plugin"
+      },
+      "after": "bcd6b1a61b6180b5",
+      "date": 1480062567672
+    },
+    {
+      "type": "add",
+      "id": "e0f854ef462a3785",
+      "item": {
+        "type": "paragraph",
+        "id": "e0f854ef462a3785",
+        "text": "Farm management interface"
+      },
+      "after": "396d1a73a220a12c",
+      "date": 1480062575355
+    },
+    {
+      "type": "add",
+      "id": "f2597073b8965ccf",
+      "item": {
+        "type": "paragraph",
+        "id": "f2597073b8965ccf",
+        "text": "Collate docs on writing the wiki way"
+      },
+      "after": "e0f854ef462a3785",
+      "date": 1480062613821
+    },
+    {
+      "type": "edit",
+      "id": "f2597073b8965ccf",
+      "item": {
+        "type": "paragraph",
+        "id": "f2597073b8965ccf",
+        "text": "Collate thoughts/references on writing the wiki way"
+      },
+      "date": 1480062629310
+    },
+    {
+      "type": "add",
+      "id": "183d605a65e942fc",
+      "item": {
+        "type": "paragraph",
+        "id": "183d605a65e942fc",
+        "text": "Better documentation"
+      },
+      "after": "f2597073b8965ccf",
+      "date": 1480062637286
+    },
+    {
+      "type": "add",
+      "id": "b92c78c444db0532",
+      "item": {
+        "type": "paragraph",
+        "id": "b92c78c444db0532",
+        "text": "Consider onboarding/learning"
+      },
+      "after": "183d605a65e942fc",
+      "date": 1480062651584
+    },
+    {
+      "type": "add",
+      "id": "67971e1bf6c6921e",
+      "item": {
+        "type": "paragraph",
+        "id": "67971e1bf6c6921e",
+        "text": "DigitalOcean screencast"
+      },
+      "after": "b92c78c444db0532",
+      "date": 1480062660708
+    },
+    {
+      "type": "edit",
+      "id": "67971e1bf6c6921e",
+      "item": {
+        "type": "paragraph",
+        "id": "67971e1bf6c6921e",
+        "text": "Digitalocean deployment"
+      },
+      "date": 1480062666424
+    },
+    {
+      "type": "edit",
+      "id": "67971e1bf6c6921e",
+      "item": {
+        "type": "paragraph",
+        "id": "67971e1bf6c6921e",
+        "text": "Digitalocean deployment screencast"
+      },
+      "date": 1480062670259
+    },
+    {
+      "type": "add",
+      "id": "8ec1f49e1793cdd2",
+      "item": {
+        "type": "paragraph",
+        "id": "8ec1f49e1793cdd2",
+        "text": "Edit title plugin"
+      },
+      "after": "67971e1bf6c6921e",
+      "date": 1480062678708
+    },
+    {
+      "type": "add",
+      "id": "d14499fc013a4e3e",
+      "item": {
+        "type": "paragraph",
+        "id": "d14499fc013a4e3e",
+        "text": "Delete page plugin"
+      },
+      "after": "8ec1f49e1793cdd2",
+      "date": 1480062683748
+    },
+    {
+      "type": "add",
+      "id": "fec5d6d900660be1",
+      "item": {
+        "type": "paragraph",
+        "id": "fec5d6d900660be1",
+        "text": "Github sync"
+      },
+      "after": "d14499fc013a4e3e",
+      "date": 1480062688461
+    },
+    {
+      "type": "add",
+      "id": "cf3ba24c179df2dd",
+      "item": {
+        "type": "paragraph",
+        "id": "cf3ba24c179df2dd",
+        "text": "Etherpad embed plugin"
+      },
+      "after": "fec5d6d900660be1",
+      "date": 1480062713504
+    },
+    {
+      "type": "add",
+      "id": "cab483f008156918",
+      "item": {
+        "type": "paragraph",
+        "id": "cab483f008156918",
+        "text": "test"
+      },
+      "after": "cf3ba24c179df2dd",
+      "date": 1480062728679
+    },
+    {
+      "type": "remove",
+      "id": "cab483f008156918",
+      "date": 1480062731716
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a332a074bff2dab5"
+      },
+      "id": "a332a074bff2dab5",
+      "type": "add",
+      "after": "1224092a9235ef07",
+      "date": 1480062766651
+    },
+    {
+      "type": "add",
+      "id": "1224092a9235ef07",
+      "item": {
+        "type": "paragraph",
+        "id": "1224092a9235ef07",
+        "text": "Select/drag+drop multiple blocks"
+      },
+      "after": "cf3ba24c179df2dd",
+      "date": 1480062777729
+    },
+    {
+      "type": "add",
+      "id": "494476340932d14c",
+      "item": {
+        "type": "paragraph",
+        "id": "494476340932d14c",
+        "text": "Text selection mode"
+      },
+      "after": "1224092a9235ef07",
+      "date": 1480062782353
+    },
+    {
+      "type": "add",
+      "id": "8ae49213e93f0d3f",
+      "item": {
+        "type": "paragraph",
+        "id": "8ae49213e93f0d3f",
+        "text": "Unstyled static page export/mirror"
+      },
+      "after": "494476340932d14c",
+      "date": 1480062804537
+    },
+    {
+      "type": "add",
+      "id": "705cacb623f899d2",
+      "item": {
+        "type": "paragraph",
+        "id": "705cacb623f899d2",
+        "text": "Backup plugin (local and/or cloud)"
+      },
+      "after": "8ae49213e93f0d3f",
+      "date": 1480062819703
+    },
+    {
+      "type": "add",
+      "id": "7b1c556b439d9603",
+      "item": {
+        "type": "paragraph",
+        "id": "7b1c556b439d9603",
+        "text": "Page background plugin"
+      },
+      "after": "705cacb623f899d2",
+      "date": 1480062823662
+    },
+    {
+      "type": "edit",
+      "id": "a332a074bff2dab5",
+      "item": {
+        "type": "pagefold",
+        "id": "a332a074bff2dab5",
+        "text": "Docs"
+      },
+      "date": 1480062831200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d91271e8f4269a99"
+      },
+      "id": "d91271e8f4269a99",
+      "type": "add",
+      "after": "a332a074bff2dab5",
+      "date": 1480062834567
+    },
+    {
+      "type": "edit",
+      "id": "d91271e8f4269a99",
+      "item": {
+        "type": "pagefold",
+        "id": "d91271e8f4269a99",
+        "text": "Plugins"
+      },
+      "date": 1480062838377
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "8ec1f49e1793cdd2",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "8ae49213e93f0d3f",
+        "705cacb623f899d2",
+        "7b1c556b439d9603",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "d14499fc013a4e3e"
+      ],
+      "id": "d14499fc013a4e3e",
+      "date": 1480062842429
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "8ae49213e93f0d3f",
+        "705cacb623f899d2",
+        "7b1c556b439d9603",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e"
+      ],
+      "id": "8ec1f49e1793cdd2",
+      "date": 1480062844566
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "8ae49213e93f0d3f",
+        "7b1c556b439d9603",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2"
+      ],
+      "id": "705cacb623f899d2",
+      "date": 1480062848616
+    },
+    {
+      "type": "edit",
+      "id": "705cacb623f899d2",
+      "item": {
+        "type": "paragraph",
+        "id": "705cacb623f899d2",
+        "text": "Backup site plugin (local and/or cloud, continuous and/or on demand)"
+      },
+      "date": 1480062863138
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "8ae49213e93f0d3f",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2"
+      ],
+      "id": "7b1c556b439d9603",
+      "date": 1480062866539
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff3f7362428a3f72"
+      },
+      "id": "ff3f7362428a3f72",
+      "type": "add",
+      "after": "705cacb623f899d2",
+      "date": 1480062898401
+    },
+    {
+      "type": "edit",
+      "id": "ff3f7362428a3f72",
+      "item": {
+        "type": "paragraph",
+        "id": "ff3f7362428a3f72",
+        "text": "Features"
+      },
+      "date": 1480062902321
+    },
+    {
+      "type": "remove",
+      "id": "ff3f7362428a3f72",
+      "date": 1480062905707
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e66bd6b79a0aaf6"
+      },
+      "id": "2e66bd6b79a0aaf6",
+      "type": "add",
+      "after": "705cacb623f899d2",
+      "date": 1480062906937
+    },
+    {
+      "type": "edit",
+      "id": "2e66bd6b79a0aaf6",
+      "item": {
+        "type": "pagefold",
+        "id": "2e66bd6b79a0aaf6",
+        "text": "Features"
+      },
+      "date": 1480062912603
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "8ae49213e93f0d3f",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2"
+      ],
+      "id": "8ec1f49e1793cdd2",
+      "date": 1480062916734
+    },
+    {
+      "type": "edit",
+      "id": "8ec1f49e1793cdd2",
+      "item": {
+        "type": "paragraph",
+        "id": "8ec1f49e1793cdd2",
+        "text": "Edit title"
+      },
+      "date": 1480062919882
+    },
+    {
+      "type": "edit",
+      "id": "d14499fc013a4e3e",
+      "item": {
+        "type": "paragraph",
+        "id": "d14499fc013a4e3e",
+        "text": "Delete page"
+      },
+      "date": 1480062922863
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "8ae49213e93f0d3f",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "705cacb623f899d2",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e"
+      ],
+      "id": "d14499fc013a4e3e",
+      "date": 1480062924484
+    },
+    {
+      "type": "edit",
+      "id": "7b1c556b439d9603",
+      "item": {
+        "type": "paragraph",
+        "id": "7b1c556b439d9603",
+        "text": "Page background"
+      },
+      "date": 1480062927285
+    },
+    {
+      "type": "edit",
+      "id": "705cacb623f899d2",
+      "item": {
+        "type": "paragraph",
+        "id": "705cacb623f899d2",
+        "text": "Backup site (local and/or cloud, continuous and/or on demand)"
+      },
+      "date": 1480062930772
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "8ae49213e93f0d3f",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2"
+      ],
+      "id": "705cacb623f899d2",
+      "date": 1480062931943
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f"
+      ],
+      "id": "8ae49213e93f0d3f",
+      "date": 1480062938051
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "494476340932d14c",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07"
+      ],
+      "id": "1224092a9235ef07",
+      "date": 1480062951630
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "cf3ba24c179df2dd",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c"
+      ],
+      "id": "494476340932d14c",
+      "date": 1480062956501
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "fec5d6d900660be1",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "cf3ba24c179df2dd",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c"
+      ],
+      "id": "cf3ba24c179df2dd",
+      "date": 1480062960067
+    },
+    {
+      "type": "edit",
+      "id": "cf3ba24c179df2dd",
+      "item": {
+        "type": "paragraph",
+        "id": "cf3ba24c179df2dd",
+        "text": "Etherpad embed"
+      },
+      "date": 1480062963017
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "67971e1bf6c6921e",
+        "a332a074bff2dab5",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "cf3ba24c179df2dd",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "fec5d6d900660be1",
+      "date": 1480062965355
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "b92c78c444db0532",
+        "a332a074bff2dab5",
+        "67971e1bf6c6921e",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "cf3ba24c179df2dd",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "67971e1bf6c6921e",
+      "date": 1480062968406
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "a332a074bff2dab5",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "cf3ba24c179df2dd",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "b92c78c444db0532",
+      "date": 1480062970586
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "f2597073b8965ccf",
+        "a332a074bff2dab5",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "cf3ba24c179df2dd",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "183d605a65e942fc",
+      "date": 1480062972072
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "d91271e8f4269a99",
+        "7b1c556b439d9603",
+        "cf3ba24c179df2dd",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "f2597073b8965ccf",
+      "date": 1480062974130
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "d91271e8f4269a99",
+        "e0f854ef462a3785",
+        "7b1c556b439d9603",
+        "cf3ba24c179df2dd",
+        "2e66bd6b79a0aaf6",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "e0f854ef462a3785",
+      "date": 1480062980465
+    },
+    {
+      "type": "edit",
+      "id": "2e66bd6b79a0aaf6",
+      "item": {
+        "type": "pagefold",
+        "id": "2e66bd6b79a0aaf6",
+        "text": "Feature / Plugin Ideas"
+      },
+      "date": 1480062996032
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "d91271e8f4269a99",
+        "e0f854ef462a3785",
+        "7b1c556b439d9603",
+        "2e66bd6b79a0aaf6",
+        "cf3ba24c179df2dd",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "cf3ba24c179df2dd",
+      "date": 1480062997890
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "d91271e8f4269a99",
+        "e0f854ef462a3785",
+        "2e66bd6b79a0aaf6",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "7b1c556b439d9603",
+      "date": 1480062999273
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "d91271e8f4269a99",
+        "2e66bd6b79a0aaf6",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "e0f854ef462a3785",
+      "date": 1480063000556
+    },
+    {
+      "type": "remove",
+      "id": "d91271e8f4269a99",
+      "date": 1480063004582
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "2e66bd6b79a0aaf6",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "396d1a73a220a12c",
+      "date": 1480063008520
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6d1a0fd0bba4c0e",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "2e66bd6b79a0aaf6",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "bcd6b1a61b6180b5",
+      "date": 1480063011074
+    },
+    {
+      "type": "move",
+      "order": [
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "2e66bd6b79a0aaf6",
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "f6d1a0fd0bba4c0e",
+      "date": 1480063016429
+    },
+    {
+      "type": "edit",
+      "id": "a332a074bff2dab5",
+      "item": {
+        "type": "pagefold",
+        "id": "a332a074bff2dab5",
+        "text": "Docs & Writing"
+      },
+      "date": 1480063023731
+    },
+    {
+      "type": "edit",
+      "id": "a332a074bff2dab5",
+      "item": {
+        "type": "pagefold",
+        "id": "a332a074bff2dab5",
+        "text": "Docs / Writing / Design"
+      },
+      "date": 1480063030637
+    },
+    {
+      "type": "add",
+      "id": "fdd534e214fa19e2",
+      "item": {
+        "type": "paragraph",
+        "id": "fdd534e214fa19e2",
+        "text": "New default style"
+      },
+      "after": "b92c78c444db0532",
+      "date": 1480063043540
+    },
+    {
+      "type": "edit",
+      "id": "fdd534e214fa19e2",
+      "item": {
+        "type": "paragraph",
+        "id": "fdd534e214fa19e2",
+        "text": "New default styles"
+      },
+      "date": 1480063045824
+    },
+    {
+      "type": "add",
+      "id": "77a281541db68428",
+      "item": {
+        "type": "paragraph",
+        "id": "77a281541db68428",
+        "text": "Themeing"
+      },
+      "after": "f6d1a0fd0bba4c0e",
+      "date": 1480063050032
+    },
+    {
+      "type": "move",
+      "order": [
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "fdd534e214fa19e2",
+        "2e66bd6b79a0aaf6",
+        "77a281541db68428",
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "77a281541db68428",
+      "date": 1480063051811
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf8f8556d87c5f15"
+      },
+      "id": "cf8f8556d87c5f15",
+      "type": "add",
+      "after": "fec5d6d900660be1",
+      "date": 1480100758611
+    },
+    {
+      "type": "edit",
+      "id": "cf8f8556d87c5f15",
+      "item": {
+        "type": "pagefold",
+        "id": "cf8f8556d87c5f15",
+        "text": "Experiments"
+      },
+      "date": 1480100770036
+    },
+    {
+      "type": "move",
+      "order": [
+        "a332a074bff2dab5",
+        "cf8f8556d87c5f15",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "fdd534e214fa19e2",
+        "2e66bd6b79a0aaf6",
+        "77a281541db68428",
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "cf8f8556d87c5f15",
+      "date": 1480100772244
+    },
+    {
+      "type": "move",
+      "order": [
+        "cf8f8556d87c5f15",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "fdd534e214fa19e2",
+        "2e66bd6b79a0aaf6",
+        "77a281541db68428",
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "a332a074bff2dab5",
+      "date": 1480100773501
+    },
+    {
+      "type": "add",
+      "id": "8010964ec069c5d1",
+      "item": {
+        "type": "paragraph",
+        "id": "8010964ec069c5d1",
+        "text": "Use FedWiki as a CMS for a static site compiled using Jekyll-Get [https://github.com/18F/jekyll-get github]"
+      },
+      "after": "f2597073b8965ccf",
+      "date": 1480100808127
+    },
+    {
+      "type": "move",
+      "order": [
+        "cf8f8556d87c5f15",
+        "8010964ec069c5d1",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "fdd534e214fa19e2",
+        "2e66bd6b79a0aaf6",
+        "77a281541db68428",
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1"
+      ],
+      "id": "8010964ec069c5d1",
+      "date": 1480100809478
+    },
+    {
+      "type": "add",
+      "id": "920f8eb91a68cefd",
+      "item": {
+        "type": "paragraph",
+        "id": "920f8eb91a68cefd",
+        "text": "Find and delete empty pages"
+      },
+      "after": "2e66bd6b79a0aaf6",
+      "date": 1480101586899
+    },
+    {
+      "type": "add",
+      "id": "6218cda5f5c6c7ec",
+      "item": {
+        "type": "paragraph",
+        "id": "6218cda5f5c6c7ec",
+        "text": "Add factory at any point in a page (rather than only from the bottom and having to drag up)"
+      },
+      "after": "920f8eb91a68cefd",
+      "date": 1480101613943
+    },
+    {
+      "type": "edit",
+      "id": "6218cda5f5c6c7ec",
+      "item": {
+        "type": "paragraph",
+        "id": "6218cda5f5c6c7ec",
+        "text": "Add factory from any point between two items (rather than only from the bottom and having to drag up)"
+      },
+      "date": 1480101625519
+    },
+    {
+      "type": "edit",
+      "id": "6218cda5f5c6c7ec",
+      "item": {
+        "type": "paragraph",
+        "id": "6218cda5f5c6c7ec",
+        "text": "Add from factory at any point between two items (rather than only from the bottom and having to drag up)"
+      },
+      "date": 1480101675064
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7da12f2c3d67a49b"
+      },
+      "id": "7da12f2c3d67a49b",
+      "type": "add",
+      "after": "fec5d6d900660be1",
+      "date": 1480101768128
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4eefa0606ab93215",
+        "text": "TODO: install/restart script? Git sync?"
+      },
+      "id": "4eefa0606ab93215",
+      "date": 1480101780853
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7cf5362f451e2c43"
+      },
+      "id": "7cf5362f451e2c43",
+      "type": "add",
+      "after": "7da12f2c3d67a49b",
+      "date": 1480101782969
+    },
+    {
+      "type": "edit",
+      "id": "7cf5362f451e2c43",
+      "item": {
+        "type": "pagefold",
+        "id": "7cf5362f451e2c43",
+        "text": "TODO"
+      },
+      "date": 1480101787529
+    },
+    {
+      "type": "move",
+      "order": [
+        "7cf5362f451e2c43",
+        "4eefa0606ab93215",
+        "cf8f8556d87c5f15",
+        "8010964ec069c5d1",
+        "a332a074bff2dab5",
+        "f2597073b8965ccf",
+        "183d605a65e942fc",
+        "67971e1bf6c6921e",
+        "b92c78c444db0532",
+        "fdd534e214fa19e2",
+        "2e66bd6b79a0aaf6",
+        "920f8eb91a68cefd",
+        "6218cda5f5c6c7ec",
+        "77a281541db68428",
+        "f6d1a0fd0bba4c0e",
+        "bcd6b1a61b6180b5",
+        "396d1a73a220a12c",
+        "e0f854ef462a3785",
+        "cf3ba24c179df2dd",
+        "7b1c556b439d9603",
+        "8ec1f49e1793cdd2",
+        "d14499fc013a4e3e",
+        "705cacb623f899d2",
+        "8ae49213e93f0d3f",
+        "1224092a9235ef07",
+        "494476340932d14c",
+        "fec5d6d900660be1",
+        "7da12f2c3d67a49b"
+      ],
+      "id": "7cf5362f451e2c43",
+      "date": 1480101791433
+    },
+    {
+      "type": "edit",
+      "id": "fec5d6d900660be1",
+      "item": {
+        "type": "paragraph",
+        "id": "fec5d6d900660be1",
+        "text": "Github sync plugin"
+      },
+      "date": 1480101795909
+    },
+    {
+      "type": "edit",
+      "id": "4eefa0606ab93215",
+      "item": {
+        "type": "paragraph",
+        "id": "4eefa0606ab93215",
+        "text": "install/restart script"
+      },
+      "date": 1480101803789
+    },
+    {
+      "type": "add",
+      "id": "a9d400de6dda2649",
+      "item": {
+        "type": "paragraph",
+        "id": "a9d400de6dda2649",
+        "text": "Git sync cron"
+      },
+      "after": "4eefa0606ab93215",
+      "date": 1480101806563
+    },
+    {
+      "type": "add",
+      "id": "f6be6240d3a13f4a",
+      "item": {
+        "type": "paragraph",
+        "id": "f6be6240d3a13f4a",
+        "text": "papertrail app logging"
+      },
+      "after": "a9d400de6dda2649",
+      "date": 1480101811637
+    },
+    {
+      "type": "add",
+      "id": "61a1d8af99870d92",
+      "item": {
+        "type": "paragraph",
+        "id": "61a1d8af99870d92",
+        "text": "Document accidental overwrite within logged in federation"
+      },
+      "after": "a332a074bff2dab5",
+      "date": 1480103532060
+    }
+  ]
+}

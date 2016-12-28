@@ -1,0 +1,177 @@
+{
+  "title": "Scanners",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "905102feb692d018",
+      "text": "Fujitsu iX500 ScanSnap Document Scanner (PA03656-B305) [https://www.amazon.com/Fujitsu-ScanSnap-Document-Scanner-PA03656-B305 amazon]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a5bd23219e7c122",
+      "text": "Fujitsu ScanSnap S1300i Mobile Document Scanner [https://www.amazon.com/dp/B008HBFADQ amazon] [http://thewirecutter.com/reviews/best-portable-document-scanner/ wirecutter]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2c31940b2f0b0c3a",
+      "text": "Brother \nADS-1500W [http://www.brother.ca/en-CA/Scanners/11/ProductDetail/ADS1500W?ProductDetail=productdetail website]"
+    },
+    {
+      "type": "paragraph",
+      "id": "265de553a4ec2527",
+      "text": "Mayan EDMS [https://mayan.readthedocs.io/en/latest/topics/development.html website]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Scanners",
+        "story": []
+      },
+      "date": 1480096510164
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "905102feb692d018"
+      },
+      "id": "905102feb692d018",
+      "type": "add",
+      "date": 1480096511690
+    },
+    {
+      "type": "edit",
+      "id": "905102feb692d018",
+      "item": {
+        "type": "paragraph",
+        "id": "905102feb692d018",
+        "text": "https://www.amazon.com/Fujitsu-ScanSnap-Document-Scanner-PA03656-B305"
+      },
+      "date": 1480096514205
+    },
+    {
+      "type": "edit",
+      "id": "905102feb692d018",
+      "item": {
+        "type": "paragraph",
+        "id": "905102feb692d018",
+        "text": "[https://www.amazon.com/Fujitsu-ScanSnap-Document-Scanner-PA03656-B305]"
+      },
+      "date": 1480096518851
+    },
+    {
+      "type": "edit",
+      "id": "905102feb692d018",
+      "item": {
+        "type": "paragraph",
+        "id": "905102feb692d018",
+        "text": "[Fujitsu iX500 ScanSnap Document Scanner (PA03656-B305) https://www.amazon.com/Fujitsu-ScanSnap-Document-Scanner-PA03656-B305]"
+      },
+      "date": 1480096527435
+    },
+    {
+      "type": "edit",
+      "id": "905102feb692d018",
+      "item": {
+        "type": "paragraph",
+        "id": "905102feb692d018",
+        "text": "[https://www.amazon.com/Fujitsu-ScanSnap-Document-Scanner-PA03656-B305 Fujitsu iX500 ScanSnap Document Scanner (PA03656-B305)]"
+      },
+      "date": 1480096534557
+    },
+    {
+      "type": "edit",
+      "id": "905102feb692d018",
+      "item": {
+        "type": "paragraph",
+        "id": "905102feb692d018",
+        "text": "Fujitsu iX500 ScanSnap Document Scanner (PA03656-B305) [https://www.amazon.com/Fujitsu-ScanSnap-Document-Scanner-PA03656-B305 amazon]"
+      },
+      "date": 1480096551791
+    },
+    {
+      "type": "add",
+      "id": "5a5bd23219e7c122",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5bd23219e7c122",
+        "text": "[https://www.amazon.com/dp/B008HBFADQ amazon]"
+      },
+      "after": "905102feb692d018",
+      "date": 1480096572277
+    },
+    {
+      "type": "edit",
+      "id": "5a5bd23219e7c122",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5bd23219e7c122",
+        "text": "[https://www.amazon.com/dp/B008HBFADQ amazon] [http://thewirecutter.com/reviews/best-portable-document-scanner/ wirecutter]"
+      },
+      "date": 1480096589355
+    },
+    {
+      "type": "edit",
+      "id": "5a5bd23219e7c122",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5bd23219e7c122",
+        "text": "Fujitsu ScanSnap S1300i Mobile Document Scanner [https://www.amazon.com/dp/B008HBFADQ amazon] [http://thewirecutter.com/reviews/best-portable-document-scanner/ wirecutter]"
+      },
+      "date": 1480096603304
+    },
+    {
+      "type": "add",
+      "id": "2c31940b2f0b0c3a",
+      "item": {
+        "type": "paragraph",
+        "id": "2c31940b2f0b0c3a",
+        "text": "[http://www.brother.ca/en-CA/Scanners/11/ProductDetail/ADS1500W?ProductDetail=productdetail website"
+      },
+      "after": "5a5bd23219e7c122",
+      "date": 1480138249794
+    },
+    {
+      "type": "edit",
+      "id": "2c31940b2f0b0c3a",
+      "item": {
+        "type": "paragraph",
+        "id": "2c31940b2f0b0c3a",
+        "text": "[http://www.brother.ca/en-CA/Scanners/11/ProductDetail/ADS1500W?ProductDetail=productdetail website]"
+      },
+      "date": 1480138251721
+    },
+    {
+      "type": "edit",
+      "id": "2c31940b2f0b0c3a",
+      "item": {
+        "type": "paragraph",
+        "id": "2c31940b2f0b0c3a",
+        "text": "Brother \nADS-1500W [http://www.brother.ca/en-CA/Scanners/11/ProductDetail/ADS1500W?ProductDetail=productdetail website]"
+      },
+      "date": 1480138266487
+    },
+    {
+      "type": "add",
+      "id": "265de553a4ec2527",
+      "item": {
+        "type": "paragraph",
+        "id": "265de553a4ec2527",
+        "text": "Mayan EDMS [https://mayan.readthedocs.io/en/latest/topics/development.html website"
+      },
+      "after": "2c31940b2f0b0c3a",
+      "date": 1480138290903
+    },
+    {
+      "type": "edit",
+      "id": "265de553a4ec2527",
+      "item": {
+        "type": "paragraph",
+        "id": "265de553a4ec2527",
+        "text": "Mayan EDMS [https://mayan.readthedocs.io/en/latest/topics/development.html website]"
+      },
+      "date": 1480138292219
+    }
+  ]
+}

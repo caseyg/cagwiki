@@ -2,19 +2,27 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Welcome to CAG's Projects [[Federated Wiki]] site. From this page you can find who I am and what goes on here:",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
       "id": "821827c99b90cfd1",
-      "text": "Pages about us."
+      "text": "Pages about me:"
+    },
+    {
+      "type": "reference",
+      "id": "b24040dca1f5f927",
+      "site": "cag.wiki",
+      "slug": "casey-gollan",
+      "title": "Casey Gollan",
+      "text": "[http://caseyagollan.com homepage]"
     },
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "text": "Working pages:"
     },
     {
       "type": "paragraph",
@@ -275,6 +283,118 @@
       "type": "remove",
       "id": "99a1869b080c5b5c",
       "date": 1480040932241
+    },
+    {
+      "type": "add",
+      "id": "0ea8d3dc37f962ce",
+      "item": {
+        "type": "paragraph",
+        "id": "0ea8d3dc37f962ce",
+        "text": "[[Casey Gollan]]"
+      },
+      "after": "821827c99b90cfd1",
+      "date": 1480427061441
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a1bfbddca46fe1a"
+      },
+      "id": "6a1bfbddca46fe1a",
+      "type": "add",
+      "after": "da47516fe37d0364",
+      "date": 1480427087117
+    },
+    {
+      "type": "edit",
+      "id": "6a1bfbddca46fe1a",
+      "item": {
+        "type": "reference",
+        "id": "6a1bfbddca46fe1a",
+        "site": "cag.wiki",
+        "slug": "casey-gollan",
+        "title": "Casey Gollan",
+        "text": "[http://caseyagollan.com homepage]"
+      },
+      "date": 1480427089439
+    },
+    {
+      "type": "remove",
+      "id": "6a1bfbddca46fe1a",
+      "date": 1480427096475
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b24040dca1f5f927"
+      },
+      "id": "b24040dca1f5f927",
+      "type": "add",
+      "after": "da47516fe37d0364",
+      "date": 1480427097908
+    },
+    {
+      "type": "edit",
+      "id": "b24040dca1f5f927",
+      "item": {
+        "type": "reference",
+        "id": "b24040dca1f5f927",
+        "site": "cag.wiki",
+        "slug": "casey-gollan",
+        "title": "Casey Gollan",
+        "text": "[http://caseyagollan.com homepage]"
+      },
+      "date": 1480427105872
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "0ea8d3dc37f962ce",
+        "b24040dca1f5f927",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "bbdc0819af7dfd21",
+        "da47516fe37d0364"
+      ],
+      "id": "b24040dca1f5f927",
+      "date": 1480427109120
+    },
+    {
+      "type": "remove",
+      "id": "0ea8d3dc37f962ce",
+      "date": 1480427112200
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to CAG's Projects [[Federated Wiki]] site. From this page you can find who I am and what goes on here:",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1480427329447
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about me:"
+      },
+      "date": 1480427332912
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Working pages:"
+      },
+      "date": 1480427343869
     }
   ]
 }

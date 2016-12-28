@@ -23,6 +23,11 @@
     },
     {
       "type": "paragraph",
+      "id": "7ac83f3d07a62df2",
+      "text": "Quaquaversal"
+    },
+    {
+      "type": "paragraph",
       "id": "d0bc20ae8339492d",
       "text": "Quasicrystal\n"
     },
@@ -8546,6 +8551,17 @@
       },
       "after": "0259d64babbc14d4",
       "date": 1480059754962
+    },
+    {
+      "type": "add",
+      "id": "7ac83f3d07a62df2",
+      "item": {
+        "type": "paragraph",
+        "id": "7ac83f3d07a62df2",
+        "text": "Quaquaversal"
+      },
+      "after": "81b05d82f4666df5",
+      "date": 1480428291020
     }
   ]
 }

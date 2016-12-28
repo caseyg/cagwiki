@@ -10,6 +10,16 @@
       "type": "paragraph",
       "id": "0a3af0be18aa90d7",
       "text": "What...is...the difference between [[tools]], [[appliances]], and instruments?"
+    },
+    {
+      "type": "paragraph",
+      "id": "3e15d5211740bd1b",
+      "text": "Watching someone use a computer really fast."
+    },
+    {
+      "type": "paragraph",
+      "id": "3f258c15baffd76e",
+      "text": "I don't actually play any instruments. Except for when I took guitar lessons in middle school, and my mom made me play I Shot The Sheriff every time someone would come over. AAHHH."
     }
   ],
   "journal": [
@@ -110,6 +120,49 @@
         "text": "What...is...the difference between [[tools]], [[appliances]], and instruments?"
       },
       "date": 1479960995991
+    },
+    {
+      "type": "add",
+      "id": "3f258c15baffd76e",
+      "item": {
+        "type": "paragraph",
+        "id": "3f258c15baffd76e",
+        "text": "I don't actually play any instruments."
+      },
+      "after": "0a3af0be18aa90d7",
+      "date": 1480106654372
+    },
+    {
+      "type": "add",
+      "id": "3e15d5211740bd1b",
+      "item": {
+        "type": "paragraph",
+        "id": "3e15d5211740bd1b",
+        "text": "Watching someone use a computer really fast."
+      },
+      "after": "3f258c15baffd76e",
+      "date": 1480106659513
+    },
+    {
+      "type": "edit",
+      "id": "3f258c15baffd76e",
+      "item": {
+        "type": "paragraph",
+        "id": "3f258c15baffd76e",
+        "text": "I don't actually play any instruments. Except for when I took guitar lessons in middle school, and my mom made me play I Shot The Sheriff every time someone would come over. AAHHH."
+      },
+      "date": 1480106697908
+    },
+    {
+      "type": "move",
+      "order": [
+        "48f0575d45823a4c",
+        "0a3af0be18aa90d7",
+        "3e15d5211740bd1b",
+        "3f258c15baffd76e"
+      ],
+      "id": "3e15d5211740bd1b",
+      "date": 1480106701522
     }
   ]
 }

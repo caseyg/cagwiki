@@ -1,0 +1,161 @@
+{
+  "title": "Tools for Transcription",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "72064a14d5ad1c17",
+      "text": "Trint [https://trint.com/ website]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f0dd49f07885062",
+      "text": "Typingpool [https://github.com/ryantate/typingpool github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b485695c854a7f80",
+      "text": "Glitchdigital/Video-Transcriber [https://github.com/glitchdigital/video-transcriber github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6988f466efe03721",
+      "text": "Transcriva [http://www.bartastechnologies.com/products/transcriva/ website]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ca75e53695fd833c",
+      "text": "Open Steno Project [http://www.openstenoproject.org/ website]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tools for Transcription",
+        "story": []
+      },
+      "date": 1480095311222
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72064a14d5ad1c17"
+      },
+      "id": "72064a14d5ad1c17",
+      "type": "add",
+      "date": 1480095312916
+    },
+    {
+      "type": "edit",
+      "id": "72064a14d5ad1c17",
+      "item": {
+        "type": "paragraph",
+        "id": "72064a14d5ad1c17",
+        "text": "Trint []"
+      },
+      "date": 1480095319514
+    },
+    {
+      "type": "edit",
+      "id": "72064a14d5ad1c17",
+      "item": {
+        "type": "paragraph",
+        "id": "72064a14d5ad1c17",
+        "text": "Trint [https://trint.com/ website]"
+      },
+      "date": 1480095327852
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f0dd49f07885062"
+      },
+      "id": "7f0dd49f07885062",
+      "type": "add",
+      "after": "72064a14d5ad1c17",
+      "date": 1480095329700
+    },
+    {
+      "type": "edit",
+      "id": "7f0dd49f07885062",
+      "item": {
+        "type": "paragraph",
+        "id": "7f0dd49f07885062",
+        "text": "Typingpool"
+      },
+      "date": 1480095336224
+    },
+    {
+      "type": "edit",
+      "id": "7f0dd49f07885062",
+      "item": {
+        "type": "paragraph",
+        "id": "7f0dd49f07885062",
+        "text": "Typingpool [https://github.com/ryantate/typingpool github]"
+      },
+      "date": 1480095346561
+    },
+    {
+      "type": "add",
+      "id": "b485695c854a7f80",
+      "item": {
+        "type": "paragraph",
+        "id": "b485695c854a7f80",
+        "text": "Glitchdigital/Video-Transcriber []"
+      },
+      "after": "7f0dd49f07885062",
+      "date": 1480095398652
+    },
+    {
+      "type": "edit",
+      "id": "b485695c854a7f80",
+      "item": {
+        "type": "paragraph",
+        "id": "b485695c854a7f80",
+        "text": "Glitchdigital/Video-Transcriber [https://github.com/glitchdigital/video-transcriber github]"
+      },
+      "date": 1480095403811
+    },
+    {
+      "type": "add",
+      "id": "6988f466efe03721",
+      "item": {
+        "type": "paragraph",
+        "id": "6988f466efe03721",
+        "text": "Transcriva [http://www.bartastechnologies.com/products/transcriva/ website]"
+      },
+      "after": "b485695c854a7f80",
+      "date": 1480095424061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca75e53695fd833c"
+      },
+      "id": "ca75e53695fd833c",
+      "type": "add",
+      "after": "6988f466efe03721",
+      "date": 1480095464147
+    },
+    {
+      "type": "edit",
+      "id": "ca75e53695fd833c",
+      "item": {
+        "type": "paragraph",
+        "id": "ca75e53695fd833c",
+        "text": "[[Steno]]"
+      },
+      "date": 1480095483507
+    },
+    {
+      "type": "edit",
+      "id": "ca75e53695fd833c",
+      "item": {
+        "type": "paragraph",
+        "id": "ca75e53695fd833c",
+        "text": "Open Steno Project [http://www.openstenoproject.org/ website]"
+      },
+      "date": 1480095510573
+    }
+  ]
+}

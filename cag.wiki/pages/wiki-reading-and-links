@@ -104,6 +104,22 @@
       "slug": "backup",
       "title": "Backup",
       "text": "You will want to make backups of the sites you own or host for others. Don't confuse the journal with a backup strategy. The journal tells others how the pages you decide to keep got the way they are. If you loose pages, the journals go with them."
+    },
+    {
+      "type": "reference",
+      "id": "9b18644bc195577b",
+      "site": "ward.asia.wiki.org",
+      "slug": "dream-big",
+      "title": "Dream Big",
+      "text": "We've allowed ourselves to imagine wiki with many possible features working together well. We do this to find interesting steps along the way."
+    },
+    {
+      "type": "reference",
+      "id": "60344c8c0228dec5",
+      "site": "plugins.fed.wiki.org",
+      "slug": "hacking-wikis-methods",
+      "title": "Hacking Wiki's Methods",
+      "text": "The Method plugin has already grown complex interacting across pages and between other plugins. Here I consider how I approached a large increment in functionality when I added units and expressions."
     }
   ],
   "journal": [
@@ -304,6 +320,52 @@
         "text": "You will want to make backups of the sites you own or host for others. Don't confuse the journal with a backup strategy. The journal tells others how the pages you decide to keep got the way they are. If you loose pages, the journals go with them."
       },
       "date": 1480056303611
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b18644bc195577b"
+      },
+      "id": "9b18644bc195577b",
+      "type": "add",
+      "after": "2f108a62763fed85",
+      "date": 1480064172885
+    },
+    {
+      "type": "edit",
+      "id": "9b18644bc195577b",
+      "item": {
+        "type": "reference",
+        "id": "9b18644bc195577b",
+        "site": "ward.asia.wiki.org",
+        "slug": "dream-big",
+        "title": "Dream Big",
+        "text": "We've allowed ourselves to imagine wiki with many possible features working together well. We do this to find interesting steps along the way."
+      },
+      "date": 1480064177169
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60344c8c0228dec5"
+      },
+      "id": "60344c8c0228dec5",
+      "type": "add",
+      "after": "9b18644bc195577b",
+      "date": 1480103014455
+    },
+    {
+      "type": "edit",
+      "id": "60344c8c0228dec5",
+      "item": {
+        "type": "reference",
+        "id": "60344c8c0228dec5",
+        "site": "plugins.fed.wiki.org",
+        "slug": "hacking-wikis-methods",
+        "title": "Hacking Wiki's Methods",
+        "text": "The Method plugin has already grown complex interacting across pages and between other plugins. Here I consider how I approached a large increment in functionality when I added units and expressions."
+      },
+      "date": 1480103020156
     }
   ]
 }

@@ -3,8 +3,77 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "a68e9c6e65565db6",
-      "text": "Testing page on the projects wiki."
+      "id": "a152a7ec456a2f00",
+      "text": "By the way of [[Work In Public, Reveal Nothing]], I'm gonna workshop some of my notes from class here."
+    },
+    {
+      "type": "paragraph",
+      "id": "12f8d6d4a5caaf2c",
+      "text": "I want to try and draw out some of the interconnections amongst our research trails, maybe giving the jumps enough form that they become things themselves? Hopefully making good (true?) use of wiki and hypertext as a way of thinking."
+    },
+    {
+      "type": "paragraph",
+      "id": "a016761f69f2fb76",
+      "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, reports. In fact, these might not (should not?) make much sense. Starting points. Sniplets of what piqued my interest or jogs my memory."
+    },
+    {
+      "type": "markdown",
+      "id": "3ca0d5f0d2899b47",
+      "text": "# My notes re: ppl's presentations"
+    },
+    {
+      "type": "paragraph",
+      "id": "c9e0bb2ef873862f",
+      "text": "[[Mauricio (11/28/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "845c51d526c519bd",
+      "text": "[[Jake (11/28/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4bcbc3d1cd17d1e2",
+      "text": "[[Ian & Maya (11/28/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4665baf26959bb88",
+      "text": "[[Walid (11/28/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c8131a282f8592a1",
+      "text": "[[Raf (11/21/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2dc6d09a4ac5d17b",
+      "text": "[[Vic (11/21/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2ce08c14b0db71ba",
+      "text": "[[Delaney (11/21/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "886029994d702375",
+      "text": "[[Casey (11/21/16)]]"
+    },
+    {
+      "type": "markdown",
+      "id": "3287b3b33773cc6c",
+      "text": "# Reference pages"
+    },
+    {
+      "type": "paragraph",
+      "id": "fc50d52c1c10995e",
+      "text": "[http://projectsprojectsprojects.referata.com/wiki/Presentation_schedule_(Fall_2016) Presentation schedule (Fall 2016)]\n"
+    },
+    {
+      "type": "factory",
+      "id": "dea6045f3d81bfba"
     }
   ],
   "journal": [
@@ -34,6 +103,787 @@
         "text": "Testing page on the projects wiki."
       },
       "date": 1480040314031
+    },
+    {
+      "type": "edit",
+      "id": "a68e9c6e65565db6",
+      "item": {
+        "type": "paragraph",
+        "id": "a68e9c6e65565db6",
+        "text": "[[Presentation Notes]]"
+      },
+      "date": 1480426691267
+    },
+    {
+      "type": "add",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "In the spirit of [[Work In Public, Reveal Nothing]]"
+      },
+      "after": "a68e9c6e65565db6",
+      "date": 1480427381781
+    },
+    {
+      "type": "move",
+      "order": [
+        "a152a7ec456a2f00",
+        "a68e9c6e65565db6"
+      ],
+      "id": "a152a7ec456a2f00",
+      "date": 1480427382897
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "In the spirit of [[Work In Public, Reveal Nothing]], I'm going to post my notes and reflections from class, here."
+      },
+      "date": 1480427407038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ca0d5f0d2899b47"
+      },
+      "id": "3ca0d5f0d2899b47",
+      "type": "add",
+      "after": "a68e9c6e65565db6",
+      "date": 1480427650658
+    },
+    {
+      "type": "edit",
+      "id": "3ca0d5f0d2899b47",
+      "item": {
+        "type": "markdown",
+        "id": "3ca0d5f0d2899b47",
+        "text": "# Presentation notes"
+      },
+      "date": 1480427664097
+    },
+    {
+      "type": "move",
+      "order": [
+        "a152a7ec456a2f00",
+        "3ca0d5f0d2899b47",
+        "a68e9c6e65565db6"
+      ],
+      "id": "3ca0d5f0d2899b47",
+      "date": 1480427665665
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2ce08c14b0db71ba",
+        "text": "[[Delaney (11/21/16)]]"
+      },
+      "after": "3ca0d5f0d2899b47",
+      "id": "2ce08c14b0db71ba",
+      "date": 1480427666890
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "fc50d52c1c10995e",
+        "text": "[http://projectsprojectsprojects.referata.com/wiki/Presentation_schedule_(Fall_2016) Presentation schedule (Fall 2016)]\n"
+      },
+      "after": "a152a7ec456a2f00",
+      "id": "fc50d52c1c10995e",
+      "date": 1480427670107
+    },
+    {
+      "type": "remove",
+      "id": "a68e9c6e65565db6",
+      "date": 1480427679014
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3287b3b33773cc6c"
+      },
+      "id": "3287b3b33773cc6c",
+      "type": "add",
+      "after": "2ce08c14b0db71ba",
+      "date": 1480427695308
+    },
+    {
+      "type": "edit",
+      "id": "3ca0d5f0d2899b47",
+      "item": {
+        "type": "markdown",
+        "id": "3ca0d5f0d2899b47",
+        "text": "# My notes on people's presentations"
+      },
+      "date": 1480427708478
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dea6045f3d81bfba"
+      },
+      "id": "dea6045f3d81bfba",
+      "type": "add",
+      "after": "3287b3b33773cc6c",
+      "date": 1480427712745
+    },
+    {
+      "type": "edit",
+      "id": "3287b3b33773cc6c",
+      "item": {
+        "type": "markdown",
+        "id": "3287b3b33773cc6c",
+        "text": "# Useful pages"
+      },
+      "date": 1480427717556
+    },
+    {
+      "type": "move",
+      "order": [
+        "a152a7ec456a2f00",
+        "3287b3b33773cc6c",
+        "fc50d52c1c10995e",
+        "3ca0d5f0d2899b47",
+        "2ce08c14b0db71ba",
+        "dea6045f3d81bfba"
+      ],
+      "id": "3287b3b33773cc6c",
+      "date": 1480427718615
+    },
+    {
+      "type": "move",
+      "order": [
+        "a152a7ec456a2f00",
+        "3ca0d5f0d2899b47",
+        "3287b3b33773cc6c",
+        "fc50d52c1c10995e",
+        "2ce08c14b0db71ba",
+        "dea6045f3d81bfba"
+      ],
+      "id": "3ca0d5f0d2899b47",
+      "date": 1480427723654
+    },
+    {
+      "type": "move",
+      "order": [
+        "a152a7ec456a2f00",
+        "3ca0d5f0d2899b47",
+        "2ce08c14b0db71ba",
+        "3287b3b33773cc6c",
+        "fc50d52c1c10995e",
+        "dea6045f3d81bfba"
+      ],
+      "id": "2ce08c14b0db71ba",
+      "date": 1480427724634
+    },
+    {
+      "type": "add",
+      "id": "2dc6d09a4ac5d17b",
+      "item": {
+        "type": "paragraph",
+        "id": "2dc6d09a4ac5d17b",
+        "text": "[[Vic (11/21/16)]]"
+      },
+      "after": "3ca0d5f0d2899b47",
+      "date": 1480428421291
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm going to post my notes and reflections from class, here."
+      },
+      "date": 1480429076404
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm going to post my notes and reflections from class here."
+      },
+      "date": 1480429084448
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm going to post my notes and reflections from class here. They're things I heard or thought, more reflections of what was going through my head, than what was being said."
+      },
+      "date": 1480429388486
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm going to post my notes and reflections from class here. "
+      },
+      "date": 1480429504586
+    },
+    {
+      "type": "add",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "These are things that I heard or thought, so consider that they're of what was going through my head, than what was being said."
+      },
+      "after": "a152a7ec456a2f00",
+      "date": 1480429547012
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm going to post some of my notes and reflections from class here. "
+      },
+      "date": 1480429552093
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "These are things that I heard or thought and wrote down. So consider them reflections of what was going through my head. So more  than what was being said."
+      },
+      "date": 1480429620720
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm going to post some of my notes from class here. "
+      },
+      "date": 1480429624722
+    },
+    {
+      "type": "add",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "Everything seems so interconnected! And this seems like a good place for me to draw "
+      },
+      "after": "a152a7ec456a2f00",
+      "date": 1480429659063
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "Everything seems so interconnected! Maybe I can draw some of those connections here."
+      },
+      "date": 1480429700951
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm going to post some of my notes from class. "
+      },
+      "date": 1480429703800
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "Everything seems so interconnected!!! Maybe I can draw some of those connections here."
+      },
+      "date": 1480429706644
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "Everything seems so interconnected!!! Maybe I can draw some of those connections here?"
+      },
+      "date": 1480429709928
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "These are things that I heard or thought and wrote down. So them reflections of what was going through my head. So more  than what was being said."
+      },
+      "date": 1480429714755
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are things that I heard or thought and wrote down. So I think they're a lot more like a reflection of what was going through my head, than what was being presented."
+      },
+      "date": 1480429747536
+    },
+    {
+      "type": "add",
+      "id": "f26a931ee798b98e",
+      "item": {
+        "type": "paragraph",
+        "id": "f26a931ee798b98e",
+        "text": "Ok, enough caveats."
+      },
+      "after": "a016761f69f2fb76",
+      "date": 1480429756019
+    },
+    {
+      "type": "edit",
+      "id": "a152a7ec456a2f00",
+      "item": {
+        "type": "paragraph",
+        "id": "a152a7ec456a2f00",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm gonna workshop some of my notes from class here."
+      },
+      "date": 1480429776078
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I also want to try and draw some of the interconnections out, hopefully making good use of the wiki/hypertext format."
+      },
+      "date": 1480429826263
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I also want to try and draw some of the interconnections out, hopefully making good (true?) use of the wiki/hypertext format."
+      },
+      "date": 1480429833902
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are things that I heard or thought and wrote down while conversations happened. So it's not, like, a report on what's happening. More like snipplets of what piqued my interest."
+      },
+      "date": 1480429969048
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I also wanna try and draw some of the interconnections out, hopefully making good (true?) use of the wiki/hypertext format."
+      },
+      "date": 1480429991197
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I also wanna try and draw out some of the interconnections, hopefully making good (true?) use of the wiki/hypertext format."
+      },
+      "date": 1480430001750
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are things that I heard or thought and wrote down in conversation. So it's not, like, a report on what anyone said. More like snipplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430026545
+    },
+    {
+      "type": "add",
+      "id": "c8131a282f8592a1",
+      "item": {
+        "type": "paragraph",
+        "id": "c8131a282f8592a1",
+        "text": "[[Raf (11/26/16)]]"
+      },
+      "after": "3ca0d5f0d2899b47",
+      "date": 1480430199939
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I wanna try and draw out some of the interconnections, hopefully making good (true?) use of the wiki/hypertext format."
+      },
+      "date": 1480430273142
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I wanna try and draw out some of the interconnections, hopefully making good (true?) use of the wiki/hypertext as a form."
+      },
+      "date": 1480430279847
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are ALL things that I heard or thought and wrote down in conversation. So it's not, like, a report on what anyone said. More like snipplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430284549
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought and wrote down in conversation. So it's not, like, a report on what anyone said. More like snipplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430287901
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So it's not, like, a report on what anyone said. It's more like snipplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430313427
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So it's not, like, a report on what anyone said. Just snipplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430335510
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So it's not, like, a report on what anyone said. Just sniplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430338773
+    },
+    {
+      "type": "edit",
+      "id": "f26a931ee798b98e",
+      "item": {
+        "type": "paragraph",
+        "id": "f26a931ee798b98e",
+        "text": "Ok."
+      },
+      "date": 1480430344780
+    },
+    {
+      "type": "remove",
+      "id": "f26a931ee798b98e",
+      "date": 1480430347446
+    },
+    {
+      "type": "edit",
+      "id": "3ca0d5f0d2899b47",
+      "item": {
+        "type": "markdown",
+        "id": "3ca0d5f0d2899b47",
+        "text": "# My notes on ppl's presentations"
+      },
+      "date": 1480430359304
+    },
+    {
+      "type": "edit",
+      "id": "3287b3b33773cc6c",
+      "item": {
+        "type": "markdown",
+        "id": "3287b3b33773cc6c",
+        "text": "# Reference pages"
+      },
+      "date": 1480430368776
+    },
+    {
+      "type": "edit",
+      "id": "3ca0d5f0d2899b47",
+      "item": {
+        "type": "markdown",
+        "id": "3ca0d5f0d2899b47",
+        "text": "# My notes re: ppl's presentations"
+      },
+      "date": 1480430747773
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I wanna try and draw out some of the interconnections, hopefully making good (TRUE?) use of the wiki/hypertext as a form."
+      },
+      "date": 1480430893458
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I wanna try and draw out some of the interconnections, hopefully making good (TRUE?) use of wiki/hypertext as a form."
+      },
+      "date": 1480430899274
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, a report on what anyone said. Just sniplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430910671
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, a report. In fact, these might not make much sense. They're starting sniplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430943172
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, a report. In fact, these might not make much sense at all. They're starting points, sniplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430982322
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, a report. In fact, these might not make much sense at all. Starting points. Sniplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480430991883
+    },
+    {
+      "type": "add",
+      "id": "4665baf26959bb88",
+      "item": {
+        "type": "paragraph",
+        "id": "4665baf26959bb88",
+        "text": "[[Walid (]]"
+      },
+      "after": "3ca0d5f0d2899b47",
+      "date": 1480431607496
+    },
+    {
+      "type": "edit",
+      "id": "4665baf26959bb88",
+      "item": {
+        "type": "paragraph",
+        "id": "4665baf26959bb88",
+        "text": "[[Walid (11/28/16)]]"
+      },
+      "date": 1480431615451
+    },
+    {
+      "type": "add",
+      "id": "4bcbc3d1cd17d1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "4bcbc3d1cd17d1e2",
+        "text": "[[Ian & Maya (]]"
+      },
+      "after": "3ca0d5f0d2899b47",
+      "date": 1480432013045
+    },
+    {
+      "type": "edit",
+      "id": "4bcbc3d1cd17d1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "4bcbc3d1cd17d1e2",
+        "text": "[[Ian & Maya (11/28/16)]]"
+      },
+      "date": 1480432022955
+    },
+    {
+      "type": "edit",
+      "id": "c8131a282f8592a1",
+      "item": {
+        "type": "paragraph",
+        "id": "c8131a282f8592a1",
+        "text": "[[Raf (11/21/16)]]"
+      },
+      "date": 1480432150472
+    },
+    {
+      "type": "add",
+      "id": "886029994d702375",
+      "item": {
+        "type": "paragraph",
+        "id": "886029994d702375",
+        "text": "[[Casey (11/21/16)]]"
+      },
+      "after": "2ce08c14b0db71ba",
+      "date": 1480432170520
+    },
+    {
+      "type": "add",
+      "id": "845c51d526c519bd",
+      "item": {
+        "type": "paragraph",
+        "id": "845c51d526c519bd",
+        "text": "[[Jake (11/28/16)]]"
+      },
+      "after": "3ca0d5f0d2899b47",
+      "date": 1480432576898
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I want to try and draw out some of the interconnections, hopefully making good (TRUE?) use of wiki/hypertext as a form."
+      },
+      "date": 1480432588755
+    },
+    {
+      "type": "add",
+      "id": "c9e0bb2ef873862f",
+      "item": {
+        "type": "paragraph",
+        "id": "c9e0bb2ef873862f",
+        "text": "[[Mauricio (11/28/16)]]"
+      },
+      "after": "3ca0d5f0d2899b47",
+      "date": 1480433382151
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, a report. In fact, these might not (should not?) make much sense at all. Starting points. Sniplets of what piqued my interest or jogged my memory."
+      },
+      "date": 1480433960664
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, a report. In fact, these might not (should not?) make much sense at all. Starting points. Sniplets of what piqued my interest or jogs my memory."
+      },
+      "date": 1480433979529
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I want to try and draw out some of the interconnections, maybe giving them enough form that they become something new? Hopefully making good (true?) use of wiki and hypertext as a way of thinking."
+      },
+      "date": 1480437084231
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I want to try and draw out some of the interconnections amongst our research trails, maybe giving them enough form that they become something new? Hopefully making good (true?) use of wiki and hypertext as a way of thinking."
+      },
+      "date": 1480437102961
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I want to try and draw out some of the interconnections amongst our research trails, maybe giving the jumps enough form that they become something new? Hopefully making good (true?) use of wiki and hypertext as a way of thinking."
+      },
+      "date": 1480437115842
+    },
+    {
+      "type": "edit",
+      "id": "12f8d6d4a5caaf2c",
+      "item": {
+        "type": "paragraph",
+        "id": "12f8d6d4a5caaf2c",
+        "text": "I want to try and draw out some of the interconnections amongst our research trails, maybe giving the jumps enough form that they become things themselves? Hopefully making good (true?) use of wiki and hypertext as a way of thinking."
+      },
+      "date": 1480437125179
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, reports. In fact, these might not (should not?) make much sense at all. Starting points. Sniplets of what piqued my interest or jogs my memory."
+      },
+      "date": 1480437146127
+    },
+    {
+      "type": "edit",
+      "id": "a016761f69f2fb76",
+      "item": {
+        "type": "paragraph",
+        "id": "a016761f69f2fb76",
+        "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, reports. In fact, these might not (should not?) make much sense. Starting points. Sniplets of what piqued my interest or jogs my memory."
+      },
+      "date": 1480437154564
     }
   ]
 }

@@ -1,0 +1,311 @@
+{
+  "title": "Mauricio (11/28/16)",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "35c07e1e0b597283",
+      "text": "aspirational"
+    },
+    {
+      "type": "paragraph",
+      "id": "a96611b9035b62ac",
+      "text": "mission"
+    },
+    {
+      "type": "paragraph",
+      "id": "7960a75e34c46a7c",
+      "text": "vision"
+    },
+    {
+      "type": "paragraph",
+      "id": "0002f1f894cd022c",
+      "text": "bi-weekly, jan 15 deadline for first draft"
+    },
+    {
+      "type": "paragraph",
+      "id": "407830ed2a60ec5b",
+      "text": "status / diversity"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2e857f287230a8b",
+      "text": "Jalal ALBA"
+    },
+    {
+      "type": "paragraph",
+      "id": "f90ff0e776b5c3f8",
+      "text": "indictment of artworld"
+    },
+    {
+      "type": "paragraph",
+      "id": "2b9bcc548dafac95",
+      "text": "what is the institution's face? are we facing someone?"
+    },
+    {
+      "type": "paragraph",
+      "id": "d1cd5dcf23d765e1",
+      "text": "the committee you know"
+    },
+    {
+      "type": "paragraph",
+      "id": "d307bf17d9859cfa",
+      "text": "who *was* this?"
+    },
+    {
+      "type": "paragraph",
+      "id": "af5847aaea521dc4",
+      "text": "freedom to listen"
+    },
+    {
+      "type": "paragraph",
+      "id": "80edb1f926508b58",
+      "text": "right to silence"
+    },
+    {
+      "type": "paragraph",
+      "id": "329bedd8be16d326",
+      "text": "the undocumented"
+    },
+    {
+      "type": "paragraph",
+      "id": "0dbe4e5d9d519614",
+      "text": "by seeing it you can't unsee it"
+    },
+    {
+      "type": "paragraph",
+      "id": "dcfddcac3e02d8d3",
+      "text": "system of additional"
+    },
+    {
+      "type": "paragraph",
+      "id": "33ebcf23712c0200",
+      "text": "visual, notational system"
+    },
+    {
+      "type": "paragraph",
+      "id": "45857ace99a34463",
+      "text": "hands, not the face"
+    },
+    {
+      "type": "paragraph",
+      "id": "04c047a0a755606d",
+      "text": "do what you do on documents"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Mauricio (11/28/16)",
+        "story": []
+      },
+      "date": 1480433392552
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35c07e1e0b597283"
+      },
+      "id": "35c07e1e0b597283",
+      "type": "add",
+      "date": 1480433394720
+    },
+    {
+      "type": "edit",
+      "id": "35c07e1e0b597283",
+      "item": {
+        "type": "paragraph",
+        "id": "35c07e1e0b597283",
+        "text": "aspirational"
+      },
+      "date": 1480433398789
+    },
+    {
+      "type": "add",
+      "id": "a96611b9035b62ac",
+      "item": {
+        "type": "paragraph",
+        "id": "a96611b9035b62ac",
+        "text": "mission"
+      },
+      "after": "35c07e1e0b597283",
+      "date": 1480433399881
+    },
+    {
+      "type": "add",
+      "id": "7960a75e34c46a7c",
+      "item": {
+        "type": "paragraph",
+        "id": "7960a75e34c46a7c",
+        "text": "vision"
+      },
+      "after": "a96611b9035b62ac",
+      "date": 1480433401062
+    },
+    {
+      "type": "add",
+      "id": "0002f1f894cd022c",
+      "item": {
+        "type": "paragraph",
+        "id": "0002f1f894cd022c",
+        "text": "bi-weekly, jan 15 deadline for first draft"
+      },
+      "after": "7960a75e34c46a7c",
+      "date": 1480433423033
+    },
+    {
+      "type": "add",
+      "id": "407830ed2a60ec5b",
+      "item": {
+        "type": "paragraph",
+        "id": "407830ed2a60ec5b",
+        "text": "status / diversity"
+      },
+      "after": "0002f1f894cd022c",
+      "date": 1480433431392
+    },
+    {
+      "type": "add",
+      "id": "a2e857f287230a8b",
+      "item": {
+        "type": "paragraph",
+        "id": "a2e857f287230a8b",
+        "text": "Jalal ALBA"
+      },
+      "after": "407830ed2a60ec5b",
+      "date": 1480433436701
+    },
+    {
+      "type": "add",
+      "id": "f90ff0e776b5c3f8",
+      "item": {
+        "type": "paragraph",
+        "id": "f90ff0e776b5c3f8",
+        "text": "indictment of artworld"
+      },
+      "after": "a2e857f287230a8b",
+      "date": 1480433441246
+    },
+    {
+      "type": "add",
+      "id": "2b9bcc548dafac95",
+      "item": {
+        "type": "paragraph",
+        "id": "2b9bcc548dafac95",
+        "text": "what is the institution's face? are we facing someone?"
+      },
+      "after": "f90ff0e776b5c3f8",
+      "date": 1480433450100
+    },
+    {
+      "type": "add",
+      "id": "d1cd5dcf23d765e1",
+      "item": {
+        "type": "paragraph",
+        "id": "d1cd5dcf23d765e1",
+        "text": "the committee you know"
+      },
+      "after": "2b9bcc548dafac95",
+      "date": 1480433453565
+    },
+    {
+      "type": "add",
+      "id": "d307bf17d9859cfa",
+      "item": {
+        "type": "paragraph",
+        "id": "d307bf17d9859cfa",
+        "text": "who *was* this?"
+      },
+      "after": "d1cd5dcf23d765e1",
+      "date": 1480433464579
+    },
+    {
+      "type": "add",
+      "id": "af5847aaea521dc4",
+      "item": {
+        "type": "paragraph",
+        "id": "af5847aaea521dc4",
+        "text": "freedom to listen"
+      },
+      "after": "d307bf17d9859cfa",
+      "date": 1480433473140
+    },
+    {
+      "type": "add",
+      "id": "80edb1f926508b58",
+      "item": {
+        "type": "paragraph",
+        "id": "80edb1f926508b58",
+        "text": "right to silence"
+      },
+      "after": "af5847aaea521dc4",
+      "date": 1480433475615
+    },
+    {
+      "type": "add",
+      "id": "329bedd8be16d326",
+      "item": {
+        "type": "paragraph",
+        "id": "329bedd8be16d326",
+        "text": "the undocumented"
+      },
+      "after": "80edb1f926508b58",
+      "date": 1480433478303
+    },
+    {
+      "type": "add",
+      "id": "0dbe4e5d9d519614",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbe4e5d9d519614",
+        "text": "by seeing it you can't unsee it"
+      },
+      "after": "329bedd8be16d326",
+      "date": 1480433489475
+    },
+    {
+      "type": "add",
+      "id": "dcfddcac3e02d8d3",
+      "item": {
+        "type": "paragraph",
+        "id": "dcfddcac3e02d8d3",
+        "text": "system of additional"
+      },
+      "after": "0dbe4e5d9d519614",
+      "date": 1480433493648
+    },
+    {
+      "type": "add",
+      "id": "33ebcf23712c0200",
+      "item": {
+        "type": "paragraph",
+        "id": "33ebcf23712c0200",
+        "text": "visual, notational system"
+      },
+      "after": "dcfddcac3e02d8d3",
+      "date": 1480433499071
+    },
+    {
+      "type": "add",
+      "id": "45857ace99a34463",
+      "item": {
+        "type": "paragraph",
+        "id": "45857ace99a34463",
+        "text": "hands, not the face"
+      },
+      "after": "33ebcf23712c0200",
+      "date": 1480433506653
+    },
+    {
+      "type": "add",
+      "id": "04c047a0a755606d",
+      "item": {
+        "type": "paragraph",
+        "id": "04c047a0a755606d",
+        "text": "do what you do on documents"
+      },
+      "after": "45857ace99a34463",
+      "date": 1480433515170
+    }
+  ]
+}

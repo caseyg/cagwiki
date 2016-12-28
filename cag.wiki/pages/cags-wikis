@@ -4,7 +4,7 @@
     {
       "type": "roster",
       "id": "99a1869b080c5b5c",
-      "text": "cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      "text": "cag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\ns.cag.wiki\nscratchpad (s)\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\ns.cag.wiki\nwork.cag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
     },
     {
       "type": "html",
@@ -500,6 +500,106 @@
         "text": "<style>body {background-image:url(http://bullshit.systems/sisu.gif);background-size:cover;}</style>\n<small style=\"color:lightgray\">css</small>"
       },
       "date": 1480059651913
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nwork.cag.wiki\nCAG\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480098796725
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480098804091
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "[[]]\n\ncag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480102268418
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "[[http://cag.wiki/view/welcome-visitors/view/cags-wikis Cag's Wikis]]\n\ncag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480102274582
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "[http://cag.wiki/view/welcome-visitors/view/cags-wikis Cag's Wikis]\n\ncag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480102279261
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "\ncag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480102281365
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\ns.cag.wiki\nscratchpad (s)\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480102300479
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\ns.cag.wiki\nscratchpad (s)\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\nprojects.cag.wiki\ns.cag.wiki\nwork.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480102318501
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\ns.cag.wiki\nscratchpad (s)\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\ns.cag.wiki\nwork.cag.wiki\ntest.cag.wiki\nprojects.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480102330437
+    },
+    {
+      "type": "edit",
+      "id": "99a1869b080c5b5c",
+      "item": {
+        "type": "roster",
+        "id": "99a1869b080c5b5c",
+        "text": "cag.wiki\nCAG\n\nwork.cag.wiki\nwork\n\ns.cag.wiki\nscratchpad (s)\n\nprojects.cag.wiki\nprojects\n\ntest.cag.wiki\ntesting\n\n\nlocalhost:3000\nlocal\n\n\nglossary.asia.wiki.org\nadmin.asia.wiki.org\nplugins.fed.wiki.org\nfed.wiki.org\nhelp.fed.wiki.org\nwiki docs\n\n\ncag.wiki\ns.cag.wiki\nwork.cag.wiki\nprojects.cag.wiki\ntest.cag.wiki\nlocalhost:3000\nall"
+      },
+      "date": 1480102335854
     }
   ]
 }

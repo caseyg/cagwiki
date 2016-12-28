@@ -17,8 +17,27 @@
       "text": "[[Closing tabs]]"
     },
     {
-      "type": "factory",
-      "id": "b293d5da1366c54e"
+      "type": "paragraph",
+      "id": "d7f8ed02688aef86",
+      "text": "[[Resetting a Computer]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1c7e56422bb946bd",
+      "text": "[[Weeknotes]]"
+    },
+    {
+      "type": "reference",
+      "id": "7e6fe9f8b612564f",
+      "site": "projects.cag.wiki",
+      "slug": "projects",
+      "title": "Projects",
+      "text": "By the way of [[Work In Public, Reveal Nothing]], I'm gonna workshop some of my notes from class here.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "bac305599bfbc166",
+      "text": "[[Designing a Book]]"
     }
   ],
   "journal": [
@@ -80,6 +99,175 @@
       "after": "19c2c7af270cbfc3",
       "id": "2c54be814c872593",
       "date": 1480059568713
+    },
+    {
+      "type": "add",
+      "id": "712155aedcd02626",
+      "item": {
+        "type": "paragraph",
+        "id": "712155aedcd02626",
+        "text": "[[Oxbow Talk Index Cards"
+      },
+      "after": "2c54be814c872593",
+      "date": 1480110905488
+    },
+    {
+      "type": "edit",
+      "id": "712155aedcd02626",
+      "item": {
+        "type": "paragraph",
+        "id": "712155aedcd02626",
+        "text": "[[Oxbow Talk Index Cards]]"
+      },
+      "date": 1480110907860
+    },
+    {
+      "type": "remove",
+      "id": "712155aedcd02626",
+      "date": 1480110911474
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ff1d4629deb381",
+        "text": "[[Tools]]"
+      },
+      "after": "2c54be814c872593",
+      "id": "a8ff1d4629deb381",
+      "date": 1480319573458
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1c7e56422bb946bd",
+        "text": "[[Weeknotes]]"
+      },
+      "after": "a8ff1d4629deb381",
+      "id": "1c7e56422bb946bd",
+      "date": 1480319576496
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d7f8ed02688aef86",
+        "text": "[[Resetting a Computer]]"
+      },
+      "after": "1c7e56422bb946bd",
+      "id": "d7f8ed02688aef86",
+      "date": 1480320177652
+    },
+    {
+      "type": "move",
+      "order": [
+        "142a84db5675d2a9",
+        "19c2c7af270cbfc3",
+        "2c54be814c872593",
+        "a8ff1d4629deb381",
+        "d7f8ed02688aef86",
+        "1c7e56422bb946bd",
+        "b293d5da1366c54e"
+      ],
+      "id": "d7f8ed02688aef86",
+      "date": 1480320751487
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e3a83d8d765e2f86"
+      },
+      "id": "e3a83d8d765e2f86",
+      "type": "add",
+      "after": "b293d5da1366c54e",
+      "date": 1480321173386
+    },
+    {
+      "type": "remove",
+      "id": "b293d5da1366c54e",
+      "date": 1480321175430
+    },
+    {
+      "type": "remove",
+      "id": "e3a83d8d765e2f86",
+      "date": 1480321177411
+    },
+    {
+      "type": "remove",
+      "id": "a8ff1d4629deb381",
+      "date": 1480436969419
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d2e5adfbd17c2e9"
+      },
+      "id": "4d2e5adfbd17c2e9",
+      "type": "add",
+      "after": "1c7e56422bb946bd",
+      "date": 1480436997982
+    },
+    {
+      "type": "remove",
+      "id": "4d2e5adfbd17c2e9",
+      "date": 1480437003974
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e6fe9f8b612564f"
+      },
+      "id": "7e6fe9f8b612564f",
+      "type": "add",
+      "after": "1c7e56422bb946bd",
+      "date": 1480437027039
+    },
+    {
+      "type": "edit",
+      "id": "7e6fe9f8b612564f",
+      "item": {
+        "type": "reference",
+        "id": "7e6fe9f8b612564f",
+        "site": "projects.cag.wiki",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm gonna workshop some of my notes from class here."
+      },
+      "date": 1480437033283
+    },
+    {
+      "type": "edit",
+      "id": "7e6fe9f8b612564f",
+      "item": {
+        "type": "reference",
+        "id": "7e6fe9f8b612564f",
+        "site": "projects.cag.wiki",
+        "slug": "projects",
+        "title": "Projects",
+        "text": "By the way of [[Work In Public, Reveal Nothing]], I'm gonna workshop some of my notes from class here.\n"
+      },
+      "date": 1481925913071
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bac305599bfbc166"
+      },
+      "id": "bac305599bfbc166",
+      "type": "add",
+      "after": "7e6fe9f8b612564f",
+      "date": 1481925914512
+    },
+    {
+      "type": "edit",
+      "id": "bac305599bfbc166",
+      "item": {
+        "type": "paragraph",
+        "id": "bac305599bfbc166",
+        "text": "[[Designing a Book]]"
+      },
+      "date": 1481925920500
     }
   ]
 }

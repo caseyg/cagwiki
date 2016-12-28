@@ -1,0 +1,760 @@
+{
+  "title": "Work",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "88473e3f29361064",
+      "text": "(Porting this page from [http://hire.caseyagollan.com hire.caseyagollan.com])"
+    },
+    {
+      "type": "pagefold",
+      "id": "fee2ad6031a69034",
+      "text": "Selected Projects"
+    },
+    {
+      "type": "html",
+      "id": "fe4bc611c8621db6",
+      "text": "<img src=\"http://hire.caseyagollan.com/accessibleicon.png\" style=\"float:right;width:25%;\">"
+    },
+    {
+      "type": "reference",
+      "id": "501e30e1c0976c0e",
+      "site": "work.cag.wiki",
+      "slug": "accessible-icon-project",
+      "title": "Accessible Icon Project",
+      "text": "In collaboration with Sara Hendren, redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto."
+    },
+    {
+      "type": "html",
+      "id": "08fff3be0da49eac",
+      "text": "<img src=\"http://hire.caseyagollan.com/engineeringathome.png\" style=\"float:right;width:25%;\">"
+    },
+    {
+      "type": "reference",
+      "id": "e8b92c436b4dac7d",
+      "site": "work.cag.wiki",
+      "slug": "engineering-at-home",
+      "title": "Engineering at Home",
+      "text": "A 6-month long collaboration with anthropologist Caitrin Lynch and designer Sara Hendren, of Olin College, to produce an interactive archive that frames their academic research for a broad internet readership."
+    },
+    {
+      "type": "html",
+      "id": "91c485354998c331",
+      "text": "<img src=\"http://hire.caseyagollan.com/multientry.png\" style=\"float:right;width:25%;\">"
+    },
+    {
+      "type": "reference",
+      "id": "cc0bd144521ec654",
+      "site": "work.cag.wiki",
+      "slug": "multi-entry",
+      "title": "Multi Entry",
+      "text": "Pair-programmed with ethnographer [[Christina Xu]], walking her through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
+    },
+    {
+      "type": "paragraph",
+      "id": "ba05e7f072da4db2",
+      "text": "[[Multi Entry]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea713539be9817c2",
+      "text": "[[OpenGov Foundation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3716ff91bad5d833",
+      "text": "[[Disorientation Reader]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8ebfba1b40e458cd",
+      "text": "[[School for Poetic Computation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f9e09af77b01bac6",
+      "text": "[[Marwa Helal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d2e2b3d67343268",
+      "text": "[[Rodi Gallery]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "de8a89c3d5c5d02f",
+      "text": "[[Tom Healy]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1f926152ecea270c",
+      "text": "[[Poooool]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Work",
+        "story": []
+      },
+      "date": 1480098143429
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9bec2b970e311c71"
+      },
+      "id": "9bec2b970e311c71",
+      "type": "add",
+      "date": 1480098145155
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5605397fccced710"
+      },
+      "id": "5605397fccced710",
+      "type": "add",
+      "after": "9bec2b970e311c71",
+      "date": 1480098156968
+    },
+    {
+      "type": "remove",
+      "id": "9bec2b970e311c71",
+      "date": 1480098159726
+    },
+    {
+      "type": "edit",
+      "id": "5605397fccced710",
+      "item": {
+        "type": "markdown",
+        "id": "5605397fccced710",
+        "text": "# Let's build a website."
+      },
+      "date": 1480098167247
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08174d01e61efa87"
+      },
+      "id": "08174d01e61efa87",
+      "type": "add",
+      "after": "5605397fccced710",
+      "date": 1480098169176
+    },
+    {
+      "type": "remove",
+      "id": "08174d01e61efa87",
+      "date": 1480098170701
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "505e943427f8410a"
+      },
+      "id": "505e943427f8410a",
+      "type": "add",
+      "after": "5605397fccced710",
+      "date": 1480098173786
+    },
+    {
+      "type": "edit",
+      "id": "505e943427f8410a",
+      "item": {
+        "type": "paragraph",
+        "id": "505e943427f8410a",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1480098176516
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "88473e3f29361064"
+      },
+      "id": "88473e3f29361064",
+      "type": "add",
+      "after": "505e943427f8410a",
+      "date": 1480098178038
+    },
+    {
+      "type": "edit",
+      "id": "88473e3f29361064",
+      "item": {
+        "type": "paragraph",
+        "id": "88473e3f29361064",
+        "text": "(Porting this page from [http://hire.caseyagollan.com hire.caseyagollan.com])"
+      },
+      "date": 1480098198859
+    },
+    {
+      "type": "move",
+      "order": [
+        "5605397fccced710",
+        "88473e3f29361064",
+        "505e943427f8410a"
+      ],
+      "id": "88473e3f29361064",
+      "date": 1480098201796
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "5605397fccced710",
+        "505e943427f8410a"
+      ],
+      "id": "5605397fccced710",
+      "date": 1480098202774
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fee2ad6031a69034"
+      },
+      "id": "fee2ad6031a69034",
+      "type": "add",
+      "after": "505e943427f8410a",
+      "date": 1480098210922
+    },
+    {
+      "type": "edit",
+      "id": "fee2ad6031a69034",
+      "item": {
+        "type": "pagefold",
+        "id": "fee2ad6031a69034",
+        "text": "Selected Projects"
+      },
+      "date": 1480098217815
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a5848c3dad1a846"
+      },
+      "id": "9a5848c3dad1a846",
+      "type": "add",
+      "after": "fee2ad6031a69034",
+      "date": 1480098225130
+    },
+    {
+      "type": "remove",
+      "id": "9a5848c3dad1a846",
+      "date": 1480098229032
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cda862b5ce5eafbc"
+      },
+      "id": "cda862b5ce5eafbc",
+      "type": "add",
+      "after": "fee2ad6031a69034",
+      "date": 1480098233939
+    },
+    {
+      "type": "edit",
+      "id": "cda862b5ce5eafbc",
+      "item": {
+        "type": "paragraph",
+        "id": "cda862b5ce5eafbc",
+        "text": "[[Accessible Icon Project]]"
+      },
+      "date": 1480098241777
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d0caec8ab17730d"
+      },
+      "id": "7d0caec8ab17730d",
+      "type": "add",
+      "after": "cda862b5ce5eafbc",
+      "date": 1480098244941
+    },
+    {
+      "type": "edit",
+      "id": "7d0caec8ab17730d",
+      "item": {
+        "type": "paragraph",
+        "id": "7d0caec8ab17730d",
+        "text": "[[Engineering at Home]]"
+      },
+      "date": 1480098249899
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba05e7f072da4db2"
+      },
+      "id": "ba05e7f072da4db2",
+      "type": "add",
+      "after": "7d0caec8ab17730d",
+      "date": 1480098250758
+    },
+    {
+      "type": "edit",
+      "id": "ba05e7f072da4db2",
+      "item": {
+        "type": "paragraph",
+        "id": "ba05e7f072da4db2",
+        "text": "Multi"
+      },
+      "date": 1480098255531
+    },
+    {
+      "type": "edit",
+      "id": "ba05e7f072da4db2",
+      "item": {
+        "type": "paragraph",
+        "id": "ba05e7f072da4db2",
+        "text": "[[Multi Entry]]"
+      },
+      "date": 1480098281445
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "501e30e1c0976c0e"
+      },
+      "id": "501e30e1c0976c0e",
+      "type": "add",
+      "after": "ba05e7f072da4db2",
+      "date": 1480098318605
+    },
+    {
+      "type": "edit",
+      "id": "501e30e1c0976c0e",
+      "item": {
+        "type": "reference",
+        "id": "501e30e1c0976c0e",
+        "site": "work.cag.wiki",
+        "slug": "accessible-icon-project",
+        "title": "Accessible Icon Project",
+        "text": "In collaboration with [[Sara Hendren]], redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto."
+      },
+      "date": 1480098322226
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "5605397fccced710",
+        "505e943427f8410a",
+        "fee2ad6031a69034",
+        "501e30e1c0976c0e",
+        "cda862b5ce5eafbc",
+        "7d0caec8ab17730d",
+        "ba05e7f072da4db2"
+      ],
+      "id": "501e30e1c0976c0e",
+      "date": 1480098324295
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "fe4bc611c8621db6",
+        "text": "<img src=\"http://hire.caseyagollan.com/accessibleicon.png\">"
+      },
+      "after": "fee2ad6031a69034",
+      "id": "fe4bc611c8621db6",
+      "date": 1480098328819
+    },
+    {
+      "type": "remove",
+      "id": "fe4bc611c8621db6",
+      "date": 1480098335681
+    },
+    {
+      "type": "add",
+      "id": "ea713539be9817c2",
+      "item": {
+        "type": "paragraph",
+        "id": "ea713539be9817c2",
+        "text": "[[OpenGov Foundation]]"
+      },
+      "after": "ba05e7f072da4db2",
+      "date": 1480098357301
+    },
+    {
+      "type": "add",
+      "id": "3716ff91bad5d833",
+      "item": {
+        "type": "paragraph",
+        "id": "3716ff91bad5d833",
+        "text": "[[Disorientation Reader]]"
+      },
+      "after": "ea713539be9817c2",
+      "date": 1480098365570
+    },
+    {
+      "type": "add",
+      "id": "8ebfba1b40e458cd",
+      "item": {
+        "type": "paragraph",
+        "id": "8ebfba1b40e458cd",
+        "text": "[[School for Poetic Computation]]"
+      },
+      "after": "3716ff91bad5d833",
+      "date": 1480098373310
+    },
+    {
+      "type": "add",
+      "id": "f9e09af77b01bac6",
+      "item": {
+        "type": "paragraph",
+        "id": "f9e09af77b01bac6",
+        "text": "[[Marwa Helal]]"
+      },
+      "after": "8ebfba1b40e458cd",
+      "date": 1480098378417
+    },
+    {
+      "type": "add",
+      "id": "7d2e2b3d67343268",
+      "item": {
+        "type": "paragraph",
+        "id": "7d2e2b3d67343268",
+        "text": "[[Rodi Gallery]]"
+      },
+      "after": "f9e09af77b01bac6",
+      "date": 1480098383547
+    },
+    {
+      "type": "add",
+      "id": "de8a89c3d5c5d02f",
+      "item": {
+        "type": "paragraph",
+        "id": "de8a89c3d5c5d02f",
+        "text": "[[Tom Healy]]"
+      },
+      "after": "7d2e2b3d67343268",
+      "date": 1480098389442
+    },
+    {
+      "type": "add",
+      "id": "1f926152ecea270c",
+      "item": {
+        "type": "paragraph",
+        "id": "1f926152ecea270c",
+        "text": "[[Poooool]]"
+      },
+      "after": "de8a89c3d5c5d02f",
+      "date": 1480098400624
+    },
+    {
+      "type": "remove",
+      "id": "cda862b5ce5eafbc",
+      "date": 1480098406530
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e8b92c436b4dac7d"
+      },
+      "id": "e8b92c436b4dac7d",
+      "type": "add",
+      "after": "1f926152ecea270c",
+      "date": 1480098468892
+    },
+    {
+      "type": "edit",
+      "id": "e8b92c436b4dac7d",
+      "item": {
+        "type": "reference",
+        "id": "e8b92c436b4dac7d",
+        "site": "work.cag.wiki",
+        "slug": "engineering-at-home",
+        "title": "Engineering at Home",
+        "text": "A 6-month long collaboration with anthropologist [[Caitrin Lynch]] and designer [[Sara Hendren]], of Olin College, to produce an interactive archive that frames their academic research for a broad internet readership."
+      },
+      "date": 1480098472883
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "5605397fccced710",
+        "505e943427f8410a",
+        "fee2ad6031a69034",
+        "501e30e1c0976c0e",
+        "e8b92c436b4dac7d",
+        "7d0caec8ab17730d",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "7d2e2b3d67343268",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c"
+      ],
+      "id": "e8b92c436b4dac7d",
+      "date": 1480098475057
+    },
+    {
+      "type": "remove",
+      "id": "7d0caec8ab17730d",
+      "date": 1480098495269
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc0bd144521ec654"
+      },
+      "id": "cc0bd144521ec654",
+      "type": "add",
+      "after": "1f926152ecea270c",
+      "date": 1480098529036
+    },
+    {
+      "type": "edit",
+      "id": "cc0bd144521ec654",
+      "item": {
+        "type": "reference",
+        "id": "cc0bd144521ec654",
+        "site": "work.cag.wiki",
+        "slug": "multi-entry",
+        "title": "Multi Entry",
+        "text": "Pair-programmed with ethnographer [[Christina Xu]], walking her through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
+      },
+      "date": 1480098530757
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "5605397fccced710",
+        "505e943427f8410a",
+        "fee2ad6031a69034",
+        "501e30e1c0976c0e",
+        "e8b92c436b4dac7d",
+        "cc0bd144521ec654",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "7d2e2b3d67343268",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c"
+      ],
+      "id": "cc0bd144521ec654",
+      "date": 1480098532474
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "fe4bc611c8621db6",
+        "text": "<img src=\"http://hire.caseyagollan.com/accessibleicon.png\">"
+      },
+      "after": "501e30e1c0976c0e",
+      "id": "fe4bc611c8621db6",
+      "date": 1480098654132
+    },
+    {
+      "type": "edit",
+      "id": "fe4bc611c8621db6",
+      "item": {
+        "type": "html",
+        "id": "fe4bc611c8621db6",
+        "text": "<img src=\"http://hire.caseyagollan.com/accessibleicon.png\" style=\"float:right;width:25%;\">"
+      },
+      "date": 1480098665086
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "5605397fccced710",
+        "505e943427f8410a",
+        "fee2ad6031a69034",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "e8b92c436b4dac7d",
+        "cc0bd144521ec654",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "7d2e2b3d67343268",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c"
+      ],
+      "id": "fe4bc611c8621db6",
+      "date": 1480098668282
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "5605397fccced710",
+        "505e943427f8410a",
+        "fee2ad6031a69034",
+        "501e30e1c0976c0e",
+        "fe4bc611c8621db6",
+        "e8b92c436b4dac7d",
+        "cc0bd144521ec654",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "7d2e2b3d67343268",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c"
+      ],
+      "id": "fe4bc611c8621db6",
+      "date": 1480098676460
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "5605397fccced710",
+        "505e943427f8410a",
+        "fee2ad6031a69034",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "e8b92c436b4dac7d",
+        "cc0bd144521ec654",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "7d2e2b3d67343268",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c"
+      ],
+      "id": "fe4bc611c8621db6",
+      "date": 1480098678035
+    },
+    {
+      "type": "edit",
+      "id": "501e30e1c0976c0e",
+      "item": {
+        "type": "reference",
+        "id": "501e30e1c0976c0e",
+        "site": "work.cag.wiki",
+        "slug": "accessible-icon-project",
+        "title": "Accessible Icon Project",
+        "text": "In collaboration with Sara Hendren, redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto."
+      },
+      "date": 1480098746727
+    },
+    {
+      "type": "edit",
+      "id": "e8b92c436b4dac7d",
+      "item": {
+        "type": "reference",
+        "id": "e8b92c436b4dac7d",
+        "site": "work.cag.wiki",
+        "slug": "engineering-at-home",
+        "title": "Engineering at Home",
+        "text": "A 6-month long collaboration with anthropologist Caitrin Lynch and designer Sara Hendren, of Olin College, to produce an interactive archive that frames their academic research for a broad internet readership."
+      },
+      "date": 1480098755932
+    },
+    {
+      "type": "remove",
+      "id": "5605397fccced710",
+      "date": 1480099402324
+    },
+    {
+      "type": "remove",
+      "id": "505e943427f8410a",
+      "date": 1480099404991
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08fff3be0da49eac"
+      },
+      "id": "08fff3be0da49eac",
+      "type": "add",
+      "after": "1f926152ecea270c",
+      "date": 1480100168063
+    },
+    {
+      "type": "edit",
+      "id": "08fff3be0da49eac",
+      "item": {
+        "type": "html",
+        "id": "08fff3be0da49eac",
+        "text": "<img src=\"http://hire.caseyagollan.com/engineeringathome.png\" style=\"float:right;width:25%;\">"
+      },
+      "date": 1480100173863
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "fee2ad6031a69034",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "cc0bd144521ec654",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "7d2e2b3d67343268",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c"
+      ],
+      "id": "08fff3be0da49eac",
+      "date": 1480100175494
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "91c485354998c331"
+      },
+      "id": "91c485354998c331",
+      "type": "add",
+      "after": "1f926152ecea270c",
+      "date": 1480100177757
+    },
+    {
+      "type": "edit",
+      "id": "91c485354998c331",
+      "item": {
+        "type": "html",
+        "id": "91c485354998c331",
+        "text": "<img src=\"http://hire.caseyagollan.com/multientry.png\" style=\"float:right;width:25%;\">"
+      },
+      "date": 1480100183423
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "fee2ad6031a69034",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "7d2e2b3d67343268",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c"
+      ],
+      "id": "91c485354998c331",
+      "date": 1480100184875
+    }
+  ]
+}

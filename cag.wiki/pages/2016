@@ -1,0 +1,764 @@
+{
+  "title": "2016",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f6219c5a3a64a6ba",
+      "text": "# Jan"
+    },
+    {
+      "type": "paragraph",
+      "id": "f7f6505a24669b23",
+      "text": "Berlin"
+    },
+    {
+      "type": "paragraph",
+      "id": "d00193321acb1533",
+      "text": "E@H"
+    },
+    {
+      "type": "markdown",
+      "id": "22422c9f6a9083c7",
+      "text": "# Feb"
+    },
+    {
+      "type": "paragraph",
+      "id": "44cef177a599569a",
+      "text": "Accessible Icon"
+    },
+    {
+      "type": "markdown",
+      "id": "0559776cf76b017b",
+      "text": "# Mar"
+    },
+    {
+      "type": "markdown",
+      "id": "02da995d90ea4ff8",
+      "text": "# Apr"
+    },
+    {
+      "type": "markdown",
+      "id": "b886a1d22202a54f",
+      "text": "# May"
+    },
+    {
+      "type": "paragraph",
+      "id": "824a0b3fd70157ec",
+      "text": "Projects"
+    },
+    {
+      "type": "markdown",
+      "id": "4f2fe4ec3fc15d87",
+      "text": "# Jun"
+    },
+    {
+      "type": "markdown",
+      "id": "78d55961512d7d93",
+      "text": "# Jul"
+    },
+    {
+      "type": "markdown",
+      "id": "f930dd7363f16353",
+      "text": "# Aug"
+    },
+    {
+      "type": "markdown",
+      "id": "f2545d5c35492e03",
+      "text": "# Sep"
+    },
+    {
+      "type": "markdown",
+      "id": "4526c98b3af5f55f",
+      "text": "# Oct"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f3bb5f4603a1d5b",
+      "text": "Lost my phone"
+    },
+    {
+      "type": "markdown",
+      "id": "56679ce4ee0e7893",
+      "text": "# Nov"
+    },
+    {
+      "type": "markdown",
+      "id": "c562a4d5ddabe010",
+      "text": "# Dec"
+    },
+    {
+      "type": "html",
+      "id": "8940d2f5ef9d6ae2",
+      "text": "<hr>"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c3ee893a587687a",
+      "text": "WB"
+    },
+    {
+      "type": "paragraph",
+      "id": "e1a65330d07858a9",
+      "text": "Relaunched my website"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a5f87950325f357",
+      "text": "Coaching"
+    },
+    {
+      "type": "paragraph",
+      "id": "645fa4c936e21cb3",
+      "text": "Bullet journal"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ef438807695d299",
+      "text": "VLC"
+    },
+    {
+      "type": "paragraph",
+      "id": "52a0046557af1e74",
+      "text": "Biz plan"
+    },
+    {
+      "type": "paragraph",
+      "id": "79bbf4f1638982bb",
+      "text": "KP"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2016",
+        "story": []
+      },
+      "date": 1482920456912
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9fe0bc304558a115"
+      },
+      "id": "9fe0bc304558a115",
+      "type": "add",
+      "date": 1482920458209
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f6219c5a3a64a6ba"
+      },
+      "id": "f6219c5a3a64a6ba",
+      "type": "add",
+      "after": "9fe0bc304558a115",
+      "date": 1482920462952
+    },
+    {
+      "type": "remove",
+      "id": "9fe0bc304558a115",
+      "date": 1482920468747
+    },
+    {
+      "type": "edit",
+      "id": "f6219c5a3a64a6ba",
+      "item": {
+        "type": "markdown",
+        "id": "f6219c5a3a64a6ba",
+        "text": "# Jan"
+      },
+      "date": 1482920472812
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22422c9f6a9083c7"
+      },
+      "id": "22422c9f6a9083c7",
+      "type": "add",
+      "after": "f6219c5a3a64a6ba",
+      "date": 1482920474595
+    },
+    {
+      "type": "edit",
+      "id": "22422c9f6a9083c7",
+      "item": {
+        "type": "markdown",
+        "id": "22422c9f6a9083c7",
+        "text": "# Feb"
+      },
+      "date": 1482920480080
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0559776cf76b017b"
+      },
+      "id": "0559776cf76b017b",
+      "type": "add",
+      "after": "22422c9f6a9083c7",
+      "date": 1482920480862
+    },
+    {
+      "type": "edit",
+      "id": "0559776cf76b017b",
+      "item": {
+        "type": "markdown",
+        "id": "0559776cf76b017b",
+        "text": "# Mar"
+      },
+      "date": 1482920485736
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02da995d90ea4ff8"
+      },
+      "id": "02da995d90ea4ff8",
+      "type": "add",
+      "after": "0559776cf76b017b",
+      "date": 1482920486718
+    },
+    {
+      "type": "edit",
+      "id": "02da995d90ea4ff8",
+      "item": {
+        "type": "markdown",
+        "id": "02da995d90ea4ff8",
+        "text": "# Apr"
+      },
+      "date": 1482920490320
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b886a1d22202a54f"
+      },
+      "id": "b886a1d22202a54f",
+      "type": "add",
+      "after": "02da995d90ea4ff8",
+      "date": 1482920491538
+    },
+    {
+      "type": "edit",
+      "id": "b886a1d22202a54f",
+      "item": {
+        "type": "markdown",
+        "id": "b886a1d22202a54f",
+        "text": "# May"
+      },
+      "date": 1482920494509
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f2fe4ec3fc15d87"
+      },
+      "id": "4f2fe4ec3fc15d87",
+      "type": "add",
+      "after": "b886a1d22202a54f",
+      "date": 1482920495477
+    },
+    {
+      "type": "edit",
+      "id": "4f2fe4ec3fc15d87",
+      "item": {
+        "type": "markdown",
+        "id": "4f2fe4ec3fc15d87",
+        "text": "# Jun"
+      },
+      "date": 1482920500438
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78d55961512d7d93"
+      },
+      "id": "78d55961512d7d93",
+      "type": "add",
+      "after": "4f2fe4ec3fc15d87",
+      "date": 1482920501687
+    },
+    {
+      "type": "edit",
+      "id": "78d55961512d7d93",
+      "item": {
+        "type": "markdown",
+        "id": "78d55961512d7d93",
+        "text": "# Jul"
+      },
+      "date": 1482920504615
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f930dd7363f16353"
+      },
+      "id": "f930dd7363f16353",
+      "type": "add",
+      "after": "78d55961512d7d93",
+      "date": 1482920505499
+    },
+    {
+      "type": "edit",
+      "id": "f930dd7363f16353",
+      "item": {
+        "type": "markdown",
+        "id": "f930dd7363f16353",
+        "text": "# Aug"
+      },
+      "date": 1482920508347
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f2545d5c35492e03"
+      },
+      "id": "f2545d5c35492e03",
+      "type": "add",
+      "after": "f930dd7363f16353",
+      "date": 1482920509090
+    },
+    {
+      "type": "edit",
+      "id": "f2545d5c35492e03",
+      "item": {
+        "type": "markdown",
+        "id": "f2545d5c35492e03",
+        "text": "# Sep"
+      },
+      "date": 1482920512178
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4526c98b3af5f55f"
+      },
+      "id": "4526c98b3af5f55f",
+      "type": "add",
+      "after": "f2545d5c35492e03",
+      "date": 1482920513156
+    },
+    {
+      "type": "edit",
+      "id": "4526c98b3af5f55f",
+      "item": {
+        "type": "markdown",
+        "id": "4526c98b3af5f55f",
+        "text": "# Oct"
+      },
+      "date": 1482920517884
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56679ce4ee0e7893"
+      },
+      "id": "56679ce4ee0e7893",
+      "type": "add",
+      "after": "4526c98b3af5f55f",
+      "date": 1482920518845
+    },
+    {
+      "type": "edit",
+      "id": "56679ce4ee0e7893",
+      "item": {
+        "type": "markdown",
+        "id": "56679ce4ee0e7893",
+        "text": "# Nov"
+      },
+      "date": 1482920521441
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c562a4d5ddabe010"
+      },
+      "id": "c562a4d5ddabe010",
+      "type": "add",
+      "after": "56679ce4ee0e7893",
+      "date": 1482920522227
+    },
+    {
+      "type": "edit",
+      "id": "c562a4d5ddabe010",
+      "item": {
+        "type": "markdown",
+        "id": "c562a4d5ddabe010",
+        "text": "# Dev"
+      },
+      "date": 1482920524769
+    },
+    {
+      "type": "edit",
+      "id": "c562a4d5ddabe010",
+      "item": {
+        "type": "markdown",
+        "id": "c562a4d5ddabe010",
+        "text": "# Dec"
+      },
+      "date": 1482920527234
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7f6505a24669b23"
+      },
+      "id": "f7f6505a24669b23",
+      "type": "add",
+      "after": "c562a4d5ddabe010",
+      "date": 1482920532845
+    },
+    {
+      "type": "edit",
+      "id": "f7f6505a24669b23",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f6505a24669b23",
+        "text": "Berlin"
+      },
+      "date": 1482920561316
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6219c5a3a64a6ba",
+        "f7f6505a24669b23",
+        "22422c9f6a9083c7",
+        "0559776cf76b017b",
+        "02da995d90ea4ff8",
+        "b886a1d22202a54f",
+        "4f2fe4ec3fc15d87",
+        "78d55961512d7d93",
+        "f930dd7363f16353",
+        "f2545d5c35492e03",
+        "4526c98b3af5f55f",
+        "56679ce4ee0e7893",
+        "c562a4d5ddabe010"
+      ],
+      "id": "f7f6505a24669b23",
+      "date": 1482920563722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8940d2f5ef9d6ae2"
+      },
+      "id": "8940d2f5ef9d6ae2",
+      "type": "add",
+      "after": "c562a4d5ddabe010",
+      "date": 1482920578462
+    },
+    {
+      "type": "edit",
+      "id": "8940d2f5ef9d6ae2",
+      "item": {
+        "type": "html",
+        "id": "8940d2f5ef9d6ae2",
+        "text": "<hr>"
+      },
+      "date": 1482920588925
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f3bb5f4603a1d5b"
+      },
+      "id": "7f3bb5f4603a1d5b",
+      "type": "add",
+      "after": "8940d2f5ef9d6ae2",
+      "date": 1482920590725
+    },
+    {
+      "type": "edit",
+      "id": "7f3bb5f4603a1d5b",
+      "item": {
+        "type": "paragraph",
+        "id": "7f3bb5f4603a1d5b",
+        "text": "Lost my phone"
+      },
+      "date": 1482920593809
+    },
+    {
+      "type": "add",
+      "id": "3c3ee893a587687a",
+      "item": {
+        "type": "paragraph",
+        "id": "3c3ee893a587687a",
+        "text": "WB"
+      },
+      "after": "7f3bb5f4603a1d5b",
+      "date": 1482920595234
+    },
+    {
+      "type": "add",
+      "id": "e1a65330d07858a9",
+      "item": {
+        "type": "paragraph",
+        "id": "e1a65330d07858a9",
+        "text": "Relaunched my website"
+      },
+      "after": "3c3ee893a587687a",
+      "date": 1482920599519
+    },
+    {
+      "type": "add",
+      "id": "824a0b3fd70157ec",
+      "item": {
+        "type": "paragraph",
+        "id": "824a0b3fd70157ec",
+        "text": "Projects"
+      },
+      "after": "e1a65330d07858a9",
+      "date": 1482920609437
+    },
+    {
+      "type": "add",
+      "id": "0a5f87950325f357",
+      "item": {
+        "type": "paragraph",
+        "id": "0a5f87950325f357",
+        "text": "Coaching"
+      },
+      "after": "824a0b3fd70157ec",
+      "date": 1482920614341
+    },
+    {
+      "type": "add",
+      "id": "645fa4c936e21cb3",
+      "item": {
+        "type": "paragraph",
+        "id": "645fa4c936e21cb3",
+        "text": "Bullet journal"
+      },
+      "after": "0a5f87950325f357",
+      "date": 1482920659483
+    },
+    {
+      "type": "add",
+      "id": "4ef438807695d299",
+      "item": {
+        "type": "paragraph",
+        "id": "4ef438807695d299",
+        "text": "VLC"
+      },
+      "after": "645fa4c936e21cb3",
+      "date": 1482920700162
+    },
+    {
+      "type": "add",
+      "id": "d00193321acb1533",
+      "item": {
+        "type": "paragraph",
+        "id": "d00193321acb1533",
+        "text": "E@H"
+      },
+      "after": "4ef438807695d299",
+      "date": 1482920710588
+    },
+    {
+      "type": "add",
+      "id": "52a0046557af1e74",
+      "item": {
+        "type": "paragraph",
+        "id": "52a0046557af1e74",
+        "text": "Biz plan"
+      },
+      "after": "d00193321acb1533",
+      "date": 1482920745021
+    },
+    {
+      "type": "add",
+      "id": "44cef177a599569a",
+      "item": {
+        "type": "paragraph",
+        "id": "44cef177a599569a",
+        "text": "Accessible Icon, Sara"
+      },
+      "after": "52a0046557af1e74",
+      "date": 1482920760678
+    },
+    {
+      "type": "add",
+      "id": "79bbf4f1638982bb",
+      "item": {
+        "type": "paragraph",
+        "id": "79bbf4f1638982bb",
+        "text": "KP"
+      },
+      "after": "44cef177a599569a",
+      "date": 1482920771433
+    },
+    {
+      "type": "edit",
+      "id": "44cef177a599569a",
+      "item": {
+        "type": "paragraph",
+        "id": "44cef177a599569a",
+        "text": "Accessible Icon"
+      },
+      "date": 1482920886142
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6219c5a3a64a6ba",
+        "f7f6505a24669b23",
+        "22422c9f6a9083c7",
+        "44cef177a599569a",
+        "0559776cf76b017b",
+        "02da995d90ea4ff8",
+        "b886a1d22202a54f",
+        "4f2fe4ec3fc15d87",
+        "78d55961512d7d93",
+        "f930dd7363f16353",
+        "f2545d5c35492e03",
+        "4526c98b3af5f55f",
+        "56679ce4ee0e7893",
+        "c562a4d5ddabe010",
+        "8940d2f5ef9d6ae2",
+        "7f3bb5f4603a1d5b",
+        "3c3ee893a587687a",
+        "e1a65330d07858a9",
+        "824a0b3fd70157ec",
+        "0a5f87950325f357",
+        "645fa4c936e21cb3",
+        "4ef438807695d299",
+        "d00193321acb1533",
+        "52a0046557af1e74",
+        "79bbf4f1638982bb"
+      ],
+      "id": "44cef177a599569a",
+      "date": 1482920888927
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6219c5a3a64a6ba",
+        "f7f6505a24669b23",
+        "d00193321acb1533",
+        "22422c9f6a9083c7",
+        "44cef177a599569a",
+        "0559776cf76b017b",
+        "02da995d90ea4ff8",
+        "b886a1d22202a54f",
+        "4f2fe4ec3fc15d87",
+        "78d55961512d7d93",
+        "f930dd7363f16353",
+        "f2545d5c35492e03",
+        "4526c98b3af5f55f",
+        "56679ce4ee0e7893",
+        "c562a4d5ddabe010",
+        "8940d2f5ef9d6ae2",
+        "7f3bb5f4603a1d5b",
+        "3c3ee893a587687a",
+        "e1a65330d07858a9",
+        "824a0b3fd70157ec",
+        "0a5f87950325f357",
+        "645fa4c936e21cb3",
+        "4ef438807695d299",
+        "52a0046557af1e74",
+        "79bbf4f1638982bb"
+      ],
+      "id": "d00193321acb1533",
+      "date": 1482920961535
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6219c5a3a64a6ba",
+        "f7f6505a24669b23",
+        "d00193321acb1533",
+        "22422c9f6a9083c7",
+        "44cef177a599569a",
+        "0559776cf76b017b",
+        "02da995d90ea4ff8",
+        "b886a1d22202a54f",
+        "4f2fe4ec3fc15d87",
+        "78d55961512d7d93",
+        "f930dd7363f16353",
+        "f2545d5c35492e03",
+        "824a0b3fd70157ec",
+        "4526c98b3af5f55f",
+        "56679ce4ee0e7893",
+        "c562a4d5ddabe010",
+        "8940d2f5ef9d6ae2",
+        "7f3bb5f4603a1d5b",
+        "3c3ee893a587687a",
+        "e1a65330d07858a9",
+        "0a5f87950325f357",
+        "645fa4c936e21cb3",
+        "4ef438807695d299",
+        "52a0046557af1e74",
+        "79bbf4f1638982bb"
+      ],
+      "id": "824a0b3fd70157ec",
+      "date": 1482920991889
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6219c5a3a64a6ba",
+        "f7f6505a24669b23",
+        "d00193321acb1533",
+        "22422c9f6a9083c7",
+        "44cef177a599569a",
+        "0559776cf76b017b",
+        "02da995d90ea4ff8",
+        "b886a1d22202a54f",
+        "824a0b3fd70157ec",
+        "4f2fe4ec3fc15d87",
+        "78d55961512d7d93",
+        "f930dd7363f16353",
+        "f2545d5c35492e03",
+        "4526c98b3af5f55f",
+        "56679ce4ee0e7893",
+        "c562a4d5ddabe010",
+        "8940d2f5ef9d6ae2",
+        "7f3bb5f4603a1d5b",
+        "3c3ee893a587687a",
+        "e1a65330d07858a9",
+        "0a5f87950325f357",
+        "645fa4c936e21cb3",
+        "4ef438807695d299",
+        "52a0046557af1e74",
+        "79bbf4f1638982bb"
+      ],
+      "id": "824a0b3fd70157ec",
+      "date": 1482920996763
+    },
+    {
+      "type": "move",
+      "order": [
+        "f6219c5a3a64a6ba",
+        "f7f6505a24669b23",
+        "d00193321acb1533",
+        "22422c9f6a9083c7",
+        "44cef177a599569a",
+        "0559776cf76b017b",
+        "02da995d90ea4ff8",
+        "b886a1d22202a54f",
+        "824a0b3fd70157ec",
+        "4f2fe4ec3fc15d87",
+        "78d55961512d7d93",
+        "f930dd7363f16353",
+        "f2545d5c35492e03",
+        "4526c98b3af5f55f",
+        "7f3bb5f4603a1d5b",
+        "56679ce4ee0e7893",
+        "c562a4d5ddabe010",
+        "8940d2f5ef9d6ae2",
+        "3c3ee893a587687a",
+        "e1a65330d07858a9",
+        "0a5f87950325f357",
+        "645fa4c936e21cb3",
+        "4ef438807695d299",
+        "52a0046557af1e74",
+        "79bbf4f1638982bb"
+      ],
+      "id": "7f3bb5f4603a1d5b",
+      "date": 1482921000062
+    }
+  ]
+}

@@ -7,9 +7,14 @@
       "text": "[[Bjork]]"
     },
     {
+      "type": "video",
+      "id": "c97c020fe4a0213b",
+      "text": "YOUTUBE 17yWeynOfOI"
+    },
+    {
       "type": "markdown",
       "id": "63c02c6379296e5d",
-      "text": "[Verse]\nI live by the ocean  \nAnd during the night\nI dive into it\nDown to the bottom\nUnderneath all currents\nAnd drop my anchor\nThis is where I'm staying\nThis is my home\n  \n[Verse]\nI live by the ocean\nAnd during the night\nI dive into it\nDown to the bottom\nUnderneath all currents\nAnd drop my anchor\nThis is where I'm staying\nThis is my home"
+      "text": "I live by the ocean  \nAnd during the night\nI dive into it\nDown to the bottom\nUnderneath all currents\nAnd drop my anchor\nThis is where I'm staying\nThis is my home\n  \nI live by the ocean\nAnd during the night\nI dive into it\nDown to the bottom\nUnderneath all currents\nAnd drop my anchor\nThis is where I'm staying\nThis is my home"
     }
   ],
   "journal": [
@@ -414,6 +419,46 @@
       ],
       "id": "5ef5d21a17cb8550",
       "date": 1479963335672
+    },
+    {
+      "type": "edit",
+      "id": "63c02c6379296e5d",
+      "item": {
+        "type": "markdown",
+        "id": "63c02c6379296e5d",
+        "text": "I live by the ocean  \nAnd during the night\nI dive into it\nDown to the bottom\nUnderneath all currents\nAnd drop my anchor\nThis is where I'm staying\nThis is my home\n  \nI live by the ocean\nAnd during the night\nI dive into it\nDown to the bottom\nUnderneath all currents\nAnd drop my anchor\nThis is where I'm staying\nThis is my home"
+      },
+      "date": 1480063351753
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c97c020fe4a0213b"
+      },
+      "id": "c97c020fe4a0213b",
+      "type": "add",
+      "after": "63c02c6379296e5d",
+      "date": 1480063381469
+    },
+    {
+      "type": "edit",
+      "id": "c97c020fe4a0213b",
+      "item": {
+        "type": "video",
+        "id": "c97c020fe4a0213b",
+        "text": "YOUTUBE 17yWeynOfOI"
+      },
+      "date": 1480063385391
+    },
+    {
+      "type": "move",
+      "order": [
+        "5ef5d21a17cb8550",
+        "c97c020fe4a0213b",
+        "63c02c6379296e5d"
+      ],
+      "id": "c97c020fe4a0213b",
+      "date": 1480063389855
     }
   ]
 }

@@ -7,6 +7,11 @@
       "text": "[[Ann Steel]]"
     },
     {
+      "type": "video",
+      "id": "de84ada922382943",
+      "text": "YOUTUBE Z9UZrSFjS7E"
+    },
+    {
       "type": "markdown",
       "id": "3ab28db102177c36",
       "text": "Quite still\nI watch the outlines of thoughts\nWhile around shallow words I speak and hear\nMove but don't interfere\n  \nSwaying curves\nLike arms moving slow and precise\nA point where the light starts dripping down\nWhile the radio speaks out\n  \nI run my finger along my thoughts\nMy mind sweeping with geometrical force\nRemote image, yet so close\nSliding through memory\nDefining my days like laser beams\n  \nDeep looks\nSurfacing voice on the phone\nBut my thoughts is as sharp as an ad\nReaching the target precise\n  \nFlue image\nHallucinating my life\nLike celluloid loves\nWhile I watch\nAlone my flat TV set\n  \nI run my finger along my thoughts\nMy mind sweeping with geometrical force\nRemote image, yet so close\nSliding through memory\nDefining my days like laser beams"
@@ -84,6 +89,37 @@
         "text": "[http://log31.tripod.com/text/poesie/annsteel.htm Source]"
       },
       "date": 1479964325124
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de84ada922382943"
+      },
+      "id": "de84ada922382943",
+      "type": "add",
+      "after": "70f29cf850e39d6b",
+      "date": 1480063328888
+    },
+    {
+      "type": "edit",
+      "id": "de84ada922382943",
+      "item": {
+        "type": "video",
+        "id": "de84ada922382943",
+        "text": "YOUTUBE Z9UZrSFjS7E"
+      },
+      "date": 1480063336826
+    },
+    {
+      "type": "move",
+      "order": [
+        "7264ad4100c68f5f",
+        "de84ada922382943",
+        "3ab28db102177c36",
+        "70f29cf850e39d6b"
+      ],
+      "id": "de84ada922382943",
+      "date": 1480063339594
     }
   ]
 }

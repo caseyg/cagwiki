@@ -1,0 +1,81 @@
+{
+  "title": "Lifelogging",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dee5d9b966547769",
+      "text": "W.O.R.N. [[Write Once Read Never]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7cdf31df9e43a0f2",
+      "text": "Big data baby"
+    },
+    {
+      "type": "paragraph",
+      "id": "9b18ad136b04d9df",
+      "text": "I think I do the 'scribing partly out of a set of conceptual interests (maybe overlapping, somewhat?). How are things remembered, recorded, and circulated? Lifelogged, archived, and deleted? Humans, post-humans, superhumans, singularity? What does privacy on earth even mean in a time of completely tapped communications and realtime satellite imagery? But I've found that when I transgress or call attention to privacy amongst the people I'm trying to have conversations with, it shuts down conversations with fear."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lifelogging",
+        "story": []
+      },
+      "date": 1480095667672
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dee5d9b966547769"
+      },
+      "id": "dee5d9b966547769",
+      "type": "add",
+      "date": 1480095669345
+    },
+    {
+      "type": "edit",
+      "id": "dee5d9b966547769",
+      "item": {
+        "type": "paragraph",
+        "id": "dee5d9b966547769",
+        "text": "[[Write Once Read Never]]"
+      },
+      "date": 1480095679882
+    },
+    {
+      "type": "edit",
+      "id": "dee5d9b966547769",
+      "item": {
+        "type": "paragraph",
+        "id": "dee5d9b966547769",
+        "text": "W.O.R.N. [[Write Once Read Never]]"
+      },
+      "date": 1480095687408
+    },
+    {
+      "type": "add",
+      "id": "7cdf31df9e43a0f2",
+      "item": {
+        "type": "paragraph",
+        "id": "7cdf31df9e43a0f2",
+        "text": "Big data baby"
+      },
+      "after": "dee5d9b966547769",
+      "date": 1480095697635
+    },
+    {
+      "type": "add",
+      "id": "9b18ad136b04d9df",
+      "item": {
+        "type": "paragraph",
+        "id": "9b18ad136b04d9df",
+        "text": "I think I do the 'scribing partly out of a set of conceptual interests (maybe overlapping, somewhat?). How are things remembered, recorded, and circulated? Lifelogged, archived, and deleted? Humans, post-humans, superhumans, singularity? What does privacy on earth even mean in a time of completely tapped communications and realtime satellite imagery? But I've found that when I transgress or call attention to privacy amongst the people I'm trying to have conversations with, it shuts down conversations with fear."
+      },
+      "after": "7cdf31df9e43a0f2",
+      "date": 1480436981467
+    }
+  ]
+}

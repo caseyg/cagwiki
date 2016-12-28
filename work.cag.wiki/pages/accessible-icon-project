@@ -1,0 +1,84 @@
+{
+  "title": "Accessible Icon Project",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b0b4ac98a7d5877e",
+      "text": "In collaboration with [[Sara Hendren]], redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto."
+    },
+    {
+      "type": "html",
+      "id": "fe4bc611c8621db6",
+      "text": "<img src=\"http://hire.caseyagollan.com/accessibleicon.png\">"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Accessible Icon Project",
+        "story": []
+      },
+      "date": 1480098288278
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0b4ac98a7d5877e"
+      },
+      "id": "b0b4ac98a7d5877e",
+      "type": "add",
+      "date": 1480098290796
+    },
+    {
+      "type": "edit",
+      "id": "b0b4ac98a7d5877e",
+      "item": {
+        "type": "paragraph",
+        "id": "b0b4ac98a7d5877e",
+        "text": "In collaboration with [[Sara Hendren]], redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto."
+      },
+      "date": 1480098299612
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe4bc611c8621db6"
+      },
+      "id": "fe4bc611c8621db6",
+      "type": "add",
+      "after": "b0b4ac98a7d5877e",
+      "date": 1480098305825
+    },
+    {
+      "type": "edit",
+      "id": "fe4bc611c8621db6",
+      "item": {
+        "type": "html",
+        "id": "fe4bc611c8621db6",
+        "text": "<img src=\"http://hire.caseyagollan.com/accessibleicon.png\">"
+      },
+      "date": 1480098311526
+    },
+    {
+      "type": "edit",
+      "id": "b0b4ac98a7d5877e",
+      "item": {
+        "type": "paragraph",
+        "id": "b0b4ac98a7d5877e",
+        "text": "In collaboration with [[Sara Hendren]], redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto. Test."
+      },
+      "date": 1480098727332
+    },
+    {
+      "type": "edit",
+      "id": "b0b4ac98a7d5877e",
+      "item": {
+        "type": "paragraph",
+        "id": "b0b4ac98a7d5877e",
+        "text": "In collaboration with [[Sara Hendren]], redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto."
+      },
+      "date": 1480098742587
+    }
+  ]
+}

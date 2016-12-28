@@ -44,13 +44,18 @@
     },
     {
       "type": "paragraph",
+      "id": "db3f56bca4b32f89",
+      "text": "[[Projectfile]]"
+    },
+    {
+      "type": "paragraph",
       "id": "3904814310e8f71e",
       "text": "[[Notes]]"
     },
     {
       "type": "paragraph",
-      "id": "db3f56bca4b32f89",
-      "text": "[[Projectfile]]"
+      "id": "9e26b116da592400",
+      "text": "[[Things]]"
     },
     {
       "type": "paragraph",
@@ -63,14 +68,14 @@
       "text": "[[Lyrics]]"
     },
     {
+      "type": "paragraph",
+      "id": "df984944f9f72c66",
+      "text": "[[Programming Snippets]]"
+    },
+    {
       "type": "pagefold",
       "id": "4cf63300a9094a6b",
       "text": "Not yet pages"
-    },
-    {
-      "type": "paragraph",
-      "id": "9e26b116da592400",
-      "text": "[[Things]]"
     },
     {
       "type": "pagefold",
@@ -91,6 +96,16 @@
       "type": "paragraph",
       "id": "5574dace265d1ffb",
       "text": "[[Wiki reading and links]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "99cdde605ec4db8f",
+      "text": "[[Wiki Ideas]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d87ce7ab5e29dfa",
+      "text": "[[Wiki Meta Journal]]"
     },
     {
       "type": "markdown",
@@ -130,17 +145,21 @@
     {
       "type": "pagefold",
       "id": "93ef02b6fe714d5a",
-      "text": "Last 12 Hours"
+      "text": "Recent Activity"
     },
     {
       "type": "activity",
       "id": "c43a88598cb67997",
-      "text": "SINCE 12 hours"
+      "text": "SINCE 36 hours"
     },
     {
       "type": "html",
       "id": "7a746f3784b28f79",
       "text": "<style>body {background-image:url(http://bullshit.systems/moomin.gif);}</style>\n<small style=\"color:lightgray\">css</small>"
+    },
+    {
+      "type": "factory",
+      "id": "12ad408d1ef4b89d"
     }
   ],
   "journal": [
@@ -3154,6 +3173,293 @@
       ],
       "id": "a8ff1d4629deb381",
       "date": 1480059777695
+    },
+    {
+      "type": "add",
+      "id": "99cdde605ec4db8f",
+      "item": {
+        "type": "paragraph",
+        "id": "99cdde605ec4db8f",
+        "text": "[[Wiki Ideas]]"
+      },
+      "after": "5574dace265d1ffb",
+      "date": 1480102786809
+    },
+    {
+      "type": "add",
+      "id": "7d87ce7ab5e29dfa",
+      "item": {
+        "type": "paragraph",
+        "id": "7d87ce7ab5e29dfa",
+        "text": "[[Wiki Meta Journal]]"
+      },
+      "after": "99cdde605ec4db8f",
+      "date": 1480102874707
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "12ad408d1ef4b89d"
+      },
+      "id": "12ad408d1ef4b89d",
+      "type": "add",
+      "after": "7a746f3784b28f79",
+      "date": 1480104801286
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "a8ff1d4629deb381",
+        "beb56681fe2a64da",
+        "4cf63300a9094a6b",
+        "9e26b116da592400",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "7a746f3784b28f79",
+        "12ad408d1ef4b89d"
+      ],
+      "id": "db3f56bca4b32f89",
+      "date": 1480120782668
+    },
+    {
+      "type": "add",
+      "id": "df984944f9f72c66",
+      "item": {
+        "type": "paragraph",
+        "id": "df984944f9f72c66",
+        "text": "[[Programming Snippets]]"
+      },
+      "after": "beb56681fe2a64da",
+      "date": 1480188258445
+    },
+    {
+      "type": "add",
+      "id": "1c7e56422bb946bd",
+      "item": {
+        "type": "paragraph",
+        "id": "1c7e56422bb946bd",
+        "text": "[[Weeknotes]]"
+      },
+      "after": "9e26b116da592400",
+      "date": 1480259766849
+    },
+    {
+      "type": "edit",
+      "id": "93ef02b6fe714d5a",
+      "item": {
+        "type": "pagefold",
+        "id": "93ef02b6fe714d5a",
+        "text": "Last 24 Hours"
+      },
+      "date": 1480259860364
+    },
+    {
+      "type": "edit",
+      "id": "93ef02b6fe714d5a",
+      "item": {
+        "type": "pagefold",
+        "id": "93ef02b6fe714d5a",
+        "text": "Last 48 Hours"
+      },
+      "date": 1480259864470
+    },
+    {
+      "type": "edit",
+      "id": "93ef02b6fe714d5a",
+      "item": {
+        "type": "pagefold",
+        "id": "93ef02b6fe714d5a",
+        "text": "Recent Activity"
+      },
+      "date": 1480259876797
+    },
+    {
+      "type": "edit",
+      "id": "c43a88598cb67997",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997",
+        "text": "SINCE 24 hours"
+      },
+      "date": 1480259881843
+    },
+    {
+      "type": "edit",
+      "id": "c43a88598cb67997",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997",
+        "text": "SINCE 36 hours"
+      },
+      "date": 1480259889885
+    },
+    {
+      "type": "remove",
+      "id": "a8ff1d4629deb381",
+      "date": 1480319573455
+    },
+    {
+      "type": "remove",
+      "id": "1c7e56422bb946bd",
+      "date": 1480319576494
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "beb56681fe2a64da",
+        "9e26b116da592400",
+        "df984944f9f72c66",
+        "4cf63300a9094a6b",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "7a746f3784b28f79",
+        "12ad408d1ef4b89d"
+      ],
+      "id": "9e26b116da592400",
+      "date": 1480319578779
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "9e26b116da592400",
+        "beb56681fe2a64da",
+        "df984944f9f72c66",
+        "4cf63300a9094a6b",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "7a746f3784b28f79",
+        "12ad408d1ef4b89d"
+      ],
+      "id": "9e26b116da592400",
+      "date": 1480319599775
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a8ff1d4629deb381",
+        "text": "[[Tools]]"
+      },
+      "after": "beb56681fe2a64da",
+      "id": "a8ff1d4629deb381",
+      "date": 1480436969422
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "83c772dc3b1bd0bb",
+        "63ad2e58eecdd9e5",
+        "08cfde0d44acc465",
+        "ab9655e63da9551c",
+        "ef5863bf2a1c624a",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "beb56681fe2a64da",
+        "df984944f9f72c66",
+        "4cf63300a9094a6b",
+        "6f79d9508fb6b8f7",
+        "cce0344a26a73f1b",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "918c7868337f8810",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "8b3fb883f750e75f",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "7a746f3784b28f79",
+        "12ad408d1ef4b89d"
+      ],
+      "id": "beb56681fe2a64da",
+      "date": 1481122164290,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1481122176381
     }
   ]
 }

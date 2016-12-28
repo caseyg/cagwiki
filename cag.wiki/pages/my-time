@@ -7,6 +7,11 @@
       "text": "[[Ann Steel]]"
     },
     {
+      "type": "video",
+      "id": "620a4718146672b3",
+      "text": "YOUTUBE y8Y1jbL1aEE"
+    },
+    {
       "type": "markdown",
       "id": "b90e98761226f7ce",
       "text": "Stored on the shelves of my memory\nmy thoughts are in perfect array\n  \nMy life runs smooth like a highway\nbillboards show me the way\n  \nMy way of life has the glamour\nof an artificial neon ad\n  \nI need overwhelming information\nfor a complete shopping list\n  \nAcrylic colours oscillate my eyes\nwhen I wal down a drugstore aisle\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nStored on the shelves of my memory\nmy thoughts are in perfect array\n  \nI learn do it yourself cybernetics\nwhile I'm jogging on a rolling tray\n  \nI love my weekends in the pure air\non the heights of the Eiffel tower\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nMy life runs smooth like a highway\nbillboards show me the way\n  \nMy love stories have the flavour\nof a swiss made digital watch\n  \nWhen I have to know what to love\nI recall my stored data\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time\n  \nMy thoughts are still like a photo\nin the hall of a Hilton Hotel\n  \nMy reflex actions are mechanized\nlike japanese camera tourists\n  \nhappily milling in Bloomingdales\nshooting at beautiful symbols\n  \nMy time my time I love my time\nMy time has something more\nMy time's the best there's ever been\nMy time I love my time\nThank you my time"
@@ -108,6 +113,47 @@
         "text": "[http://log31.tripod.com/text/poesie/annsteel.htm Source]"
       },
       "date": 1479963612393
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "620a4718146672b3"
+      },
+      "id": "620a4718146672b3",
+      "type": "add",
+      "after": "629d97c82b2ed3d0",
+      "date": 1480063284715
+    },
+    {
+      "type": "edit",
+      "id": "620a4718146672b3",
+      "item": {
+        "type": "video",
+        "id": "620a4718146672b3",
+        "text": "YOUTUBE https://www.youtube.com/watch?v=y8Y1jbL1aEE"
+      },
+      "date": 1480063292175
+    },
+    {
+      "type": "edit",
+      "id": "620a4718146672b3",
+      "item": {
+        "type": "video",
+        "id": "620a4718146672b3",
+        "text": "YOUTUBE y8Y1jbL1aEE"
+      },
+      "date": 1480063295936
+    },
+    {
+      "type": "move",
+      "order": [
+        "e25ea71d81bf9432",
+        "620a4718146672b3",
+        "b90e98761226f7ce",
+        "629d97c82b2ed3d0"
+      ],
+      "id": "620a4718146672b3",
+      "date": 1480063300042
     }
   ]
 }

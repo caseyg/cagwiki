@@ -1,0 +1,140 @@
+{
+  "title": "Presentation Notes",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "4b82c1351c6ad693",
+      "text": "# "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Presentation Notes",
+        "story": []
+      },
+      "date": 1480426693119
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4b82c1351c6ad693"
+      },
+      "id": "4b82c1351c6ad693",
+      "type": "add",
+      "date": 1480426694362
+    },
+    {
+      "type": "edit",
+      "id": "4b82c1351c6ad693",
+      "item": {
+        "type": "markdown",
+        "id": "4b82c1351c6ad693",
+        "text": "# "
+      },
+      "date": 1480426705963
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47be454725b62645"
+      },
+      "id": "47be454725b62645",
+      "type": "add",
+      "after": "4b82c1351c6ad693",
+      "date": 1480426711204
+    },
+    {
+      "type": "edit",
+      "id": "47be454725b62645",
+      "item": {
+        "type": "markdown",
+        "id": "47be454725b62645",
+        "text": "# 11/21/16"
+      },
+      "date": 1480426717635
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a307f7901c32228"
+      },
+      "id": "3a307f7901c32228",
+      "type": "add",
+      "after": "47be454725b62645",
+      "date": 1480426718662
+    },
+    {
+      "type": "remove",
+      "id": "3a307f7901c32228",
+      "date": 1480426729061
+    },
+    {
+      "type": "edit",
+      "id": "47be454725b62645",
+      "item": {
+        "type": "markdown",
+        "id": "47be454725b62645",
+        "text": "[[Delaney (11/21/16)]]"
+      },
+      "date": 1480426762398
+    },
+    {
+      "type": "remove",
+      "id": "47be454725b62645",
+      "date": 1480426853184
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc50d52c1c10995e"
+      },
+      "id": "fc50d52c1c10995e",
+      "type": "add",
+      "after": "4b82c1351c6ad693",
+      "date": 1480426854031
+    },
+    {
+      "type": "edit",
+      "id": "fc50d52c1c10995e",
+      "item": {
+        "type": "paragraph",
+        "id": "fc50d52c1c10995e",
+        "text": "[http://projectsprojectsprojects.referata.com/wiki/Presentation_schedule_(Fall_2016) Presentation Schedule]\n"
+      },
+      "date": 1480426857585
+    },
+    {
+      "type": "add",
+      "id": "2ce08c14b0db71ba",
+      "item": {
+        "type": "paragraph",
+        "id": "2ce08c14b0db71ba",
+        "text": "[[Delaney (11/21/16)]]"
+      },
+      "after": "fc50d52c1c10995e",
+      "date": 1480426858854
+    },
+    {
+      "type": "edit",
+      "id": "fc50d52c1c10995e",
+      "item": {
+        "type": "paragraph",
+        "id": "fc50d52c1c10995e",
+        "text": "[http://projectsprojectsprojects.referata.com/wiki/Presentation_schedule_(Fall_2016) Presentation schedule (Fall 2016)]\n"
+      },
+      "date": 1480426869586
+    },
+    {
+      "type": "remove",
+      "id": "2ce08c14b0db71ba",
+      "date": 1480427666888
+    },
+    {
+      "type": "remove",
+      "id": "fc50d52c1c10995e",
+      "date": 1480427670105
+    }
+  ]
+}

@@ -13,6 +13,31 @@
     },
     {
       "type": "pagefold",
+      "id": "32a25b42eca0dc9a",
+      "text": "Running wiki in tmux"
+    },
+    {
+      "type": "paragraph",
+      "id": "b0565c1ca5af3342",
+      "text": "To start wiki:"
+    },
+    {
+      "type": "code",
+      "id": "a9c1174b372e1b64",
+      "text": "> ssh cag@cag.wiki\n> tmux\n> sudo wiki\n[ctrl] + [b] then [d] to exit tmux"
+    },
+    {
+      "type": "paragraph",
+      "id": "b4e43506ced7109e",
+      "text": "to reattach after disconnect:"
+    },
+    {
+      "type": "code",
+      "id": "8c0695a4509cedb5",
+      "text": "> tmux attach"
+    },
+    {
+      "type": "pagefold",
       "id": "d1ad125a71368cdb",
       "text": "Page background snippet"
     },
@@ -35,6 +60,21 @@
       "type": "code",
       "id": "78dd0e2628325ca0",
       "text": "> ssh cag@cag.wiki\n> nano [domain].cag.wiki/status/owner.json"
+    },
+    {
+      "type": "pagefold",
+      "id": "e2bfe02231e91da7",
+      "text": "Copying friend auth between farm sites"
+    },
+    {
+      "type": "code",
+      "id": "253ef042cca60202",
+      "text": "> ssh cag@cag.wiki\n> sudo cp cag.wiki/status/owner.json [domain].cag.wiki/status/owner.json"
+    },
+    {
+      "type": "paragraph",
+      "id": "e7cd116809b68cdb",
+      "text": "...then attach to tmux and restart wiki"
     },
     {
       "type": "pagefold",
@@ -671,6 +711,564 @@
       ],
       "id": "f1b886becee364d0",
       "date": 1480059719756
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "32a25b42eca0dc9a"
+      },
+      "id": "32a25b42eca0dc9a",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480097853404
+    },
+    {
+      "type": "edit",
+      "id": "32a25b42eca0dc9a",
+      "item": {
+        "type": "pagefold",
+        "id": "32a25b42eca0dc9a",
+        "text": "Running wiki in tmux"
+      },
+      "date": 1480097862152
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "32a25b42eca0dc9a",
+        "935a5faeafd926a4"
+      ],
+      "id": "32a25b42eca0dc9a",
+      "date": 1480097867024
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "32a25b42eca0dc9a",
+      "date": 1480097869475
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "10208ac118077bb8"
+      },
+      "id": "10208ac118077bb8",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480097876735
+    },
+    {
+      "type": "remove",
+      "id": "10208ac118077bb8",
+      "date": 1480097881951
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a9c1174b372e1b64"
+      },
+      "id": "a9c1174b372e1b64",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480097889729
+    },
+    {
+      "type": "edit",
+      "id": "a9c1174b372e1b64",
+      "item": {
+        "type": "code",
+        "id": "a9c1174b372e1b64",
+        "text": "> ssh cag@cag.wiki\n> tmux\n> sudo wiki\n[ctrl] + [d] then [b]"
+      },
+      "date": 1480097927969
+    },
+    {
+      "type": "edit",
+      "id": "a9c1174b372e1b64",
+      "item": {
+        "type": "code",
+        "id": "a9c1174b372e1b64",
+        "text": "> ssh cag@cag.wiki\n> tmux\n> sudo wiki\n[ctrl] + [b] then [d] to exit but keep session running"
+      },
+      "date": 1480097940417
+    },
+    {
+      "type": "edit",
+      "id": "a9c1174b372e1b64",
+      "item": {
+        "type": "code",
+        "id": "a9c1174b372e1b64",
+        "text": "> ssh cag@cag.wiki\n> tmux\n> sudo wiki\n[ctrl] + [b] then [d] to exit tmux"
+      },
+      "date": 1480097947830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c0695a4509cedb5"
+      },
+      "id": "8c0695a4509cedb5",
+      "type": "add",
+      "after": "a9c1174b372e1b64",
+      "date": 1480097950288
+    },
+    {
+      "type": "edit",
+      "id": "8c0695a4509cedb5",
+      "item": {
+        "type": "code",
+        "id": "8c0695a4509cedb5",
+        "text": "> tmux attach"
+      },
+      "date": 1480097959699
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "a9c1174b372e1b64",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4",
+        "8c0695a4509cedb5"
+      ],
+      "id": "a9c1174b372e1b64",
+      "date": 1480097971884
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "a9c1174b372e1b64",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "8c0695a4509cedb5",
+      "date": 1480097978115
+    },
+    {
+      "type": "add",
+      "id": "b4e43506ced7109e",
+      "item": {
+        "type": "paragraph",
+        "id": "b4e43506ced7109e",
+        "text": "to reattach"
+      },
+      "after": "9d815f1ccc9fe9d7",
+      "date": 1480097984459
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "b4e43506ced7109e",
+      "date": 1480097985912
+    },
+    {
+      "type": "add",
+      "id": "b0565c1ca5af3342",
+      "item": {
+        "type": "paragraph",
+        "id": "b0565c1ca5af3342",
+        "text": "To start wiki:"
+      },
+      "after": "9d815f1ccc9fe9d7",
+      "date": 1480097990545
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "b0565c1ca5af3342",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "b0565c1ca5af3342",
+      "date": 1480097992707
+    },
+    {
+      "type": "edit",
+      "id": "b4e43506ced7109e",
+      "item": {
+        "type": "paragraph",
+        "id": "b4e43506ced7109e",
+        "text": "to reattach after disconnect:"
+      },
+      "date": 1480098003134
+    },
+    {
+      "type": "add",
+      "id": "4eefa0606ab93215",
+      "item": {
+        "type": "paragraph",
+        "id": "4eefa0606ab93215",
+        "text": "TODO: install/restart script? Git sync?"
+      },
+      "after": "9d815f1ccc9fe9d7",
+      "date": 1480098023564
+    },
+    {
+      "type": "remove",
+      "id": "4eefa0606ab93215",
+      "date": 1480101780851
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e2bfe02231e91da7"
+      },
+      "id": "e2bfe02231e91da7",
+      "type": "add",
+      "after": "935a5faeafd926a4",
+      "date": 1480101924783
+    },
+    {
+      "type": "edit",
+      "id": "e2bfe02231e91da7",
+      "item": {
+        "type": "pagefold",
+        "id": "e2bfe02231e91da7",
+        "text": "Copying friend auth between farm sites"
+      },
+      "date": 1480101935847
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "253ef042cca60202"
+      },
+      "id": "253ef042cca60202",
+      "type": "add",
+      "after": "e2bfe02231e91da7",
+      "date": 1480101936878
+    },
+    {
+      "type": "edit",
+      "id": "253ef042cca60202",
+      "item": {
+        "type": "code",
+        "id": "253ef042cca60202",
+        "text": "> ssh cag@cag.wiki"
+      },
+      "date": 1480101943692
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "e2bfe02231e91da7",
+        "32a25b42eca0dc9a",
+        "b0565c1ca5af3342",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4",
+        "253ef042cca60202"
+      ],
+      "id": "e2bfe02231e91da7",
+      "date": 1480101950214
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "e2bfe02231e91da7",
+        "253ef042cca60202",
+        "32a25b42eca0dc9a",
+        "b0565c1ca5af3342",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "253ef042cca60202",
+      "date": 1480101962824
+    },
+    {
+      "type": "edit",
+      "id": "253ef042cca60202",
+      "item": {
+        "type": "code",
+        "id": "253ef042cca60202",
+        "text": "> ssh cag@cag.wiki\n>"
+      },
+      "date": 1480101974378
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "e2bfe02231e91da7",
+        "32a25b42eca0dc9a",
+        "b0565c1ca5af3342",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "253ef042cca60202",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "253ef042cca60202",
+      "date": 1480101978755
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "b0565c1ca5af3342",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "253ef042cca60202",
+        "e2bfe02231e91da7",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "e2bfe02231e91da7",
+      "date": 1480101980959
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "b0565c1ca5af3342",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "253ef042cca60202",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "e2bfe02231e91da7",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "e2bfe02231e91da7",
+      "date": 1480101983434
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "b0565c1ca5af3342",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "e2bfe02231e91da7",
+        "253ef042cca60202",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "253ef042cca60202",
+      "date": 1480101986291
+    },
+    {
+      "type": "edit",
+      "id": "253ef042cca60202",
+      "item": {
+        "type": "code",
+        "id": "253ef042cca60202",
+        "text": "> ssh cag@cag.wiki\n> sudo cp wi"
+      },
+      "date": 1480101992254
+    },
+    {
+      "type": "edit",
+      "id": "253ef042cca60202",
+      "item": {
+        "type": "code",
+        "id": "253ef042cca60202",
+        "text": "> ssh cag@cag.wiki\n> sudo cp cag.wiki/status/owner.json [domain].cag.wiki/status/owner.json"
+      },
+      "date": 1480102018578
+    },
+    {
+      "type": "add",
+      "id": "e7cd116809b68cdb",
+      "item": {
+        "type": "paragraph",
+        "id": "e7cd116809b68cdb",
+        "text": "then attach to tmux and restart wiki."
+      },
+      "after": "b4e43506ced7109e",
+      "date": 1480102044869
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee416d431ebf4fb4",
+        "9d815f1ccc9fe9d7",
+        "32a25b42eca0dc9a",
+        "b0565c1ca5af3342",
+        "a9c1174b372e1b64",
+        "b4e43506ced7109e",
+        "8c0695a4509cedb5",
+        "d1ad125a71368cdb",
+        "f1b886becee364d0",
+        "b7aee8b26a7475ca",
+        "7e2e7490d05917a8",
+        "78dd0e2628325ca0",
+        "e2bfe02231e91da7",
+        "253ef042cca60202",
+        "e7cd116809b68cdb",
+        "127de404f76a326d",
+        "ea2df13dda899267",
+        "0c4d71f6b167688f",
+        "a21197d129b2bb15",
+        "935a5faeafd926a4"
+      ],
+      "id": "e7cd116809b68cdb",
+      "date": 1480102046838
+    },
+    {
+      "type": "edit",
+      "id": "e7cd116809b68cdb",
+      "item": {
+        "type": "paragraph",
+        "id": "e7cd116809b68cdb",
+        "text": "...then attach to tmux and restart wiki."
+      },
+      "date": 1480102050833
+    },
+    {
+      "type": "edit",
+      "id": "e7cd116809b68cdb",
+      "item": {
+        "type": "paragraph",
+        "id": "e7cd116809b68cdb",
+        "text": "...then attach to tmux and restart wiki"
+      },
+      "date": 1480102052800
     }
   ]
 }
