@@ -1,0 +1,167 @@
+{
+  "title": "Baby Names",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d14f2c6cc2306f17",
+      "text": "Counterpoint"
+    },
+    {
+      "type": "paragraph",
+      "id": "ebd0b5dfd4dd768f",
+      "text": "Ingénue"
+    },
+    {
+      "type": "paragraph",
+      "id": "c925b35b00facb91",
+      "text": "Anon"
+    },
+    {
+      "type": "paragraph",
+      "id": "460ea23004c017ee",
+      "text": "Privy"
+    },
+    {
+      "type": "paragraph",
+      "id": "971f73475e3637f8",
+      "text": "Demerit"
+    },
+    {
+      "type": "paragraph",
+      "id": "4b0b5967dfacb009",
+      "text": "Cosine"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Baby Names",
+        "story": []
+      },
+      "date": 1483654037837
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ebd0b5dfd4dd768f"
+      },
+      "id": "ebd0b5dfd4dd768f",
+      "type": "add",
+      "date": 1483654039150
+    },
+    {
+      "type": "edit",
+      "id": "ebd0b5dfd4dd768f",
+      "item": {
+        "type": "paragraph",
+        "id": "ebd0b5dfd4dd768f",
+        "text": "Ingénue"
+      },
+      "date": 1483654053221
+    },
+    {
+      "type": "add",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Counterpoint"
+      },
+      "after": "ebd0b5dfd4dd768f",
+      "date": 1483654065438
+    },
+    {
+      "type": "move",
+      "order": [
+        "d14f2c6cc2306f17",
+        "ebd0b5dfd4dd768f"
+      ],
+      "id": "d14f2c6cc2306f17",
+      "date": 1483654086946
+    },
+    {
+      "type": "add",
+      "id": "c925b35b00facb91",
+      "item": {
+        "type": "paragraph",
+        "id": "c925b35b00facb91",
+        "text": "Anonymity"
+      },
+      "after": "ebd0b5dfd4dd768f",
+      "date": 1484039939623
+    },
+    {
+      "type": "add",
+      "id": "460ea23004c017ee",
+      "item": {
+        "type": "paragraph",
+        "id": "460ea23004c017ee",
+        "text": "Privy"
+      },
+      "after": "c925b35b00facb91",
+      "date": 1484429868408,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1484429876745
+    },
+    {
+      "type": "add",
+      "id": "971f73475e3637f8",
+      "item": {
+        "type": "paragraph",
+        "id": "971f73475e3637f8",
+        "text": "Demerit"
+      },
+      "after": "460ea23004c017ee",
+      "date": 1484578095124
+    },
+    {
+      "type": "add",
+      "id": "4b0b5967dfacb009",
+      "item": {
+        "type": "paragraph",
+        "id": "4b0b5967dfacb009",
+        "text": "Consignment"
+      },
+      "after": "971f73475e3637f8",
+      "date": 1485541570335
+    },
+    {
+      "type": "edit",
+      "id": "4b0b5967dfacb009",
+      "item": {
+        "type": "paragraph",
+        "id": "4b0b5967dfacb009",
+        "text": "Cosin"
+      },
+      "date": 1485541591620
+    },
+    {
+      "type": "edit",
+      "id": "4b0b5967dfacb009",
+      "item": {
+        "type": "paragraph",
+        "id": "4b0b5967dfacb009",
+        "text": "Cosine"
+      },
+      "date": 1485541604736
+    },
+    {
+      "type": "edit",
+      "id": "c925b35b00facb91",
+      "item": {
+        "type": "paragraph",
+        "id": "c925b35b00facb91",
+        "text": "Anon"
+      },
+      "date": 1485541614300
+    }
+  ]
+}

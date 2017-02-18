@@ -1,0 +1,91 @@
+{
+  "title": "2017-01-22",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7e6fd0db271925f8",
+      "text": "he makes it personal, makes it so easy to go for the low blow"
+    },
+    {
+      "type": "paragraph",
+      "id": "dff75db26276130c",
+      "text": "people get mad when he tweets \"Peaceful protests are a hallmark of our democracy. Even if I don't always agree, I recognize the rights of people to express their views.\" saying it's his lackeys! that he can speak from two directions at once seems to be the whole point."
+    },
+    {
+      "type": "paragraph",
+      "id": "a103943c36370430",
+      "text": "\"the last day of democracy\" (paraphrasing) ok..."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2017-01-22",
+        "story": []
+      },
+      "date": 1485096272276
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e6fd0db271925f8"
+      },
+      "id": "7e6fd0db271925f8",
+      "type": "add",
+      "date": 1485096274167
+    },
+    {
+      "type": "edit",
+      "id": "7e6fd0db271925f8",
+      "item": {
+        "type": "paragraph",
+        "id": "7e6fd0db271925f8",
+        "text": "he makes it personal, makes it so easy to go for the low blow"
+      },
+      "date": 1485096302920
+    },
+    {
+      "type": "add",
+      "id": "dff75db26276130c",
+      "item": {
+        "type": "paragraph",
+        "id": "dff75db26276130c",
+        "text": "people get mad when his lackeys"
+      },
+      "after": "7e6fd0db271925f8",
+      "date": 1485098544832
+    },
+    {
+      "type": "edit",
+      "id": "dff75db26276130c",
+      "item": {
+        "type": "paragraph",
+        "id": "dff75db26276130c",
+        "text": "people get mad when he tweets \"Peaceful protests are a hallmark of our democracy. Even if I don't always agree, I recognize the rights of people to express their views.\" saying it's his lackeys!"
+      },
+      "date": 1485098593854
+    },
+    {
+      "type": "edit",
+      "id": "dff75db26276130c",
+      "item": {
+        "type": "paragraph",
+        "id": "dff75db26276130c",
+        "text": "people get mad when he tweets \"Peaceful protests are a hallmark of our democracy. Even if I don't always agree, I recognize the rights of people to express their views.\" saying it's his lackeys! that he can speak from two directions at once seems to be the whole point."
+      },
+      "date": 1485098615123
+    },
+    {
+      "type": "add",
+      "id": "a103943c36370430",
+      "item": {
+        "type": "paragraph",
+        "id": "a103943c36370430",
+        "text": "\"the last day of democracy\" (paraphrasing) ok..."
+      },
+      "after": "dff75db26276130c",
+      "date": 1485098649029
+    }
+  ]
+}

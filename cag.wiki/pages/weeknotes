@@ -2,6 +2,11 @@
   "title": "Weeknotes",
   "story": [
     {
+      "type": "paragraph",
+      "id": "a49aca94efcf11f5",
+      "text": "[[2017-3]]"
+    },
+    {
       "type": "html",
       "id": "e90f094572cc6c7a",
       "text": "<hr>"
@@ -192,6 +197,66 @@
       "type": "remove",
       "id": "21da3de7fee2959c",
       "date": 1482920011198
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a49aca94efcf11f5"
+      },
+      "id": "a49aca94efcf11f5",
+      "type": "add",
+      "after": "eef136ee8040a195",
+      "date": 1484866018929
+    },
+    {
+      "type": "edit",
+      "id": "a49aca94efcf11f5",
+      "item": {
+        "type": "paragraph",
+        "id": "a49aca94efcf11f5",
+        "text": "[[]]"
+      },
+      "date": 1484866026168
+    },
+    {
+      "type": "edit",
+      "id": "a49aca94efcf11f5",
+      "item": {
+        "type": "paragraph",
+        "id": "a49aca94efcf11f5",
+        "text": "[[Week 3"
+      },
+      "date": 1484866032340
+    },
+    {
+      "type": "edit",
+      "id": "a49aca94efcf11f5",
+      "item": {
+        "type": "paragraph",
+        "id": "a49aca94efcf11f5",
+        "text": "[[Week 3]]"
+      },
+      "date": 1484866034970
+    },
+    {
+      "type": "move",
+      "order": [
+        "a49aca94efcf11f5",
+        "e90f094572cc6c7a",
+        "eef136ee8040a195"
+      ],
+      "id": "a49aca94efcf11f5",
+      "date": 1484866036970
+    },
+    {
+      "type": "edit",
+      "id": "a49aca94efcf11f5",
+      "item": {
+        "type": "paragraph",
+        "id": "a49aca94efcf11f5",
+        "text": "[[2017-3]]"
+      },
+      "date": 1484866044652
     }
   ]
 }

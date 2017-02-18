@@ -1,0 +1,78 @@
+{
+  "title": "11/28/16",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4665baf26959bb88",
+      "text": "[[Walid (11/28/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4bcbc3d1cd17d1e2",
+      "text": "[[Ian & Maya (11/28/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "845c51d526c519bd",
+      "text": "[[Jake (11/28/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c9e0bb2ef873862f",
+      "text": "[[Mauricio (11/28/16)]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "11/28/16",
+        "story": []
+      },
+      "date": 1485307014319
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4665baf26959bb88",
+        "text": "[[Walid (11/28/16)]]"
+      },
+      "id": "4665baf26959bb88",
+      "date": 1485307018691
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4bcbc3d1cd17d1e2",
+        "text": "[[Ian & Maya (11/28/16)]]"
+      },
+      "after": "4665baf26959bb88",
+      "id": "4bcbc3d1cd17d1e2",
+      "date": 1485307020738
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "845c51d526c519bd",
+        "text": "[[Jake (11/28/16)]]"
+      },
+      "after": "4bcbc3d1cd17d1e2",
+      "id": "845c51d526c519bd",
+      "date": 1485307022691
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c9e0bb2ef873862f",
+        "text": "[[Mauricio (11/28/16)]]"
+      },
+      "after": "845c51d526c519bd",
+      "id": "c9e0bb2ef873862f",
+      "date": 1485307024666
+    }
+  ]
+}

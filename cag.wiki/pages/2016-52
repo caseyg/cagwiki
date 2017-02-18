@@ -25,6 +25,16 @@
       "type": "paragraph",
       "id": "2d8617d4ea477df9",
       "text": "Removed my phone number from my email signature."
+    },
+    {
+      "type": "paragraph",
+      "id": "ad9a2bd23b423379",
+      "text": "Too busy. Too procedural."
+    },
+    {
+      "type": "paragraph",
+      "id": "1c51aa7ff4cfefec",
+      "text": "Transparency."
     }
   ],
   "journal": [
@@ -128,6 +138,28 @@
         "text": "What was [[2016]] like."
       },
       "date": 1482920454363
+    },
+    {
+      "type": "add",
+      "id": "ad9a2bd23b423379",
+      "item": {
+        "type": "paragraph",
+        "id": "ad9a2bd23b423379",
+        "text": "Too busy. Too procedural."
+      },
+      "after": "2d8617d4ea477df9",
+      "date": 1482921534207
+    },
+    {
+      "type": "add",
+      "id": "1c51aa7ff4cfefec",
+      "item": {
+        "type": "paragraph",
+        "id": "1c51aa7ff4cfefec",
+        "text": "Transparency."
+      },
+      "after": "ad9a2bd23b423379",
+      "date": 1482921538418
     }
   ]
 }

@@ -1,0 +1,167 @@
+{
+  "title": "2017-01-27",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fe4a27f5379f4f37",
+      "text": "deadass thoughts"
+    },
+    {
+      "type": "paragraph",
+      "id": "c2f17ee828febe59",
+      "text": "not separable from lifestyle"
+    },
+    {
+      "type": "paragraph",
+      "id": "fd0da515d47bc59a",
+      "text": "not a competition, and competition or comparison as a response get in the way, are flung like a wrench, deeply not what it's about, personal reflection"
+    },
+    {
+      "type": "paragraph",
+      "id": "76ee10f9caee1a91",
+      "text": "energy conservation? opportunity costs? when can trying to good do harm. almost always?"
+    },
+    {
+      "type": "paragraph",
+      "id": "63f8e9e41bf70073",
+      "text": "protests that are allowed to scale to the point where they're epic yet failed"
+    },
+    {
+      "type": "paragraph",
+      "id": "9bb9830817afa271",
+      "text": "things that look the same but are different"
+    },
+    {
+      "type": "paragraph",
+      "id": "f0d658870ba03d2c",
+      "text": "historicity, two lighters"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea60f04ea25758ee",
+      "text": "what are the reason you're doing it?"
+    },
+    {
+      "type": "paragraph",
+      "id": "e2bb8671908f595e",
+      "text": "you're not scared? it's coming for everyone..."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2017-01-27",
+        "story": []
+      },
+      "date": 1485541638018
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe4a27f5379f4f37"
+      },
+      "id": "fe4a27f5379f4f37",
+      "type": "add",
+      "date": 1485541639362
+    },
+    {
+      "type": "edit",
+      "id": "fe4a27f5379f4f37",
+      "item": {
+        "type": "paragraph",
+        "id": "fe4a27f5379f4f37",
+        "text": "deadass thoughts"
+      },
+      "date": 1485541649206
+    },
+    {
+      "type": "add",
+      "id": "c2f17ee828febe59",
+      "item": {
+        "type": "paragraph",
+        "id": "c2f17ee828febe59",
+        "text": "not separable from lifestyle"
+      },
+      "after": "fe4a27f5379f4f37",
+      "date": 1485541665056
+    },
+    {
+      "type": "add",
+      "id": "fd0da515d47bc59a",
+      "item": {
+        "type": "paragraph",
+        "id": "fd0da515d47bc59a",
+        "text": "not a competition, and competition or comparison as a response get in the way, are flung like a wrench, deeply not what it's about, personal reflection"
+      },
+      "after": "c2f17ee828febe59",
+      "date": 1485541708610
+    },
+    {
+      "type": "add",
+      "id": "76ee10f9caee1a91",
+      "item": {
+        "type": "paragraph",
+        "id": "76ee10f9caee1a91",
+        "text": "energy conservation? opportunity costs? when can trying to good do harm. almost always?"
+      },
+      "after": "fd0da515d47bc59a",
+      "date": 1485542184932
+    },
+    {
+      "type": "add",
+      "id": "63f8e9e41bf70073",
+      "item": {
+        "type": "paragraph",
+        "id": "63f8e9e41bf70073",
+        "text": "protests that are allowed to scale to the point where they're epic yet failed"
+      },
+      "after": "76ee10f9caee1a91",
+      "date": 1485542210521
+    },
+    {
+      "type": "add",
+      "id": "9bb9830817afa271",
+      "item": {
+        "type": "paragraph",
+        "id": "9bb9830817afa271",
+        "text": "things that look the same but are different"
+      },
+      "after": "63f8e9e41bf70073",
+      "date": 1485542277997
+    },
+    {
+      "type": "add",
+      "id": "f0d658870ba03d2c",
+      "item": {
+        "type": "paragraph",
+        "id": "f0d658870ba03d2c",
+        "text": "historicity, two lighters"
+      },
+      "after": "9bb9830817afa271",
+      "date": 1485542281856
+    },
+    {
+      "type": "add",
+      "id": "ea60f04ea25758ee",
+      "item": {
+        "type": "paragraph",
+        "id": "ea60f04ea25758ee",
+        "text": "what are the reason you're doing it?"
+      },
+      "after": "f0d658870ba03d2c",
+      "date": 1485542288457
+    },
+    {
+      "type": "add",
+      "id": "e2bb8671908f595e",
+      "item": {
+        "type": "paragraph",
+        "id": "e2bb8671908f595e",
+        "text": "you're not scared? it's coming for everyone..."
+      },
+      "after": "ea60f04ea25758ee",
+      "date": 1485542298182
+    }
+  ]
+}

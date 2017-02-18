@@ -3,6 +3,11 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "1c7e56422bb946bd",
+      "text": "[[Weeknotes]]"
+    },
+    {
+      "type": "paragraph",
       "id": "142a84db5675d2a9",
       "text": "[[Index cards]]"
     },
@@ -22,11 +27,6 @@
       "text": "[[Resetting a Computer]]"
     },
     {
-      "type": "paragraph",
-      "id": "1c7e56422bb946bd",
-      "text": "[[Weeknotes]]"
-    },
-    {
       "type": "reference",
       "id": "7e6fe9f8b612564f",
       "site": "projects.cag.wiki",
@@ -38,6 +38,21 @@
       "type": "paragraph",
       "id": "bac305599bfbc166",
       "text": "[[Designing a Book]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "44471403d16574db",
+      "text": "[[Baby Names]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "df984944f9f72c66",
+      "text": "[[Programming Snippets]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "beb56681fe2a64da",
+      "text": "[[Lyrics]]"
     }
   ],
   "journal": [
@@ -268,6 +283,104 @@
         "text": "[[Designing a Book]]"
       },
       "date": 1481925920500
+    },
+    {
+      "type": "add",
+      "id": "3ea232acde666987",
+      "item": {
+        "type": "paragraph",
+        "id": "3ea232acde666987",
+        "text": "[[Scratchpad]]"
+      },
+      "after": "1c7e56422bb946bd",
+      "date": 1482921348595
+    },
+    {
+      "type": "add",
+      "id": "44471403d16574db",
+      "item": {
+        "type": "paragraph",
+        "id": "44471403d16574db",
+        "text": "[[Baby Names]]"
+      },
+      "after": "bac305599bfbc166",
+      "date": 1483654035627
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "df984944f9f72c66",
+        "text": "[[Programming Snippets]]"
+      },
+      "after": "44471403d16574db",
+      "id": "df984944f9f72c66",
+      "date": 1484865109381,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1484865119563
+    },
+    {
+      "type": "fork",
+      "date": 1484865119695
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "beb56681fe2a64da",
+        "text": "[[Lyrics]]"
+      },
+      "after": "df984944f9f72c66",
+      "id": "beb56681fe2a64da",
+      "date": 1484865129681
+    },
+    {
+      "type": "move",
+      "order": [
+        "3ea232acde666987",
+        "142a84db5675d2a9",
+        "19c2c7af270cbfc3",
+        "2c54be814c872593",
+        "d7f8ed02688aef86",
+        "1c7e56422bb946bd",
+        "7e6fe9f8b612564f",
+        "bac305599bfbc166",
+        "44471403d16574db",
+        "df984944f9f72c66",
+        "beb56681fe2a64da"
+      ],
+      "id": "3ea232acde666987",
+      "date": 1484866007554
+    },
+    {
+      "type": "move",
+      "order": [
+        "3ea232acde666987",
+        "1c7e56422bb946bd",
+        "142a84db5675d2a9",
+        "19c2c7af270cbfc3",
+        "2c54be814c872593",
+        "d7f8ed02688aef86",
+        "7e6fe9f8b612564f",
+        "bac305599bfbc166",
+        "44471403d16574db",
+        "df984944f9f72c66",
+        "beb56681fe2a64da"
+      ],
+      "id": "1c7e56422bb946bd",
+      "date": 1484866008834
+    },
+    {
+      "type": "remove",
+      "id": "3ea232acde666987",
+      "date": 1487273649807
     }
   ]
 }

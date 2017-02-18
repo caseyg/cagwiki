@@ -1,0 +1,139 @@
+{
+  "title": "Scratchpad",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0cb69ea2a544e96f",
+      "text": "[[2016-12-28]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "37a9ccf7b8227171",
+      "text": "[[2017-01-15]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6b2f80a90ad6135",
+      "text": "[[2017-01-22]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ff760d2e29bbbc02",
+      "text": "[[2017-01-25]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef0f05b0784b875a",
+      "text": "[[2017-01-27]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ad6fff4c1fa2a078",
+      "text": "[[2017-02-16]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Scratchpad",
+        "story": []
+      },
+      "date": 1482921354785
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0cb69ea2a544e96f"
+      },
+      "id": "0cb69ea2a544e96f",
+      "type": "add",
+      "date": 1482921358059
+    },
+    {
+      "type": "edit",
+      "id": "0cb69ea2a544e96f",
+      "item": {
+        "type": "paragraph",
+        "id": "0cb69ea2a544e96f",
+        "text": "[[2016-12-28]]"
+      },
+      "date": 1482921366253
+    },
+    {
+      "type": "add",
+      "id": "37a9ccf7b8227171",
+      "item": {
+        "type": "paragraph",
+        "id": "37a9ccf7b8227171",
+        "text": "[[2017-01-15"
+      },
+      "after": "0cb69ea2a544e96f",
+      "date": 1484523626058
+    },
+    {
+      "type": "edit",
+      "id": "37a9ccf7b8227171",
+      "item": {
+        "type": "paragraph",
+        "id": "37a9ccf7b8227171",
+        "text": "[[2017-01-15]]"
+      },
+      "date": 1484523627244
+    },
+    {
+      "type": "add",
+      "id": "d6b2f80a90ad6135",
+      "item": {
+        "type": "paragraph",
+        "id": "d6b2f80a90ad6135",
+        "text": "[[2017-01-22]]"
+      },
+      "after": "37a9ccf7b8227171",
+      "date": 1485096269520
+    },
+    {
+      "type": "add",
+      "id": "ff760d2e29bbbc02",
+      "item": {
+        "type": "paragraph",
+        "id": "ff760d2e29bbbc02",
+        "text": "[[2017-1-25]]"
+      },
+      "after": "d6b2f80a90ad6135",
+      "date": 1485394470488
+    },
+    {
+      "type": "edit",
+      "id": "ff760d2e29bbbc02",
+      "item": {
+        "type": "paragraph",
+        "id": "ff760d2e29bbbc02",
+        "text": "[[2017-01-25]]"
+      },
+      "date": 1485394475962
+    },
+    {
+      "type": "add",
+      "id": "ef0f05b0784b875a",
+      "item": {
+        "type": "paragraph",
+        "id": "ef0f05b0784b875a",
+        "text": "[[2017-01-27]]"
+      },
+      "after": "ff760d2e29bbbc02",
+      "date": 1485541633349
+    },
+    {
+      "type": "add",
+      "id": "ad6fff4c1fa2a078",
+      "item": {
+        "type": "paragraph",
+        "id": "ad6fff4c1fa2a078",
+        "text": "[[2017-02-16]]"
+      },
+      "after": "ef0f05b0784b875a",
+      "date": 1487273662109
+    }
+  ]
+}

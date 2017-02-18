@@ -1,0 +1,78 @@
+{
+  "title": "12/12/16",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e3d454c2e6cb38e2",
+      "text": "[[Dempzil (12/12/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4337bc0616b651ff",
+      "text": "[[Jesse (12/12/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5aa2074faf0b9b45",
+      "text": "[[Jakob (12/12/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a072823d2c2d26b2",
+      "text": "[[Mauricio (12/12/16)]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "12/12/16",
+        "story": []
+      },
+      "date": 1485306884063
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e3d454c2e6cb38e2",
+        "text": "[[Dempzil (12/12/16)]]"
+      },
+      "id": "e3d454c2e6cb38e2",
+      "date": 1485306893487
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4337bc0616b651ff",
+        "text": "[[Jesse (12/12/16)]]"
+      },
+      "after": "e3d454c2e6cb38e2",
+      "id": "4337bc0616b651ff",
+      "date": 1485306898990
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5aa2074faf0b9b45",
+        "text": "[[Jakob (12/12/16)]]"
+      },
+      "after": "4337bc0616b651ff",
+      "id": "5aa2074faf0b9b45",
+      "date": 1485306901075
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a072823d2c2d26b2",
+        "text": "[[Mauricio (12/12/16)]]"
+      },
+      "after": "5aa2074faf0b9b45",
+      "id": "a072823d2c2d26b2",
+      "date": 1485306902916
+    }
+  ]
+}

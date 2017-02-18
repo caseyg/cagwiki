@@ -1,0 +1,103 @@
+{
+  "title": "Projects (Spring 2017)",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "668c124992520b82",
+      "text": "Banner — Emily"
+    },
+    {
+      "type": "paragraph",
+      "id": "84c3f3fdeed4218e",
+      "text": "Film Festival — Rachel"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf5da16a53976a66",
+      "text": "Greencamp — Leo"
+    },
+    {
+      "type": "paragraph",
+      "id": "ce65044255eb4a3d",
+      "text": "Archive — Ray"
+    },
+    {
+      "type": "paragraph",
+      "id": "5f720e057c1969e0",
+      "text": "Stefany"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Projects (Spring 2017)",
+        "story": []
+      },
+      "date": 1487268662695
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "668c124992520b82"
+      },
+      "id": "668c124992520b82",
+      "type": "add",
+      "date": 1487268664303
+    },
+    {
+      "type": "edit",
+      "id": "668c124992520b82",
+      "item": {
+        "type": "paragraph",
+        "id": "668c124992520b82",
+        "text": "Banner — Emily"
+      },
+      "date": 1487268672126
+    },
+    {
+      "type": "add",
+      "id": "84c3f3fdeed4218e",
+      "item": {
+        "type": "paragraph",
+        "id": "84c3f3fdeed4218e",
+        "text": "Film Festival — Rachel"
+      },
+      "after": "668c124992520b82",
+      "date": 1487268677737
+    },
+    {
+      "type": "add",
+      "id": "bf5da16a53976a66",
+      "item": {
+        "type": "paragraph",
+        "id": "bf5da16a53976a66",
+        "text": "Greencamp — Leo"
+      },
+      "after": "84c3f3fdeed4218e",
+      "date": 1487268684802
+    },
+    {
+      "type": "add",
+      "id": "ce65044255eb4a3d",
+      "item": {
+        "type": "paragraph",
+        "id": "ce65044255eb4a3d",
+        "text": "Archive — Ray"
+      },
+      "after": "bf5da16a53976a66",
+      "date": 1487268690927
+    },
+    {
+      "type": "add",
+      "id": "5f720e057c1969e0",
+      "item": {
+        "type": "paragraph",
+        "id": "5f720e057c1969e0",
+        "text": "Stefany"
+      },
+      "after": "ce65044255eb4a3d",
+      "date": 1487268809396
+    }
+  ]
+}

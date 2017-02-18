@@ -1,0 +1,78 @@
+{
+  "title": "11/21/16",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "886029994d702375",
+      "text": "[[Casey (11/21/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2ce08c14b0db71ba",
+      "text": "[[Delaney (11/21/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2dc6d09a4ac5d17b",
+      "text": "[[Vic (11/21/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c8131a282f8592a1",
+      "text": "[[Raf (11/21/16)]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "11/21/16",
+        "story": []
+      },
+      "date": 1485307058851
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "886029994d702375",
+        "text": "[[Casey (11/21/16)]]"
+      },
+      "id": "886029994d702375",
+      "date": 1485307062110
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2ce08c14b0db71ba",
+        "text": "[[Delaney (11/21/16)]]"
+      },
+      "after": "886029994d702375",
+      "id": "2ce08c14b0db71ba",
+      "date": 1485307064061
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2dc6d09a4ac5d17b",
+        "text": "[[Vic (11/21/16)]]"
+      },
+      "after": "2ce08c14b0db71ba",
+      "id": "2dc6d09a4ac5d17b",
+      "date": 1485307065923
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c8131a282f8592a1",
+        "text": "[[Raf (11/21/16)]]"
+      },
+      "after": "2dc6d09a4ac5d17b",
+      "id": "c8131a282f8592a1",
+      "date": 1485307068600
+    }
+  ]
+}
