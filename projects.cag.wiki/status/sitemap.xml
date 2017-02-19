@@ -1,44 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://projects.cag.wiki/112116.html</loc>
+    <lastmod>2017-01-25</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/112816.html</loc>
+    <lastmod>2017-01-25</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/11617.html</loc>
+    <lastmod>2017-01-22</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/121216.html</loc>
+    <lastmod>2017-01-25</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/121916.html</loc>
+    <lastmod>2017-01-25</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/12317.html</loc>
+    <lastmod>2017-01-25</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/12516.html</loc>
+    <lastmod>2017-01-25</lastmod>
+  </url>
+  <url>
     <loc>http://projects.cag.wiki/cags-wikis.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://projects.cag.wiki/projects.html</loc>
-    <lastmod>2017-02-16</lastmod>
+    <loc>http://projects.cag.wiki/casey-112116.html</loc>
+    <lastmod>2017-01-27</lastmod>
   </url>
   <url>
-    <loc>http://projects.cag.wiki/welcome-visitors.html</loc>
-    <lastmod>2016-11-29</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/presentation-notes.html</loc>
-    <lastmod>2016-11-29</lastmod>
+    <loc>http://projects.cag.wiki/cooper-reviewed.html</loc>
+    <lastmod>2017-01-30</lastmod>
   </url>
   <url>
     <loc>http://projects.cag.wiki/delaney-112116.html</loc>
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://projects.cag.wiki/maps-of-the-imagination-the-writer-as-cartographer.html</loc>
-    <lastmod>2016-11-29</lastmod>
+    <loc>http://projects.cag.wiki/dempzil-121216.html</loc>
+    <lastmod>2017-01-22</lastmod>
   </url>
   <url>
-    <loc>http://projects.cag.wiki/vic-112116.html</loc>
-    <lastmod>2016-11-29</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/raf-112616.html</loc>
-    <lastmod>2016-11-29</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/walid-112816.html</loc>
-    <lastmod>2016-11-29</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/casey-112116.html</loc>
-    <lastmod>2017-01-27</lastmod>
+    <loc>http://projects.cag.wiki/emily-121916.html</loc>
+    <lastmod>2017-01-30</lastmod>
   </url>
   <url>
     <loc>http://projects.cag.wiki/i-want-to.html</loc>
@@ -53,55 +65,43 @@
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
+    <loc>http://projects.cag.wiki/maps-of-the-imagination-the-writer-as-cartographer.html</loc>
+    <lastmod>2016-11-29</lastmod>
+  </url>
+  <url>
     <loc>http://projects.cag.wiki/mauricio-112816.html</loc>
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://projects.cag.wiki/11617.html</loc>
-    <lastmod>2017-01-22</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/dempzil-121216.html</loc>
-    <lastmod>2017-01-22</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/work-in-public-reveal-nothing.html</loc>
+    <loc>http://projects.cag.wiki/presentation-notes.html</loc>
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://projects.cag.wiki/12317.html</loc>
-    <lastmod>2017-01-25</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/121916.html</loc>
-    <lastmod>2017-01-25</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/121216.html</loc>
-    <lastmod>2017-01-25</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/12516.html</loc>
-    <lastmod>2017-01-25</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/112816.html</loc>
-    <lastmod>2017-01-25</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/112116.html</loc>
-    <lastmod>2017-01-25</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/cooper-reviewed.html</loc>
-    <lastmod>2017-01-30</lastmod>
-  </url>
-  <url>
-    <loc>http://projects.cag.wiki/emily-121916.html</loc>
-    <lastmod>2017-01-30</lastmod>
+    <loc>http://projects.cag.wiki/projects.html</loc>
+    <lastmod>2017-02-16</lastmod>
   </url>
   <url>
     <loc>http://projects.cag.wiki/projects-spring-2017.html</loc>
     <lastmod>2017-02-16</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/raf-112116.html</loc>
+    <lastmod>2016-11-29</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/vic-112116.html</loc>
+    <lastmod>2016-11-29</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/walid-112816.html</loc>
+    <lastmod>2016-11-29</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/welcome-visitors.html</loc>
+    <lastmod>2016-11-29</lastmod>
+  </url>
+  <url>
+    <loc>http://projects.cag.wiki/work-in-public-reveal-nothing.html</loc>
+    <lastmod>2016-11-29</lastmod>
   </url>
 </urlset>

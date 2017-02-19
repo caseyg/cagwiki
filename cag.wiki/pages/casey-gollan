@@ -3,6 +3,11 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "3503ce65cd2bfa73",
+      "text": "See also: [[about]]"
+    },
+    {
+      "type": "paragraph",
       "id": "c3c1d5811cbfcffb",
       "text": "[http://caseyagollan.com homepage]"
     },
@@ -645,6 +650,39 @@
     {
       "type": "fork",
       "date": 1480103350860
+    },
+    {
+      "type": "add",
+      "id": "3503ce65cd2bfa73",
+      "item": {
+        "type": "paragraph",
+        "id": "3503ce65cd2bfa73",
+        "text": "see also: [[about]]"
+      },
+      "after": "7ed134afa25ff19c",
+      "date": 1487467951596
+    },
+    {
+      "type": "move",
+      "order": [
+        "3503ce65cd2bfa73",
+        "c3c1d5811cbfcffb",
+        "89e353260dac72ee",
+        "7ed134afa25ff19c",
+        "e168c99602d170af"
+      ],
+      "id": "3503ce65cd2bfa73",
+      "date": 1487468298861
+    },
+    {
+      "type": "edit",
+      "id": "3503ce65cd2bfa73",
+      "item": {
+        "type": "paragraph",
+        "id": "3503ce65cd2bfa73",
+        "text": "See also: [[about]]"
+      },
+      "date": 1487468302234
     }
   ]
 }

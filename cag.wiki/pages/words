@@ -14,7 +14,7 @@
     {
       "type": "markdown",
       "id": "bc3ba4b0c0db92d4",
-      "text": "### 2016"
+      "text": "# 2016"
     },
     {
       "type": "pagefold",
@@ -8562,6 +8562,32 @@
       },
       "after": "81b05d82f4666df5",
       "date": 1480428291020
+    },
+    {
+      "type": "add",
+      "id": "82ec71f254ddbcfb",
+      "item": {
+        "type": "paragraph",
+        "id": "82ec71f254ddbcfb",
+        "text": "{{Words}}"
+      },
+      "after": "43efe395a6825007",
+      "date": 1487466744860
+    },
+    {
+      "type": "remove",
+      "id": "82ec71f254ddbcfb",
+      "date": 1487466746810
+    },
+    {
+      "type": "edit",
+      "id": "bc3ba4b0c0db92d4",
+      "item": {
+        "type": "markdown",
+        "id": "bc3ba4b0c0db92d4",
+        "text": "# 2016"
+      },
+      "date": 1487468161682
     }
   ]
 }

@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://cag.wiki/2016.html</loc>
+    <lastmod>2016-12-28</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2016-12-28.html</loc>
+    <lastmod>2016-12-28</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2016-48.html</loc>
+    <lastmod>2016-12-07</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2016-49.html</loc>
+    <lastmod>2016-12-09</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2016-52.html</loc>
+    <lastmod>2016-12-28</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2017-01-15.html</loc>
+    <lastmod>2017-01-15</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2017-01-22.html</loc>
+    <lastmod>2017-01-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2017-01-25.html</loc>
+    <lastmod>2017-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2017-01-27.html</loc>
+    <lastmod>2017-01-27</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2017-02-16.html</loc>
+    <lastmod>2017-02-16</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/2017-3.html</loc>
+    <lastmod>2017-01-19</lastmod>
+  </url>
+  <url>
     <loc>http://cag.wiki/a-better-pen.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
@@ -29,12 +73,20 @@
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
+    <loc>http://cag.wiki/baby-names.html</loc>
+    <lastmod>2017-01-27</lastmod>
+  </url>
+  <url>
     <loc>http://cag.wiki/backup.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
+    <loc>http://cag.wiki/blogroll.html</loc>
+    <lastmod>2017-02-19</lastmod>
+  </url>
+  <url>
     <loc>http://cag.wiki/books.html</loc>
-    <lastmod>2016-11-25</lastmod>
+    <lastmod>2017-02-19</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/books-2015.html</loc>
@@ -70,7 +122,11 @@
   </url>
   <url>
     <loc>http://cag.wiki/casey-gollan.html</loc>
-    <lastmod>2016-11-25</lastmod>
+    <lastmod>2017-02-19</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/christopher-alexander.html</loc>
+    <lastmod>2016-12-01</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/closing-tabs.html</loc>
@@ -79,6 +135,10 @@
   <url>
     <loc>http://cag.wiki/communication-is-literally-just-a-theory.html</loc>
     <lastmod>2016-11-24</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/designing-a-book.html</loc>
+    <lastmod>2016-12-16</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/electric-brain.html</loc>
@@ -151,6 +211,10 @@
   <url>
     <loc>http://cag.wiki/leverage-points.html</loc>
     <lastmod>2016-11-24</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/lifehacks.html</loc>
+    <lastmod>2016-12-07</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/lifelogging.html</loc>
@@ -276,6 +340,10 @@
     <lastmod>2016-11-26</lastmod>
   </url>
   <url>
+    <loc>http://cag.wiki/scratchpad.html</loc>
+    <lastmod>2017-02-16</lastmod>
+  </url>
+  <url>
     <loc>http://cag.wiki/shift-double-click.html</loc>
     <lastmod>2016-11-27</lastmod>
   </url>
@@ -328,12 +396,24 @@
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
+    <loc>http://cag.wiki/ward-cunningham.html</loc>
+    <lastmod>2016-12-01</lastmod>
+  </url>
+  <url>
     <loc>http://cag.wiki/weather-vibes.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
+    <loc>http://cag.wiki/weeknotes.html</loc>
+    <lastmod>2017-01-19</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/weeknotes-2016-archive.html</loc>
+    <lastmod>2016-12-28</lastmod>
+  </url>
+  <url>
     <loc>http://cag.wiki/welcome-visitors.html</loc>
-    <lastmod>2017-02-18</lastmod>
+    <lastmod>2017-02-19</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/what-is-a-system.html</loc>
@@ -369,7 +449,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/words.html</loc>
-    <lastmod>2016-11-29</lastmod>
+    <lastmod>2017-02-19</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/work.html</loc>
@@ -380,83 +460,11 @@
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/ward-cunningham.html</loc>
-    <lastmod>2016-12-01</lastmod>
+    <loc>http://cag.wiki/about.html</loc>
+    <lastmod>2017-02-19</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/christopher-alexander.html</loc>
-    <lastmod>2016-12-01</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/weeknotes.html</loc>
-    <lastmod>2017-01-19</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2016-48.html</loc>
-    <lastmod>2016-12-07</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/lifehacks.html</loc>
-    <lastmod>2016-12-07</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2016-49.html</loc>
-    <lastmod>2016-12-09</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/designing-a-book.html</loc>
-    <lastmod>2016-12-16</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/weeknotes-2016-archive.html</loc>
-    <lastmod>2016-12-28</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2016-52.html</loc>
-    <lastmod>2016-12-28</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2016.html</loc>
-    <lastmod>2016-12-28</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/scratchpad.html</loc>
-    <lastmod>2017-02-16</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2016-12-28.html</loc>
-    <lastmod>2016-12-28</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/baby-names.html</loc>
-    <lastmod>2017-01-27</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2017-01-15.html</loc>
-    <lastmod>2017-01-15</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2017-3.html</loc>
-    <lastmod>2017-01-19</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2017-01-22.html</loc>
-    <lastmod>2017-01-22</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2017-01-25.html</loc>
-    <lastmod>2017-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2017-01-27.html</loc>
-    <lastmod>2017-01-27</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/2017-02-16.html</loc>
-    <lastmod>2017-02-16</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/blogroll.html</loc>
-    <lastmod>2017-02-18</lastmod>
+    <loc>http://cag.wiki/files.html</loc>
+    <lastmod>2017-02-19</lastmod>
   </url>
 </urlset>
