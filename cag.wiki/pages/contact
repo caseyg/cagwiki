@@ -1,0 +1,130 @@
+{
+  "title": "Contact",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dc726038687821a4",
+      "text": "Email: casey@bullshit.systems"
+    },
+    {
+      "type": "paragraph",
+      "id": "5c5da79f15c941dd",
+      "text": "Twitter: [http://twitter.com/caseyg @CaseyG]"
+    },
+    {
+      "type": "video",
+      "id": "a13aebef6380479d",
+      "text": "YOUTUBE BjxOLDcM4Hk"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Contact",
+        "story": []
+      },
+      "date": 1488200851162
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc726038687821a4"
+      },
+      "id": "dc726038687821a4",
+      "type": "add",
+      "date": 1488200859185
+    },
+    {
+      "type": "edit",
+      "id": "dc726038687821a4",
+      "item": {
+        "type": "paragraph",
+        "id": "dc726038687821a4",
+        "text": "Email: casey@bullshit.systems"
+      },
+      "date": 1488200866548
+    },
+    {
+      "type": "add",
+      "id": "5c5da79f15c941dd",
+      "item": {
+        "type": "paragraph",
+        "id": "5c5da79f15c941dd",
+        "text": "Twitter: @CaseyG"
+      },
+      "after": "dc726038687821a4",
+      "date": 1488200871613
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a13aebef6380479d"
+      },
+      "id": "a13aebef6380479d",
+      "type": "add",
+      "after": "5c5da79f15c941dd",
+      "date": 1488247631246
+    },
+    {
+      "type": "edit",
+      "id": "a13aebef6380479d",
+      "item": {
+        "type": "video",
+        "id": "a13aebef6380479d",
+        "text": "https://www.youtube.com/watch?v=BjxOLDcM4Hk"
+      },
+      "date": 1488247635697
+    },
+    {
+      "type": "edit",
+      "id": "a13aebef6380479d",
+      "item": {
+        "type": "video",
+        "id": "a13aebef6380479d",
+        "text": "YOUTUBE BjxOLDcM4Hk"
+      },
+      "date": 1488247665670
+    },
+    {
+      "type": "edit",
+      "id": "dc726038687821a4",
+      "item": {
+        "type": "paragraph",
+        "id": "dc726038687821a4",
+        "text": "Email: [mailto:casey@bullshit.systems casey@bullshit.systems]"
+      },
+      "date": 1488247684181
+    },
+    {
+      "type": "edit",
+      "id": "dc726038687821a4",
+      "item": {
+        "type": "paragraph",
+        "id": "dc726038687821a4",
+        "text": "Email: [casey@bullshit.systems]"
+      },
+      "date": 1488247688703
+    },
+    {
+      "type": "edit",
+      "id": "dc726038687821a4",
+      "item": {
+        "type": "paragraph",
+        "id": "dc726038687821a4",
+        "text": "Email: casey@bullshit.systems"
+      },
+      "date": 1488247691658
+    },
+    {
+      "type": "edit",
+      "id": "5c5da79f15c941dd",
+      "item": {
+        "type": "paragraph",
+        "id": "5c5da79f15c941dd",
+        "text": "Twitter: [http://twitter.com/caseyg @CaseyG]"
+      },
+      "date": 1488247701024
+    }
+  ]
+}

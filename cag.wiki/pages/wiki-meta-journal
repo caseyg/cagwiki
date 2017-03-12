@@ -3,8 +3,23 @@
   "story": [
     {
       "type": "pagefold",
+      "id": "e104be173593fbc6",
+      "text": "2017"
+    },
+    {
+      "type": "paragraph",
+      "id": "6703c00e81173b44",
+      "text": "Feb 18 — added pared down theme, maybe in preparation to replace my main website?"
+    },
+    {
+      "type": "pagefold",
       "id": "972e61bdac311087",
       "text": "2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "00c005f51bcf934a",
+      "text": "Dec 28 — backed up content to github"
     },
     {
       "type": "paragraph",
@@ -200,6 +215,103 @@
       },
       "after": "972e61bdac311087",
       "date": 1480100951163
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e104be173593fbc6"
+      },
+      "id": "e104be173593fbc6",
+      "type": "add",
+      "after": "f7f8fbdb072e670d",
+      "date": 1488210489581
+    },
+    {
+      "type": "edit",
+      "id": "e104be173593fbc6",
+      "item": {
+        "type": "pagefold",
+        "id": "e104be173593fbc6",
+        "text": "2017"
+      },
+      "date": 1488210493588
+    },
+    {
+      "type": "move",
+      "order": [
+        "e104be173593fbc6",
+        "972e61bdac311087",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "e104be173593fbc6",
+      "date": 1488210496788
+    },
+    {
+      "type": "add",
+      "id": "6703c00e81173b44",
+      "item": {
+        "type": "paragraph",
+        "id": "6703c00e81173b44",
+        "text": "Feb 18"
+      },
+      "after": "46cecb06b97ec463",
+      "date": 1488210524287
+    },
+    {
+      "type": "move",
+      "order": [
+        "e104be173593fbc6",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "6703c00e81173b44",
+      "date": 1488210525775
+    },
+    {
+      "type": "edit",
+      "id": "6703c00e81173b44",
+      "item": {
+        "type": "paragraph",
+        "id": "6703c00e81173b44",
+        "text": "Feb 18 — added pared down theme"
+      },
+      "date": 1488210533606
+    },
+    {
+      "type": "add",
+      "id": "00c005f51bcf934a",
+      "item": {
+        "type": "paragraph",
+        "id": "00c005f51bcf934a",
+        "text": "Dec 28 — backed up content to github"
+      },
+      "after": "972e61bdac311087",
+      "date": 1488210571165
+    },
+    {
+      "type": "edit",
+      "id": "6703c00e81173b44",
+      "item": {
+        "type": "paragraph",
+        "id": "6703c00e81173b44",
+        "text": "Feb 18 — added pared down theme, maybe in preparation to replace existing website?"
+      },
+      "date": 1488210586369
+    },
+    {
+      "type": "edit",
+      "id": "6703c00e81173b44",
+      "item": {
+        "type": "paragraph",
+        "id": "6703c00e81173b44",
+        "text": "Feb 18 — added pared down theme, maybe in preparation to replace my main website?"
+      },
+      "date": 1488210590302
     }
   ]
 }

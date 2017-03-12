@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "f51e2b143e4d8070",
-      "text": "A: Aaron✴︎; Alex✴︎; American Ethnological Society; Anna; Anime✴︎; Artwork✴︎; Atavist\n"
+      "text": "A: Aaron✴︎; Alex✴︎; American Ethnological Society✴︎; Anna; Anime✴︎; Artwork✴︎; Atavist\n"
     },
     {
       "type": "paragraph",
@@ -1225,6 +1225,16 @@
       "type": "remove",
       "id": "ccde21c1af99f887",
       "date": 1487468129645
+    },
+    {
+      "type": "edit",
+      "id": "f51e2b143e4d8070",
+      "item": {
+        "type": "paragraph",
+        "id": "f51e2b143e4d8070",
+        "text": "A: Aaron✴︎; Alex✴︎; American Ethnological Society✴︎; Anna; Anime✴︎; Artwork✴︎; Atavist\n"
+      },
+      "date": 1487471597497
     }
   ]
 }

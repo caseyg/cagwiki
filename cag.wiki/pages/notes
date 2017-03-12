@@ -41,11 +41,6 @@
     },
     {
       "type": "paragraph",
-      "id": "44471403d16574db",
-      "text": "[[Baby Names]]"
-    },
-    {
-      "type": "paragraph",
       "id": "df984944f9f72c66",
       "text": "[[Programming Snippets]]"
     },
@@ -381,6 +376,11 @@
       "type": "remove",
       "id": "3ea232acde666987",
       "date": 1487273649807
+    },
+    {
+      "type": "remove",
+      "id": "44471403d16574db",
+      "date": 1488250093907
     }
   ]
 }

@@ -2,11 +2,6 @@
   "title": "About",
   "story": [
     {
-      "type": "paragraph",
-      "id": "1e49c14a944cc9bd",
-      "text": "See also: [[Casey Gollan]]"
-    },
-    {
       "type": "markdown",
       "id": "00931623413458fb",
       "text": "# Casey Gollans that are _not_ me\n"
@@ -29,7 +24,7 @@
     {
       "type": "markdown",
       "id": "6d8a054e0a11b1a8",
-      "text": "# Casey Gollans that _are_ me\n"
+      "text": "# [[Casey Gollan]]s that _are_ me\n"
     },
     {
       "type": "paragraph",
@@ -1441,6 +1436,21 @@
       ],
       "id": "1e49c14a944cc9bd",
       "date": 1487468296044
+    },
+    {
+      "type": "remove",
+      "id": "1e49c14a944cc9bd",
+      "date": 1488247770124
+    },
+    {
+      "type": "edit",
+      "id": "6d8a054e0a11b1a8",
+      "item": {
+        "type": "markdown",
+        "id": "6d8a054e0a11b1a8",
+        "text": "# [[Casey Gollan]]s that _are_ me\n"
+      },
+      "date": 1488247782210
     }
   ]
 }

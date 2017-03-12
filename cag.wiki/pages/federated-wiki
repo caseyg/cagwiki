@@ -4,6 +4,11 @@
     {
       "type": "paragraph",
       "id": "530fa0c6d830da7d",
+      "text": "One day I will write a better version of this, sorry it's convoluted for now —CAG"
+    },
+    {
+      "type": "paragraph",
+      "id": "2af03088d1a48f5d",
       "text": "Federated Wiki sites share pages circulating within a creative commons. A single-page browser application can read from many sites at once and save changes in that browser. Users who host their own sites can login there to have their edits shared back to the federation as they edit."
     },
     {
@@ -455,6 +460,27 @@
       "type": "remove",
       "id": "e66de5bd8f9f20c8",
       "date": 1480028743903
+    },
+    {
+      "type": "edit",
+      "id": "530fa0c6d830da7d",
+      "item": {
+        "type": "paragraph",
+        "id": "530fa0c6d830da7d",
+        "text": "One day I will write a better version of this, sorry it's convoluted for now —CAG"
+      },
+      "date": 1488247939250
+    },
+    {
+      "type": "add",
+      "id": "2af03088d1a48f5d",
+      "item": {
+        "type": "paragraph",
+        "id": "2af03088d1a48f5d",
+        "text": "Federated Wiki sites share pages circulating within a creative commons. A single-page browser application can read from many sites at once and save changes in that browser. Users who host their own sites can login there to have their edits shared back to the federation as they edit."
+      },
+      "after": "530fa0c6d830da7d",
+      "date": 1488247940288
     }
   ]
 }

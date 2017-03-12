@@ -82,11 +82,11 @@
   </url>
   <url>
     <loc>http://cag.wiki/blogroll.html</loc>
-    <lastmod>2017-02-19</lastmod>
+    <lastmod>2017-03-12</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/books.html</loc>
-    <lastmod>2017-02-19</lastmod>
+    <lastmod>2017-03-09</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/books-2015.html</loc>
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/casey-gollan.html</loc>
-    <lastmod>2017-02-19</lastmod>
+    <lastmod>2017-02-28</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/christopher-alexander.html</loc>
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/federated-wiki.html</loc>
-    <lastmod>2016-11-24</lastmod>
+    <lastmod>2017-02-28</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/games.html</loc>
@@ -277,7 +277,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/notes.html</loc>
-    <lastmod>2017-02-16</lastmod>
+    <lastmod>2017-02-28</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/ornery.html</loc>
@@ -409,11 +409,11 @@
   </url>
   <url>
     <loc>http://cag.wiki/weeknotes-2016-archive.html</loc>
-    <lastmod>2016-12-28</lastmod>
+    <lastmod>2017-02-28</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/welcome-visitors.html</loc>
-    <lastmod>2017-02-19</lastmod>
+    <lastmod>2017-02-28</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/what-is-a-system.html</loc>
@@ -433,7 +433,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/wiki-meta-journal.html</loc>
-    <lastmod>2016-11-25</lastmod>
+    <lastmod>2017-02-27</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/wiki-reading-and-links.html</loc>
@@ -449,7 +449,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/words.html</loc>
-    <lastmod>2017-02-19</lastmod>
+    <lastmod>2017-02-28</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/work.html</loc>
@@ -461,10 +461,26 @@
   </url>
   <url>
     <loc>http://cag.wiki/about.html</loc>
-    <lastmod>2017-02-19</lastmod>
+    <lastmod>2017-02-28</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/files.html</loc>
     <lastmod>2017-02-19</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/talks.html</loc>
+    <lastmod>2017-02-28</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/the-oxbow-school-20161108.html</loc>
+    <lastmod>2017-02-19</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/contact.html</loc>
+    <lastmod>2017-02-28</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/fedwiki-meta.html</loc>
+    <lastmod>2017-02-28</lastmod>
   </url>
 </urlset>

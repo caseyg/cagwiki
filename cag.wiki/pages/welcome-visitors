@@ -4,12 +4,12 @@
     {
       "type": "paragraph",
       "id": "27f9f5e8cbc5ce82",
-      "text": "We come in peace! Have you seen these pages? ⤵︎"
+      "text": "\\/\\/elcome to CAG.wiki — we come in peace!"
     },
     {
       "type": "paragraph",
-      "id": "4facbdc047c0102e",
-      "text": "[[About]]  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]"
+      "id": "ac37f9573896932a",
+      "text": "Start with these pages ⤵︎"
     },
     {
       "type": "pagefold",
@@ -17,9 +17,14 @@
       "text": "🐜"
     },
     {
-      "text": "Okay, so you are here: CAG's [[Federated Wiki]] farm.",
-      "id": "7b56f22a4b9ee974",
-      "type": "paragraph"
+      "type": "paragraph",
+      "id": "4facbdc047c0102e",
+      "text": "[[About]] ([[Casey Gollan]])  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]   •   [[Contact]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "5d1c8b70266d5656",
+      "text": "⁉️"
     },
     {
       "type": "html",
@@ -29,12 +34,27 @@
     {
       "type": "paragraph",
       "id": "ece82bf05c83c1e2",
-      "text": "NOTE: This is a very ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
+      "text": "NOTE: This is a VERY ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
+    },
+    {
+      "type": "paragraph",
+      "id": "fedfc747518a9d2c",
+      "text": "What is a [[Federated Wiki]]?"
     },
     {
       "type": "pagefold",
       "id": "08cfde0d44acc465",
-      "text": "Working pages"
+      "text": "✍️"
+    },
+    {
+      "type": "paragraph",
+      "id": "1635a6f77f5c306d",
+      "text": "Working pages:"
+    },
+    {
+      "type": "paragraph",
+      "id": "44471403d16574db",
+      "text": "[[Baby Names]]"
     },
     {
       "type": "paragraph",
@@ -45,6 +65,11 @@
       "type": "paragraph",
       "id": "3904814310e8f71e",
       "text": "[[Notes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a6a9f5a2cd9961ab",
+      "text": "[http://projects.cag.wiki/view/projects Projects notes] and [http://projectsprojectsprojects.referata.com class wiki]"
     },
     {
       "type": "paragraph",
@@ -62,29 +87,14 @@
       "text": "[[Tools]]"
     },
     {
-      "type": "pagefold",
-      "id": "6f79d9508fb6b8f7",
-      "text": "Meta wiki stuff"
+      "type": "paragraph",
+      "id": "92dafac67f60a4db",
+      "text": "[[Talks]]"
     },
     {
       "type": "paragraph",
-      "id": "934be21b2a59883c",
-      "text": "[[Wiki reference]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "5574dace265d1ffb",
-      "text": "[[Wiki reading and links]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "99cdde605ec4db8f",
-      "text": "[[Wiki Ideas]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "7d87ce7ab5e29dfa",
-      "text": "[[Wiki Meta Journal]]"
+      "id": "3c6df18b845d916e",
+      "text": "[[Fedwiki Meta]]"
     },
     {
       "type": "pagefold",
@@ -4180,6 +4190,577 @@
       "type": "remove",
       "id": "68f151ad2b016914",
       "date": 1487468796029
+    },
+    {
+      "type": "edit",
+      "id": "27f9f5e8cbc5ce82",
+      "item": {
+        "type": "paragraph",
+        "id": "27f9f5e8cbc5ce82",
+        "text": "We come in peace! Start with these pages ⤵︎"
+      },
+      "date": 1487470374077
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "✍️"
+      },
+      "date": 1487470417234
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5d1c8b70266d5656"
+      },
+      "id": "5d1c8b70266d5656",
+      "type": "add",
+      "after": "030f425d318cd2c5",
+      "date": 1487470761877
+    },
+    {
+      "type": "edit",
+      "id": "5d1c8b70266d5656",
+      "item": {
+        "type": "pagefold",
+        "id": "5d1c8b70266d5656",
+        "text": "⁉️"
+      },
+      "date": 1487470780619
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "a852440f279ab933",
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "08cfde0d44acc465",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "6f79d9508fb6b8f7",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "5d1c8b70266d5656",
+      "date": 1487470785331
+    },
+    {
+      "type": "add",
+      "id": "fedfc747518a9d2c",
+      "item": {
+        "type": "paragraph",
+        "id": "fedfc747518a9d2c",
+        "text": "What is a federated wiki?"
+      },
+      "after": "4facbdc047c0102e",
+      "date": 1487470792225
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "a852440f279ab933",
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "08cfde0d44acc465",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "6f79d9508fb6b8f7",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "fedfc747518a9d2c",
+      "date": 1487470794350
+    },
+    {
+      "type": "edit",
+      "id": "fedfc747518a9d2c",
+      "item": {
+        "type": "paragraph",
+        "id": "fedfc747518a9d2c",
+        "text": "What is a [[Federated Wiki]]?"
+      },
+      "date": 1487470815767
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "a852440f279ab933",
+        "08cfde0d44acc465",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "6f79d9508fb6b8f7",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "a852440f279ab933",
+      "date": 1487470822091
+    },
+    {
+      "type": "move",
+      "order": [
+        "a852440f279ab933",
+        "27f9f5e8cbc5ce82",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "08cfde0d44acc465",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "6f79d9508fb6b8f7",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "a852440f279ab933",
+      "date": 1487470837116
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "a852440f279ab933",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "08cfde0d44acc465",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "6f79d9508fb6b8f7",
+        "934be21b2a59883c",
+        "5574dace265d1ffb",
+        "99cdde605ec4db8f",
+        "7d87ce7ab5e29dfa",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "a852440f279ab933",
+      "date": 1487470840310
+    },
+    {
+      "type": "add",
+      "id": "1635a6f77f5c306d",
+      "item": {
+        "type": "paragraph",
+        "id": "1635a6f77f5c306d",
+        "text": "Working pages:"
+      },
+      "after": "08cfde0d44acc465",
+      "date": 1487471550340
+    },
+    {
+      "type": "edit",
+      "id": "4facbdc047c0102e",
+      "item": {
+        "type": "paragraph",
+        "id": "4facbdc047c0102e",
+        "text": "[[About About Casey]]  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]"
+      },
+      "date": 1487472472446
+    },
+    {
+      "type": "edit",
+      "id": "4facbdc047c0102e",
+      "item": {
+        "type": "paragraph",
+        "id": "4facbdc047c0102e",
+        "text": "[[About]]  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]"
+      },
+      "date": 1487472478803
+    },
+    {
+      "type": "add",
+      "id": "92dafac67f60a4db",
+      "item": {
+        "type": "paragraph",
+        "id": "92dafac67f60a4db",
+        "text": "[[Talks]]"
+      },
+      "after": "a8ff1d4629deb381",
+      "date": 1487472547329
+    },
+    {
+      "type": "edit",
+      "id": "4facbdc047c0102e",
+      "item": {
+        "type": "paragraph",
+        "id": "4facbdc047c0102e",
+        "text": "[[About]]  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]   •   [[Contact]]"
+      },
+      "date": 1488200848660
+    },
+    {
+      "type": "edit",
+      "id": "27f9f5e8cbc5ce82",
+      "item": {
+        "type": "paragraph",
+        "id": "27f9f5e8cbc5ce82",
+        "text": "\\/\\/elcome to CAG.wiki — we come in peace! Start with these pages ⤵︎"
+      },
+      "date": 1488247748123
+    },
+    {
+      "type": "edit",
+      "id": "27f9f5e8cbc5ce82",
+      "item": {
+        "type": "paragraph",
+        "id": "27f9f5e8cbc5ce82",
+        "text": "\\/\\/elcome to CAG.wiki — we come in peace!"
+      },
+      "date": 1488247751231
+    },
+    {
+      "type": "add",
+      "id": "ac37f9573896932a",
+      "item": {
+        "type": "paragraph",
+        "id": "ac37f9573896932a",
+        "text": "Start with these pages ⤵︎"
+      },
+      "after": "27f9f5e8cbc5ce82",
+      "date": 1488247753790
+    },
+    {
+      "type": "add",
+      "id": "3c6df18b845d916e",
+      "item": {
+        "type": "paragraph",
+        "id": "3c6df18b845d916e",
+        "text": "[[Fedwiki Meta]]"
+      },
+      "after": "92dafac67f60a4db",
+      "date": 1488247961088
+    },
+    {
+      "type": "remove",
+      "id": "934be21b2a59883c",
+      "date": 1488247966664
+    },
+    {
+      "type": "remove",
+      "id": "5574dace265d1ffb",
+      "date": 1488247968687
+    },
+    {
+      "type": "remove",
+      "id": "99cdde605ec4db8f",
+      "date": 1488247971254
+    },
+    {
+      "type": "remove",
+      "id": "7d87ce7ab5e29dfa",
+      "date": 1488247973855
+    },
+    {
+      "type": "remove",
+      "id": "6f79d9508fb6b8f7",
+      "date": 1488247976092
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "ac37f9573896932a",
+        "a852440f279ab933",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "7b56f22a4b9ee974",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "fedfc747518a9d2c",
+        "08cfde0d44acc465",
+        "1635a6f77f5c306d",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "92dafac67f60a4db",
+        "3c6df18b845d916e",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "fedfc747518a9d2c",
+      "date": 1488247994878
+    },
+    {
+      "type": "remove",
+      "id": "7b56f22a4b9ee974",
+      "date": 1488248004773
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "NOTE: This is a VERY ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
+      },
+      "date": 1488248029040
+    },
+    {
+      "type": "edit",
+      "id": "fedfc747518a9d2c",
+      "item": {
+        "type": "paragraph",
+        "id": "fedfc747518a9d2c",
+        "text": "What is a [[Federated Wiki]]??"
+      },
+      "date": 1488248043010
+    },
+    {
+      "type": "edit",
+      "id": "fedfc747518a9d2c",
+      "item": {
+        "type": "paragraph",
+        "id": "fedfc747518a9d2c",
+        "text": "What is a [[Federated Wiki]]?"
+      },
+      "date": 1488248050370
+    },
+    {
+      "type": "add",
+      "id": "a6a9f5a2cd9961ab",
+      "item": {
+        "type": "paragraph",
+        "id": "a6a9f5a2cd9961ab",
+        "text": "[[http://projects.cag.wiki Projects class]]"
+      },
+      "after": "3c6df18b845d916e",
+      "date": 1488248262833
+    },
+    {
+      "type": "edit",
+      "id": "a6a9f5a2cd9961ab",
+      "item": {
+        "type": "paragraph",
+        "id": "a6a9f5a2cd9961ab",
+        "text": "[http://projects.cag.wiki Projects class]"
+      },
+      "date": 1488248268632
+    },
+    {
+      "type": "edit",
+      "id": "a6a9f5a2cd9961ab",
+      "item": {
+        "type": "paragraph",
+        "id": "a6a9f5a2cd9961ab",
+        "text": "[http://projects.cag.wiki/view/projects Projects notes] and [http://projectsprojectsprojects.referata.com class wiki]"
+      },
+      "date": 1488248305725
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "ac37f9573896932a",
+        "a852440f279ab933",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "fedfc747518a9d2c",
+        "08cfde0d44acc465",
+        "1635a6f77f5c306d",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "92dafac67f60a4db",
+        "a6a9f5a2cd9961ab",
+        "3c6df18b845d916e",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "a6a9f5a2cd9961ab",
+      "date": 1488248346304
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "ac37f9573896932a",
+        "a852440f279ab933",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "fedfc747518a9d2c",
+        "08cfde0d44acc465",
+        "1635a6f77f5c306d",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "a6a9f5a2cd9961ab",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "92dafac67f60a4db",
+        "3c6df18b845d916e",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "a6a9f5a2cd9961ab",
+      "date": 1488248349527
+    },
+    {
+      "type": "edit",
+      "id": "4facbdc047c0102e",
+      "item": {
+        "type": "paragraph",
+        "id": "4facbdc047c0102e",
+        "text": "[[About]] ([[Casey Gollan]])  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]   •   [[Contact]]"
+      },
+      "date": 1488248481623
+    },
+    {
+      "type": "edit",
+      "id": "a6a9f5a2cd9961ab",
+      "item": {
+        "type": "paragraph",
+        "id": "a6a9f5a2cd9961ab",
+        "text": "[http://projects.cag.wiki/view/projects Projects: The Cooper Union notes] and [http://projectsprojectsprojects.referata.com class wiki]"
+      },
+      "date": 1488248627481
+    },
+    {
+      "type": "edit",
+      "id": "a6a9f5a2cd9961ab",
+      "item": {
+        "type": "paragraph",
+        "id": "a6a9f5a2cd9961ab",
+        "text": "[http://projects.cag.wiki/view/projects Projects notes] and [http://projectsprojectsprojects.referata.com class wiki]"
+      },
+      "date": 1488248632981
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "44471403d16574db",
+        "text": "[[Baby Names]]"
+      },
+      "after": "1635a6f77f5c306d",
+      "id": "44471403d16574db",
+      "date": 1488250093910
     }
   ]
 }

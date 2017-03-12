@@ -3,8 +3,8 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "bc486e635e17d682",
-      "text": "[[2016-48]]"
+      "id": "21da3de7fee2959c",
+      "text": "[[2016-52]]"
     },
     {
       "type": "paragraph",
@@ -13,8 +13,8 @@
     },
     {
       "type": "paragraph",
-      "id": "21da3de7fee2959c",
-      "text": "[[2016-52]]"
+      "id": "bc486e635e17d682",
+      "text": "[[2016-48]]"
     }
   ],
   "journal": [
@@ -57,6 +57,26 @@
       "after": "c21c32f5f2fe1d0f",
       "id": "21da3de7fee2959c",
       "date": 1482920011199
+    },
+    {
+      "type": "move",
+      "order": [
+        "c21c32f5f2fe1d0f",
+        "bc486e635e17d682",
+        "21da3de7fee2959c"
+      ],
+      "id": "c21c32f5f2fe1d0f",
+      "date": 1488250079310
+    },
+    {
+      "type": "move",
+      "order": [
+        "21da3de7fee2959c",
+        "c21c32f5f2fe1d0f",
+        "bc486e635e17d682"
+      ],
+      "id": "21da3de7fee2959c",
+      "date": 1488250080457
     }
   ]
 }

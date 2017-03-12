@@ -1,0 +1,105 @@
+{
+  "title": "Talks",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1fdc5e3b3c547241",
+      "text": "[[The Oxbow School (2016/11/08)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8b88c877d417ca91",
+      "text": "Vera List Center"
+    },
+    {
+      "type": "paragraph",
+      "id": "ba9797060dce225b",
+      "text": "Between Bridges"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Talks",
+        "story": []
+      },
+      "date": 1487472550546
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "68337b7107c6fb22"
+      },
+      "id": "68337b7107c6fb22",
+      "type": "add",
+      "date": 1487472625030
+    },
+    {
+      "type": "remove",
+      "id": "68337b7107c6fb22",
+      "date": 1487472628713
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1fdc5e3b3c547241"
+      },
+      "id": "1fdc5e3b3c547241",
+      "type": "add",
+      "date": 1487472633868
+    },
+    {
+      "type": "edit",
+      "id": "1fdc5e3b3c547241",
+      "item": {
+        "type": "paragraph",
+        "id": "1fdc5e3b3c547241",
+        "text": "The Oxbow School (2016"
+      },
+      "date": 1487472647012
+    },
+    {
+      "type": "edit",
+      "id": "1fdc5e3b3c547241",
+      "item": {
+        "type": "paragraph",
+        "id": "1fdc5e3b3c547241",
+        "text": "The Oxbow School (2016/11/08)"
+      },
+      "date": 1487472653650
+    },
+    {
+      "type": "edit",
+      "id": "1fdc5e3b3c547241",
+      "item": {
+        "type": "paragraph",
+        "id": "1fdc5e3b3c547241",
+        "text": "[[The Oxbow School (2016/11/08)]]"
+      },
+      "date": 1487472657152
+    },
+    {
+      "type": "add",
+      "id": "ba9797060dce225b",
+      "item": {
+        "type": "paragraph",
+        "id": "ba9797060dce225b",
+        "text": "Between Bridges"
+      },
+      "after": "1fdc5e3b3c547241",
+      "date": 1488248601498
+    },
+    {
+      "type": "add",
+      "id": "8b88c877d417ca91",
+      "item": {
+        "type": "paragraph",
+        "id": "8b88c877d417ca91",
+        "text": "Vera List Center"
+      },
+      "after": "1fdc5e3b3c547241",
+      "date": 1488248608323
+    }
+  ]
+}

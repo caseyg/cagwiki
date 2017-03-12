@@ -2,6 +2,51 @@
   "title": "Projects",
   "story": [
     {
+      "type": "markdown",
+      "id": "5b8945a163d21af4",
+      "text": "# About Projects"
+    },
+    {
+      "type": "paragraph",
+      "id": "31351598f3a45d1b",
+      "text": "This is Casey's Projects scratchpad and notebook. Check out the [http://projectsprojectsprojects.referata.com class wiki] for more about the class."
+    },
+    {
+      "type": "markdown",
+      "id": "152dad1d43552b10",
+      "text": "# Notes"
+    },
+    {
+      "type": "paragraph",
+      "id": "7ebcaf84f757855f",
+      "text": "[[Class Notes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a07f7fafb20e4b51",
+      "text": "[[Studio Visits]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "156dc6817b9069fd",
+      "text": "[[Projects (Spring 2017)]] "
+    },
+    {
+      "type": "paragraph",
+      "id": "792bfcdc3b80cee6",
+      "text": "[[Planning Notes]]"
+    },
+    {
+      "type": "markdown",
+      "id": "39903e17413f4cef",
+      "text": "# "
+    },
+    {
+      "type": "markdown",
+      "id": "6731b4779cbcb431",
+      "text": "# More about my notes"
+    },
+    {
       "type": "paragraph",
       "id": "a152a7ec456a2f00",
       "text": "By the way of [[Work In Public, Reveal Nothing]], I'm gonna workshop some of my notes from class here."
@@ -17,259 +62,19 @@
       "text": "BTW, these are all things that I heard or thought or remembered and wrote down in conversation. So not, like, reports. In fact, these might not (should not?) make much sense. Starting points. Sniplets of what piqued my interest or jogs my memory."
     },
     {
-      "type": "paragraph",
-      "id": "156dc6817b9069fd",
-      "text": "[[Projects (Spring 2017)]] "
-    },
-    {
-      "type": "paragraph",
-      "id": "a07f7fafb20e4b51",
-      "text": "[[Studio Visits]]"
-    },
-    {
-      "type": "markdown",
-      "id": "2335f64b244d6130",
-      "text": "# class notes"
-    },
-    {
-      "type": "paragraph",
-      "id": "38e8ac603896e57c",
-      "text": "20: [[2/13/17]] (richard stock + presentations:)"
-    },
-    {
-      "type": "paragraph",
-      "id": "33ddc191c2913b78",
-      "text": "19: [[2/6/17]] (presentations: )"
-    },
-    {
-      "type": "paragraph",
-      "id": "d26696fa72aad730",
-      "text": "18: [[1/30/17]] (cooper archive + architecture archive visit)"
-    },
-    {
-      "type": "paragraph",
-      "id": "d28eca4494a29a7e",
-      "text": "17: [[1/23/17]] (nader tehrani)"
-    },
-    {
-      "type": "paragraph",
-      "id": "29540c6e6abeeb1e",
-      "text": "16: [[1/16/17]] (first class, spring semester)"
-    },
-    {
-      "type": "paragraph",
-      "id": "54462a8a1c59ae12",
-      "text": "Spring 2017 Semester ⤴︎"
-    },
-    {
-      "type": "paragraph",
-      "id": "3e959697bb90bb2f",
-      "text": "15: [[12/19/16]] (class presentations)"
-    },
-    {
-      "type": "paragraph",
-      "id": "0bdb2867425f80e0",
-      "text": "14: [[12/12/16]] (class presentations)"
-    },
-    {
-      "type": "paragraph",
-      "id": "041a475085161fe1",
-      "text": "13: [[12/5/16]] (class presentations)"
-    },
-    {
-      "type": "paragraph",
-      "id": "856509f7799ddcd8",
-      "text": "12: [[11/28/16]] (class presentations)"
-    },
-    {
-      "type": "paragraph",
-      "id": "5ed8bcc6e6433df6",
-      "text": "11: [[11/21/16]] (class presentations)"
-    },
-    {
-      "type": "paragraph",
-      "id": "83a7c51ee590b089",
-      "text": "10: [[11/14/16]] (javier rivera)"
-    },
-    {
-      "type": "paragraph",
-      "id": "318f5e8da7e7ffff",
-      "text": "09: [[11/7/16]] (chris cloud)"
-    },
-    {
-      "type": "paragraph",
-      "id": "d2ce521cb1f905d2",
-      "text": "08: [[10/31/16]] (fish house + mission discussion)"
-    },
-    {
-      "type": "paragraph",
-      "id": "ba132e507c9468b0",
-      "text": "07: [[10/24/16]] (david gersten)"
-    },
-    {
-      "type": "paragraph",
-      "id": "e2ec25df58836ae7",
-      "text": "🚧: [[10/23/16]] (lincoln alpern & liz flyntz, nonstop antioch dinner/discussion)"
-    },
-    {
-      "type": "paragraph",
-      "id": "2c07aaaa5160ab28",
-      "text": "06: [[10/17/16]] (projects discussion + steven hillier & chris dierks / architecture archive)"
-    },
-    {
-      "type": "paragraph",
-      "id": "eb648f73666f1a3b",
-      "text": "05: [[10/10/16]] (diane lewis)"
-    },
-    {
-      "type": "paragraph",
-      "id": "cf85cbc66f320ef1",
-      "text": "04: [[10/7/16]] (jeff scudder)"
-    },
-    {
-      "type": "paragraph",
-      "id": "ac49deba19851fc5",
-      "text": "🌀: [[10/3/16]] (open work session)"
-    },
-    {
-      "type": "paragraph",
-      "id": "34228bc5d6034578",
-      "text": "03: [[9/26/16]] (bill mea)"
-    },
-    {
-      "type": "paragraph",
-      "id": "8748d7f168eb9840",
-      "text": "02: [[9/19/16]] (nonstop + vic/jakob presentation)"
-    },
-    {
-      "type": "paragraph",
-      "id": "5bd9da4d2a569d90",
-      "text": "01: [[9/12/16]] (first class, katie blumenkrantz / archive)"
-    },
-    {
-      "type": "paragraph",
-      "id": "b5453cef7a674236",
-      "text": "🏊: [[9/11/16]] (quarry trip)"
-    },
-    {
-      "type": "paragraph",
-      "id": "3f1ddacadda017e6",
-      "text": "00: [[5/26/16]] (initial pre-meeting)"
-    },
-    {
-      "type": "markdown",
-      "id": "39903e17413f4cef",
-      "text": "# "
-    },
-    {
-      "type": "markdown",
-      "id": "87d3ade3543434fc",
-      "text": "# planning / meeting notes"
-    },
-    {
-      "type": "paragraph",
-      "id": "eb0f7f47242959df",
-      "text": "[[10/24/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "fc28b7732aaf9a88",
-      "text": "[[10/17/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "eadef464a83948d9",
-      "text": "[[10/10/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "605c9ee6f23711fd",
-      "text": "[[9/9/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "8d1c5e5e1d67433a",
-      "text": "[[8/28/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "272c6eb3aa16f2b3",
-      "text": "[[7/31/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "e3eabe1bf761b685",
-      "text": "[[7/16/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "ae38a422e789b303",
-      "text": "[[7/15/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "adc8cfe97b2ef68b",
-      "text": "[[7/5/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "9e21ffb0cd007b0f",
-      "text": "[[5/25/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "f1fe21cc6fcc3b91",
-      "text": "[[5/17/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "ea5326a885d2f74f",
-      "text": "[[5/9/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "ef8af3a2aae6b0e0",
-      "text": "[[5/3/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "ee46009dda5e30e3",
-      "text": "[[4/26/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "38f47729cf71deb1",
-      "text": "[[4/19/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "5d011beee9a0b1b2",
-      "text": "[[4/15/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "718ccbc69d74e9d6",
-      "text": "[[4/13/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "367a1acc345d0216",
-      "text": "[[4/12/16]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "a935020bd10b8d31",
-      "text": "[[4/1/16]]"
-    },
-    {
       "type": "markdown",
       "id": "e9fef7ed4dfc1bb9",
-      "text": "# Other"
+      "text": "# Stubs"
     },
     {
       "type": "paragraph",
       "id": "f78726b2e2b37a94",
       "text": "[[Cooper Reviewed]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d3247c3f8e574510",
+      "text": "[[Email scratchpad]]"
     }
   ],
   "journal": [
@@ -3004,6 +2809,688 @@
         "text": "[[Studio Visits]]"
       },
       "date": 1487268798928
+    },
+    {
+      "type": "add",
+      "id": "d3247c3f8e574510",
+      "item": {
+        "type": "paragraph",
+        "id": "d3247c3f8e574510",
+        "text": "[Email drafts]"
+      },
+      "after": "f78726b2e2b37a94",
+      "date": 1488047023103
+    },
+    {
+      "type": "edit",
+      "id": "d3247c3f8e574510",
+      "item": {
+        "type": "paragraph",
+        "id": "d3247c3f8e574510",
+        "text": "[[Email scratchpad]]"
+      },
+      "date": 1488047033623
+    },
+    {
+      "type": "add",
+      "id": "e2ab17827ed65a70",
+      "item": {
+        "type": "paragraph",
+        "id": "e2ab17827ed65a70",
+        "text": "21: 2/"
+      },
+      "after": "2335f64b244d6130",
+      "date": 1488206466573
+    },
+    {
+      "type": "edit",
+      "id": "e2ab17827ed65a70",
+      "item": {
+        "type": "paragraph",
+        "id": "e2ab17827ed65a70",
+        "text": "21: 2/27/17 (mike Essl + presentations)"
+      },
+      "date": 1488206478479
+    },
+    {
+      "type": "edit",
+      "id": "e2ab17827ed65a70",
+      "item": {
+        "type": "paragraph",
+        "id": "e2ab17827ed65a70",
+        "text": "21: 2/27/17 (mike essl + presentations)"
+      },
+      "date": 1488206480865
+    },
+    {
+      "type": "edit",
+      "id": "38e8ac603896e57c",
+      "item": {
+        "type": "paragraph",
+        "id": "38e8ac603896e57c",
+        "text": "20: [[2/13/17]] (richard stock + presentations)"
+      },
+      "date": 1488206483361
+    },
+    {
+      "type": "edit",
+      "id": "e2ab17827ed65a70",
+      "item": {
+        "type": "paragraph",
+        "id": "e2ab17827ed65a70",
+        "text": "21: [[2/27/17]] (mike essl + presentations)"
+      },
+      "date": 1488206489160
+    },
+    {
+      "type": "add",
+      "id": "7ebcaf84f757855f",
+      "item": {
+        "type": "paragraph",
+        "id": "7ebcaf84f757855f",
+        "text": "[[[Class Notes]]"
+      },
+      "after": "a07f7fafb20e4b51",
+      "date": 1488206516717
+    },
+    {
+      "type": "edit",
+      "id": "7ebcaf84f757855f",
+      "item": {
+        "type": "paragraph",
+        "id": "7ebcaf84f757855f",
+        "text": "[[Class Notes]]"
+      },
+      "date": 1488206519070
+    },
+    {
+      "type": "remove",
+      "id": "e2ab17827ed65a70",
+      "date": 1488206525558
+    },
+    {
+      "type": "remove",
+      "id": "38e8ac603896e57c",
+      "date": 1488206527460
+    },
+    {
+      "type": "remove",
+      "id": "33ddc191c2913b78",
+      "date": 1488206529731
+    },
+    {
+      "type": "remove",
+      "id": "d26696fa72aad730",
+      "date": 1488206532268
+    },
+    {
+      "type": "remove",
+      "id": "d28eca4494a29a7e",
+      "date": 1488206537128
+    },
+    {
+      "type": "remove",
+      "id": "29540c6e6abeeb1e",
+      "date": 1488206539085
+    },
+    {
+      "type": "remove",
+      "id": "54462a8a1c59ae12",
+      "date": 1488206541279
+    },
+    {
+      "type": "remove",
+      "id": "3e959697bb90bb2f",
+      "date": 1488206543103
+    },
+    {
+      "type": "remove",
+      "id": "0bdb2867425f80e0",
+      "date": 1488206545152
+    },
+    {
+      "type": "remove",
+      "id": "041a475085161fe1",
+      "date": 1488206547024
+    },
+    {
+      "type": "remove",
+      "id": "856509f7799ddcd8",
+      "date": 1488206548504
+    },
+    {
+      "type": "remove",
+      "id": "5ed8bcc6e6433df6",
+      "date": 1488206549977
+    },
+    {
+      "type": "remove",
+      "id": "83a7c51ee590b089",
+      "date": 1488206551532
+    },
+    {
+      "type": "remove",
+      "id": "318f5e8da7e7ffff",
+      "date": 1488206553310
+    },
+    {
+      "type": "remove",
+      "id": "d2ce521cb1f905d2",
+      "date": 1488206554654
+    },
+    {
+      "type": "remove",
+      "id": "ba132e507c9468b0",
+      "date": 1488206556458
+    },
+    {
+      "type": "remove",
+      "id": "e2ec25df58836ae7",
+      "date": 1488206560551
+    },
+    {
+      "type": "remove",
+      "id": "2c07aaaa5160ab28",
+      "date": 1488206566414
+    },
+    {
+      "type": "remove",
+      "id": "eb648f73666f1a3b",
+      "date": 1488206568275
+    },
+    {
+      "type": "remove",
+      "id": "cf85cbc66f320ef1",
+      "date": 1488206572635
+    },
+    {
+      "type": "remove",
+      "id": "ac49deba19851fc5",
+      "date": 1488206576406
+    },
+    {
+      "type": "remove",
+      "id": "34228bc5d6034578",
+      "date": 1488206582349
+    },
+    {
+      "type": "remove",
+      "id": "8748d7f168eb9840",
+      "date": 1488206584553
+    },
+    {
+      "type": "remove",
+      "id": "5bd9da4d2a569d90",
+      "date": 1488206587041
+    },
+    {
+      "type": "remove",
+      "id": "b5453cef7a674236",
+      "date": 1488206588970
+    },
+    {
+      "type": "remove",
+      "id": "3f1ddacadda017e6",
+      "date": 1488206591507
+    },
+    {
+      "type": "add",
+      "id": "792bfcdc3b80cee6",
+      "item": {
+        "type": "paragraph",
+        "id": "792bfcdc3b80cee6",
+        "text": "[[Planning Notes]]"
+      },
+      "after": "7ebcaf84f757855f",
+      "date": 1488206597979
+    },
+    {
+      "type": "remove",
+      "id": "eb0f7f47242959df",
+      "date": 1488206604387
+    },
+    {
+      "type": "remove",
+      "id": "fc28b7732aaf9a88",
+      "date": 1488206606696
+    },
+    {
+      "type": "remove",
+      "id": "eadef464a83948d9",
+      "date": 1488206608405
+    },
+    {
+      "type": "remove",
+      "id": "605c9ee6f23711fd",
+      "date": 1488206610367
+    },
+    {
+      "type": "remove",
+      "id": "8d1c5e5e1d67433a",
+      "date": 1488206612319
+    },
+    {
+      "type": "remove",
+      "id": "272c6eb3aa16f2b3",
+      "date": 1488206613640
+    },
+    {
+      "type": "remove",
+      "id": "e3eabe1bf761b685",
+      "date": 1488206615237
+    },
+    {
+      "type": "remove",
+      "id": "ae38a422e789b303",
+      "date": 1488206617182
+    },
+    {
+      "type": "remove",
+      "id": "adc8cfe97b2ef68b",
+      "date": 1488206618641
+    },
+    {
+      "type": "remove",
+      "id": "9e21ffb0cd007b0f",
+      "date": 1488206619848
+    },
+    {
+      "type": "remove",
+      "id": "f1fe21cc6fcc3b91",
+      "date": 1488206621410
+    },
+    {
+      "type": "remove",
+      "id": "ea5326a885d2f74f",
+      "date": 1488206624715
+    },
+    {
+      "type": "remove",
+      "id": "ef8af3a2aae6b0e0",
+      "date": 1488206626698
+    },
+    {
+      "type": "remove",
+      "id": "ee46009dda5e30e3",
+      "date": 1488206629115
+    },
+    {
+      "type": "remove",
+      "id": "38f47729cf71deb1",
+      "date": 1488206631353
+    },
+    {
+      "type": "remove",
+      "id": "5d011beee9a0b1b2",
+      "date": 1488206633514
+    },
+    {
+      "type": "remove",
+      "id": "718ccbc69d74e9d6",
+      "date": 1488206635900
+    },
+    {
+      "type": "remove",
+      "id": "367a1acc345d0216",
+      "date": 1488206640740
+    },
+    {
+      "type": "remove",
+      "id": "a935020bd10b8d31",
+      "date": 1488206642344
+    },
+    {
+      "type": "remove",
+      "id": "2335f64b244d6130",
+      "date": 1488206644250
+    },
+    {
+      "type": "remove",
+      "id": "87d3ade3543434fc",
+      "date": 1488206646511
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6731b4779cbcb431"
+      },
+      "id": "6731b4779cbcb431",
+      "type": "add",
+      "after": "d3247c3f8e574510",
+      "date": 1488206670863
+    },
+    {
+      "type": "edit",
+      "id": "6731b4779cbcb431",
+      "item": {
+        "type": "markdown",
+        "id": "6731b4779cbcb431",
+        "text": "# Notes"
+      },
+      "date": 1488206679036
+    },
+    {
+      "type": "move",
+      "order": [
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "156dc6817b9069fd",
+        "a07f7fafb20e4b51",
+        "7ebcaf84f757855f",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "6731b4779cbcb431",
+      "date": 1488206681099
+    },
+    {
+      "type": "move",
+      "order": [
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "156dc6817b9069fd",
+        "a07f7fafb20e4b51",
+        "7ebcaf84f757855f",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "a152a7ec456a2f00",
+      "date": 1488206688541
+    },
+    {
+      "type": "move",
+      "order": [
+        "a016761f69f2fb76",
+        "156dc6817b9069fd",
+        "a07f7fafb20e4b51",
+        "7ebcaf84f757855f",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "12f8d6d4a5caaf2c",
+      "date": 1488206691763
+    },
+    {
+      "type": "move",
+      "order": [
+        "156dc6817b9069fd",
+        "a07f7fafb20e4b51",
+        "7ebcaf84f757855f",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "a016761f69f2fb76",
+      "date": 1488206693438
+    },
+    {
+      "type": "edit",
+      "id": "6731b4779cbcb431",
+      "item": {
+        "type": "markdown",
+        "id": "6731b4779cbcb431",
+        "text": "# About these Notes"
+      },
+      "date": 1488206738193
+    },
+    {
+      "type": "edit",
+      "id": "6731b4779cbcb431",
+      "item": {
+        "type": "markdown",
+        "id": "6731b4779cbcb431",
+        "text": "# About these notes"
+      },
+      "date": 1488206741746
+    },
+    {
+      "type": "edit",
+      "id": "e9fef7ed4dfc1bb9",
+      "item": {
+        "type": "markdown",
+        "id": "e9fef7ed4dfc1bb9",
+        "text": "# Stubs"
+      },
+      "date": 1488206756062
+    },
+    {
+      "type": "move",
+      "order": [
+        "7ebcaf84f757855f",
+        "156dc6817b9069fd",
+        "a07f7fafb20e4b51",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "7ebcaf84f757855f",
+      "date": 1488206767939
+    },
+    {
+      "type": "edit",
+      "id": "6731b4779cbcb431",
+      "item": {
+        "type": "markdown",
+        "id": "6731b4779cbcb431",
+        "text": "# More about my notes"
+      },
+      "date": 1488206789261
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5b8945a163d21af4"
+      },
+      "id": "5b8945a163d21af4",
+      "type": "add",
+      "after": "d3247c3f8e574510",
+      "date": 1488206792323
+    },
+    {
+      "type": "edit",
+      "id": "5b8945a163d21af4",
+      "item": {
+        "type": "markdown",
+        "id": "5b8945a163d21af4",
+        "text": "# About Projects"
+      },
+      "date": 1488206799117
+    },
+    {
+      "type": "move",
+      "order": [
+        "5b8945a163d21af4",
+        "7ebcaf84f757855f",
+        "156dc6817b9069fd",
+        "a07f7fafb20e4b51",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "5b8945a163d21af4",
+      "date": 1488206802414
+    },
+    {
+      "type": "add",
+      "id": "31351598f3a45d1b",
+      "item": {
+        "type": "paragraph",
+        "id": "31351598f3a45d1b",
+        "text": "You can read"
+      },
+      "after": "12f8d6d4a5caaf2c",
+      "date": 1488206807982
+    },
+    {
+      "type": "move",
+      "order": [
+        "5b8945a163d21af4",
+        "31351598f3a45d1b",
+        "7ebcaf84f757855f",
+        "156dc6817b9069fd",
+        "a07f7fafb20e4b51",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "31351598f3a45d1b",
+      "date": 1488206809970
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "152dad1d43552b10"
+      },
+      "id": "152dad1d43552b10",
+      "type": "add",
+      "after": "d3247c3f8e574510",
+      "date": 1488206811869
+    },
+    {
+      "type": "edit",
+      "id": "152dad1d43552b10",
+      "item": {
+        "type": "markdown",
+        "id": "152dad1d43552b10",
+        "text": "# Notes"
+      },
+      "date": 1488206817374
+    },
+    {
+      "type": "move",
+      "order": [
+        "5b8945a163d21af4",
+        "31351598f3a45d1b",
+        "152dad1d43552b10",
+        "7ebcaf84f757855f",
+        "156dc6817b9069fd",
+        "a07f7fafb20e4b51",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "152dad1d43552b10",
+      "date": 1488206820220
+    },
+    {
+      "type": "move",
+      "order": [
+        "5b8945a163d21af4",
+        "31351598f3a45d1b",
+        "152dad1d43552b10",
+        "7ebcaf84f757855f",
+        "a07f7fafb20e4b51",
+        "792bfcdc3b80cee6",
+        "156dc6817b9069fd",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "156dc6817b9069fd",
+      "date": 1488206823065
+    },
+    {
+      "type": "move",
+      "order": [
+        "5b8945a163d21af4",
+        "31351598f3a45d1b",
+        "152dad1d43552b10",
+        "7ebcaf84f757855f",
+        "a07f7fafb20e4b51",
+        "156dc6817b9069fd",
+        "792bfcdc3b80cee6",
+        "39903e17413f4cef",
+        "6731b4779cbcb431",
+        "a152a7ec456a2f00",
+        "12f8d6d4a5caaf2c",
+        "a016761f69f2fb76",
+        "e9fef7ed4dfc1bb9",
+        "f78726b2e2b37a94",
+        "d3247c3f8e574510"
+      ],
+      "id": "156dc6817b9069fd",
+      "date": 1488206824256
+    },
+    {
+      "type": "edit",
+      "id": "31351598f3a45d1b",
+      "item": {
+        "type": "paragraph",
+        "id": "31351598f3a45d1b",
+        "text": "Check out the [http://projectsprojectsprojects.referata.com class wiki]"
+      },
+      "date": 1488206841759
+    },
+    {
+      "type": "edit",
+      "id": "31351598f3a45d1b",
+      "item": {
+        "type": "paragraph",
+        "id": "31351598f3a45d1b",
+        "text": "Check out the [http://projectsprojectsprojects.referata.com class wiki] for more about the class."
+      },
+      "date": 1488206861308
+    },
+    {
+      "type": "edit",
+      "id": "31351598f3a45d1b",
+      "item": {
+        "type": "paragraph",
+        "id": "31351598f3a45d1b",
+        "text": "This is Casey's Projects scratchpad and notebook. Check out the [http://projectsprojectsprojects.referata.com class wiki] for more about the class."
+      },
+      "date": 1488206878966
     }
   ]
 }

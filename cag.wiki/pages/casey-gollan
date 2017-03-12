@@ -4,22 +4,7 @@
     {
       "type": "paragraph",
       "id": "3503ce65cd2bfa73",
-      "text": "See also: [[about]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "c3c1d5811cbfcffb",
-      "text": "[http://caseyagollan.com homepage]"
-    },
-    {
-      "type": "paragraph",
-      "id": "89e353260dac72ee",
-      "text": "[http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
-    },
-    {
-      "type": "paragraph",
-      "id": "7ed134afa25ff19c",
-      "text": "email: casey@bullshit.systems"
+      "text": "See also: [[about]], [[contact]]"
     },
     {
       "type": "html",
@@ -683,6 +668,41 @@
         "text": "See also: [[about]]"
       },
       "date": 1487468302234
+    },
+    {
+      "type": "remove",
+      "id": "c3c1d5811cbfcffb",
+      "date": 1488249223431
+    },
+    {
+      "type": "remove",
+      "id": "89e353260dac72ee",
+      "date": 1488249225830
+    },
+    {
+      "type": "remove",
+      "id": "7ed134afa25ff19c",
+      "date": 1488249228210
+    },
+    {
+      "type": "edit",
+      "id": "3503ce65cd2bfa73",
+      "item": {
+        "type": "paragraph",
+        "id": "3503ce65cd2bfa73",
+        "text": "See also: [[about]] [[contact]]"
+      },
+      "date": 1488249232728
+    },
+    {
+      "type": "edit",
+      "id": "3503ce65cd2bfa73",
+      "item": {
+        "type": "paragraph",
+        "id": "3503ce65cd2bfa73",
+        "text": "See also: [[about]], [[contact]]"
+      },
+      "date": 1488249236155
     }
   ]
 }

@@ -3,6 +3,11 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "ebdcf7e9744bedb3",
+      "text": "A shortlist of what people are working on:"
+    },
+    {
+      "type": "paragraph",
       "id": "668c124992520b82",
       "text": "Banner — Emily"
     },
@@ -24,7 +29,7 @@
     {
       "type": "paragraph",
       "id": "5f720e057c1969e0",
-      "text": "Stefany"
+      "text": "Job Interviews — Stefany"
     }
   ],
   "journal": [
@@ -98,6 +103,60 @@
       },
       "after": "ce65044255eb4a3d",
       "date": 1487268809396
+    },
+    {
+      "type": "edit",
+      "id": "5f720e057c1969e0",
+      "item": {
+        "type": "paragraph",
+        "id": "5f720e057c1969e0",
+        "text": "Stefany — Job Interviews"
+      },
+      "date": 1488205888742
+    },
+    {
+      "type": "edit",
+      "id": "5f720e057c1969e0",
+      "item": {
+        "type": "paragraph",
+        "id": "5f720e057c1969e0",
+        "text": "Job Interviews — Stefany"
+      },
+      "date": 1488205896653
+    },
+    {
+      "type": "add",
+      "id": "ebdcf7e9744bedb3",
+      "item": {
+        "type": "paragraph",
+        "id": "ebdcf7e9744bedb3",
+        "text": "A shortlist of what people are working on."
+      },
+      "after": "5f720e057c1969e0",
+      "date": 1488206713212
+    },
+    {
+      "type": "move",
+      "order": [
+        "ebdcf7e9744bedb3",
+        "668c124992520b82",
+        "84c3f3fdeed4218e",
+        "bf5da16a53976a66",
+        "ce65044255eb4a3d",
+        "5f720e057c1969e0"
+      ],
+      "id": "ebdcf7e9744bedb3",
+      "date": 1488206715006
+    },
+    {
+      "type": "edit",
+      "id": "ebdcf7e9744bedb3",
+      "item": {
+        "type": "paragraph",
+        "id": "ebdcf7e9744bedb3",
+        "text": "A shortlist of what people are working on:"
+      },
+      "date": 1488206717434
     }
   ]
 }

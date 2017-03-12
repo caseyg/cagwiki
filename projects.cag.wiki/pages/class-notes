@@ -1,0 +1,440 @@
+{
+  "title": "Class Notes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e2ab17827ed65a70",
+      "text": "21: [[2/27/17]] (mike essl + presentations)"
+    },
+    {
+      "type": "paragraph",
+      "id": "38e8ac603896e57c",
+      "text": "20: [[2/13/17]] (richard stock + presentations)"
+    },
+    {
+      "type": "paragraph",
+      "id": "33ddc191c2913b78",
+      "text": "19: [[2/6/17]] (presentations: )"
+    },
+    {
+      "type": "paragraph",
+      "id": "d26696fa72aad730",
+      "text": "18: [[1/30/17]] (cooper archive + architecture archive visit)"
+    },
+    {
+      "type": "paragraph",
+      "id": "d28eca4494a29a7e",
+      "text": "17: [[1/23/17]] (nader tehrani)"
+    },
+    {
+      "type": "paragraph",
+      "id": "29540c6e6abeeb1e",
+      "text": "16: [[1/16/17]] (first class, spring semester)"
+    },
+    {
+      "type": "paragraph",
+      "id": "54462a8a1c59ae12",
+      "text": "Spring 2017 Semester ⤴︎"
+    },
+    {
+      "type": "paragraph",
+      "id": "3e959697bb90bb2f",
+      "text": "15: [[12/19/16]] (class presentations)"
+    },
+    {
+      "type": "paragraph",
+      "id": "0bdb2867425f80e0",
+      "text": "14: [[12/12/16]] (class presentations)"
+    },
+    {
+      "type": "paragraph",
+      "id": "041a475085161fe1",
+      "text": "13: [[12/5/16]] (class presentations)"
+    },
+    {
+      "type": "paragraph",
+      "id": "856509f7799ddcd8",
+      "text": "12: [[11/28/16]] (class presentations)"
+    },
+    {
+      "type": "paragraph",
+      "id": "5ed8bcc6e6433df6",
+      "text": "11: [[11/21/16]] (class presentations)"
+    },
+    {
+      "type": "paragraph",
+      "id": "83a7c51ee590b089",
+      "text": "10: [[11/14/16]] (javier rivera)"
+    },
+    {
+      "type": "paragraph",
+      "id": "318f5e8da7e7ffff",
+      "text": "09: [[11/7/16]] (chris cloud)"
+    },
+    {
+      "type": "paragraph",
+      "id": "d2ce521cb1f905d2",
+      "text": "08: [[10/31/16]] (fish house + mission discussion)"
+    },
+    {
+      "type": "paragraph",
+      "id": "e2ec25df58836ae7",
+      "text": "🚧: [[10/23/16]] (lincoln alpern & liz flyntz, nonstop antioch dinner/discussion)"
+    },
+    {
+      "type": "paragraph",
+      "id": "ba132e507c9468b0",
+      "text": "07: [[10/24/16]] (david gersten)"
+    },
+    {
+      "type": "paragraph",
+      "id": "2c07aaaa5160ab28",
+      "text": "06: [[10/17/16]] (projects discussion + steven hillyer & chris dierks / architecture archive)"
+    },
+    {
+      "type": "paragraph",
+      "id": "eb648f73666f1a3b",
+      "text": "05: [[10/10/16]] (diane lewis)"
+    },
+    {
+      "type": "paragraph",
+      "id": "cf85cbc66f320ef1",
+      "text": "04: [[10/7/16]] (jeff scudder)"
+    },
+    {
+      "type": "paragraph",
+      "id": "ac49deba19851fc5",
+      "text": "🌀: [[10/3/16]] (open work session)"
+    },
+    {
+      "type": "paragraph",
+      "id": "34228bc5d6034578",
+      "text": "03: [[9/26/16]] (bill mea)"
+    },
+    {
+      "type": "paragraph",
+      "id": "8748d7f168eb9840",
+      "text": "02: [[9/19/16]] (nonstop + vic/jakob presentation)"
+    },
+    {
+      "type": "paragraph",
+      "id": "5bd9da4d2a569d90",
+      "text": "01: [[9/12/16]] (first class, katie blumenkrantz / archive)"
+    },
+    {
+      "type": "paragraph",
+      "id": "b5453cef7a674236",
+      "text": "🏊: [[9/11/16]] (quarry trip)"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f1ddacadda017e6",
+      "text": "00: [[5/26/16]] (initial pre-meeting)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Class Notes",
+        "story": []
+      },
+      "date": 1488206521147
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e2ab17827ed65a70",
+        "text": "21: [[2/27/17]] (mike essl + presentations)"
+      },
+      "id": "e2ab17827ed65a70",
+      "date": 1488206525560
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "38e8ac603896e57c",
+        "text": "20: [[2/13/17]] (richard stock + presentations)"
+      },
+      "after": "e2ab17827ed65a70",
+      "id": "38e8ac603896e57c",
+      "date": 1488206527462
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "33ddc191c2913b78",
+        "text": "19: [[2/6/17]] (presentations: )"
+      },
+      "after": "38e8ac603896e57c",
+      "id": "33ddc191c2913b78",
+      "date": 1488206529732
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d26696fa72aad730",
+        "text": "18: [[1/30/17]] (cooper archive + architecture archive visit)"
+      },
+      "after": "33ddc191c2913b78",
+      "id": "d26696fa72aad730",
+      "date": 1488206532270
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d28eca4494a29a7e",
+        "text": "17: [[1/23/17]] (nader tehrani)"
+      },
+      "after": "d26696fa72aad730",
+      "id": "d28eca4494a29a7e",
+      "date": 1488206537131
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "29540c6e6abeeb1e",
+        "text": "16: [[1/16/17]] (first class, spring semester)"
+      },
+      "after": "d28eca4494a29a7e",
+      "id": "29540c6e6abeeb1e",
+      "date": 1488206539086
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "54462a8a1c59ae12",
+        "text": "Spring 2017 Semester ⤴︎"
+      },
+      "after": "29540c6e6abeeb1e",
+      "id": "54462a8a1c59ae12",
+      "date": 1488206541280
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3e959697bb90bb2f",
+        "text": "15: [[12/19/16]] (class presentations)"
+      },
+      "after": "54462a8a1c59ae12",
+      "id": "3e959697bb90bb2f",
+      "date": 1488206543105
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0bdb2867425f80e0",
+        "text": "14: [[12/12/16]] (class presentations)"
+      },
+      "after": "3e959697bb90bb2f",
+      "id": "0bdb2867425f80e0",
+      "date": 1488206545153
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "041a475085161fe1",
+        "text": "13: [[12/5/16]] (class presentations)"
+      },
+      "after": "0bdb2867425f80e0",
+      "id": "041a475085161fe1",
+      "date": 1488206547031
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "856509f7799ddcd8",
+        "text": "12: [[11/28/16]] (class presentations)"
+      },
+      "after": "041a475085161fe1",
+      "id": "856509f7799ddcd8",
+      "date": 1488206548506
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5ed8bcc6e6433df6",
+        "text": "11: [[11/21/16]] (class presentations)"
+      },
+      "after": "856509f7799ddcd8",
+      "id": "5ed8bcc6e6433df6",
+      "date": 1488206549979
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "83a7c51ee590b089",
+        "text": "10: [[11/14/16]] (javier rivera)"
+      },
+      "after": "5ed8bcc6e6433df6",
+      "id": "83a7c51ee590b089",
+      "date": 1488206551533
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "318f5e8da7e7ffff",
+        "text": "09: [[11/7/16]] (chris cloud)"
+      },
+      "after": "83a7c51ee590b089",
+      "id": "318f5e8da7e7ffff",
+      "date": 1488206553311
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d2ce521cb1f905d2",
+        "text": "08: [[10/31/16]] (fish house + mission discussion)"
+      },
+      "after": "318f5e8da7e7ffff",
+      "id": "d2ce521cb1f905d2",
+      "date": 1488206554655
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ba132e507c9468b0",
+        "text": "07: [[10/24/16]] (david gersten)"
+      },
+      "after": "d2ce521cb1f905d2",
+      "id": "ba132e507c9468b0",
+      "date": 1488206556459
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e2ec25df58836ae7",
+        "text": "🚧: [[10/23/16]] (lincoln alpern & liz flyntz, nonstop antioch dinner/discussion)"
+      },
+      "after": "d2ce521cb1f905d2",
+      "id": "e2ec25df58836ae7",
+      "date": 1488206560553
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2c07aaaa5160ab28",
+        "text": "06: [[10/17/16]] (projects discussion + steven hillier & chris dierks / architecture archive)"
+      },
+      "after": "ba132e507c9468b0",
+      "id": "2c07aaaa5160ab28",
+      "date": 1488206566416
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "eb648f73666f1a3b",
+        "text": "05: [[10/10/16]] (diane lewis)"
+      },
+      "after": "2c07aaaa5160ab28",
+      "id": "eb648f73666f1a3b",
+      "date": 1488206568276
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "cf85cbc66f320ef1",
+        "text": "04: [[10/7/16]] (jeff scudder)"
+      },
+      "after": "eb648f73666f1a3b",
+      "id": "cf85cbc66f320ef1",
+      "date": 1488206572636
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ac49deba19851fc5",
+        "text": "🌀: [[10/3/16]] (open work session)"
+      },
+      "after": "cf85cbc66f320ef1",
+      "id": "ac49deba19851fc5",
+      "date": 1488206576407
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "34228bc5d6034578",
+        "text": "03: [[9/26/16]] (bill mea)"
+      },
+      "after": "ac49deba19851fc5",
+      "id": "34228bc5d6034578",
+      "date": 1488206582351
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8748d7f168eb9840",
+        "text": "02: [[9/19/16]] (nonstop + vic/jakob presentation)"
+      },
+      "after": "34228bc5d6034578",
+      "id": "8748d7f168eb9840",
+      "date": 1488206584554
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5bd9da4d2a569d90",
+        "text": "01: [[9/12/16]] (first class, katie blumenkrantz / archive)"
+      },
+      "after": "8748d7f168eb9840",
+      "id": "5bd9da4d2a569d90",
+      "date": 1488206587043
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b5453cef7a674236",
+        "text": "🏊: [[9/11/16]] (quarry trip)"
+      },
+      "after": "5bd9da4d2a569d90",
+      "id": "b5453cef7a674236",
+      "date": 1488206588972
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3f1ddacadda017e6",
+        "text": "00: [[5/26/16]] (initial pre-meeting)"
+      },
+      "after": "b5453cef7a674236",
+      "id": "3f1ddacadda017e6",
+      "date": 1488206591509
+    },
+    {
+      "type": "edit",
+      "id": "2c07aaaa5160ab28",
+      "item": {
+        "type": "paragraph",
+        "id": "2c07aaaa5160ab28",
+        "text": "06: [[10/17/16]] (projects discussion + steven hillyer & chris dierks / architecture archive)"
+      },
+      "date": 1488246627272
+    }
+  ]
+}
