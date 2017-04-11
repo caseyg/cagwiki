@@ -19,12 +19,17 @@
     {
       "type": "paragraph",
       "id": "4facbdc047c0102e",
-      "text": "[[About]] ([[Casey Gollan]])  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]   •   [[Contact]]"
+      "text": "[[Casey Gollan]]  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]   •   [[Contact]]"
     },
     {
       "type": "pagefold",
       "id": "5d1c8b70266d5656",
       "text": "⁉️"
+    },
+    {
+      "type": "paragraph",
+      "id": "fedfc747518a9d2c",
+      "text": "What is a [[Federated Wiki]]?"
     },
     {
       "type": "html",
@@ -35,11 +40,6 @@
       "type": "paragraph",
       "id": "ece82bf05c83c1e2",
       "text": "NOTE: This is a VERY ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
-    },
-    {
-      "type": "paragraph",
-      "id": "fedfc747518a9d2c",
-      "text": "What is a [[Federated Wiki]]?"
     },
     {
       "type": "pagefold",
@@ -95,6 +95,11 @@
       "type": "paragraph",
       "id": "3c6df18b845d916e",
       "text": "[[Fedwiki Meta]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f6d99bfa60626c56",
+      "text": "[[Everyday Weblog]]"
     },
     {
       "type": "pagefold",
@@ -4761,6 +4766,73 @@
       "after": "1635a6f77f5c306d",
       "id": "44471403d16574db",
       "date": 1488250093910
+    },
+    {
+      "type": "edit",
+      "id": "4facbdc047c0102e",
+      "item": {
+        "type": "paragraph",
+        "id": "4facbdc047c0102e",
+        "text": "[[Casey Gollan]]  •  [[Books]]  •  [[Words]]  •  [[Files]]   •  [[Blogroll]]   •   [[Contact]]"
+      },
+      "date": 1490551599333
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "ac37f9573896932a",
+        "a852440f279ab933",
+        "4facbdc047c0102e",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "08cfde0d44acc465",
+        "1635a6f77f5c306d",
+        "44471403d16574db",
+        "db3f56bca4b32f89",
+        "3904814310e8f71e",
+        "a6a9f5a2cd9961ab",
+        "3ea232acde666987",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "92dafac67f60a4db",
+        "3c6df18b845d916e",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "030f425d318cd2c5"
+      ],
+      "id": "fedfc747518a9d2c",
+      "date": 1490551931653
+    },
+    {
+      "type": "add",
+      "id": "f6d99bfa60626c56",
+      "item": {
+        "type": "paragraph",
+        "id": "f6d99bfa60626c56",
+        "text": "[[Weblog]]"
+      },
+      "after": "3c6df18b845d916e",
+      "date": 1491948192751
+    },
+    {
+      "type": "edit",
+      "id": "f6d99bfa60626c56",
+      "item": {
+        "type": "paragraph",
+        "id": "f6d99bfa60626c56",
+        "text": "[[Everyday Weblog]]"
+      },
+      "date": 1491948206132
     }
   ]
 }

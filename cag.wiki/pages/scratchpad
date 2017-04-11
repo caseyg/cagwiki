@@ -30,6 +30,11 @@
       "type": "paragraph",
       "id": "ad6fff4c1fa2a078",
       "text": "[[2017-02-16]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "acca433dfe8b3111",
+      "text": "[[2017-04-04]]"
     }
   ],
   "journal": [
@@ -134,6 +139,17 @@
       },
       "after": "ef0f05b0784b875a",
       "date": 1487273662109
+    },
+    {
+      "type": "add",
+      "id": "acca433dfe8b3111",
+      "item": {
+        "type": "paragraph",
+        "id": "acca433dfe8b3111",
+        "text": "[[2017-04-04]]"
+      },
+      "after": "ad6fff4c1fa2a078",
+      "date": 1491348433582
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "title": "The Coming Age of Calm Technology",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c904383111bb63c7",
+      "text": "paper available on [http://www.ubiq.com/hypertext/weiser/acmfuture2endnote.htm ubiq.com]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Coming Age of Calm Technology",
+        "story": []
+      },
+      "date": 1491355228660
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c904383111bb63c7"
+      },
+      "id": "c904383111bb63c7",
+      "type": "add",
+      "date": 1491355268674
+    },
+    {
+      "type": "edit",
+      "id": "c904383111bb63c7",
+      "item": {
+        "type": "paragraph",
+        "id": "c904383111bb63c7",
+        "text": "paper available on [[http://www.ubiq.com/hypertext/weiser/acmfuture2endnote.htm ubiq.com]]"
+      },
+      "date": 1491355279563
+    },
+    {
+      "type": "edit",
+      "id": "c904383111bb63c7",
+      "item": {
+        "type": "paragraph",
+        "id": "c904383111bb63c7",
+        "text": "paper available on [http://www.ubiq.com/hypertext/weiser/acmfuture2endnote.htm ubiq.com]"
+      },
+      "date": 1491355283620
+    }
+  ]
+}

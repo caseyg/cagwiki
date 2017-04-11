@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "34491db897e19f27",
+      "text": "What is a wiki"
+    },
+    {
+      "type": "paragraph",
       "id": "2af03088d1a48f5d",
       "text": "Federated Wiki sites share pages circulating within a creative commons. A single-page browser application can read from many sites at once and save changes in that browser. Users who host their own sites can login there to have their edits shared back to the federation as they edit."
     },
@@ -481,6 +486,17 @@
       },
       "after": "530fa0c6d830da7d",
       "date": 1488247940288
+    },
+    {
+      "type": "add",
+      "id": "34491db897e19f27",
+      "item": {
+        "type": "paragraph",
+        "id": "34491db897e19f27",
+        "text": "What is a wiki"
+      },
+      "after": "530fa0c6d830da7d",
+      "date": 1490551944702
     }
   ]
 }

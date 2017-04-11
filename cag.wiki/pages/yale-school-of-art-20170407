@@ -1,0 +1,111 @@
+{
+  "title": "Yale School of Art (2017/04/07)",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "aef00c318c2e249a",
+      "text": "Long live communication, down with telecommunication!"
+    },
+    {
+      "type": "paragraph",
+      "id": "f9fc60c549ca7d86",
+      "text": "(And down with all kings but King Ludd!)"
+    },
+    {
+      "type": "paragraph",
+      "id": "451f219a4da030af",
+      "text": "more info: [http://spring2017.veryinteractive.net/calendar/lecture/ spring2017.veryinteractive.net]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Yale School of Art (2017/04/07)",
+        "story": []
+      },
+      "date": 1491348228775
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aef00c318c2e249a"
+      },
+      "id": "aef00c318c2e249a",
+      "type": "add",
+      "date": 1491348229847
+    },
+    {
+      "type": "edit",
+      "id": "aef00c318c2e249a",
+      "item": {
+        "type": "paragraph",
+        "id": "aef00c318c2e249a",
+        "text": "more info [[http://spring2017.veryinteractive.net/calendar/lecture/ spring2017.veryinteractive.net]]"
+      },
+      "date": 1491348243635
+    },
+    {
+      "type": "edit",
+      "id": "aef00c318c2e249a",
+      "item": {
+        "type": "paragraph",
+        "id": "aef00c318c2e249a",
+        "text": "more info: [http://spring2017.veryinteractive.net/calendar/lecture/ spring2017.veryinteractive.net]"
+      },
+      "date": 1491348251254
+    },
+    {
+      "type": "edit",
+      "id": "aef00c318c2e249a",
+      "item": {
+        "type": "paragraph",
+        "id": "aef00c318c2e249a",
+        "text": "Long live communication, down with telecommunication!\n(And down with all kings but King Ludd!)\n "
+      },
+      "date": 1491348280037
+    },
+    {
+      "type": "add",
+      "id": "451f219a4da030af",
+      "item": {
+        "type": "paragraph",
+        "id": "451f219a4da030af",
+        "text": "more info: [http://spring2017.veryinteractive.net/calendar/lecture/ spring2017.veryinteractive.net]"
+      },
+      "after": "aef00c318c2e249a",
+      "date": 1491348281296
+    },
+    {
+      "type": "edit",
+      "id": "aef00c318c2e249a",
+      "item": {
+        "type": "paragraph",
+        "id": "aef00c318c2e249a",
+        "text": "Long live communication, down with telecommunication!  \n(And down with all kings but King Ludd!)\n "
+      },
+      "date": 1491348285640
+    },
+    {
+      "type": "edit",
+      "id": "aef00c318c2e249a",
+      "item": {
+        "type": "paragraph",
+        "id": "aef00c318c2e249a",
+        "text": "Long live communication, down with telecommunication!"
+      },
+      "date": 1491348294718
+    },
+    {
+      "type": "add",
+      "id": "f9fc60c549ca7d86",
+      "item": {
+        "type": "paragraph",
+        "id": "f9fc60c549ca7d86",
+        "text": "(And down with all kings but King Ludd!)"
+      },
+      "after": "aef00c318c2e249a",
+      "date": 1491348295230
+    }
+  ]
+}

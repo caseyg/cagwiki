@@ -3,6 +3,11 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "d7f7f73b679c14d0",
+      "text": "[[3/25/17]]"
+    },
+    {
+      "type": "paragraph",
       "id": "eb0f7f47242959df",
       "text": "[[10/24/16]]"
     },
@@ -313,6 +318,44 @@
       "after": "367a1acc345d0216",
       "id": "a935020bd10b8d31",
       "date": 1488206642345
+    },
+    {
+      "type": "add",
+      "id": "d7f7f73b679c14d0",
+      "item": {
+        "type": "paragraph",
+        "id": "d7f7f73b679c14d0",
+        "text": "[[3/25/17]]"
+      },
+      "after": "eb0f7f47242959df",
+      "date": 1490635316686
+    },
+    {
+      "type": "move",
+      "order": [
+        "d7f7f73b679c14d0",
+        "eb0f7f47242959df",
+        "fc28b7732aaf9a88",
+        "eadef464a83948d9",
+        "605c9ee6f23711fd",
+        "8d1c5e5e1d67433a",
+        "272c6eb3aa16f2b3",
+        "e3eabe1bf761b685",
+        "ae38a422e789b303",
+        "adc8cfe97b2ef68b",
+        "9e21ffb0cd007b0f",
+        "f1fe21cc6fcc3b91",
+        "ea5326a885d2f74f",
+        "ef8af3a2aae6b0e0",
+        "ee46009dda5e30e3",
+        "38f47729cf71deb1",
+        "5d011beee9a0b1b2",
+        "718ccbc69d74e9d6",
+        "367a1acc345d0216",
+        "a935020bd10b8d31"
+      ],
+      "id": "d7f7f73b679c14d0",
+      "date": 1490635318464
     }
   ]
 }

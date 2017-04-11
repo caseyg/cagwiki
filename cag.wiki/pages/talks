@@ -3,18 +3,23 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "1fdc5e3b3c547241",
+      "id": "87781dbaebb3c174",
+      "text": "[[Yale School of Art (2017/04/07)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "201bb680e6f35970",
       "text": "[[The Oxbow School (2016/11/08)]]"
     },
     {
       "type": "paragraph",
       "id": "8b88c877d417ca91",
-      "text": "Vera List Center"
+      "text": "[[Vera List Center (2016/09/08)]]"
     },
     {
       "type": "paragraph",
       "id": "ba9797060dce225b",
-      "text": "Between Bridges"
+      "text": "[[Between Bridges (2016/01/16)]]"
     }
   ],
   "journal": [
@@ -100,6 +105,83 @@
       },
       "after": "1fdc5e3b3c547241",
       "date": 1488248608323
+    },
+    {
+      "type": "edit",
+      "id": "1fdc5e3b3c547241",
+      "item": {
+        "type": "paragraph",
+        "id": "1fdc5e3b3c547241",
+        "text": "Long Live"
+      },
+      "date": 1491347335559
+    },
+    {
+      "type": "add",
+      "id": "87781dbaebb3c174",
+      "item": {
+        "type": "paragraph",
+        "id": "87781dbaebb3c174",
+        "text": "[[The Oxbow School (2016/11/08)]]"
+      },
+      "after": "1fdc5e3b3c547241",
+      "date": 1491347336940
+    },
+    {
+      "type": "edit",
+      "id": "8b88c877d417ca91",
+      "item": {
+        "type": "paragraph",
+        "id": "8b88c877d417ca91",
+        "text": "Vera List Center ()"
+      },
+      "date": 1491347346674
+    },
+    {
+      "type": "edit",
+      "id": "8b88c877d417ca91",
+      "item": {
+        "type": "paragraph",
+        "id": "8b88c877d417ca91",
+        "text": "[[Vera List Center (2016/09/08)]]"
+      },
+      "date": 1491347648096
+    },
+    {
+      "type": "edit",
+      "id": "ba9797060dce225b",
+      "item": {
+        "type": "paragraph",
+        "id": "ba9797060dce225b",
+        "text": "[[Between Bridges (2016/01/16)]]"
+      },
+      "date": 1491347779125
+    },
+    {
+      "type": "remove",
+      "id": "1fdc5e3b3c547241",
+      "date": 1491348151781
+    },
+    {
+      "type": "edit",
+      "id": "87781dbaebb3c174",
+      "item": {
+        "type": "paragraph",
+        "id": "87781dbaebb3c174",
+        "text": "[[Yale School of Art (2017/04/07)]]"
+      },
+      "date": 1491348211791
+    },
+    {
+      "type": "add",
+      "id": "201bb680e6f35970",
+      "item": {
+        "type": "paragraph",
+        "id": "201bb680e6f35970",
+        "text": "[[The Oxbow School (2016/11/08)]]"
+      },
+      "after": "87781dbaebb3c174",
+      "date": 1491348212666
     }
   ]
 }

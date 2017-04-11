@@ -1,0 +1,73 @@
+{
+  "title": "Everyday Weblog",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ece2e634cd68e4aa",
+      "text": "Inspired by a bunch of people on my [[blogroll]], currently Richard Bartle's [http://www.youhaventlived.com/qblog/ QBlog]."
+    },
+    {
+      "type": "factory",
+      "id": "ed804256a9f4be0f"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Everyday Weblog",
+        "story": []
+      },
+      "date": 1491948208325
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ece2e634cd68e4aa"
+      },
+      "id": "ece2e634cd68e4aa",
+      "type": "add",
+      "date": 1491948209367
+    },
+    {
+      "type": "edit",
+      "id": "ece2e634cd68e4aa",
+      "item": {
+        "type": "paragraph",
+        "id": "ece2e634cd68e4aa",
+        "text": "Inspired by a bunch of people on my [[blogroll]]"
+      },
+      "date": 1491948228530
+    },
+    {
+      "type": "edit",
+      "id": "ece2e634cd68e4aa",
+      "item": {
+        "type": "paragraph",
+        "id": "ece2e634cd68e4aa",
+        "text": "Inspired by a bunch of people on my [[blogroll]], currently Richard Bartle's QBlog."
+      },
+      "date": 1491948247584
+    },
+    {
+      "type": "edit",
+      "id": "ece2e634cd68e4aa",
+      "item": {
+        "type": "paragraph",
+        "id": "ece2e634cd68e4aa",
+        "text": "Inspired by a bunch of people on my [[blogroll]], currently Richard Bartle's [http://www.youhaventlived.com/qblog/ QBlog]."
+      },
+      "date": 1491948258991
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ed804256a9f4be0f"
+      },
+      "id": "ed804256a9f4be0f",
+      "type": "add",
+      "after": "ece2e634cd68e4aa",
+      "date": 1491951358571
+    }
+  ]
+}

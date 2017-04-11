@@ -1,0 +1,39 @@
+{
+  "title": "Dangling String",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "43cecb41882150f8",
+      "text": "A [[calm technology]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dangling String",
+        "story": []
+      },
+      "date": 1491355181577
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43cecb41882150f8"
+      },
+      "id": "43cecb41882150f8",
+      "type": "add",
+      "date": 1491355182767
+    },
+    {
+      "type": "edit",
+      "id": "43cecb41882150f8",
+      "item": {
+        "type": "paragraph",
+        "id": "43cecb41882150f8",
+        "text": "A [[calm technology]]"
+      },
+      "date": 1491355188864
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Stake driving",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f25072b64122a5ae",
+      "text": "[[Robert Moses]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1274230082dae23b",
+      "text": "Rubber lobby & BQE"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Stake driving",
+        "story": []
+      },
+      "date": 1491354123026
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3846e0af11a36228"
+      },
+      "id": "3846e0af11a36228",
+      "type": "add",
+      "date": 1491354124370
+    },
+    {
+      "type": "edit",
+      "id": "3846e0af11a36228",
+      "item": {
+        "type": "paragraph",
+        "id": "3846e0af11a36228",
+        "text": "Robert Moses"
+      },
+      "date": 1491354128011
+    },
+    {
+      "type": "remove",
+      "id": "3846e0af11a36228",
+      "date": 1491354147112
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f25072b64122a5ae"
+      },
+      "id": "f25072b64122a5ae",
+      "type": "add",
+      "date": 1491354149175
+    },
+    {
+      "type": "edit",
+      "id": "f25072b64122a5ae",
+      "item": {
+        "type": "paragraph",
+        "id": "f25072b64122a5ae",
+        "text": "[[Robert Moses]]"
+      },
+      "date": 1491354154748
+    },
+    {
+      "type": "add",
+      "id": "1274230082dae23b",
+      "item": {
+        "type": "paragraph",
+        "id": "1274230082dae23b",
+        "text": "Rubber lobby & BQE"
+      },
+      "after": "f25072b64122a5ae",
+      "date": 1491354162474
+    }
+  ]
+}

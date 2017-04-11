@@ -1,0 +1,49 @@
+{
+  "title": "calm technology",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8af22ba1f4083011",
+      "text": "Outlined in a ???? paper by [[Mark Weiser]] and [[John Seely Brown]] called [[The Coming Age of Calm Technology]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "calm technology",
+        "story": []
+      },
+      "date": 1491355194374
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8af22ba1f4083011"
+      },
+      "id": "8af22ba1f4083011",
+      "type": "add",
+      "date": 1491355196080
+    },
+    {
+      "type": "edit",
+      "id": "8af22ba1f4083011",
+      "item": {
+        "type": "paragraph",
+        "id": "8af22ba1f4083011",
+        "text": "Outlined in a ???? paper by [[John Seely Brown]] called [[The Coming Age of Calm Technology]]"
+      },
+      "date": 1491355218066
+    },
+    {
+      "type": "edit",
+      "id": "8af22ba1f4083011",
+      "item": {
+        "type": "paragraph",
+        "id": "8af22ba1f4083011",
+        "text": "Outlined in a ???? paper by [[Mark Weiser]] and [[John Seely Brown]] called [[The Coming Age of Calm Technology]]"
+      },
+      "date": 1491355266718
+    }
+  ]
+}

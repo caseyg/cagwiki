@@ -50,7 +50,11 @@
   </url>
   <url>
     <loc>http://cag.wiki/a-pattern-language.html</loc>
-    <lastmod>2016-11-23</lastmod>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/about.html</loc>
+    <lastmod>2017-03-26</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/about-activity-plugin.html</loc>
@@ -86,7 +90,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/books.html</loc>
-    <lastmod>2017-03-09</lastmod>
+    <lastmod>2017-03-26</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/books-2015.html</loc>
@@ -122,7 +126,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/casey-gollan.html</loc>
-    <lastmod>2017-02-28</lastmod>
+    <lastmod>2017-03-26</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/christopher-alexander.html</loc>
@@ -137,6 +141,10 @@
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
+    <loc>http://cag.wiki/contact.html</loc>
+    <lastmod>2017-02-28</lastmod>
+  </url>
+  <url>
     <loc>http://cag.wiki/designing-a-book.html</loc>
     <lastmod>2016-12-16</lastmod>
   </url>
@@ -146,7 +154,15 @@
   </url>
   <url>
     <loc>http://cag.wiki/federated-wiki.html</loc>
+    <lastmod>2017-03-26</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/fedwiki-meta.html</loc>
     <lastmod>2017-02-28</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/files.html</loc>
+    <lastmod>2017-02-19</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/games.html</loc>
@@ -341,7 +357,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/scratchpad.html</loc>
-    <lastmod>2017-02-16</lastmod>
+    <lastmod>2017-04-04</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/shift-double-click.html</loc>
@@ -360,6 +376,10 @@
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
+    <loc>http://cag.wiki/talks.html</loc>
+    <lastmod>2017-04-04</lastmod>
+  </url>
+  <url>
     <loc>http://cag.wiki/teaching-machines-mike-caulfield.html</loc>
     <lastmod>2015-06-24</lastmod>
   </url>
@@ -370,6 +390,10 @@
   <url>
     <loc>http://cag.wiki/test.html</loc>
     <lastmod>2016-11-25</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/the-oxbow-school-20161108.html</loc>
+    <lastmod>2017-02-19</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/theres-got-to-be-a-way-to-move-through-it.html</loc>
@@ -413,7 +437,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/welcome-visitors.html</loc>
-    <lastmod>2017-02-28</lastmod>
+    <lastmod>2017-04-11</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/what-is-a-system.html</loc>
@@ -449,7 +473,7 @@
   </url>
   <url>
     <loc>http://cag.wiki/words.html</loc>
-    <lastmod>2017-02-28</lastmod>
+    <lastmod>2017-03-26</lastmod>
   </url>
   <url>
     <loc>http://cag.wiki/work.html</loc>
@@ -460,27 +484,95 @@
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/about.html</loc>
-    <lastmod>2017-02-28</lastmod>
+    <loc>http://cag.wiki/bedroom-stack.html</loc>
+    <lastmod>2017-03-26</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/files.html</loc>
-    <lastmod>2017-02-19</lastmod>
+    <loc>http://cag.wiki/vera-list-center-20160908.html</loc>
+    <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/talks.html</loc>
-    <lastmod>2017-02-28</lastmod>
+    <loc>http://cag.wiki/between-bridges-20160116.html</loc>
+    <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/the-oxbow-school-20161108.html</loc>
-    <lastmod>2017-02-19</lastmod>
+    <loc>http://cag.wiki/yale-school-of-art-20170407.html</loc>
+    <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/contact.html</loc>
-    <lastmod>2017-02-28</lastmod>
+    <loc>http://cag.wiki/2017-04-04.html</loc>
+    <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/fedwiki-meta.html</loc>
-    <lastmod>2017-02-28</lastmod>
+    <loc>http://cag.wiki/disposition.html</loc>
+    <lastmod>2017-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/ghosts.html</loc>
+    <lastmod>2017-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/privacy-on-earth.html</loc>
+    <lastmod>2017-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/data-doppelganger.html</loc>
+    <lastmod>2017-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/path-dependence.html</loc>
+    <lastmod>2017-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/stake-driving.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/ponr.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/overton-window.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/popr.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/techne.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/steganography.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/primal-scene.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/interior-window.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/dangling-string.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/calm-technology.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/the-coming-age-of-calm-technology.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/big-data-baby.html</loc>
+    <lastmod>2017-04-05</lastmod>
+  </url>
+  <url>
+    <loc>http://cag.wiki/everyday-weblog.html</loc>
+    <lastmod>2017-04-11</lastmod>
   </url>
 </urlset>

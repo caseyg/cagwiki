@@ -4,7 +4,17 @@
     {
       "type": "paragraph",
       "id": "689f644c32e0e4bb",
-      "text": " (speech to text)"
+      "text": "by [[Christopher Alexander]], inspired [[Ward Cunningham]] to design early [[wiki]] software"
+    },
+    {
+      "type": "paragraph",
+      "id": "8f454b6aa950c324",
+      "text": "Who hates it??"
+    },
+    {
+      "type": "paragraph",
+      "id": "9d10017bff9b69ba",
+      "text": "(speech to text)"
     },
     {
       "type": "pagefold",
@@ -130,6 +140,48 @@
       ],
       "id": "7f49ca6921d8995d",
       "date": 1479923298226
+    },
+    {
+      "type": "edit",
+      "id": "689f644c32e0e4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "689f644c32e0e4bb",
+        "text": "by [[Christopher Alexander]]"
+      },
+      "date": 1491355018702
+    },
+    {
+      "type": "add",
+      "id": "9d10017bff9b69ba",
+      "item": {
+        "type": "paragraph",
+        "id": "9d10017bff9b69ba",
+        "text": "(speech to text)"
+      },
+      "after": "689f644c32e0e4bb",
+      "date": 1491355020097
+    },
+    {
+      "type": "add",
+      "id": "8f454b6aa950c324",
+      "item": {
+        "type": "paragraph",
+        "id": "8f454b6aa950c324",
+        "text": "Who hates it??"
+      },
+      "after": "689f644c32e0e4bb",
+      "date": 1491355027963
+    },
+    {
+      "type": "edit",
+      "id": "689f644c32e0e4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "689f644c32e0e4bb",
+        "text": "by [[Christopher Alexander]], inspired [[Ward Cunningham]] to design early [[wiki]] software"
+      },
+      "date": 1491355044960
     }
   ]
 }

@@ -18,6 +18,11 @@
     },
     {
       "type": "paragraph",
+      "id": "d5359c5fe7731495",
+      "text": "[[5 Min Presentation (Spring 2017)]]"
+    },
+    {
+      "type": "paragraph",
       "id": "7ebcaf84f757855f",
       "text": "[[Class Notes]]"
     },
@@ -3491,6 +3496,17 @@
         "text": "This is Casey's Projects scratchpad and notebook. Check out the [http://projectsprojectsprojects.referata.com class wiki] for more about the class."
       },
       "date": 1488206878966
+    },
+    {
+      "type": "add",
+      "id": "d5359c5fe7731495",
+      "item": {
+        "type": "paragraph",
+        "id": "d5359c5fe7731495",
+        "text": "[[5 Min Presentation (Spring 2017)]]"
+      },
+      "after": "152dad1d43552b10",
+      "date": 1490626434411
     }
   ]
 }

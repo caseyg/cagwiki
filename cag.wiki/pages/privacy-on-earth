@@ -1,0 +1,39 @@
+{
+  "title": "Privacy On Earth",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "027003fac14d7c90",
+      "text": "Satellites"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Privacy On Earth",
+        "story": []
+      },
+      "date": 1491349383470
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "027003fac14d7c90"
+      },
+      "id": "027003fac14d7c90",
+      "type": "add",
+      "date": 1491349384836
+    },
+    {
+      "type": "edit",
+      "id": "027003fac14d7c90",
+      "item": {
+        "type": "paragraph",
+        "id": "027003fac14d7c90",
+        "text": "Satellites"
+      },
+      "date": 1491349391233
+    }
+  ]
+}
