@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "e2ab17827ed65a70",
-      "text": "24: [[3/27/17]] (presentation: cecilia + mission discussion)"
+      "text": "30"
     },
     {
       "type": "paragraph",
@@ -893,6 +893,65 @@
         "text": "24: [[3/27/17]] (presentation: cecilia + mission discussion)"
       },
       "date": 1490662844061
+    },
+    {
+      "type": "edit",
+      "id": "e2ab17827ed65a70",
+      "item": {
+        "type": "paragraph",
+        "id": "e2ab17827ed65a70",
+        "text": "30"
+      },
+      "date": 1494087306336,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1494087321635
+    },
+    {
+      "type": "edit",
+      "id": "e9620c33c056229d",
+      "item": {
+        "type": "paragraph",
+        "id": "e9620c33c056229d",
+        "text": "25: [[4/3/17]]"
+      },
+      "date": 1494087346964
+    },
+    {
+      "type": "edit",
+      "id": "bfcbc79c49b4d502",
+      "item": {
+        "type": "paragraph",
+        "id": "bfcbc79c49b4d502",
+        "text": "26: [[4/10/17]]"
+      },
+      "date": 1494087353902
+    },
+    {
+      "type": "edit",
+      "id": "e9620c33c056229d",
+      "item": {
+        "type": "paragraph",
+        "id": "e9620c33c056229d",
+        "text": "25: [[4/3/17]] (5 minute presentations + mission workshopping)"
+      },
+      "date": 1494087364820
+    },
+    {
+      "type": "edit",
+      "id": "bfcbc79c49b4d502",
+      "item": {
+        "type": "paragraph",
+        "id": "bfcbc79c49b4d502",
+        "text": "26: [[4/10/17]] (5 min presentations cont. + mission discussion)"
+      },
+      "date": 1494087376654
     }
   ]
 }

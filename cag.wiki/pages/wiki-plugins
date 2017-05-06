@@ -1,0 +1,230 @@
+{
+  "title": "Wiki Plugins",
+  "story": [
+    {
+      "type": "plugmatic",
+      "id": "772e81594500205c",
+      "text": "wiki-plugin-paragraph\nwiki-plugin-reference\nwiki-plugin-markdown\nwiki-plugin-html\nwiki-plugin-mathjax\nwiki-plugin-code\nwiki-plugin-chess"
+    },
+    {
+      "type": "plugmatic",
+      "id": "00c8b2eaed8d66fc",
+      "text": "wiki-plugin-flagmatic\nwiki-plugin-rostermatic\nwiki-plugin-plugmatic\nwiki-plugin-grep"
+    },
+    {
+      "type": "paragraph",
+      "id": "b94346e44b9d93c4",
+      "text": "Custom plugins"
+    },
+    {
+      "type": "plugmatic",
+      "id": "6b2486fe4ae85934",
+      "text": "wiki-plugin-shell\nwiki-plugin-rss\nwiki-plugin-linkmap"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki Plugins",
+        "story": []
+      },
+      "date": 1491954374351
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "772e81594500205c"
+      },
+      "id": "772e81594500205c",
+      "type": "add",
+      "date": 1491954375263
+    },
+    {
+      "type": "edit",
+      "id": "772e81594500205c",
+      "item": {
+        "type": "plugmatic",
+        "id": "772e81594500205c",
+        "text": "wiki-plugin-paragraph\nwiki-plugin-reference\nwiki-plugin-markdown\nwiki-plugin-html\nwiki-plugin-mathjax\nwiki-plugin-code\nwiki-plugin-chess"
+      },
+      "date": 1491954379241
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "00c8b2eaed8d66fc"
+      },
+      "id": "00c8b2eaed8d66fc",
+      "type": "add",
+      "after": "772e81594500205c",
+      "date": 1491954409277
+    },
+    {
+      "type": "edit",
+      "id": "00c8b2eaed8d66fc",
+      "item": {
+        "type": "plugmatic",
+        "id": "00c8b2eaed8d66fc",
+        "text": "wiki-plugin-flagmatic\nwiki-plugin-rostermatic\nwiki-plugin-plugmatic\nwiki-plugin-grep"
+      },
+      "date": 1491954411364
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5841cd9867258419"
+      },
+      "id": "5841cd9867258419",
+      "type": "add",
+      "after": "00c8b2eaed8d66fc",
+      "date": 1491954435507
+    },
+    {
+      "type": "edit",
+      "id": "5841cd9867258419",
+      "item": {
+        "type": "paragraph",
+        "id": "5841cd9867258419",
+        "text": "wiki-plugin-shell"
+      },
+      "date": 1491954439259
+    },
+    {
+      "type": "remove",
+      "id": "5841cd9867258419",
+      "date": 1491954443978
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b2486fe4ae85934"
+      },
+      "id": "6b2486fe4ae85934",
+      "type": "add",
+      "after": "00c8b2eaed8d66fc",
+      "date": 1491954445027
+    },
+    {
+      "type": "edit",
+      "id": "6b2486fe4ae85934",
+      "item": {
+        "type": "plugmatic",
+        "id": "6b2486fe4ae85934",
+        "text": "wiki-plugin-shell"
+      },
+      "date": 1491954448137
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b94346e44b9d93c4"
+      },
+      "id": "b94346e44b9d93c4",
+      "type": "add",
+      "after": "6b2486fe4ae85934",
+      "date": 1491955708795
+    },
+    {
+      "type": "edit",
+      "id": "b94346e44b9d93c4",
+      "item": {
+        "type": "paragraph",
+        "id": "b94346e44b9d93c4",
+        "text": "Custom plugins"
+      },
+      "date": 1491955846765
+    },
+    {
+      "type": "move",
+      "order": [
+        "772e81594500205c",
+        "00c8b2eaed8d66fc",
+        "b94346e44b9d93c4",
+        "6b2486fe4ae85934"
+      ],
+      "id": "6b2486fe4ae85934",
+      "date": 1491955848964
+    },
+    {
+      "type": "edit",
+      "id": "6b2486fe4ae85934",
+      "item": {
+        "type": "plugmatic",
+        "id": "6b2486fe4ae85934",
+        "text": "wiki-plugin-shell\nwiki-plugin-rss"
+      },
+      "date": 1491955991512
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a31bee9e15a9596c"
+      },
+      "id": "a31bee9e15a9596c",
+      "type": "add",
+      "after": "6b2486fe4ae85934",
+      "date": 1491956002473
+    },
+    {
+      "type": "remove",
+      "id": "a31bee9e15a9596c",
+      "date": 1491956009969
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "438d29ff7b12d27a"
+      },
+      "id": "438d29ff7b12d27a",
+      "type": "add",
+      "after": "6b2486fe4ae85934",
+      "date": 1491956034703
+    },
+    {
+      "type": "edit",
+      "id": "438d29ff7b12d27a",
+      "item": {
+        "type": "shell",
+        "id": "438d29ff7b12d27a",
+        "text": "tmux attach"
+      },
+      "date": 1491956045380
+    },
+    {
+      "type": "edit",
+      "id": "438d29ff7b12d27a",
+      "item": {
+        "type": "shell",
+        "id": "438d29ff7b12d27a",
+        "text": "tmux list-sessions"
+      },
+      "date": 1491956057204
+    },
+    {
+      "type": "edit",
+      "id": "438d29ff7b12d27a",
+      "item": {
+        "type": "shell",
+        "id": "438d29ff7b12d27a",
+        "text": "whoami"
+      },
+      "date": 1491956069475
+    },
+    {
+      "type": "remove",
+      "id": "438d29ff7b12d27a",
+      "date": 1491956090568
+    },
+    {
+      "type": "edit",
+      "id": "6b2486fe4ae85934",
+      "item": {
+        "type": "plugmatic",
+        "id": "6b2486fe4ae85934",
+        "text": "wiki-plugin-shell\nwiki-plugin-rss\nwiki-plugin-linkmap"
+      },
+      "date": 1491956539609
+    }
+  ]
+}

@@ -125,6 +125,36 @@
         "text": "Twitter: [http://twitter.com/caseyg @CaseyG]"
       },
       "date": 1488247701024
+    },
+    {
+      "type": "edit",
+      "id": "dc726038687821a4",
+      "item": {
+        "type": "paragraph",
+        "id": "dc726038687821a4",
+        "text": "Email: [mailto:casey@bullshit.systems casey@bullshit.systems]"
+      },
+      "date": 1494007995712
+    },
+    {
+      "type": "edit",
+      "id": "dc726038687821a4",
+      "item": {
+        "type": "paragraph",
+        "id": "dc726038687821a4",
+        "text": "Email: [casey@bullshit.systems mailto:casey@bullshit.systems]"
+      },
+      "date": 1494008000663
+    },
+    {
+      "type": "edit",
+      "id": "dc726038687821a4",
+      "item": {
+        "type": "paragraph",
+        "id": "dc726038687821a4",
+        "text": "Email: casey@bullshit.systems"
+      },
+      "date": 1494008004815
     }
   ]
 }

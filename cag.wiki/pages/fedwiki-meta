@@ -20,6 +20,15 @@
       "type": "paragraph",
       "id": "7d87ce7ab5e29dfa",
       "text": "[[Wiki Meta Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a233bf35d7e73957",
+      "text": "[[Wiki Plugins]]"
+    },
+    {
+      "type": "factory",
+      "id": "0c388bd906ec5903"
     }
   ],
   "journal": [
@@ -73,6 +82,27 @@
       "after": "99cdde605ec4db8f",
       "id": "7d87ce7ab5e29dfa",
       "date": 1488247973855
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c388bd906ec5903"
+      },
+      "id": "0c388bd906ec5903",
+      "type": "add",
+      "after": "7d87ce7ab5e29dfa",
+      "date": 1491953346649
+    },
+    {
+      "type": "add",
+      "id": "a233bf35d7e73957",
+      "item": {
+        "type": "paragraph",
+        "id": "a233bf35d7e73957",
+        "text": "[[Wiki Plugins]]"
+      },
+      "after": "7d87ce7ab5e29dfa",
+      "date": 1491954372351
     }
   ]
 }
