@@ -51,6 +51,11 @@
       "text": "Pair-programmed with ethnographer [[Christina Xu]], walking her through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
     },
     {
+      "type": "pagefold",
+      "id": "e5dda81105c8b852",
+      "text": "More Projects"
+    },
+    {
       "type": "paragraph",
       "id": "ba05e7f072da4db2",
       "text": "[[Multi Entry]]"
@@ -755,6 +760,50 @@
       ],
       "id": "91c485354998c331",
       "date": 1480100184875
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5dda81105c8b852"
+      },
+      "id": "e5dda81105c8b852",
+      "type": "add",
+      "after": "1f926152ecea270c",
+      "date": 1501247775986
+    },
+    {
+      "type": "edit",
+      "id": "e5dda81105c8b852",
+      "item": {
+        "type": "pagefold",
+        "id": "e5dda81105c8b852",
+        "text": "More Projects"
+      },
+      "date": 1501247782506
+    },
+    {
+      "type": "move",
+      "order": [
+        "88473e3f29361064",
+        "fee2ad6031a69034",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "e5dda81105c8b852",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "7d2e2b3d67343268",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c"
+      ],
+      "id": "e5dda81105c8b852",
+      "date": 1501247784268
     }
   ]
 }

@@ -1,0 +1,71 @@
+{
+  "title": "2017-05-28",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cc0fc7facd58d4a0",
+      "text": "i'm so fucking tired of moving omg"
+    },
+    {
+      "type": "paragraph",
+      "id": "8cabc74e5d5812ad",
+      "text": "trying to write here more ^_^"
+    },
+    {
+      "type": "paragraph",
+      "id": "9038c89c4831d6a3",
+      "text": "good talk."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2017-05-28",
+        "story": []
+      },
+      "date": 1496024342146
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc0fc7facd58d4a0"
+      },
+      "id": "cc0fc7facd58d4a0",
+      "type": "add",
+      "date": 1496024343538
+    },
+    {
+      "type": "edit",
+      "id": "cc0fc7facd58d4a0",
+      "item": {
+        "type": "paragraph",
+        "id": "cc0fc7facd58d4a0",
+        "text": "i'm so fucking tired of moving omg"
+      },
+      "date": 1496024356418
+    },
+    {
+      "type": "add",
+      "id": "8cabc74e5d5812ad",
+      "item": {
+        "type": "paragraph",
+        "id": "8cabc74e5d5812ad",
+        "text": "trying to write here more ^_^"
+      },
+      "after": "cc0fc7facd58d4a0",
+      "date": 1496024362223
+    },
+    {
+      "type": "add",
+      "id": "9038c89c4831d6a3",
+      "item": {
+        "type": "paragraph",
+        "id": "9038c89c4831d6a3",
+        "text": "good talk."
+      },
+      "after": "8cabc74e5d5812ad",
+      "date": 1496024368611
+    }
+  ]
+}

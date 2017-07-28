@@ -1,0 +1,685 @@
+{
+  "title": "Tools",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2638e38929f93bfa",
+      "text": "What I use to do my work:"
+    },
+    {
+      "type": "markdown",
+      "id": "03bd3cc57a0fe6b2",
+      "text": "# Development"
+    },
+    {
+      "type": "paragraph",
+      "id": "9c78e1a0d10c4fba",
+      "text": "Github"
+    },
+    {
+      "type": "paragraph",
+      "id": "755b3d8ff4021c78",
+      "text": "Atom (and sometimes Sublime Text)\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "94529d652612dd56",
+      "text": "MAMP\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "b5cabead4439d067",
+      "text": "Terminal"
+    },
+    {
+      "type": "markdown",
+      "id": "45e3731b8bb67968",
+      "text": "# Content Management Systems"
+    },
+    {
+      "type": "paragraph",
+      "id": "b533715b1c7da45f",
+      "text": "Kirby\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f282992f49007b83",
+      "text": "Jekyll + Siteleaf"
+    },
+    {
+      "type": "markdown",
+      "id": "789b4b72855fc99e",
+      "text": "# Hosting"
+    },
+    {
+      "type": "paragraph",
+      "id": "1a0c1b5d24443ae1",
+      "text": "Netlify"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd2fa29d5bcf58cd",
+      "text": "Github Pages\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "50d949d11b3f2b13",
+      "text": "Digital Ocean\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "95b882afe23251f0",
+      "text": "A Small Orange\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "30a0710b4fccd045",
+      "text": "[the web host you already have]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d731aa3eab4bc60f",
+      "text": "# Business"
+    },
+    {
+      "type": "paragraph",
+      "id": "2c829c0c1518c6f1",
+      "text": "Cushion (and sometimes Harvest)"
+    },
+    {
+      "type": "paragraph",
+      "id": "483f7a720a0842e7",
+      "text": "Contract Killer\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "aec39e2f0d7cc130",
+      "text": "Mule Client Screener\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef52c13ff2522447",
+      "text": "Hunzinger Accounting\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "8f4859c902256dc2",
+      "text": "Google Hangouts (and sometimes Skype)\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e92184feaa0dd0de",
+      "text": "Dropbox\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d371e3a37a110843",
+      "text": "Todoist"
+    },
+    {
+      "type": "markdown",
+      "id": "d3333d4e9f6e3b95",
+      "text": "## Design"
+    },
+    {
+      "type": "paragraph",
+      "id": "0b2c77b06e8c2c59",
+      "text": "Pen and Paper (lol)"
+    },
+    {
+      "type": "paragraph",
+      "id": "0d518372f7d0fabd",
+      "text": "Adobe Creative Suite\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a7734313302ca614",
+      "text": "Sketch (and sometimes Figma)\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ce6c97cd1ae6b63",
+      "text": "iA Writer\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "963c1aa3769d6dd7",
+      "text": "Mindnode\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "36679dde6955d6b5",
+      "text": "Dropbox Paper (and sometimes Google Docs)\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f0a6ba0fc4e77875",
+      "text": "Nicely Said\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "92f14ab3c966e341",
+      "text": "Elements of Content Strategy"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tools",
+        "story": []
+      },
+      "date": 1501247621757
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d3333d4e9f6e3b95"
+      },
+      "id": "d3333d4e9f6e3b95",
+      "type": "add",
+      "date": 1501247623005
+    },
+    {
+      "type": "edit",
+      "id": "d3333d4e9f6e3b95",
+      "item": {
+        "type": "markdown",
+        "id": "d3333d4e9f6e3b95",
+        "text": "## Design"
+      },
+      "date": 1501247634279
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0b2c77b06e8c2c59"
+      },
+      "id": "0b2c77b06e8c2c59",
+      "type": "add",
+      "after": "d3333d4e9f6e3b95",
+      "date": 1501247642315
+    },
+    {
+      "type": "edit",
+      "id": "0b2c77b06e8c2c59",
+      "item": {
+        "type": "paragraph",
+        "id": "0b2c77b06e8c2c59",
+        "text": "Pen and Paper (lol)"
+      },
+      "date": 1501247646587
+    },
+    {
+      "type": "add",
+      "id": "0d518372f7d0fabd",
+      "item": {
+        "type": "paragraph",
+        "id": "0d518372f7d0fabd",
+        "text": "Adobe Creative Suite\n"
+      },
+      "after": "0b2c77b06e8c2c59",
+      "date": 1501247647858
+    },
+    {
+      "type": "add",
+      "id": "a7734313302ca614",
+      "item": {
+        "type": "paragraph",
+        "id": "a7734313302ca614",
+        "text": "Sketch (and sometimes Figma)\n"
+      },
+      "after": "0d518372f7d0fabd",
+      "date": 1501247648517
+    },
+    {
+      "type": "add",
+      "id": "4ce6c97cd1ae6b63",
+      "item": {
+        "type": "paragraph",
+        "id": "4ce6c97cd1ae6b63",
+        "text": "iA Writer\n"
+      },
+      "after": "a7734313302ca614",
+      "date": 1501247649150
+    },
+    {
+      "type": "add",
+      "id": "963c1aa3769d6dd7",
+      "item": {
+        "type": "paragraph",
+        "id": "963c1aa3769d6dd7",
+        "text": "Mindnode\n"
+      },
+      "after": "4ce6c97cd1ae6b63",
+      "date": 1501247649794
+    },
+    {
+      "type": "add",
+      "id": "36679dde6955d6b5",
+      "item": {
+        "type": "paragraph",
+        "id": "36679dde6955d6b5",
+        "text": "Dropbox Paper (and sometimes Google Docs)\n"
+      },
+      "after": "963c1aa3769d6dd7",
+      "date": 1501247650389
+    },
+    {
+      "type": "add",
+      "id": "f0a6ba0fc4e77875",
+      "item": {
+        "type": "paragraph",
+        "id": "f0a6ba0fc4e77875",
+        "text": "Nicely Said\n"
+      },
+      "after": "36679dde6955d6b5",
+      "date": 1501247654089
+    },
+    {
+      "type": "add",
+      "id": "92f14ab3c966e341",
+      "item": {
+        "type": "paragraph",
+        "id": "92f14ab3c966e341",
+        "text": "Elements of Content Strategy"
+      },
+      "after": "f0a6ba0fc4e77875",
+      "date": 1501247655264
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d731aa3eab4bc60f"
+      },
+      "id": "d731aa3eab4bc60f",
+      "type": "add",
+      "after": "7d68d5f77724bb1e",
+      "date": 1501247658752
+    },
+    {
+      "type": "edit",
+      "id": "d731aa3eab4bc60f",
+      "item": {
+        "type": "markdown",
+        "id": "d731aa3eab4bc60f",
+        "text": "# Business"
+      },
+      "date": 1501247664996
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c829c0c1518c6f1"
+      },
+      "id": "2c829c0c1518c6f1",
+      "type": "add",
+      "after": "d731aa3eab4bc60f",
+      "date": 1501247670738
+    },
+    {
+      "type": "edit",
+      "id": "2c829c0c1518c6f1",
+      "item": {
+        "type": "paragraph",
+        "id": "2c829c0c1518c6f1",
+        "text": "Cushion (and sometimes Harvest)\nContract Killer\nMule Client Screener\nHuzinger Accounting\nGoogle Hangouts (and sometimes Skype)\nDropbox\nTodoist"
+      },
+      "date": 1501247672857
+    },
+    {
+      "type": "edit",
+      "id": "2c829c0c1518c6f1",
+      "item": {
+        "type": "paragraph",
+        "id": "2c829c0c1518c6f1",
+        "text": "Cushion (and sometimes Harvest)"
+      },
+      "date": 1501247675014
+    },
+    {
+      "type": "add",
+      "id": "483f7a720a0842e7",
+      "item": {
+        "type": "paragraph",
+        "id": "483f7a720a0842e7",
+        "text": "Contract Killer\n"
+      },
+      "after": "2c829c0c1518c6f1",
+      "date": 1501247676669
+    },
+    {
+      "type": "add",
+      "id": "aec39e2f0d7cc130",
+      "item": {
+        "type": "paragraph",
+        "id": "aec39e2f0d7cc130",
+        "text": "Mule Client Screener\n"
+      },
+      "after": "483f7a720a0842e7",
+      "date": 1501247677232
+    },
+    {
+      "type": "add",
+      "id": "ef52c13ff2522447",
+      "item": {
+        "type": "paragraph",
+        "id": "ef52c13ff2522447",
+        "text": "Hunzinger Accounting\n"
+      },
+      "after": "aec39e2f0d7cc130",
+      "date": 1501247680880
+    },
+    {
+      "type": "add",
+      "id": "8f4859c902256dc2",
+      "item": {
+        "type": "paragraph",
+        "id": "8f4859c902256dc2",
+        "text": "Google Hangouts (and sometimes Skype)\n"
+      },
+      "after": "ef52c13ff2522447",
+      "date": 1501247681462
+    },
+    {
+      "type": "add",
+      "id": "e92184feaa0dd0de",
+      "item": {
+        "type": "paragraph",
+        "id": "e92184feaa0dd0de",
+        "text": "Dropbox\n"
+      },
+      "after": "8f4859c902256dc2",
+      "date": 1501247682023
+    },
+    {
+      "type": "add",
+      "id": "d371e3a37a110843",
+      "item": {
+        "type": "paragraph",
+        "id": "d371e3a37a110843",
+        "text": "Todoist"
+      },
+      "after": "e92184feaa0dd0de",
+      "date": 1501247683751
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "03bd3cc57a0fe6b2"
+      },
+      "id": "03bd3cc57a0fe6b2",
+      "type": "add",
+      "after": "6d52c5d4fd65276c",
+      "date": 1501247686286
+    },
+    {
+      "type": "edit",
+      "id": "03bd3cc57a0fe6b2",
+      "item": {
+        "type": "markdown",
+        "id": "03bd3cc57a0fe6b2",
+        "text": "# Development"
+      },
+      "date": 1501247692494
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c78e1a0d10c4fba"
+      },
+      "id": "9c78e1a0d10c4fba",
+      "type": "add",
+      "after": "03bd3cc57a0fe6b2",
+      "date": 1501247695920
+    },
+    {
+      "type": "edit",
+      "id": "9c78e1a0d10c4fba",
+      "item": {
+        "type": "paragraph",
+        "id": "9c78e1a0d10c4fba",
+        "text": "Github"
+      },
+      "date": 1501247699324
+    },
+    {
+      "type": "add",
+      "id": "755b3d8ff4021c78",
+      "item": {
+        "type": "paragraph",
+        "id": "755b3d8ff4021c78",
+        "text": "Atom (and sometimes Sublime Text)\n"
+      },
+      "after": "9c78e1a0d10c4fba",
+      "date": 1501247700046
+    },
+    {
+      "type": "add",
+      "id": "94529d652612dd56",
+      "item": {
+        "type": "paragraph",
+        "id": "94529d652612dd56",
+        "text": "MAMP\n"
+      },
+      "after": "755b3d8ff4021c78",
+      "date": 1501247700623
+    },
+    {
+      "type": "add",
+      "id": "b5cabead4439d067",
+      "item": {
+        "type": "paragraph",
+        "id": "b5cabead4439d067",
+        "text": "Terminal"
+      },
+      "after": "94529d652612dd56",
+      "date": 1501247702255
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "45e3731b8bb67968"
+      },
+      "id": "45e3731b8bb67968",
+      "type": "add",
+      "after": "b5cabead4439d067",
+      "date": 1501247706686
+    },
+    {
+      "type": "edit",
+      "id": "45e3731b8bb67968",
+      "item": {
+        "type": "markdown",
+        "id": "45e3731b8bb67968",
+        "text": "# Content Management Systems"
+      },
+      "date": 1501247712299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b533715b1c7da45f"
+      },
+      "id": "b533715b1c7da45f",
+      "type": "add",
+      "after": "45e3731b8bb67968",
+      "date": 1501247714553
+    },
+    {
+      "type": "edit",
+      "id": "b533715b1c7da45f",
+      "item": {
+        "type": "paragraph",
+        "id": "b533715b1c7da45f",
+        "text": "Kirby\n"
+      },
+      "date": 1501247719199
+    },
+    {
+      "type": "add",
+      "id": "f282992f49007b83",
+      "item": {
+        "type": "paragraph",
+        "id": "f282992f49007b83",
+        "text": "Jekyll + Siteleaf"
+      },
+      "after": "b533715b1c7da45f",
+      "date": 1501247720814
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "789b4b72855fc99e"
+      },
+      "id": "789b4b72855fc99e",
+      "type": "add",
+      "after": "f282992f49007b83",
+      "date": 1501247725407
+    },
+    {
+      "type": "edit",
+      "id": "789b4b72855fc99e",
+      "item": {
+        "type": "markdown",
+        "id": "789b4b72855fc99e",
+        "text": "# Hosting"
+      },
+      "date": 1501247732677
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a0c1b5d24443ae1"
+      },
+      "id": "1a0c1b5d24443ae1",
+      "type": "add",
+      "after": "789b4b72855fc99e",
+      "date": 1501247735673
+    },
+    {
+      "type": "edit",
+      "id": "1a0c1b5d24443ae1",
+      "item": {
+        "type": "paragraph",
+        "id": "1a0c1b5d24443ae1",
+        "text": "Netlify\nGithub Pages\nDigital Ocean\nA Small Orange\n[the web host you already have]\n"
+      },
+      "date": 1501247736827
+    },
+    {
+      "type": "edit",
+      "id": "1a0c1b5d24443ae1",
+      "item": {
+        "type": "paragraph",
+        "id": "1a0c1b5d24443ae1",
+        "text": "Netlify"
+      },
+      "date": 1501247738574
+    },
+    {
+      "type": "add",
+      "id": "dd2fa29d5bcf58cd",
+      "item": {
+        "type": "paragraph",
+        "id": "dd2fa29d5bcf58cd",
+        "text": "Github Pages\n"
+      },
+      "after": "1a0c1b5d24443ae1",
+      "date": 1501247739450
+    },
+    {
+      "type": "add",
+      "id": "50d949d11b3f2b13",
+      "item": {
+        "type": "paragraph",
+        "id": "50d949d11b3f2b13",
+        "text": "Digital Ocean\n"
+      },
+      "after": "dd2fa29d5bcf58cd",
+      "date": 1501247739956
+    },
+    {
+      "type": "add",
+      "id": "95b882afe23251f0",
+      "item": {
+        "type": "paragraph",
+        "id": "95b882afe23251f0",
+        "text": "A Small Orange\n"
+      },
+      "after": "50d949d11b3f2b13",
+      "date": 1501247740538
+    },
+    {
+      "type": "add",
+      "id": "30a0710b4fccd045",
+      "item": {
+        "type": "paragraph",
+        "id": "30a0710b4fccd045",
+        "text": "[the web host you already have]\n"
+      },
+      "after": "95b882afe23251f0",
+      "date": 1501247742020
+    },
+    {
+      "type": "add",
+      "id": "2638e38929f93bfa",
+      "item": {
+        "type": "paragraph",
+        "id": "2638e38929f93bfa",
+        "text": "These are tools I use."
+      },
+      "after": "9c78e1a0d10c4fba",
+      "date": 1501247878456
+    },
+    {
+      "type": "move",
+      "order": [
+        "2638e38929f93bfa",
+        "03bd3cc57a0fe6b2",
+        "9c78e1a0d10c4fba",
+        "755b3d8ff4021c78",
+        "94529d652612dd56",
+        "b5cabead4439d067",
+        "45e3731b8bb67968",
+        "b533715b1c7da45f",
+        "f282992f49007b83",
+        "789b4b72855fc99e",
+        "1a0c1b5d24443ae1",
+        "dd2fa29d5bcf58cd",
+        "50d949d11b3f2b13",
+        "95b882afe23251f0",
+        "30a0710b4fccd045",
+        "d731aa3eab4bc60f",
+        "2c829c0c1518c6f1",
+        "483f7a720a0842e7",
+        "aec39e2f0d7cc130",
+        "ef52c13ff2522447",
+        "8f4859c902256dc2",
+        "e92184feaa0dd0de",
+        "d371e3a37a110843",
+        "d3333d4e9f6e3b95",
+        "0b2c77b06e8c2c59",
+        "0d518372f7d0fabd",
+        "a7734313302ca614",
+        "4ce6c97cd1ae6b63",
+        "963c1aa3769d6dd7",
+        "36679dde6955d6b5",
+        "f0a6ba0fc4e77875",
+        "92f14ab3c966e341"
+      ],
+      "id": "2638e38929f93bfa",
+      "date": 1501247879553
+    },
+    {
+      "type": "edit",
+      "id": "2638e38929f93bfa",
+      "item": {
+        "type": "paragraph",
+        "id": "2638e38929f93bfa",
+        "text": "What I use to do my work:"
+      },
+      "date": 1501247917175
+    }
+  ]
+}

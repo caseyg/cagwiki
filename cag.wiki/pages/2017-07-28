@@ -1,0 +1,79 @@
+{
+  "title": "2017-07-28",
+  "story": [
+    {
+      "type": "video",
+      "id": "7da58353dae7112f",
+      "text": "YOUTUBE pasktIS7E8E \nPraise God and Dance, from Duke Ellington's Second Sacred Concert"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2017-07-28",
+        "story": []
+      },
+      "date": 1501231223721
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7da58353dae7112f"
+      },
+      "id": "7da58353dae7112f",
+      "type": "add",
+      "date": 1501231225524
+    },
+    {
+      "type": "edit",
+      "id": "7da58353dae7112f",
+      "item": {
+        "type": "video",
+        "id": "7da58353dae7112f",
+        "text": "YOUTUBE https://www.youtube.com/watch?v=pasktIS7E8E Praise God and Dance, from Duke Ellington's Second Sacred Concert"
+      },
+      "date": 1501231250763
+    },
+    {
+      "type": "edit",
+      "id": "7da58353dae7112f",
+      "item": {
+        "type": "video",
+        "id": "7da58353dae7112f",
+        "text": "YOUTUBE https://www.youtube.com/watch?v=pasktIS7E8E\nPraise God and Dance, from Duke Ellington's Second Sacred Concert"
+      },
+      "date": 1501231255213
+    },
+    {
+      "type": "edit",
+      "id": "7da58353dae7112f",
+      "item": {
+        "type": "video",
+        "id": "7da58353dae7112f",
+        "text": "YOUTUBE pasktIS7E8E\nPraise God and Dance, from Duke Ellington's Second Sacred Concert"
+      },
+      "date": 1501231263494
+    },
+    {
+      "type": "edit",
+      "id": "7da58353dae7112f",
+      "item": {
+        "type": "video",
+        "id": "7da58353dae7112f",
+        "text": "YOUTUBE pasktIS7E8E Praise God and Dance, from Duke Ellington's Second Sacred Concert"
+      },
+      "date": 1501231267468
+    },
+    {
+      "type": "edit",
+      "id": "7da58353dae7112f",
+      "item": {
+        "type": "video",
+        "id": "7da58353dae7112f",
+        "text": "YOUTUBE pasktIS7E8E \nPraise God and Dance, from Duke Ellington's Second Sacred Concert"
+      },
+      "date": 1501231270367
+    }
+  ]
+}

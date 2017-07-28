@@ -1,0 +1,87 @@
+{
+  "title": "Learn",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a2e6a3077a7bf4a8",
+      "text": "Things I'd like to learn more about:"
+    },
+    {
+      "type": "paragraph",
+      "id": "a3a07e4aa3804db4",
+      "text": "deploying a website"
+    },
+    {
+      "type": "paragraph",
+      "id": "a6d5e22338225a73",
+      "text": "using ssh keys with multiple users/computers"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf0529c00bcf5000",
+      "text": "server permissions"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Learn",
+        "story": []
+      },
+      "date": 1498922770346
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2e6a3077a7bf4a8"
+      },
+      "id": "a2e6a3077a7bf4a8",
+      "type": "add",
+      "date": 1498922772478
+    },
+    {
+      "type": "edit",
+      "id": "a2e6a3077a7bf4a8",
+      "item": {
+        "type": "paragraph",
+        "id": "a2e6a3077a7bf4a8",
+        "text": "Things I'd like to learn more about:"
+      },
+      "date": 1498922779956
+    },
+    {
+      "type": "add",
+      "id": "a3a07e4aa3804db4",
+      "item": {
+        "type": "paragraph",
+        "id": "a3a07e4aa3804db4",
+        "text": "deploying a website"
+      },
+      "after": "a2e6a3077a7bf4a8",
+      "date": 1498922788843
+    },
+    {
+      "type": "add",
+      "id": "a6d5e22338225a73",
+      "item": {
+        "type": "paragraph",
+        "id": "a6d5e22338225a73",
+        "text": "using ssh keys with multiple users/computers"
+      },
+      "after": "a3a07e4aa3804db4",
+      "date": 1498922811488
+    },
+    {
+      "type": "add",
+      "id": "bf0529c00bcf5000",
+      "item": {
+        "type": "paragraph",
+        "id": "bf0529c00bcf5000",
+        "text": "server permissions"
+      },
+      "after": "a6d5e22338225a73",
+      "date": 1498922828836
+    }
+  ]
+}

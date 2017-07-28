@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "27f9f5e8cbc5ce82",
-      "text": "\\/\\/elcome to CAG.wiki  👽  we come in peace!"
+      "text": "\\/\\/elcome to CAG.wiki  👽  we come in peace!!"
     },
     {
       "type": "paragraph",
@@ -102,6 +102,11 @@
       "text": "[[Everyday Weblog]]"
     },
     {
+      "type": "paragraph",
+      "id": "e40251abdd23a0af",
+      "text": "[[Learn]]"
+    },
+    {
       "type": "pagefold",
       "id": "12ad408d1ef4b89d",
       "text": "Howdy neighbors"
@@ -145,10 +150,6 @@
       "type": "activity",
       "id": "c43a88598cb67997",
       "text": "SINCE 36 hours"
-    },
-    {
-      "type": "factory",
-      "id": "030f425d318cd2c5"
     }
   ],
   "journal": [
@@ -4862,6 +4863,41 @@
         "text": "\\/\\/elcome to CAG.wiki  👽  we come in peace!"
       },
       "date": 1494007958066
+    },
+    {
+      "type": "remove",
+      "id": "030f425d318cd2c5",
+      "date": 1494093136605,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1494093143804
+    },
+    {
+      "type": "edit",
+      "id": "27f9f5e8cbc5ce82",
+      "item": {
+        "type": "paragraph",
+        "id": "27f9f5e8cbc5ce82",
+        "text": "\\/\\/elcome to CAG.wiki  👽  we come in peace!!"
+      },
+      "date": 1494093861859
+    },
+    {
+      "type": "add",
+      "id": "e40251abdd23a0af",
+      "item": {
+        "type": "paragraph",
+        "id": "e40251abdd23a0af",
+        "text": "[[Learn]]"
+      },
+      "after": "f6d99bfa60626c56",
+      "date": 1498922768019
     }
   ]
 }

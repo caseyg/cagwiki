@@ -4,6 +4,36 @@
     {
       "type": "paragraph",
       "id": "d14f2c6cc2306f17",
+      "text": "Oracle"
+    },
+    {
+      "type": "paragraph",
+      "id": "82dd360565625166",
+      "text": "Epsilon"
+    },
+    {
+      "type": "paragraph",
+      "id": "761b0aa8d2fc1217",
+      "text": "Acxiom"
+    },
+    {
+      "type": "paragraph",
+      "id": "2773a355ef401fd2",
+      "text": "Mitochrondrea (Mito)"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f1179dc253487a0",
+      "text": "Ephiphany"
+    },
+    {
+      "type": "paragraph",
+      "id": "0837c1e75b9570da",
+      "text": "Router"
+    },
+    {
+      "type": "paragraph",
+      "id": "cd41bd668fa750ab",
       "text": "Counterpoint"
     },
     {
@@ -30,6 +60,116 @@
       "type": "paragraph",
       "id": "4b0b5967dfacb009",
       "text": "Cosine"
+    },
+    {
+      "type": "paragraph",
+      "id": "41e67adc6bb8873e",
+      "text": "Strategia"
+    },
+    {
+      "type": "paragraph",
+      "id": "a3921cf6d04b880a",
+      "text": "Chagrina"
+    },
+    {
+      "type": "paragraph",
+      "id": "96c78251e7378e3a",
+      "text": "Dweevil"
+    },
+    {
+      "type": "paragraph",
+      "id": "534f2254aeb932d9",
+      "text": "Jess"
+    },
+    {
+      "type": "paragraph",
+      "id": "f8bb91e57ec20c83",
+      "text": "Paradigm"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd2f7ee6861d9e0f",
+      "text": "Grita"
+    },
+    {
+      "type": "paragraph",
+      "id": "6d9f46164d90cd70",
+      "text": "G.G.S."
+    },
+    {
+      "type": "paragraph",
+      "id": "83dc1a3e310dfe25",
+      "text": "Glendolyn"
+    },
+    {
+      "type": "paragraph",
+      "id": "2b487bc7697d2446",
+      "text": "Petunia"
+    },
+    {
+      "type": "paragraph",
+      "id": "bfb1349487a4cd9d",
+      "text": "Devastasia"
+    },
+    {
+      "type": "paragraph",
+      "id": "652b27ecbaf3662e",
+      "text": "Harriet"
+    },
+    {
+      "type": "paragraph",
+      "id": "c6d690641e6f9611",
+      "text": "Chaire"
+    },
+    {
+      "type": "paragraph",
+      "id": "76206414d2da7c38",
+      "text": "Proctor"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4a87413c3363389",
+      "text": "Gamblina"
+    },
+    {
+      "type": "paragraph",
+      "id": "de8d16faaf27765c",
+      "text": "Dronea"
+    },
+    {
+      "type": "paragraph",
+      "id": "99afda9ad40caae8",
+      "text": "Invitra"
+    },
+    {
+      "type": "paragraph",
+      "id": "d2be1e13db630a71",
+      "text": "Crispr"
+    },
+    {
+      "type": "paragraph",
+      "id": "7716b8c7560ca9db",
+      "text": "Stigmerjeanne"
+    },
+    {
+      "type": "paragraph",
+      "id": "91a7e3c533f907a6",
+      "text": "Oblicity"
+    },
+    {
+      "type": "paragraph",
+      "id": "8dcd901f39d381de",
+      "text": "Dementia"
+    },
+    {
+      "type": "paragraph",
+      "id": "cc7748328abdd924",
+      "text": "Quarrina"
+    },
+    {
+      "type": "paragraph",
+      "id": "b4e00f7adfd5584e",
+      "text": "Shameus"
     }
   ],
   "journal": [
@@ -162,6 +302,410 @@
         "text": "Anon"
       },
       "date": 1485541614300
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "RouterCou"
+      },
+      "date": 1496263833761
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Router"
+      },
+      "date": 1496263835739
+    },
+    {
+      "type": "add",
+      "id": "cd41bd668fa750ab",
+      "item": {
+        "type": "paragraph",
+        "id": "cd41bd668fa750ab",
+        "text": "Counterpoint"
+      },
+      "after": "d14f2c6cc2306f17",
+      "date": 1496263836922
+    },
+    {
+      "type": "add",
+      "id": "a3921cf6d04b880a",
+      "item": {
+        "type": "paragraph",
+        "id": "a3921cf6d04b880a",
+        "text": "Chagrina"
+      },
+      "after": "4b0b5967dfacb009",
+      "date": 1496953176278
+    },
+    {
+      "type": "add",
+      "id": "96c78251e7378e3a",
+      "item": {
+        "type": "paragraph",
+        "id": "96c78251e7378e3a",
+        "text": "Dweevil"
+      },
+      "after": "a3921cf6d04b880a",
+      "date": 1496953178105
+    },
+    {
+      "type": "add",
+      "id": "534f2254aeb932d9",
+      "item": {
+        "type": "paragraph",
+        "id": "534f2254aeb932d9",
+        "text": "Jess"
+      },
+      "after": "96c78251e7378e3a",
+      "date": 1496953180067
+    },
+    {
+      "type": "add",
+      "id": "f8bb91e57ec20c83",
+      "item": {
+        "type": "paragraph",
+        "id": "f8bb91e57ec20c83",
+        "text": "Paradigm"
+      },
+      "after": "534f2254aeb932d9",
+      "date": 1496953182239
+    },
+    {
+      "type": "add",
+      "id": "dd2f7ee6861d9e0f",
+      "item": {
+        "type": "paragraph",
+        "id": "dd2f7ee6861d9e0f",
+        "text": "Grita"
+      },
+      "after": "f8bb91e57ec20c83",
+      "date": 1496953183437
+    },
+    {
+      "type": "add",
+      "id": "6d9f46164d90cd70",
+      "item": {
+        "type": "paragraph",
+        "id": "6d9f46164d90cd70",
+        "text": "G.G.S."
+      },
+      "after": "dd2f7ee6861d9e0f",
+      "date": 1496953187046
+    },
+    {
+      "type": "add",
+      "id": "83dc1a3e310dfe25",
+      "item": {
+        "type": "paragraph",
+        "id": "83dc1a3e310dfe25",
+        "text": "Glendolyn"
+      },
+      "after": "6d9f46164d90cd70",
+      "date": 1496953190225
+    },
+    {
+      "type": "add",
+      "id": "2b487bc7697d2446",
+      "item": {
+        "type": "paragraph",
+        "id": "2b487bc7697d2446",
+        "text": "Petunia"
+      },
+      "after": "83dc1a3e310dfe25",
+      "date": 1496953192714
+    },
+    {
+      "type": "add",
+      "id": "bfb1349487a4cd9d",
+      "item": {
+        "type": "paragraph",
+        "id": "bfb1349487a4cd9d",
+        "text": "Devastasia"
+      },
+      "after": "2b487bc7697d2446",
+      "date": 1496953199913
+    },
+    {
+      "type": "add",
+      "id": "806e7ca72452fe10",
+      "item": {
+        "type": "paragraph",
+        "id": "806e7ca72452fe10",
+        "text": "Mr. Dr. Jakebot"
+      },
+      "after": "bfb1349487a4cd9d",
+      "date": 1496953222810
+    },
+    {
+      "type": "add",
+      "id": "652b27ecbaf3662e",
+      "item": {
+        "type": "paragraph",
+        "id": "652b27ecbaf3662e",
+        "text": "Harriet"
+      },
+      "after": "806e7ca72452fe10",
+      "date": 1496953225528
+    },
+    {
+      "type": "add",
+      "id": "c6d690641e6f9611",
+      "item": {
+        "type": "paragraph",
+        "id": "c6d690641e6f9611",
+        "text": "Chaire"
+      },
+      "after": "652b27ecbaf3662e",
+      "date": 1496953226652
+    },
+    {
+      "type": "add",
+      "id": "76206414d2da7c38",
+      "item": {
+        "type": "paragraph",
+        "id": "76206414d2da7c38",
+        "text": "Proctor"
+      },
+      "after": "c6d690641e6f9611",
+      "date": 1496953230629
+    },
+    {
+      "type": "add",
+      "id": "d4a87413c3363389",
+      "item": {
+        "type": "paragraph",
+        "id": "d4a87413c3363389",
+        "text": "Gamblina"
+      },
+      "after": "76206414d2da7c38",
+      "date": 1496953233260
+    },
+    {
+      "type": "add",
+      "id": "de8d16faaf27765c",
+      "item": {
+        "type": "paragraph",
+        "id": "de8d16faaf27765c",
+        "text": "Dronea"
+      },
+      "after": "d4a87413c3363389",
+      "date": 1496953238928
+    },
+    {
+      "type": "add",
+      "id": "99afda9ad40caae8",
+      "item": {
+        "type": "paragraph",
+        "id": "99afda9ad40caae8",
+        "text": "Invitra"
+      },
+      "after": "de8d16faaf27765c",
+      "date": 1496953241512
+    },
+    {
+      "type": "add",
+      "id": "d2be1e13db630a71",
+      "item": {
+        "type": "paragraph",
+        "id": "d2be1e13db630a71",
+        "text": "Crispr"
+      },
+      "after": "99afda9ad40caae8",
+      "date": 1496953245178
+    },
+    {
+      "type": "add",
+      "id": "7716b8c7560ca9db",
+      "item": {
+        "type": "paragraph",
+        "id": "7716b8c7560ca9db",
+        "text": "Lovinal"
+      },
+      "after": "d2be1e13db630a71",
+      "date": 1496953251143
+    },
+    {
+      "type": "remove",
+      "id": "806e7ca72452fe10",
+      "date": 1496953253805
+    },
+    {
+      "type": "edit",
+      "id": "7716b8c7560ca9db",
+      "item": {
+        "type": "paragraph",
+        "id": "7716b8c7560ca9db",
+        "text": "Stigmerjeanne"
+      },
+      "date": 1496953268436
+    },
+    {
+      "type": "add",
+      "id": "91a7e3c533f907a6",
+      "item": {
+        "type": "paragraph",
+        "id": "91a7e3c533f907a6",
+        "text": "Oblicity"
+      },
+      "after": "7716b8c7560ca9db",
+      "date": 1496953280038
+    },
+    {
+      "type": "add",
+      "id": "8dcd901f39d381de",
+      "item": {
+        "type": "paragraph",
+        "id": "8dcd901f39d381de",
+        "text": "Dementia"
+      },
+      "after": "91a7e3c533f907a6",
+      "date": 1496953282965
+    },
+    {
+      "type": "add",
+      "id": "cc7748328abdd924",
+      "item": {
+        "type": "paragraph",
+        "id": "cc7748328abdd924",
+        "text": "Quarrina"
+      },
+      "after": "8dcd901f39d381de",
+      "date": 1496953288076
+    },
+    {
+      "type": "add",
+      "id": "b4e00f7adfd5584e",
+      "item": {
+        "type": "paragraph",
+        "id": "b4e00f7adfd5584e",
+        "text": "Shameus"
+      },
+      "after": "cc7748328abdd924",
+      "date": 1496953298240
+    },
+    {
+      "type": "add",
+      "id": "41e67adc6bb8873e",
+      "item": {
+        "type": "paragraph",
+        "id": "41e67adc6bb8873e",
+        "text": "Strategia"
+      },
+      "after": "4b0b5967dfacb009",
+      "date": 1496953404939
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Ephiphany"
+      },
+      "date": 1498338000727
+    },
+    {
+      "type": "add",
+      "id": "0837c1e75b9570da",
+      "item": {
+        "type": "paragraph",
+        "id": "0837c1e75b9570da",
+        "text": "Router"
+      },
+      "after": "d14f2c6cc2306f17",
+      "date": 1498338002289
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Mitochrondrea"
+      },
+      "date": 1498867754881
+    },
+    {
+      "type": "add",
+      "id": "2f1179dc253487a0",
+      "item": {
+        "type": "paragraph",
+        "id": "2f1179dc253487a0",
+        "text": "Ephiphany"
+      },
+      "after": "d14f2c6cc2306f17",
+      "date": 1498867756110
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Mitochrondrea (Mito)"
+      },
+      "date": 1498867759068
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Oracle, Epsilon, and Acxiom"
+      },
+      "date": 1499390042788
+    },
+    {
+      "type": "add",
+      "id": "2773a355ef401fd2",
+      "item": {
+        "type": "paragraph",
+        "id": "2773a355ef401fd2",
+        "text": "Mitochrondrea (Mito)"
+      },
+      "after": "d14f2c6cc2306f17",
+      "date": 1499390043496
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Oracle"
+      },
+      "date": 1499390045409
+    },
+    {
+      "type": "add",
+      "id": "82dd360565625166",
+      "item": {
+        "type": "paragraph",
+        "id": "82dd360565625166",
+        "text": "Epsilon"
+      },
+      "after": "d14f2c6cc2306f17",
+      "date": 1499390050077
+    },
+    {
+      "type": "add",
+      "id": "761b0aa8d2fc1217",
+      "item": {
+        "type": "paragraph",
+        "id": "761b0aa8d2fc1217",
+        "text": "Acxiom"
+      },
+      "after": "82dd360565625166",
+      "date": 1499390051607
     }
   ]
 }

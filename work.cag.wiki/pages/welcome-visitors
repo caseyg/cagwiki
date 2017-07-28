@@ -26,6 +26,14 @@
       "slug": "casey-gollan",
       "title": "Casey Gollan",
       "text": "Hi, I'm Casey! My design practice — considering the intermediation of technology and everyday life — is based out of [[Orbital]]. I have written critically about design and technology for [[Rhizome]] and [[Poool]], participated in [[Triple Canopy]]’s networked publishing intensive, and experimented with open-source administration as part of the [[School for Poetic Computation]]."
+    },
+    {
+      "type": "reference",
+      "id": "7dc9f69f7896f30f",
+      "site": "work.cag.wiki",
+      "slug": "tools",
+      "title": "Tools",
+      "text": "Github"
     }
   ],
   "journal": [
@@ -332,6 +340,64 @@
       "type": "remove",
       "id": "64cc00a1b0fadab8",
       "date": 1480099831292
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "690b78b9795e2a98"
+      },
+      "id": "690b78b9795e2a98",
+      "type": "add",
+      "after": "c20a49d30c926e54",
+      "date": 1501247611162
+    },
+    {
+      "type": "edit",
+      "id": "690b78b9795e2a98",
+      "item": {
+        "type": "paragraph",
+        "id": "690b78b9795e2a98",
+        "text": "[Tools]"
+      },
+      "date": 1501247615800
+    },
+    {
+      "type": "edit",
+      "id": "690b78b9795e2a98",
+      "item": {
+        "type": "paragraph",
+        "id": "690b78b9795e2a98",
+        "text": "[[Tools]]"
+      },
+      "date": 1501247620017
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7dc9f69f7896f30f"
+      },
+      "id": "7dc9f69f7896f30f",
+      "type": "add",
+      "after": "690b78b9795e2a98",
+      "date": 1501247869188
+    },
+    {
+      "type": "edit",
+      "id": "7dc9f69f7896f30f",
+      "item": {
+        "type": "reference",
+        "id": "7dc9f69f7896f30f",
+        "site": "work.cag.wiki",
+        "slug": "tools",
+        "title": "Tools",
+        "text": "Github"
+      },
+      "date": 1501247871642
+    },
+    {
+      "type": "remove",
+      "id": "690b78b9795e2a98",
+      "date": 1501247932799
     }
   ]
 }

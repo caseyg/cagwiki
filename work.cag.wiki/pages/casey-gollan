@@ -4,7 +4,7 @@
     {
       "type": "html",
       "id": "da0a01c89a1cea73",
-      "text": "<img src=\"https://pbs.twimg.com/profile_images/699399274669350912/62-rUSw-.jpg\" style=\"float:right;width:25%;\">"
+      "text": "<img src=\"https://avatars1.githubusercontent.com/u/462020?v=4&s=460\" style=\"float:right;width:25%;\">"
     },
     {
       "type": "paragraph",
@@ -54,12 +54,12 @@
     {
       "type": "markdown",
       "id": "b7ed45fecf716707",
-      "text": "# Actually, let's do everything."
+      "text": "# Actually, let's do [[everything]]."
     },
     {
       "type": "paragraph",
       "id": "8fdc9401d8407457",
-      "text": "Though I do a lot of website building, I'm a generalist capable of working across disciplines to see a great project through almost anything."
+      "text": "Though I do a lot of website building, I'm a generalist who enjoys working across disciplines to see a great project through."
     },
     {
       "type": "markdown",
@@ -1958,6 +1958,36 @@
       ],
       "id": "85047b4a642d557a",
       "date": 1480100224386
+    },
+    {
+      "type": "edit",
+      "id": "da0a01c89a1cea73",
+      "item": {
+        "type": "html",
+        "id": "da0a01c89a1cea73",
+        "text": "<img src=\"https://avatars1.githubusercontent.com/u/462020?v=4&s=460\" style=\"float:right;width:25%;\">"
+      },
+      "date": 1501247823284
+    },
+    {
+      "type": "edit",
+      "id": "8fdc9401d8407457",
+      "item": {
+        "type": "paragraph",
+        "id": "8fdc9401d8407457",
+        "text": "Though I do a lot of website building, I'm a generalist who enjoys working across disciplines to see a great project through."
+      },
+      "date": 1501247846807
+    },
+    {
+      "type": "edit",
+      "id": "b7ed45fecf716707",
+      "item": {
+        "type": "markdown",
+        "id": "b7ed45fecf716707",
+        "text": "# Actually, let's do [[everything]]."
+      },
+      "date": 1501248021460
     }
   ]
 }

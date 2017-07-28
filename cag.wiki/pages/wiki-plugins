@@ -20,6 +20,10 @@
       "type": "plugmatic",
       "id": "6b2486fe4ae85934",
       "text": "wiki-plugin-shell\nwiki-plugin-rss\nwiki-plugin-linkmap"
+    },
+    {
+      "type": "factory",
+      "id": "c8224c78ddb1fb9e"
     }
   ],
   "journal": [
@@ -225,6 +229,16 @@
         "text": "wiki-plugin-shell\nwiki-plugin-rss\nwiki-plugin-linkmap"
       },
       "date": 1491956539609
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c8224c78ddb1fb9e"
+      },
+      "id": "c8224c78ddb1fb9e",
+      "type": "add",
+      "after": "6b2486fe4ae85934",
+      "date": 1494093522237
     }
   ]
 }

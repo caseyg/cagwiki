@@ -12,3 +12,4 @@ status/owner.json
 .wiki/
 owner.json
 .gitconfig
+npm-debug.log*

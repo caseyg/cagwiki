@@ -2,8 +2,13 @@
   "title": "Yale School of Art (2017/04/07)",
   "story": [
     {
+      "type": "video",
+      "id": "d089bd47547735db",
+      "text": "YOUTUBE 9lMcdENI4X0\n[http://veryinteractive.net/videos veryinteractive.net/videos]"
+    },
+    {
       "type": "paragraph",
-      "id": "aef00c318c2e249a",
+      "id": "c4213ffdbd900b9c",
       "text": "Long live communication, down with telecommunication!"
     },
     {
@@ -106,6 +111,84 @@
       },
       "after": "aef00c318c2e249a",
       "date": 1491348295230
+    },
+    {
+      "type": "edit",
+      "id": "aef00c318c2e249a",
+      "item": {
+        "type": "paragraph",
+        "id": "aef00c318c2e249a",
+        "text": "[http://veryinteractive.net/videos video]"
+      },
+      "date": 1498922681788
+    },
+    {
+      "type": "add",
+      "id": "c4213ffdbd900b9c",
+      "item": {
+        "type": "paragraph",
+        "id": "c4213ffdbd900b9c",
+        "text": "Long live communication, down with telecommunication!"
+      },
+      "after": "aef00c318c2e249a",
+      "date": 1498922683894
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d089bd47547735db"
+      },
+      "id": "d089bd47547735db",
+      "type": "add",
+      "after": "451f219a4da030af",
+      "date": 1498922691989
+    },
+    {
+      "type": "edit",
+      "id": "d089bd47547735db",
+      "item": {
+        "type": "video",
+        "id": "d089bd47547735db",
+        "text": "YOUTUBE 9lMcdENI4X0"
+      },
+      "date": 1498922699627
+    },
+    {
+      "type": "move",
+      "order": [
+        "d089bd47547735db",
+        "aef00c318c2e249a",
+        "c4213ffdbd900b9c",
+        "f9fc60c549ca7d86",
+        "451f219a4da030af"
+      ],
+      "id": "d089bd47547735db",
+      "date": 1498922703999
+    },
+    {
+      "type": "remove",
+      "id": "aef00c318c2e249a",
+      "date": 1498922706367
+    },
+    {
+      "type": "edit",
+      "id": "d089bd47547735db",
+      "item": {
+        "type": "video",
+        "id": "d089bd47547735db",
+        "text": "YOUTUBE 9lMcdENI4X0\n[http://veryinteractive.net/videos video]"
+      },
+      "date": 1498922710840
+    },
+    {
+      "type": "edit",
+      "id": "d089bd47547735db",
+      "item": {
+        "type": "video",
+        "id": "d089bd47547735db",
+        "text": "YOUTUBE 9lMcdENI4X0\n[http://veryinteractive.net/videos veryinteractive.net/videos]"
+      },
+      "date": 1498922724016
     }
   ]
 }
