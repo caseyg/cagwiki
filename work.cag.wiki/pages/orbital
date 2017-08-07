@@ -1,0 +1,165 @@
+{
+  "title": "Orbital",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fc776ec47f930b23",
+      "text": "\"[http://orbital.nyc/ Orbital] is a studio for building networks launched in 2014 by Gary Chou.\""
+    },
+    {
+      "type": "paragraph",
+      "id": "95f589397b5dcf5f",
+      "text": "I've worked out of Orbital since 2014, initially with the [[School for Poetic Computation]], and currently as an independent designer and developer."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Orbital",
+        "story": []
+      },
+      "date": 1501259126099
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc776ec47f930b23"
+      },
+      "id": "fc776ec47f930b23",
+      "type": "add",
+      "date": 1501259130473
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "[http://orbital.nyc/ Orbital]"
+      },
+      "date": 1501259145051
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "[http://orbital.nyc/ Orbital] is a "
+      },
+      "date": 1501259148241
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "[http://orbital.nyc/ Orbital], a studio for building networks, founded"
+      },
+      "date": 1501259157321
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "[http://orbital.nyc/ Orbital] is a studio for building networks, l"
+      },
+      "date": 1501259173351
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "[http://orbital.nyc/ Orbital], a studio for building networks, launched in 2014 by Gary Chou."
+      },
+      "date": 1501259183104
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "[http://orbital.nyc/ Orbital] is a studio for building networks launched in 2014 by Gary Chou."
+      },
+      "date": 1501259191453
+    },
+    {
+      "type": "add",
+      "id": "95f589397b5dcf5f",
+      "item": {
+        "type": "paragraph",
+        "id": "95f589397b5dcf5f",
+        "text": "I've worked out of Orbital since it's founding, first as a [[School for Poetic Computation]]."
+      },
+      "after": "fc776ec47f930b23",
+      "date": 1501259216809
+    },
+    {
+      "type": "edit",
+      "id": "95f589397b5dcf5f",
+      "item": {
+        "type": "paragraph",
+        "id": "95f589397b5dcf5f",
+        "text": "I've worked out of Orbital since it's founding, first while working with the [[School for Poetic Computation]]."
+      },
+      "date": 1501259231618
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "[http://orbital.nyc/ Orbital] is a studio for building networks launched in 2014 by Gary Chou. It's based in New York's Lower East"
+      },
+      "date": 1501259241177
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "[http://orbital.nyc/ Orbital] is a studio for building networks launched in 2014 by Gary Chou. It's based in New York's Lower East Side."
+      },
+      "date": 1501259246082
+    },
+    {
+      "type": "edit",
+      "id": "fc776ec47f930b23",
+      "item": {
+        "type": "paragraph",
+        "id": "fc776ec47f930b23",
+        "text": "\"[http://orbital.nyc/ Orbital] is a studio for building networks launched in 2014 by Gary Chou.\""
+      },
+      "date": 1501259262740
+    },
+    {
+      "type": "edit",
+      "id": "95f589397b5dcf5f",
+      "item": {
+        "type": "paragraph",
+        "id": "95f589397b5dcf5f",
+        "text": "I've worked out of Orbital since 2014, initially while working with the [[School for Poetic Computation]], and currently as an independent designer and developer."
+      },
+      "date": 1501259288091
+    },
+    {
+      "type": "edit",
+      "id": "95f589397b5dcf5f",
+      "item": {
+        "type": "paragraph",
+        "id": "95f589397b5dcf5f",
+        "text": "I've worked out of Orbital since 2014, initially with the [[School for Poetic Computation]], and currently as an independent designer and developer."
+      },
+      "date": 1501259302120
+    }
+  ]
+}

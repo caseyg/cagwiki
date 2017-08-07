@@ -1,0 +1,972 @@
+{
+  "title": "Projects",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0d69b5e314916420",
+      "text": "[[Sara Hendren (website)]], 2017"
+    },
+    {
+      "type": "paragraph",
+      "id": "fba6cb803e4704f2",
+      "text": "[[American Ethnological Society]], 2017"
+    },
+    {
+      "type": "paragraph",
+      "id": "1bb3d2492a40f4b6",
+      "text": "[[Susan Inglett Gallery]], 2017"
+    },
+    {
+      "type": "paragraph",
+      "id": "983b1bc12c5e0879",
+      "text": "[[It Takes All Of Us]], 2017"
+    },
+    {
+      "type": "paragraph",
+      "id": "fffad4f59f9978b9",
+      "text": "[[Hope Gangloff]], 2017"
+    },
+    {
+      "type": "paragraph",
+      "id": "a81917f484c4c206",
+      "text": "[[Knutepunkt]], 2017"
+    },
+    {
+      "type": "paragraph",
+      "id": "c58a2d2399a6567f",
+      "text": "[[Adaptation + Ability Group]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "925746e520ce2c92",
+      "text": "[[Peter Cooper Block Party]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "a16913f6c74e7357",
+      "text": "[[Brian Funck]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "82eeae8592ea1aab",
+      "text": "[[Accessible Icon Project]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "f267f5761683ec10",
+      "text": "[[Engineering at Home]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "ddd4202d1f8505ee",
+      "text": "[[Multi Entry]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "c9f529b9e0985a8c",
+      "text": "[[Andrew Badr]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "952375780d5b5598",
+      "text": "[[Recess New York]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d71e4c29f9eb59a",
+      "text": "[[Camillo Bernardi Studio]], 2016"
+    },
+    {
+      "type": "paragraph",
+      "id": "e55036d6b9c87c0b",
+      "text": "[[School for Poetic Computation]], 2015"
+    },
+    {
+      "type": "paragraph",
+      "id": "3b5fa1ccf39425e0",
+      "text": "[[Marwa Helal]], 2015"
+    },
+    {
+      "type": "paragraph",
+      "id": "7a4a91a3f125df9b",
+      "text": "[[Josh Olins]], 2015"
+    },
+    {
+      "type": "paragraph",
+      "id": "faebb23e7ac8d922",
+      "text": "[[OpenGov Foundation]], 2015"
+    },
+    {
+      "type": "paragraph",
+      "id": "ec10cf164caeefdd",
+      "text": "[[Disorientation Reader]], 2015"
+    },
+    {
+      "type": "paragraph",
+      "id": "90197f255c4d6103",
+      "text": "[[Tom Healy]], 2014-"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d2e2b3d67343268",
+      "text": "[[Rodi Gallery]], 2014"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ff40b590530809e",
+      "text": "[[Girl Walk // All Day]], 2011"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Projects",
+        "story": []
+      },
+      "date": 1501249985786
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad7d79c03041b332"
+      },
+      "id": "ad7d79c03041b332",
+      "type": "add",
+      "date": 1501249997671
+    },
+    {
+      "type": "edit",
+      "id": "ad7d79c03041b332",
+      "item": {
+        "type": "pagefold",
+        "id": "ad7d79c03041b332",
+        "text": "2017"
+      },
+      "date": 1501250007345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bac3109c7334476e"
+      },
+      "id": "bac3109c7334476e",
+      "type": "add",
+      "after": "ad7d79c03041b332",
+      "date": 1501250008312
+    },
+    {
+      "type": "edit",
+      "id": "bac3109c7334476e",
+      "item": {
+        "type": "pagefold",
+        "id": "bac3109c7334476e",
+        "text": "2016"
+      },
+      "date": 1501250010637
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ac70ae7f74d8e780"
+      },
+      "id": "ac70ae7f74d8e780",
+      "type": "add",
+      "after": "bac3109c7334476e",
+      "date": 1501250011692
+    },
+    {
+      "type": "edit",
+      "id": "ac70ae7f74d8e780",
+      "item": {
+        "type": "pagefold",
+        "id": "ac70ae7f74d8e780",
+        "text": "2015"
+      },
+      "date": 1501250016936
+    },
+    {
+      "type": "remove",
+      "id": "ac70ae7f74d8e780",
+      "date": 1501250020115
+    },
+    {
+      "type": "remove",
+      "id": "bac3109c7334476e",
+      "date": 1501250022972
+    },
+    {
+      "type": "remove",
+      "id": "ad7d79c03041b332",
+      "date": 1501250024835
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f8e25ff943ff089"
+      },
+      "id": "9f8e25ff943ff089",
+      "type": "add",
+      "date": 1501250038661
+    },
+    {
+      "type": "remove",
+      "id": "9f8e25ff943ff089",
+      "date": 1501250040677
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d69b5e314916420"
+      },
+      "id": "0d69b5e314916420",
+      "type": "add",
+      "date": 1501250057390
+    },
+    {
+      "type": "edit",
+      "id": "0d69b5e314916420",
+      "item": {
+        "type": "paragraph",
+        "id": "0d69b5e314916420",
+        "text": "[[Sara Hendren]]"
+      },
+      "date": 1501250063143
+    },
+    {
+      "type": "edit",
+      "id": "0d69b5e314916420",
+      "item": {
+        "type": "paragraph",
+        "id": "0d69b5e314916420",
+        "text": "[[Sara Hendren]], 2017"
+      },
+      "date": 1501250066118
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59d233c6a3f5d6b7"
+      },
+      "id": "59d233c6a3f5d6b7",
+      "type": "add",
+      "after": "0d69b5e314916420",
+      "date": 1501250072361
+    },
+    {
+      "type": "remove",
+      "id": "59d233c6a3f5d6b7",
+      "date": 1501250075508
+    },
+    {
+      "type": "add",
+      "id": "fba6cb803e4704f2",
+      "item": {
+        "type": "paragraph",
+        "id": "fba6cb803e4704f2",
+        "text": "[[American Ethnological Society]], 2017"
+      },
+      "after": "0d69b5e314916420",
+      "date": 1501250082676
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "7d2e2b3d67343268",
+        "text": "[[Rodi Gallery]]"
+      },
+      "after": "fba6cb803e4704f2",
+      "id": "7d2e2b3d67343268",
+      "date": 1501250094853
+    },
+    {
+      "type": "add",
+      "id": "c58a2d2399a6567f",
+      "item": {
+        "type": "paragraph",
+        "id": "c58a2d2399a6567f",
+        "text": "[[Adaptation + Ability Group]]"
+      },
+      "after": "fba6cb803e4704f2",
+      "date": 1501250122479
+    },
+    {
+      "type": "edit",
+      "id": "c58a2d2399a6567f",
+      "item": {
+        "type": "paragraph",
+        "id": "c58a2d2399a6567f",
+        "text": "[[Adaptation + Ability Group]], 2016"
+      },
+      "date": 1501250128697
+    },
+    {
+      "type": "edit",
+      "id": "c58a2d2399a6567f",
+      "item": {
+        "type": "paragraph",
+        "id": "c58a2d2399a6567f",
+        "text": "[[Adaptation + Ability Group]], 20176"
+      },
+      "date": 1501250131023
+    },
+    {
+      "type": "edit",
+      "id": "c58a2d2399a6567f",
+      "item": {
+        "type": "paragraph",
+        "id": "c58a2d2399a6567f",
+        "text": "[[Adaptation + Ability Group]], 2017"
+      },
+      "date": 1501250132835
+    },
+    {
+      "type": "add",
+      "id": "a16913f6c74e7357",
+      "item": {
+        "type": "paragraph",
+        "id": "a16913f6c74e7357",
+        "text": "[[Brian Funck]], 2017"
+      },
+      "after": "c58a2d2399a6567f",
+      "date": 1501250146342
+    },
+    {
+      "type": "add",
+      "id": "1bb3d2492a40f4b6",
+      "item": {
+        "type": "paragraph",
+        "id": "1bb3d2492a40f4b6",
+        "text": "[[Susan Inglett Gallery]], 2016"
+      },
+      "after": "a16913f6c74e7357",
+      "date": 1501250160301
+    },
+    {
+      "type": "edit",
+      "id": "1bb3d2492a40f4b6",
+      "item": {
+        "type": "paragraph",
+        "id": "1bb3d2492a40f4b6",
+        "text": "[[Susan Inglett Gallery]], 2017"
+      },
+      "date": 1501250164702
+    },
+    {
+      "type": "add",
+      "id": "f267f5761683ec10",
+      "item": {
+        "type": "paragraph",
+        "id": "f267f5761683ec10",
+        "text": "[[Engineering at Home]], 2016"
+      },
+      "after": "a16913f6c74e7357",
+      "date": 1501250197561
+    },
+    {
+      "type": "add",
+      "id": "82eeae8592ea1aab",
+      "item": {
+        "type": "paragraph",
+        "id": "82eeae8592ea1aab",
+        "text": "[[Accessible Icon Project]], 2016"
+      },
+      "after": "a16913f6c74e7357",
+      "date": 1501250213079
+    },
+    {
+      "type": "add",
+      "id": "ddd4202d1f8505ee",
+      "item": {
+        "type": "paragraph",
+        "id": "ddd4202d1f8505ee",
+        "text": "[[Multi Entry]], 2016"
+      },
+      "after": "f267f5761683ec10",
+      "date": 1501250228649
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "c58a2d2399a6567f",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "7d2e2b3d67343268"
+      ],
+      "id": "1bb3d2492a40f4b6",
+      "date": 1501250232560
+    },
+    {
+      "type": "add",
+      "id": "e55036d6b9c87c0b",
+      "item": {
+        "type": "paragraph",
+        "id": "e55036d6b9c87c0b",
+        "text": "[[School for Poetic Computation]]"
+      },
+      "after": "7d2e2b3d67343268",
+      "date": 1501250243627
+    },
+    {
+      "type": "add",
+      "id": "90197f255c4d6103",
+      "item": {
+        "type": "paragraph",
+        "id": "90197f255c4d6103",
+        "text": "[[Tom Healy]]"
+      },
+      "after": "e55036d6b9c87c0b",
+      "date": 1501250249927
+    },
+    {
+      "type": "add",
+      "id": "3b5fa1ccf39425e0",
+      "item": {
+        "type": "paragraph",
+        "id": "3b5fa1ccf39425e0",
+        "text": "[[Marwa Helal]]"
+      },
+      "after": "90197f255c4d6103",
+      "date": 1501250258290
+    },
+    {
+      "type": "add",
+      "id": "4ff40b590530809e",
+      "item": {
+        "type": "paragraph",
+        "id": "4ff40b590530809e",
+        "text": "[[Girl Walk // All Day]]"
+      },
+      "after": "3b5fa1ccf39425e0",
+      "date": 1501250311970
+    },
+    {
+      "type": "add",
+      "id": "ec10cf164caeefdd",
+      "item": {
+        "type": "paragraph",
+        "id": "ec10cf164caeefdd",
+        "text": "[[Disorientation Reader]]"
+      },
+      "after": "4ff40b590530809e",
+      "date": 1501250329202
+    },
+    {
+      "type": "add",
+      "id": "faebb23e7ac8d922",
+      "item": {
+        "type": "paragraph",
+        "id": "faebb23e7ac8d922",
+        "text": "[[OpenGov Foundation]]"
+      },
+      "after": "ec10cf164caeefdd",
+      "date": 1501250337491
+    },
+    {
+      "type": "add",
+      "id": "952375780d5b5598",
+      "item": {
+        "type": "paragraph",
+        "id": "952375780d5b5598",
+        "text": "[[Recess New York]]"
+      },
+      "after": "faebb23e7ac8d922",
+      "date": 1501250343747
+    },
+    {
+      "type": "edit",
+      "id": "3b5fa1ccf39425e0",
+      "item": {
+        "type": "paragraph",
+        "id": "3b5fa1ccf39425e0",
+        "text": "[[Marwa Helal]], 2015"
+      },
+      "date": 1501250384497
+    },
+    {
+      "type": "edit",
+      "id": "4ff40b590530809e",
+      "item": {
+        "type": "paragraph",
+        "id": "4ff40b590530809e",
+        "text": "[[Girl Walk // All Day]], 2011"
+      },
+      "date": 1501250408055
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "c58a2d2399a6567f",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "7d2e2b3d67343268",
+        "e55036d6b9c87c0b",
+        "90197f255c4d6103",
+        "3b5fa1ccf39425e0",
+        "ec10cf164caeefdd",
+        "faebb23e7ac8d922",
+        "952375780d5b5598",
+        "4ff40b590530809e"
+      ],
+      "id": "4ff40b590530809e",
+      "date": 1501250409303
+    },
+    {
+      "type": "edit",
+      "id": "952375780d5b5598",
+      "item": {
+        "type": "paragraph",
+        "id": "952375780d5b5598",
+        "text": "[[Recess New York]], 2016"
+      },
+      "date": 1501250418039
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "c58a2d2399a6567f",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "7d2e2b3d67343268",
+        "e55036d6b9c87c0b",
+        "90197f255c4d6103",
+        "952375780d5b5598",
+        "3b5fa1ccf39425e0",
+        "ec10cf164caeefdd",
+        "faebb23e7ac8d922",
+        "4ff40b590530809e"
+      ],
+      "id": "952375780d5b5598",
+      "date": 1501250419230
+    },
+    {
+      "type": "edit",
+      "id": "faebb23e7ac8d922",
+      "item": {
+        "type": "paragraph",
+        "id": "faebb23e7ac8d922",
+        "text": "[[OpenGov Foundation]], 2015"
+      },
+      "date": 1501250441817
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "c58a2d2399a6567f",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "7d2e2b3d67343268",
+        "e55036d6b9c87c0b",
+        "90197f255c4d6103",
+        "952375780d5b5598",
+        "3b5fa1ccf39425e0",
+        "faebb23e7ac8d922",
+        "ec10cf164caeefdd",
+        "4ff40b590530809e"
+      ],
+      "id": "faebb23e7ac8d922",
+      "date": 1501250444218
+    },
+    {
+      "type": "edit",
+      "id": "ec10cf164caeefdd",
+      "item": {
+        "type": "paragraph",
+        "id": "ec10cf164caeefdd",
+        "text": "[[Disorientation Reader]], 2015"
+      },
+      "date": 1501250469703
+    },
+    {
+      "type": "edit",
+      "id": "90197f255c4d6103",
+      "item": {
+        "type": "paragraph",
+        "id": "90197f255c4d6103",
+        "text": "[[Tom Healy]], 2014-"
+      },
+      "date": 1501250536272
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "c58a2d2399a6567f",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "7d2e2b3d67343268",
+        "e55036d6b9c87c0b",
+        "952375780d5b5598",
+        "3b5fa1ccf39425e0",
+        "faebb23e7ac8d922",
+        "ec10cf164caeefdd",
+        "90197f255c4d6103",
+        "4ff40b590530809e"
+      ],
+      "id": "90197f255c4d6103",
+      "date": 1501250538566
+    },
+    {
+      "type": "edit",
+      "id": "e55036d6b9c87c0b",
+      "item": {
+        "type": "paragraph",
+        "id": "e55036d6b9c87c0b",
+        "text": "[[School for Poetic Computation]], 2015"
+      },
+      "date": 1501250595564
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "c58a2d2399a6567f",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "7d2e2b3d67343268",
+        "952375780d5b5598",
+        "e55036d6b9c87c0b",
+        "3b5fa1ccf39425e0",
+        "faebb23e7ac8d922",
+        "ec10cf164caeefdd",
+        "90197f255c4d6103",
+        "4ff40b590530809e"
+      ],
+      "id": "e55036d6b9c87c0b",
+      "date": 1501250597148
+    },
+    {
+      "type": "edit",
+      "id": "7d2e2b3d67343268",
+      "item": {
+        "type": "paragraph",
+        "id": "7d2e2b3d67343268",
+        "text": "[[Rodi Gallery]], 2015"
+      },
+      "date": 1501250643159
+    },
+    {
+      "type": "edit",
+      "id": "7d2e2b3d67343268",
+      "item": {
+        "type": "paragraph",
+        "id": "7d2e2b3d67343268",
+        "text": "[[Rodi Gallery]], 2014"
+      },
+      "date": 1501250658340
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "c58a2d2399a6567f",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "952375780d5b5598",
+        "e55036d6b9c87c0b",
+        "3b5fa1ccf39425e0",
+        "faebb23e7ac8d922",
+        "ec10cf164caeefdd",
+        "90197f255c4d6103",
+        "7d2e2b3d67343268",
+        "4ff40b590530809e"
+      ],
+      "id": "7d2e2b3d67343268",
+      "date": 1501250661659
+    },
+    {
+      "type": "edit",
+      "id": "a16913f6c74e7357",
+      "item": {
+        "type": "paragraph",
+        "id": "a16913f6c74e7357",
+        "text": "[[Brian Funck]], 2016"
+      },
+      "date": 1501250683362
+    },
+    {
+      "type": "edit",
+      "id": "c58a2d2399a6567f",
+      "item": {
+        "type": "paragraph",
+        "id": "c58a2d2399a6567f",
+        "text": "[[Adaptation + Ability Group]], 2016"
+      },
+      "date": 1501250705780
+    },
+    {
+      "type": "add",
+      "id": "983b1bc12c5e0879",
+      "item": {
+        "type": "paragraph",
+        "id": "983b1bc12c5e0879",
+        "text": "[[It Takes All Of Us]], 2016"
+      },
+      "after": "1bb3d2492a40f4b6",
+      "date": 1501250768611
+    },
+    {
+      "type": "edit",
+      "id": "983b1bc12c5e0879",
+      "item": {
+        "type": "paragraph",
+        "id": "983b1bc12c5e0879",
+        "text": "[[It Takes All Of Us]], 2017"
+      },
+      "date": 1501250771279
+    },
+    {
+      "type": "add",
+      "id": "fffad4f59f9978b9",
+      "item": {
+        "type": "paragraph",
+        "id": "fffad4f59f9978b9",
+        "text": "[[Hope Gangloff]], 2017"
+      },
+      "after": "983b1bc12c5e0879",
+      "date": 1501250782911
+    },
+    {
+      "type": "add",
+      "id": "925746e520ce2c92",
+      "item": {
+        "type": "paragraph",
+        "id": "925746e520ce2c92",
+        "text": "[[Peter Cooper Block Party]], 2016"
+      },
+      "after": "c58a2d2399a6567f",
+      "date": 1501250800022
+    },
+    {
+      "type": "add",
+      "id": "a81917f484c4c206",
+      "item": {
+        "type": "paragraph",
+        "id": "a81917f484c4c206",
+        "text": "[[Knutepunkt]], 2016"
+      },
+      "after": "c58a2d2399a6567f",
+      "date": 1501250814569
+    },
+    {
+      "type": "edit",
+      "id": "a81917f484c4c206",
+      "item": {
+        "type": "paragraph",
+        "id": "a81917f484c4c206",
+        "text": "[[Knutepunkt]], 2017"
+      },
+      "date": 1501250826641
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "983b1bc12c5e0879",
+        "fffad4f59f9978b9",
+        "a81917f484c4c206",
+        "c58a2d2399a6567f",
+        "925746e520ce2c92",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "952375780d5b5598",
+        "e55036d6b9c87c0b",
+        "3b5fa1ccf39425e0",
+        "faebb23e7ac8d922",
+        "ec10cf164caeefdd",
+        "90197f255c4d6103",
+        "7d2e2b3d67343268",
+        "4ff40b590530809e"
+      ],
+      "id": "a81917f484c4c206",
+      "date": 1501250827842
+    },
+    {
+      "type": "add",
+      "id": "4d71e4c29f9eb59a",
+      "item": {
+        "type": "paragraph",
+        "id": "4d71e4c29f9eb59a",
+        "text": "[[Camillo Bernardi Studio]], 2016"
+      },
+      "after": "a16913f6c74e7357",
+      "date": 1501250847902
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "983b1bc12c5e0879",
+        "fffad4f59f9978b9",
+        "a81917f484c4c206",
+        "c58a2d2399a6567f",
+        "925746e520ce2c92",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "952375780d5b5598",
+        "4d71e4c29f9eb59a",
+        "e55036d6b9c87c0b",
+        "3b5fa1ccf39425e0",
+        "faebb23e7ac8d922",
+        "ec10cf164caeefdd",
+        "90197f255c4d6103",
+        "7d2e2b3d67343268",
+        "4ff40b590530809e"
+      ],
+      "id": "4d71e4c29f9eb59a",
+      "date": 1501250851521
+    },
+    {
+      "type": "add",
+      "id": "c9f529b9e0985a8c",
+      "item": {
+        "type": "paragraph",
+        "id": "c9f529b9e0985a8c",
+        "text": "[[Andrew Badr]],. 2016"
+      },
+      "after": "4d71e4c29f9eb59a",
+      "date": 1501250866863
+    },
+    {
+      "type": "edit",
+      "id": "c9f529b9e0985a8c",
+      "item": {
+        "type": "paragraph",
+        "id": "c9f529b9e0985a8c",
+        "text": "[[Andrew Badr]], 2016"
+      },
+      "date": 1501250870302
+    },
+    {
+      "type": "move",
+      "order": [
+        "0d69b5e314916420",
+        "fba6cb803e4704f2",
+        "1bb3d2492a40f4b6",
+        "983b1bc12c5e0879",
+        "fffad4f59f9978b9",
+        "a81917f484c4c206",
+        "c58a2d2399a6567f",
+        "925746e520ce2c92",
+        "a16913f6c74e7357",
+        "82eeae8592ea1aab",
+        "f267f5761683ec10",
+        "ddd4202d1f8505ee",
+        "c9f529b9e0985a8c",
+        "952375780d5b5598",
+        "4d71e4c29f9eb59a",
+        "e55036d6b9c87c0b",
+        "3b5fa1ccf39425e0",
+        "faebb23e7ac8d922",
+        "ec10cf164caeefdd",
+        "90197f255c4d6103",
+        "7d2e2b3d67343268",
+        "4ff40b590530809e"
+      ],
+      "id": "c9f529b9e0985a8c",
+      "date": 1501250880087
+    },
+    {
+      "type": "add",
+      "id": "7a4a91a3f125df9b",
+      "item": {
+        "type": "paragraph",
+        "id": "7a4a91a3f125df9b",
+        "text": "[[Josh Olins]], 2015"
+      },
+      "after": "3b5fa1ccf39425e0",
+      "date": 1501250906513
+    },
+    {
+      "type": "edit",
+      "id": "0d69b5e314916420",
+      "item": {
+        "type": "paragraph",
+        "id": "0d69b5e314916420",
+        "text": "[[Sara Hendren]], 2017-"
+      },
+      "date": 1501250928690
+    },
+    {
+      "type": "edit",
+      "id": "fba6cb803e4704f2",
+      "item": {
+        "type": "paragraph",
+        "id": "fba6cb803e4704f2",
+        "text": "[[American Ethnological Society]], 2017-"
+      },
+      "date": 1501250930656
+    },
+    {
+      "type": "edit",
+      "id": "0d69b5e314916420",
+      "item": {
+        "type": "paragraph",
+        "id": "0d69b5e314916420",
+        "text": "[[Sara Hendren]], 2017"
+      },
+      "date": 1501250937017
+    },
+    {
+      "type": "edit",
+      "id": "fba6cb803e4704f2",
+      "item": {
+        "type": "paragraph",
+        "id": "fba6cb803e4704f2",
+        "text": "[[American Ethnological Society]], 2017"
+      },
+      "date": 1501250938353
+    },
+    {
+      "type": "edit",
+      "id": "0d69b5e314916420",
+      "item": {
+        "type": "paragraph",
+        "id": "0d69b5e314916420",
+        "text": "[[Sara Hendren (website)]], 2017"
+      },
+      "date": 1501251718970
+    }
+  ]
+}

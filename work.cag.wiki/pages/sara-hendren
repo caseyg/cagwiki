@@ -1,0 +1,133 @@
+{
+  "title": "Sara Hendren",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "adee40d79222acbb",
+      "text": "Projects with Sara Hendren:"
+    },
+    {
+      "type": "paragraph",
+      "id": "c7afcd4e7f739f81",
+      "text": "[[Sara Hendren (website)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c130ea8fa24fd5ae",
+      "text": "[[Adaptation + Ability Group]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4734af7613af8e38",
+      "text": "[[Engineering at Home]] (with [[Caitrin Lynch]])"
+    },
+    {
+      "type": "paragraph",
+      "id": "8269d49730777c63",
+      "text": "[[Accessible Icon Project]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Sara Hendren",
+        "story": []
+      },
+      "date": 1501258250264
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "adee40d79222acbb"
+      },
+      "id": "adee40d79222acbb",
+      "type": "add",
+      "date": 1501258251587
+    },
+    {
+      "type": "edit",
+      "id": "adee40d79222acbb",
+      "item": {
+        "type": "paragraph",
+        "id": "adee40d79222acbb",
+        "text": "Projects with Sara Hendren:"
+      },
+      "date": 1501258256805
+    },
+    {
+      "type": "add",
+      "id": "c130ea8fa24fd5ae",
+      "item": {
+        "type": "paragraph",
+        "id": "c130ea8fa24fd5ae",
+        "text": "[[Adaptation + Ability Group]]"
+      },
+      "after": "adee40d79222acbb",
+      "date": 1501258262930
+    },
+    {
+      "type": "add",
+      "id": "4734af7613af8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "4734af7613af8e38",
+        "text": "[[Engineering at Home]]"
+      },
+      "after": "c130ea8fa24fd5ae",
+      "date": 1501258268747
+    },
+    {
+      "type": "add",
+      "id": "c7afcd4e7f739f81",
+      "item": {
+        "type": "paragraph",
+        "id": "c7afcd4e7f739f81",
+        "text": "[[Sara Hendren (website)]]"
+      },
+      "after": "adee40d79222acbb",
+      "date": 1501258281303
+    },
+    {
+      "type": "edit",
+      "id": "4734af7613af8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "4734af7613af8e38",
+        "text": "[[Engineering at Home]] (with [[Caitrin Lynch]]]]"
+      },
+      "date": 1501258296456
+    },
+    {
+      "type": "edit",
+      "id": "4734af7613af8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "4734af7613af8e38",
+        "text": "[[Engineering at Home]] (with [[Caitrin Lynch]]("
+      },
+      "date": 1501258299914
+    },
+    {
+      "type": "edit",
+      "id": "4734af7613af8e38",
+      "item": {
+        "type": "paragraph",
+        "id": "4734af7613af8e38",
+        "text": "[[Engineering at Home]] (with [[Caitrin Lynch]])"
+      },
+      "date": 1501258302493
+    },
+    {
+      "type": "add",
+      "id": "8269d49730777c63",
+      "item": {
+        "type": "paragraph",
+        "id": "8269d49730777c63",
+        "text": "[[Accessible Icon Project]]"
+      },
+      "after": "4734af7613af8e38",
+      "date": 1501258317882
+    }
+  ]
+}

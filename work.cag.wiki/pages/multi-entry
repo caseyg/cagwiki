@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "ea0f7db0c9d75818",
-      "text": "Pair-programmed with ethnographer [[Christina Xu]], walking her through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
+      "text": "Pair-programmed with ethnographer Christina Xu, walking through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
     },
     {
       "type": "html",
@@ -117,6 +117,26 @@
       ],
       "id": "e818e3c8115eff67",
       "date": 1480098572545
+    },
+    {
+      "type": "edit",
+      "id": "ea0f7db0c9d75818",
+      "item": {
+        "type": "paragraph",
+        "id": "ea0f7db0c9d75818",
+        "text": "Pair-programmed with ethnographer Christina Xu, walking her through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
+      },
+      "date": 1501263072632
+    },
+    {
+      "type": "edit",
+      "id": "ea0f7db0c9d75818",
+      "item": {
+        "type": "paragraph",
+        "id": "ea0f7db0c9d75818",
+        "text": "Pair-programmed with ethnographer Christina Xu, walking through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
+      },
+      "date": 1501265464415
     }
   ]
 }

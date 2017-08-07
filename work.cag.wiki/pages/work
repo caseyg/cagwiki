@@ -2,32 +2,69 @@
   "title": "Work",
   "story": [
     {
+      "type": "pagefold",
+      "id": "24e971a317321f6b",
+      "text": "🌀 Approach"
+    },
+    {
       "type": "paragraph",
-      "id": "88473e3f29361064",
-      "text": "(Porting this page from [http://hire.caseyagollan.com hire.caseyagollan.com])"
+      "id": "02db753986f1d973",
+      "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
     },
     {
       "type": "pagefold",
       "id": "fee2ad6031a69034",
-      "text": "Selected Projects"
+      "text": "🏁 Recent Projects"
     },
     {
       "type": "html",
-      "id": "fe4bc611c8621db6",
-      "text": "<img src=\"http://hire.caseyagollan.com/accessibleicon.png\" style=\"float:right;width:25%;\">"
+      "id": "96f4ad5d92f85abc",
+      "text": "<a href=\"http://americanethnologist.org\" target=\"_blank\"><img src=\"http://caseyg.github.io/hire/aes.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
     },
     {
-      "type": "reference",
-      "id": "501e30e1c0976c0e",
-      "site": "work.cag.wiki",
-      "slug": "accessible-icon-project",
-      "title": "Accessible Icon Project",
-      "text": "In collaboration with Sara Hendren, redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto."
+      "type": "paragraph",
+      "id": "6bbacb1673dc7111",
+      "text": "[[American Ethnological Society]] — A modern site for the oldest anthropological organization in the United States, which brings together their quarterly journal, juried competitions, conferences, and online content."
+    },
+    {
+      "type": "html",
+      "id": "75c40c0ee7de1d4e",
+      "text": "<a href=\"http://sarahendren.com\"><img src=\"http://caseyg.github.io/hire/sarahendren.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e6aff6de78b5eeb",
+      "text": "[[Sara Hendren (website)]] — Carving new space for a portfolio of personal projects, while integrating with (and sharing the architecture of) a companion site dedicated to collaborative research and teaching."
+    },
+    {
+      "type": "html",
+      "id": "d683f67a82f6d795",
+      "text": "<a href=\"http://inglettgallery.com\"><img src=\"http://caseyg.github.io/hire/inglettgallery.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
+    },
+    {
+      "type": "paragraph",
+      "id": "f61a9fbe7750b0f0",
+      "text": "[[Susan Inglett Gallery]] — Tailored content management for the 23 year program of exhibitions and editions at this New York gallery has helped improve both presentation and consistency."
+    },
+    {
+      "type": "html",
+      "id": "b047cd646924daa6",
+      "text": "<a href=\"http://aplusa.org\"><img src=\"http://caseyg.github.io/hire/aplusa.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2c405153c0590310",
+      "text": "[[Adaptation + Ability Group]] — Experimenting with the functionality and aesthetics of web accessibility in this open-source website for an academic research lab."
+    },
+    {
+      "type": "pagefold",
+      "id": "e5dda81105c8b852",
+      "text": "More Projects"
     },
     {
       "type": "html",
       "id": "08fff3be0da49eac",
-      "text": "<img src=\"http://hire.caseyagollan.com/engineeringathome.png\" style=\"float:right;width:25%;\">"
+      "text": "<a href=\"http://engineeringathome.org\"><img src=\"http://hire.caseyagollan.com/engineeringathome.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\"></a>"
     },
     {
       "type": "reference",
@@ -39,8 +76,21 @@
     },
     {
       "type": "html",
+      "id": "fe4bc611c8621db6",
+      "text": "<a href=\"http://accessibleicon.org\"><img src=\"http://hire.caseyagollan.com/accessibleicon.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\"></a>"
+    },
+    {
+      "type": "reference",
+      "id": "501e30e1c0976c0e",
+      "site": "work.cag.wiki",
+      "slug": "accessible-icon-project",
+      "title": "Accessible Icon Project",
+      "text": "In collaboration with Sara Hendren, redesigned the website of this widely-known design intervention, distilling it to a single page and foregrounding the project's story and manifesto."
+    },
+    {
+      "type": "html",
       "id": "91c485354998c331",
-      "text": "<img src=\"http://hire.caseyagollan.com/multientry.png\" style=\"float:right;width:25%;\">"
+      "text": "<a href=\"http://multientry.com\"><img src=\"http://hire.caseyagollan.com/multientry.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\"></a>"
     },
     {
       "type": "reference",
@@ -48,52 +98,37 @@
       "site": "work.cag.wiki",
       "slug": "multi-entry",
       "title": "Multi Entry",
-      "text": "Pair-programmed with ethnographer [[Christina Xu]], walking her through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
+      "text": "Pair-programmed with ethnographer Christina Xu, walking through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
     },
     {
       "type": "pagefold",
-      "id": "e5dda81105c8b852",
-      "text": "More Projects"
+      "id": "de1668e79e618175",
+      "text": "Everything"
     },
     {
       "type": "paragraph",
-      "id": "ba05e7f072da4db2",
-      "text": "[[Multi Entry]]"
+      "id": "659b420ac7d35eb1",
+      "text": "All [[Projects]] (chronological list)"
     },
     {
       "type": "paragraph",
-      "id": "ea713539be9817c2",
-      "text": "[[OpenGov Foundation]]"
+      "id": "1667843851bc72f1",
+      "text": "All [[Clients]] (alphabetical list)"
+    },
+    {
+      "type": "pagefold",
+      "id": "f0f08aa98c51d5bf",
+      "text": "?!"
     },
     {
       "type": "paragraph",
-      "id": "3716ff91bad5d833",
-      "text": "[[Disorientation Reader]]"
+      "id": "73db7b3cee23e1df",
+      "text": "This is an unfinished, ever-evolving work-archive. Please feel welcome to reach out with any questions or for more information about a project:"
     },
     {
-      "type": "paragraph",
-      "id": "8ebfba1b40e458cd",
-      "text": "[[School for Poetic Computation]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "f9e09af77b01bac6",
-      "text": "[[Marwa Helal]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "7d2e2b3d67343268",
-      "text": "[[Rodi Gallery]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "de8a89c3d5c5d02f",
-      "text": "[[Tom Healy]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "1f926152ecea270c",
-      "text": "[[Poooool]]"
+      "type": "html",
+      "id": "eb4a153507259e23",
+      "text": "<a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
     }
   ],
   "journal": [
@@ -804,6 +839,3721 @@
       ],
       "id": "e5dda81105c8b852",
       "date": 1501247784268
+    },
+    {
+      "type": "remove",
+      "id": "88473e3f29361064",
+      "date": 1501248886914
+    },
+    {
+      "type": "edit",
+      "id": "fee2ad6031a69034",
+      "item": {
+        "type": "pagefold",
+        "id": "fee2ad6031a69034",
+        "text": "Recent Work"
+      },
+      "date": 1501248890529
+    },
+    {
+      "type": "edit",
+      "id": "fe4bc611c8621db6",
+      "item": {
+        "type": "html",
+        "id": "fe4bc611c8621db6",
+        "text": "<img src=\"http://hire.caseyagollan.com/accessibleicon.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501249014558
+    },
+    {
+      "type": "edit",
+      "id": "08fff3be0da49eac",
+      "item": {
+        "type": "html",
+        "id": "08fff3be0da49eac",
+        "text": "<img src=\"http://hire.caseyagollan.com/engineeringathome.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501249021757
+    },
+    {
+      "type": "edit",
+      "id": "91c485354998c331",
+      "item": {
+        "type": "html",
+        "id": "91c485354998c331",
+        "text": "<img src=\"http://hire.caseyagollan.com/multientry.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501249024363
+    },
+    {
+      "type": "edit",
+      "id": "e5dda81105c8b852",
+      "item": {
+        "type": "pagefold",
+        "id": "e5dda81105c8b852",
+        "text": "Selected Projects"
+      },
+      "date": 1501249342404
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de1668e79e618175"
+      },
+      "id": "de1668e79e618175",
+      "type": "add",
+      "after": "1f926152ecea270c",
+      "date": 1501249345247
+    },
+    {
+      "type": "edit",
+      "id": "de1668e79e618175",
+      "item": {
+        "type": "pagefold",
+        "id": "de1668e79e618175",
+        "text": "More Work"
+      },
+      "date": 1501249355819
+    },
+    {
+      "type": "edit",
+      "id": "de1668e79e618175",
+      "item": {
+        "type": "pagefold",
+        "id": "de1668e79e618175",
+        "text": "More"
+      },
+      "date": 1501249359576
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "659b420ac7d35eb1"
+      },
+      "id": "659b420ac7d35eb1",
+      "type": "add",
+      "after": "de1668e79e618175",
+      "date": 1501249360698
+    },
+    {
+      "type": "edit",
+      "id": "659b420ac7d35eb1",
+      "item": {
+        "type": "paragraph",
+        "id": "659b420ac7d35eb1",
+        "text": "[[Full Project List]]"
+      },
+      "date": 1501249365492
+    },
+    {
+      "type": "add",
+      "id": "1667843851bc72f1",
+      "item": {
+        "type": "paragraph",
+        "id": "1667843851bc72f1",
+        "text": "[[Client List]]"
+      },
+      "after": "659b420ac7d35eb1",
+      "date": 1501249374322
+    },
+    {
+      "type": "edit",
+      "id": "659b420ac7d35eb1",
+      "item": {
+        "type": "paragraph",
+        "id": "659b420ac7d35eb1",
+        "text": "[[Projects (Chronological)]]"
+      },
+      "date": 1501249390809
+    },
+    {
+      "type": "edit",
+      "id": "659b420ac7d35eb1",
+      "item": {
+        "type": "paragraph",
+        "id": "659b420ac7d35eb1",
+        "text": "[[Projects]]"
+      },
+      "date": 1501249402414
+    },
+    {
+      "type": "edit",
+      "id": "1667843851bc72f1",
+      "item": {
+        "type": "paragraph",
+        "id": "1667843851bc72f1",
+        "text": "[[Clients]]"
+      },
+      "date": 1501249406470
+    },
+    {
+      "type": "remove",
+      "id": "7d2e2b3d67343268",
+      "date": 1501250094852
+    },
+    {
+      "type": "edit",
+      "id": "659b420ac7d35eb1",
+      "item": {
+        "type": "paragraph",
+        "id": "659b420ac7d35eb1",
+        "text": "[[Projects]] (chronological)"
+      },
+      "date": 1501251359764
+    },
+    {
+      "type": "edit",
+      "id": "1667843851bc72f1",
+      "item": {
+        "type": "paragraph",
+        "id": "1667843851bc72f1",
+        "text": "[[Clients]] (alphabetical)"
+      },
+      "date": 1501251363819
+    },
+    {
+      "type": "edit",
+      "id": "de1668e79e618175",
+      "item": {
+        "type": "pagefold",
+        "id": "de1668e79e618175",
+        "text": "More Work"
+      },
+      "date": 1501251371511
+    },
+    {
+      "type": "edit",
+      "id": "de1668e79e618175",
+      "item": {
+        "type": "pagefold",
+        "id": "de1668e79e618175",
+        "text": "More"
+      },
+      "date": 1501251374626
+    },
+    {
+      "type": "add",
+      "id": "58ad40ee60a5d2a4",
+      "item": {
+        "type": "paragraph",
+        "id": "58ad40ee60a5d2a4",
+        "text": "[[Sara Hendren (website)]]"
+      },
+      "after": "e5dda81105c8b852",
+      "date": 1501251407289
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f6cf98b0f6a0fb7"
+      },
+      "id": "6f6cf98b0f6a0fb7",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501251416747
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A page with 0 items."
+      },
+      "date": 1501251418847
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "fe4bc611c8621db6",
+        "6f6cf98b0f6a0fb7",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "6f6cf98b0f6a0fb7",
+      "date": 1501251429516
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "fe4bc611c8621db6",
+      "date": 1501251431379
+    },
+    {
+      "type": "edit",
+      "id": "58ad40ee60a5d2a4",
+      "item": {
+        "type": "paragraph",
+        "id": "58ad40ee60a5d2a4",
+        "text": "[[American Ethnological Society]]"
+      },
+      "date": 1501251444719
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1fb821f61104989d"
+      },
+      "id": "1fb821f61104989d",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501251447963
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A page with 0 items."
+      },
+      "date": 1501251458065
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "1fb821f61104989d",
+      "date": 1501251461858
+    },
+    {
+      "type": "edit",
+      "id": "58ad40ee60a5d2a4",
+      "item": {
+        "type": "paragraph",
+        "id": "58ad40ee60a5d2a4",
+        "text": "[[Adaptation + Ability Group]]"
+      },
+      "date": 1501251476270
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "06153662608c935b"
+      },
+      "id": "06153662608c935b",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501251484069
+    },
+    {
+      "type": "edit",
+      "id": "06153662608c935b",
+      "item": {
+        "type": "reference",
+        "id": "06153662608c935b",
+        "site": "work.cag.wiki",
+        "slug": "adaptation--ability-group",
+        "title": "Adaptation + Ability Group",
+        "text": "A page with 0 items."
+      },
+      "date": 1501251485548
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "06153662608c935b",
+      "date": 1501251490384
+    },
+    {
+      "type": "edit",
+      "id": "58ad40ee60a5d2a4",
+      "item": {
+        "type": "paragraph",
+        "id": "58ad40ee60a5d2a4",
+        "text": "[[Susan Inglett Gallery]]"
+      },
+      "date": 1501251498733
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "614617c82f10119f"
+      },
+      "id": "614617c82f10119f",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501251505015
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A page with 0 items."
+      },
+      "date": 1501251506802
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "614617c82f10119f",
+      "date": 1501251512454
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "cc0bd144521ec654",
+        "ba05e7f072da4db2",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "cc0bd144521ec654",
+      "date": 1501251597493
+    },
+    {
+      "type": "remove",
+      "id": "ba05e7f072da4db2",
+      "date": 1501251599293
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "e5dda81105c8b852",
+        "91c485354998c331",
+        "58ad40ee60a5d2a4",
+        "cc0bd144521ec654",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "91c485354998c331",
+      "date": 1501251602470
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "91c485354998c331",
+      "date": 1501251604284
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "08fff3be0da49eac",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "91c485354998c331",
+        "e8b92c436b4dac7d",
+        "cc0bd144521ec654",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "e8b92c436b4dac7d",
+      "date": 1501251609357
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "91c485354998c331",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "cc0bd144521ec654",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "08fff3be0da49eac",
+      "date": 1501251611970
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "e5dda81105c8b852",
+        "58ad40ee60a5d2a4",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "91c485354998c331",
+      "date": 1501251613567
+    },
+    {
+      "type": "remove",
+      "id": "58ad40ee60a5d2a4",
+      "date": 1501251617318
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "fe4bc611c8621db6",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "501e30e1c0976c0e",
+      "date": 1501251623101
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "ea713539be9817c2",
+        "3716ff91bad5d833",
+        "8ebfba1b40e458cd",
+        "f9e09af77b01bac6",
+        "de8a89c3d5c5d02f",
+        "1f926152ecea270c",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "fe4bc611c8621db6",
+      "date": 1501251624647
+    },
+    {
+      "type": "remove",
+      "id": "ea713539be9817c2",
+      "date": 1501251656713
+    },
+    {
+      "type": "remove",
+      "id": "3716ff91bad5d833",
+      "date": 1501251659475
+    },
+    {
+      "type": "remove",
+      "id": "8ebfba1b40e458cd",
+      "date": 1501251661080
+    },
+    {
+      "type": "remove",
+      "id": "f9e09af77b01bac6",
+      "date": 1501251663495
+    },
+    {
+      "type": "remove",
+      "id": "de8a89c3d5c5d02f",
+      "date": 1501251664970
+    },
+    {
+      "type": "remove",
+      "id": "1f926152ecea270c",
+      "date": 1501251666270
+    },
+    {
+      "type": "edit",
+      "id": "659b420ac7d35eb1",
+      "item": {
+        "type": "paragraph",
+        "id": "659b420ac7d35eb1",
+        "text": "[[Projects]] (chronological lsit)"
+      },
+      "date": 1501251671357
+    },
+    {
+      "type": "edit",
+      "id": "659b420ac7d35eb1",
+      "item": {
+        "type": "paragraph",
+        "id": "659b420ac7d35eb1",
+        "text": "[[Projects]] (chronological list)"
+      },
+      "date": 1501251674098
+    },
+    {
+      "type": "edit",
+      "id": "1667843851bc72f1",
+      "item": {
+        "type": "paragraph",
+        "id": "1667843851bc72f1",
+        "text": "[[Clients]] (alphabetical list)"
+      },
+      "date": 1501251676581
+    },
+    {
+      "type": "edit",
+      "id": "659b420ac7d35eb1",
+      "item": {
+        "type": "paragraph",
+        "id": "659b420ac7d35eb1",
+        "text": "All [[Projects]] (chronological list)"
+      },
+      "date": 1501251708822
+    },
+    {
+      "type": "edit",
+      "id": "1667843851bc72f1",
+      "item": {
+        "type": "paragraph",
+        "id": "1667843851bc72f1",
+        "text": "All [[Clients]] (alphabetical list)"
+      },
+      "date": 1501251711208
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "505e943427f8410a",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "id": "505e943427f8410a",
+      "date": 1501252077880
+    },
+    {
+      "type": "remove",
+      "id": "505e943427f8410a",
+      "date": 1501252143751
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "75c40c0ee7de1d4e"
+      },
+      "id": "75c40c0ee7de1d4e",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501252340094
+    },
+    {
+      "type": "edit",
+      "id": "75c40c0ee7de1d4e",
+      "item": {
+        "type": "html",
+        "id": "75c40c0ee7de1d4e",
+        "text": "<img src=\"http://hire.caseyagollan.com/engineeringathome.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252345470
+    },
+    {
+      "type": "edit",
+      "id": "75c40c0ee7de1d4e",
+      "item": {
+        "type": "html",
+        "id": "75c40c0ee7de1d4e",
+        "text": "<img src=\"http://localhost:8000/sarahendren.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252356437
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "75c40c0ee7de1d4e",
+      "date": 1501252360180
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "96f4ad5d92f85abc"
+      },
+      "id": "96f4ad5d92f85abc",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501252371630
+    },
+    {
+      "type": "edit",
+      "id": "96f4ad5d92f85abc",
+      "item": {
+        "type": "html",
+        "id": "96f4ad5d92f85abc",
+        "text": "http://localhost:8000/aes.png"
+      },
+      "date": 1501252373791
+    },
+    {
+      "type": "edit",
+      "id": "96f4ad5d92f85abc",
+      "item": {
+        "type": "html",
+        "id": "96f4ad5d92f85abc",
+        "text": "http://caseyg.github.io/hire/aes.png"
+      },
+      "date": 1501252387922
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b047cd646924daa6"
+      },
+      "id": "b047cd646924daa6",
+      "type": "add",
+      "after": "96f4ad5d92f85abc",
+      "date": 1501252389327
+    },
+    {
+      "type": "edit",
+      "id": "b047cd646924daa6",
+      "item": {
+        "type": "html",
+        "id": "b047cd646924daa6",
+        "text": "http://caseyg.github.io/hire/aplusa.png"
+      },
+      "date": 1501252395271
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d683f67a82f6d795"
+      },
+      "id": "d683f67a82f6d795",
+      "type": "add",
+      "after": "b047cd646924daa6",
+      "date": 1501252398224
+    },
+    {
+      "type": "edit",
+      "id": "d683f67a82f6d795",
+      "item": {
+        "type": "html",
+        "id": "d683f67a82f6d795",
+        "text": "http://caseyg.github.io/hire/inglettgallery.png"
+      },
+      "date": 1501252403945
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "b047cd646924daa6",
+        "d683f67a82f6d795"
+      ],
+      "id": "96f4ad5d92f85abc",
+      "date": 1501252409115
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "d683f67a82f6d795"
+      ],
+      "id": "b047cd646924daa6",
+      "date": 1501252416359
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "d683f67a82f6d795",
+      "date": 1501252419939
+    },
+    {
+      "type": "edit",
+      "id": "75c40c0ee7de1d4e",
+      "item": {
+        "type": "html",
+        "id": "75c40c0ee7de1d4e",
+        "text": "<img src=\"http://caseyg.github.io/hire/sarahendren.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252429208
+    },
+    {
+      "type": "edit",
+      "id": "96f4ad5d92f85abc",
+      "item": {
+        "type": "html",
+        "id": "96f4ad5d92f85abc",
+        "text": "<img src=\"http://caseyg.github.io/hire/aes.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252434944
+    },
+    {
+      "type": "edit",
+      "id": "d683f67a82f6d795",
+      "item": {
+        "type": "html",
+        "id": "d683f67a82f6d795",
+        "text": "<img src=\"http://caseyg.github.io/hire/inglettgallery.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252447780
+    },
+    {
+      "type": "edit",
+      "id": "b047cd646924daa6",
+      "item": {
+        "type": "html",
+        "id": "b047cd646924daa6",
+        "text": "<img src=\"http://caseyg.github.io/hire/aplusa.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252459036
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501252473067
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501252475529
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501252480329
+    },
+    {
+      "type": "edit",
+      "id": "06153662608c935b",
+      "item": {
+        "type": "reference",
+        "id": "06153662608c935b",
+        "site": "work.cag.wiki",
+        "slug": "adaptation--ability-group",
+        "title": "Adaptation + Ability Group",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501252483471
+    },
+    {
+      "type": "edit",
+      "id": "75c40c0ee7de1d4e",
+      "item": {
+        "type": "html",
+        "id": "75c40c0ee7de1d4e",
+        "text": "<img src=\"http://caseyg.github.io/hire/sarahendren.png\" style=\"float:right;width:45%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252505288
+    },
+    {
+      "type": "edit",
+      "id": "96f4ad5d92f85abc",
+      "item": {
+        "type": "html",
+        "id": "96f4ad5d92f85abc",
+        "text": "<img src=\"http://caseyg.github.io/hire/aes.png\" style=\"float:right;width:45%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252509220
+    },
+    {
+      "type": "edit",
+      "id": "96f4ad5d92f85abc",
+      "item": {
+        "type": "html",
+        "id": "96f4ad5d92f85abc",
+        "text": "<img src=\"http://caseyg.github.io/hire/aes.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252512729
+    },
+    {
+      "type": "edit",
+      "id": "75c40c0ee7de1d4e",
+      "item": {
+        "type": "html",
+        "id": "75c40c0ee7de1d4e",
+        "text": "<img src=\"http://caseyg.github.io/hire/sarahendren.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252516196
+    },
+    {
+      "type": "edit",
+      "id": "d683f67a82f6d795",
+      "item": {
+        "type": "html",
+        "id": "d683f67a82f6d795",
+        "text": "<img src=\"http://caseyg.github.io/hire/inglettgallery.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252519826
+    },
+    {
+      "type": "edit",
+      "id": "b047cd646924daa6",
+      "item": {
+        "type": "html",
+        "id": "b047cd646924daa6",
+        "text": "<img src=\"http://caseyg.github.io/hire/aplusa.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\">"
+      },
+      "date": 1501252522634
+    },
+    {
+      "type": "edit",
+      "id": "fee2ad6031a69034",
+      "item": {
+        "type": "pagefold",
+        "id": "fee2ad6031a69034",
+        "text": "4 Recent Projects"
+      },
+      "date": 1501252953043
+    },
+    {
+      "type": "edit",
+      "id": "fee2ad6031a69034",
+      "item": {
+        "type": "pagefold",
+        "id": "fee2ad6031a69034",
+        "text": "Recent Projects"
+      },
+      "date": 1501252955459
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd2774d2d213c9bc"
+      },
+      "id": "fd2774d2d213c9bc",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501253131776
+    },
+    {
+      "type": "edit",
+      "id": "fd2774d2d213c9bc",
+      "item": {
+        "type": "html",
+        "id": "fd2774d2d213c9bc",
+        "text": "<hr>"
+      },
+      "date": 1501253136993
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "fd2774d2d213c9bc",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "fd2774d2d213c9bc",
+      "date": 1501253138962
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "fd2774d2d213c9bc",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "fd2774d2d213c9bc",
+      "date": 1501253143129
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "fd2774d2d213c9bc",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "fd2774d2d213c9bc",
+      "date": 1501253150530
+    },
+    {
+      "type": "remove",
+      "id": "fd2774d2d213c9bc",
+      "date": 1501253893698
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "06153662608c935b",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "06153662608c935b",
+      "date": 1501253983868
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "06153662608c935b",
+        "1fb821f61104989d",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "1fb821f61104989d",
+      "date": 1501253989105
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "06153662608c935b",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "96f4ad5d92f85abc",
+      "date": 1501253994370
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "06153662608c935b",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "b047cd646924daa6",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "b047cd646924daa6",
+      "date": 1501253997328
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "b047cd646924daa6",
+      "date": 1501253999331
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "75c40c0ee7de1d4e",
+      "date": 1501254001203
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "b047cd646924daa6",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "06153662608c935b",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "06153662608c935b",
+      "date": 1501254009541
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "b047cd646924daa6",
+      "date": 1501254011911
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef7989737346da",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "id": "80ef7989737346da",
+      "date": 1501255138022
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "24e971a317321f6b"
+      },
+      "id": "24e971a317321f6b",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501255395063
+    },
+    {
+      "type": "edit",
+      "id": "24e971a317321f6b",
+      "item": {
+        "type": "pagefold",
+        "id": "24e971a317321f6b",
+        "text": "Approach"
+      },
+      "date": 1501255401396
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "24e971a317321f6b",
+      "date": 1501255406456
+    },
+    {
+      "type": "edit",
+      "id": "24e971a317321f6b",
+      "item": {
+        "type": "pagefold",
+        "id": "24e971a317321f6b",
+        "text": "My Approach"
+      },
+      "date": 1501255410371
+    },
+    {
+      "type": "edit",
+      "id": "24e971a317321f6b",
+      "item": {
+        "type": "pagefold",
+        "id": "24e971a317321f6b",
+        "text": "Approach"
+      },
+      "date": 1501255415846
+    },
+    {
+      "type": "edit",
+      "id": "24e971a317321f6b",
+      "item": {
+        "type": "pagefold",
+        "id": "24e971a317321f6b",
+        "text": "✨ Approach"
+      },
+      "date": 1501255681940
+    },
+    {
+      "type": "edit",
+      "id": "fee2ad6031a69034",
+      "item": {
+        "type": "pagefold",
+        "id": "fee2ad6031a69034",
+        "text": "🏁 Recent Projects"
+      },
+      "date": 1501255696049
+    },
+    {
+      "type": "edit",
+      "id": "e5dda81105c8b852",
+      "item": {
+        "type": "pagefold",
+        "id": "e5dda81105c8b852",
+        "text": "More Projects"
+      },
+      "date": 1501255986287
+    },
+    {
+      "type": "edit",
+      "id": "24e971a317321f6b",
+      "item": {
+        "type": "pagefold",
+        "id": "24e971a317321f6b",
+        "text": "🌀 Approach"
+      },
+      "date": 1501256122054
+    },
+    {
+      "type": "edit",
+      "id": "80ef7989737346da",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef7989737346da",
+        "text": "My favorite kind of work project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501256134179
+    },
+    {
+      "type": "edit",
+      "id": "80ef7989737346da",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef7989737346da",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501258110463
+    },
+    {
+      "type": "edit",
+      "id": "de1668e79e618175",
+      "item": {
+        "type": "pagefold",
+        "id": "de1668e79e618175",
+        "text": "Everything"
+      },
+      "date": 1501259335274
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "1fb821f61104989d",
+        "96f4ad5d92f85abc",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "1fb821f61104989d",
+      "date": 1501259826069
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "96f4ad5d92f85abc",
+      "date": 1501259828005
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to separate out [[Sara Hendren]]'s research, artwork, and long-running blog."
+      },
+      "date": 1501259891657
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ec0b83d9c29b5cb"
+      },
+      "id": "4ec0b83d9c29b5cb",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501259900063
+    },
+    {
+      "type": "edit",
+      "id": "4ec0b83d9c29b5cb",
+      "item": {
+        "type": "html",
+        "id": "4ec0b83d9c29b5cb",
+        "text": "<hr>"
+      },
+      "date": 1501259903302
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "4ec0b83d9c29b5cb",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "4ec0b83d9c29b5cb",
+      "date": 1501259909361
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a"
+      },
+      "date": 1501259915679
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": " three-part project to separate out [[Sara Hendren]]'s research, artwork, and long-running blog."
+      },
+      "date": 1501259918616
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to separate out [[Sara Hendren]]'s research, artwork, and long-running blog."
+      },
+      "date": 1501259923755
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to separate out Sara's research, artwork, and long-running blog."
+      },
+      "date": 1501259934222
+    },
+    {
+      "type": "remove",
+      "id": "4ec0b83d9c29b5cb",
+      "date": 1501259943497
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project which both separates out and integrates a wide-ranging practice of Sara Hendren's research and teaching, artwork and personal projects, as well as her long-running blog."
+      },
+      "date": 1501260003448
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A new"
+      },
+      "date": 1501260049157
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A new website cataloging 23 years of exhibitions at this New York gallery."
+      },
+      "date": 1501260099810
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A new website cataloging 23 years of exhibitions and editions of this New York gallery"
+      },
+      "date": 1501260130828
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A living archive of 23 years of exhibitions and editions of this New York gallery"
+      },
+      "date": 1501260169680
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A living archive encompassing 23 years of exhibitions and editions of this New York gallery"
+      },
+      "date": 1501260179544
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A new website presenting 23 years of exhibitions and editions of this New York gallery."
+      },
+      "date": 1501260211475
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A new website presenting 23 years of the New York gallery's exhibitions and editions."
+      },
+      "date": 1501260224364
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A two-part website presenting 23 years of the New York gallery's exhibitions and editions."
+      },
+      "date": 1501260229038
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A two-part website presenting 23 years of the New York gallery's exhibitions and edition program."
+      },
+      "date": 1501260239690
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to differentiate the various part of Sara's wide-ranging practice, which runs the gamut from teaching, to art making, as well as her long-running blog."
+      },
+      "date": 1501260318451
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "e5dda81105c8b852",
+        "06153662608c935b",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "06153662608c935b",
+      "date": 1501260344552
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "06153662608c935b",
+        "b047cd646924daa6",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "06153662608c935b",
+      "date": 1501260347368
+    },
+    {
+      "type": "move",
+      "order": [
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "06153662608c935b",
+      "date": 1501260349995
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "24e971a317321f6b",
+        "text": "🌀 Approach"
+      },
+      "id": "24e971a317321f6b",
+      "date": 1501260365403
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef7989737346da",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "after": "24e971a317321f6b",
+      "id": "80ef7989737346da",
+      "date": 1501260367650
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second in a three-part project to differentiate the various part of Sara's wide-ranging practice, which runs the gamut from teaching, to art making, as well as her long-running blog."
+      },
+      "date": 1501260398193
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second in a three-part project to distinguish the various part of Sara's wide-ranging practice, which runs the gamut from teaching, to art making, as well as her long-running blog."
+      },
+      "date": 1501260405528
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second of a three-part website to distinguish the various parts of a wide-ranging practice, including teaching, to art making, as well as her long-running blog."
+      },
+      "date": 1501260469953
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site of a three-part project to distinguish the various parts of a wide-ranging practice, including teaching, to art making, as well as her long-running blog."
+      },
+      "date": 1501260477514
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site of a three-part project to distinguish the elements of Sara's wide-ranging practice. Integrated sites "
+      },
+      "date": 1501260508164
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice. Integrated sites "
+      },
+      "date": 1501260512196
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice. "
+      },
+      "date": 1501260538506
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice. This site integrates with the [[Adaptation + Ability Lab]]"
+      },
+      "date": 1501260567938
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice. This site integrates with the [[Adaptation + Ability Group]]"
+      },
+      "date": 1501260572793
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice. This site integrates with the [[Adaptation + Ability Group]]."
+      },
+      "date": 1501260578642
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice. This site shares a framework with the [[Adaptation + Ability Group]]."
+      },
+      "date": 1501260636048
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice, spanning teaching/research, art making, and blogging. This site shares a framework with the [[Adaptation + Ability Group]]."
+      },
+      "date": 1501260685414
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice, spanning teaching/research, art making, and blogging."
+      },
+      "date": 1501260696502
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice, which encompasses teaching & research, personal projects, and the long-running blog Abler."
+      },
+      "date": 1501260865011
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A two-part website presenting 23 years of this New York gallery's exhibitions and edition program. A new content management system saves time."
+      },
+      "date": 1501260985548
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A two-part website presenting 23 years of this New York gallery's exhibitions and edition program. A new content management system saves time, improves consistency across a vast archive."
+      },
+      "date": 1501261001150
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A two-part website presenting 23 years of this New York gallery's exhibitions and editions. A new content management system saves time, improves consistency across a vast archive."
+      },
+      "date": 1501261013407
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A two-part website presenting 23 years of this New York gallery's exhibitions and editions. In addition to an improved design, a new content management system saves time and improves consistency./"
+      },
+      "date": 1501261042450
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A two-part website presenting 23 years of this New York gallery's exhibitions and editions. In addition to an improved design, a new content management system saves time and improves consistency."
+      },
+      "date": 1501261045983
+    },
+    {
+      "type": "edit",
+      "id": "06153662608c935b",
+      "item": {
+        "type": "reference",
+        "id": "06153662608c935b",
+        "site": "work.cag.wiki",
+        "slug": "adaptation--ability-group",
+        "title": "Adaptation + Ability Group",
+        "text": "Open source website for a lab."
+      },
+      "date": 1501261081686
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A new online home for the foremost anthropological societies. "
+      },
+      "date": 1501261435881
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A new online home for the foremost anthropological society."
+      },
+      "date": 1501261443000
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern oldest professional anthropological organization in the United States"
+      },
+      "date": 1501261475530
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A site which gives space to the personal projects of Sara Hendren, while sharing an architecture with her professional research and teaching."
+      },
+      "date": 1501261780233
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A site which gives space to the personal projects of Sara Hendren, while sharing an architecture with the site for her professional research and teaching."
+      },
+      "date": 1501261822386
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "Making space for the personal projects of Sara Hendren, while sharing an architecture and integrating with a companion site dedicated to her research and teaching."
+      },
+      "date": 1501261893036
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A new home which makes space for the personal projects of Sara Hendren,  while sharing an architecture and integrating with a companion site dedicated to her research and teaching."
+      },
+      "date": 1501261928544
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A new home which makes space for the personal projects of Sara Hendren, while integrating and sharing an architecture with a companion site for her collaborative research and teaching."
+      },
+      "date": 1501261964455
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A new home, making space for the personal projects of Sara Hendren while integrating with and sharing the architecture of a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501262044029
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A new home which makes space for the personal projects of Sara Hendren while integrating with and sharing the architecture of a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501262062835
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A new home, which makes space for the personal projects of Sara Hendren while integrating with and sharing the architecture of a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501262066682
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A new home, making space for the personal projects of Sara Hendren while integrating with and sharing the architecture of a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501262072730
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "Making space for the personal projects of Sara Hendren while integrating with and sharing the architecture of a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501262084367
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "Making space for the personal projects of Sara Hendren, while integrating with and sharing the architecture of a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501262095418
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States."
+      },
+      "date": 1501262129757
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States, unifying "
+      },
+      "date": 1501262139094
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States, bringing together a  "
+      },
+      "date": 1501262176504
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site bringing for the oldest anthropological organization in the United States. Unifying a quarterly publication, awards program, and conferences."
+      },
+      "date": 1501262356464
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site bringing for the oldest anthropological organization in the United States. Unifying a quarterly publication, juried competitions, and conferences."
+      },
+      "date": 1501262371583
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site bringing for the oldest anthropological organization in the United States. Unifying a quarterly publication, juried competitions, conferences, and online content under a refreshed identity."
+      },
+      "date": 1501262391410
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States. Unifying a quarterly publication, juried competitions, conferences, and online content under a refreshed identity."
+      },
+      "date": 1501262396956
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "A site which makes space for the personal projects of Sara Hendren, while integrating with (and sharing the architecture of) a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501262426723
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States, bringing together their quarterly publication, juried competitions, conferences, and online content."
+      },
+      "date": 1501262487560
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States, bringing together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501262498750
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States, bringing together their quarterly journal, juried competitions, two conferences, and online content."
+      },
+      "date": 1501262504726
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States, bringing together their quarterly journal, juried competitions, two conferences, and online content under one roof."
+      },
+      "date": 1501262527169
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States, bringing together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501262569072
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "Making space for the personal projects of Sara Hendren, while integrating with (and sharing the architecture of) a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501262628626
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "Presenting 23 years of this New York gallery's exhibitions and editions, as well as saving time and improving consistency with a tailored content management system."
+      },
+      "date": 1501262731588
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "For the oldest anthropological organization in the United States, a modern site which brings together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501262770362
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "Improving the presentation and consistency of this New York gallery's 23 year program of exhibitions and editions with a tailored content management system."
+      },
+      "date": 1501262843774
+    },
+    {
+      "type": "edit",
+      "id": "06153662608c935b",
+      "item": {
+        "type": "reference",
+        "id": "06153662608c935b",
+        "site": "work.cag.wiki",
+        "slug": "adaptation--ability-group",
+        "title": "Adaptation + Ability Group",
+        "text": "An open-source website for an academic research lab, experimenting with the functionality and aesthetics of web accessibility."
+      },
+      "date": 1501262914573
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "75c40c0ee7de1d4e",
+        "1fb821f61104989d",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "1fb821f61104989d",
+      "date": 1501262932357
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "1fb821f61104989d",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "96f4ad5d92f85abc",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "75c40c0ee7de1d4e",
+      "date": 1501262935915
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1"
+      ],
+      "id": "96f4ad5d92f85abc",
+      "date": 1501262940352
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "For the oldest anthropological organization in the United States, I helped create a modern site which brings together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501262954960
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "For the oldest anthropological organization in the United States, I helped create a modern site bringing together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501262964759
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "A newly tailored content management system is helping improve the presentation and consistency of this New York gallery's 23 year program of exhibitions and editions."
+      },
+      "date": 1501263009341
+    },
+    {
+      "type": "edit",
+      "id": "cc0bd144521ec654",
+      "item": {
+        "type": "reference",
+        "id": "cc0bd144521ec654",
+        "site": "work.cag.wiki",
+        "slug": "multi-entry",
+        "title": "Multi Entry",
+        "text": "Pair-programmed with ethnographer Christina Xu, walking her through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
+      },
+      "date": 1501263065168
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "For the oldest anthropological organization in the United States, I helped create a modern site which brings together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501263148274
+    },
+    {
+      "type": "edit",
+      "id": "6f6cf98b0f6a0fb7",
+      "item": {
+        "type": "reference",
+        "id": "6f6cf98b0f6a0fb7",
+        "site": "work.cag.wiki",
+        "slug": "sara-hendren-website",
+        "title": "Sara Hendren (website)",
+        "text": "Carving new space for the personal projects of Sara Hendren, while integrating with (and sharing the architecture of) a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501263159322
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f0f08aa98c51d5bf"
+      },
+      "id": "f0f08aa98c51d5bf",
+      "type": "add",
+      "after": "1667843851bc72f1",
+      "date": 1501263233637
+    },
+    {
+      "type": "edit",
+      "id": "f0f08aa98c51d5bf",
+      "item": {
+        "type": "pagefold",
+        "id": "f0f08aa98c51d5bf",
+        "text": "?!"
+      },
+      "date": 1501263247862
+    },
+    {
+      "type": "add",
+      "id": "f899eb74220618f4",
+      "item": {
+        "type": "paragraph",
+        "id": "f899eb74220618f4",
+        "text": "Feel free to be in touch"
+      },
+      "after": "1667843851bc72f1",
+      "date": 1501263253644
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "f899eb74220618f4"
+      ],
+      "id": "f899eb74220618f4",
+      "date": 1501263255216
+    },
+    {
+      "type": "edit",
+      "id": "f899eb74220618f4",
+      "item": {
+        "type": "paragraph",
+        "id": "f899eb74220618f4",
+        "text": "Questions?"
+      },
+      "date": 1501263260167
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb4a153507259e23"
+      },
+      "id": "eb4a153507259e23",
+      "type": "add",
+      "after": "f899eb74220618f4",
+      "date": 1501263268979
+    },
+    {
+      "type": "edit",
+      "id": "eb4a153507259e23",
+      "item": {
+        "type": "html",
+        "id": "eb4a153507259e23",
+        "text": "You can reach me by email at <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501263272498
+    },
+    {
+      "type": "remove",
+      "id": "f899eb74220618f4",
+      "date": 1501263277624
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73db7b3cee23e1df"
+      },
+      "id": "73db7b3cee23e1df",
+      "type": "add",
+      "after": "eb4a153507259e23",
+      "date": 1501263280885
+    },
+    {
+      "type": "edit",
+      "id": "73db7b3cee23e1df",
+      "item": {
+        "type": "paragraph",
+        "id": "73db7b3cee23e1df",
+        "text": "This is an evolving (but unfinished) work-archive. Feel free to reach out by email with any questions or for more information about a project."
+      },
+      "date": 1501263340739
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "1fb821f61104989d",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "73db7b3cee23e1df",
+      "date": 1501263341686
+    },
+    {
+      "type": "edit",
+      "id": "73db7b3cee23e1df",
+      "item": {
+        "type": "paragraph",
+        "id": "73db7b3cee23e1df",
+        "text": "This is an unfinished, ever-evolving work-archive. Feel free to reach out by email with any questions or for more information about a project."
+      },
+      "date": 1501263354475
+    },
+    {
+      "type": "edit",
+      "id": "73db7b3cee23e1df",
+      "item": {
+        "type": "paragraph",
+        "id": "73db7b3cee23e1df",
+        "text": "This is an unfinished, ever-evolving work-archive. Please feel free to reach out by email with any questions or for more information about a project."
+      },
+      "date": 1501263369753
+    },
+    {
+      "type": "edit",
+      "id": "73db7b3cee23e1df",
+      "item": {
+        "type": "paragraph",
+        "id": "73db7b3cee23e1df",
+        "text": "This is an unfinished, ever-evolving work-archive. Please feel free to reach out with any questions or for more information about a project."
+      },
+      "date": 1501263376924
+    },
+    {
+      "type": "edit",
+      "id": "eb4a153507259e23",
+      "item": {
+        "type": "html",
+        "id": "eb4a153507259e23",
+        "text": "Email: <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501263393060
+    },
+    {
+      "type": "edit",
+      "id": "eb4a153507259e23",
+      "item": {
+        "type": "html",
+        "id": "eb4a153507259e23",
+        "text": "<a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501263397393
+    },
+    {
+      "type": "edit",
+      "id": "06153662608c935b",
+      "item": {
+        "type": "reference",
+        "id": "06153662608c935b",
+        "site": "work.cag.wiki",
+        "slug": "adaptation--ability-group",
+        "title": "Adaptation + Ability Group",
+        "text": "Experimenting with the functionality and aesthetics of web accessibility in this open-source website for an academic research lab."
+      },
+      "date": 1501263498100
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "For the oldest anthropological organization in the United States, a modern site which brings together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501263529114
+    },
+    {
+      "type": "edit",
+      "id": "1fb821f61104989d",
+      "item": {
+        "type": "reference",
+        "id": "1fb821f61104989d",
+        "site": "work.cag.wiki",
+        "slug": "american-ethnological-society",
+        "title": "American Ethnological Society",
+        "text": "A modern site for the oldest anthropological organization in the United States, which brings together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501263544290
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "Tailored content management is helping improve the presentation and consistency of this New York gallery's 23 year program of exhibitions and editions."
+      },
+      "date": 1501263557612
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped to improve both presentation and consistency."
+      },
+      "date": 1501263640297
+    },
+    {
+      "type": "edit",
+      "id": "614617c82f10119f",
+      "item": {
+        "type": "reference",
+        "id": "614617c82f10119f",
+        "site": "work.cag.wiki",
+        "slug": "susan-inglett-gallery",
+        "title": "Susan Inglett Gallery",
+        "text": "Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped improve both presentation and consistency."
+      },
+      "date": 1501263648617
+    },
+    {
+      "type": "remove",
+      "id": "1fb821f61104989d",
+      "date": 1501264271826
+    },
+    {
+      "type": "add",
+      "id": "6bbacb1673dc7111",
+      "item": {
+        "type": "paragraph",
+        "id": "6bbacb1673dc7111",
+        "text": "[http://americanethnologist.org American Ethnological Society] A modern site for the oldest anthropological organization in the United States, which brings together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "after": "80ef7989737346da",
+      "date": 1501264289361
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "75c40c0ee7de1d4e",
+        "6bbacb1673dc7111",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "6bbacb1673dc7111",
+      "date": 1501264292446
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "75c40c0ee7de1d4e",
+        "6f6cf98b0f6a0fb7",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "75c40c0ee7de1d4e",
+      "date": 1501264294790
+    },
+    {
+      "type": "remove",
+      "id": "6f6cf98b0f6a0fb7",
+      "date": 1501264310987
+    },
+    {
+      "type": "add",
+      "id": "9e6aff6de78b5eeb",
+      "item": {
+        "type": "paragraph",
+        "id": "9e6aff6de78b5eeb",
+        "text": "[http://sarahendren.com Sara Hendren] Carving new space for the personal projects of Sara Hendren, while integrating with (and sharing the architecture of) a companion site dedicated to her collaborative research and teaching."
+      },
+      "after": "6bbacb1673dc7111",
+      "date": 1501264323331
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "d683f67a82f6d795",
+        "614617c82f10119f",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "75c40c0ee7de1d4e",
+      "date": 1501264327690
+    },
+    {
+      "type": "edit",
+      "id": "9e6aff6de78b5eeb",
+      "item": {
+        "type": "paragraph",
+        "id": "9e6aff6de78b5eeb",
+        "text": "[http://sarahendren.com Sara Hendren] Carving new space for a portfolio of personal projects, while integrating with (and sharing the architecture of) a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501264343285
+    },
+    {
+      "type": "edit",
+      "id": "9e6aff6de78b5eeb",
+      "item": {
+        "type": "paragraph",
+        "id": "9e6aff6de78b5eeb",
+        "text": "[http://sarahendren.com Sara Hendren] Carving new space for a portfolio of personal projects, while integrating with (and sharing the architecture of) a companion site dedicated to collaborative research and teaching."
+      },
+      "date": 1501264351919
+    },
+    {
+      "type": "remove",
+      "id": "614617c82f10119f",
+      "date": 1501264368669
+    },
+    {
+      "type": "add",
+      "id": "f61a9fbe7750b0f0",
+      "item": {
+        "type": "paragraph",
+        "id": "f61a9fbe7750b0f0",
+        "text": "[http://inglettgallery.com Susan Inglett Gallery] Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped improve both presentation and consistency."
+      },
+      "after": "9e6aff6de78b5eeb",
+      "date": 1501264385978
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "d683f67a82f6d795",
+        "b047cd646924daa6",
+        "f61a9fbe7750b0f0",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "f61a9fbe7750b0f0",
+      "date": 1501264387793
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "06153662608c935b",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "b047cd646924daa6",
+      "date": 1501264390247
+    },
+    {
+      "type": "edit",
+      "id": "6bbacb1673dc7111",
+      "item": {
+        "type": "paragraph",
+        "id": "6bbacb1673dc7111",
+        "text": "[[American Ethnological Society]] A modern site for the oldest anthropological organization in the United States, which brings together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501264415848
+    },
+    {
+      "type": "edit",
+      "id": "9e6aff6de78b5eeb",
+      "item": {
+        "type": "paragraph",
+        "id": "9e6aff6de78b5eeb",
+        "text": "[[Sara Hendren]] • Carving new space for a portfolio of personal projects, while integrating with (and sharing the architecture of) a companion site dedicated to collaborative research and teaching."
+      },
+      "date": 1501264435408
+    },
+    {
+      "type": "edit",
+      "id": "9e6aff6de78b5eeb",
+      "item": {
+        "type": "paragraph",
+        "id": "9e6aff6de78b5eeb",
+        "text": "[[Sara Hendren]] — Carving new space for a portfolio of personal projects, while integrating with (and sharing the architecture of) a companion site dedicated to collaborative research and teaching."
+      },
+      "date": 1501264439160
+    },
+    {
+      "type": "edit",
+      "id": "6bbacb1673dc7111",
+      "item": {
+        "type": "paragraph",
+        "id": "6bbacb1673dc7111",
+        "text": "[[American Ethnological Society]] — A modern site for the oldest anthropological organization in the United States, which brings together their quarterly journal, juried competitions, conferences, and online content."
+      },
+      "date": 1501264443194
+    },
+    {
+      "type": "edit",
+      "id": "9e6aff6de78b5eeb",
+      "item": {
+        "type": "paragraph",
+        "id": "9e6aff6de78b5eeb",
+        "text": "[[Sara Hendren (website)]] — Carving new space for a portfolio of personal projects, while integrating with (and sharing the architecture of) a companion site dedicated to collaborative research and teaching."
+      },
+      "date": 1501264450544
+    },
+    {
+      "type": "edit",
+      "id": "f61a9fbe7750b0f0",
+      "item": {
+        "type": "paragraph",
+        "id": "f61a9fbe7750b0f0",
+        "text": "[http://inglettgallery.com Susan Inglett Gallery] — Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped improve both presentation and consistency."
+      },
+      "date": 1501264458599
+    },
+    {
+      "type": "remove",
+      "id": "06153662608c935b",
+      "date": 1501264462746
+    },
+    {
+      "type": "add",
+      "id": "2c405153c0590310",
+      "item": {
+        "type": "paragraph",
+        "id": "2c405153c0590310",
+        "text": "[[Adaptation + Ability Group]] — Experimenting with the functionality and aesthetics of web accessibility in this open-source website for an academic research lab."
+      },
+      "after": "f61a9fbe7750b0f0",
+      "date": 1501264476459
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "80ef7989737346da",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "b047cd646924daa6",
+      "date": 1501264478089
+    },
+    {
+      "type": "edit",
+      "id": "f61a9fbe7750b0f0",
+      "item": {
+        "type": "paragraph",
+        "id": "f61a9fbe7750b0f0",
+        "text": "[[Susan Inglett Gallery]] — Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped improve both presentation and consistency."
+      },
+      "date": 1501264485805
+    },
+    {
+      "type": "edit",
+      "id": "96f4ad5d92f85abc",
+      "item": {
+        "type": "html",
+        "id": "96f4ad5d92f85abc",
+        "text": "<a href=\"http://americanethnologist.org\"><img src=\"http://caseyg.github.io/hire/aes.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
+      },
+      "date": 1501264505306
+    },
+    {
+      "type": "edit",
+      "id": "75c40c0ee7de1d4e",
+      "item": {
+        "type": "html",
+        "id": "75c40c0ee7de1d4e",
+        "text": "<a href=\"http://sarahendren.com\"><img src=\"http://caseyg.github.io/hire/sarahendren.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
+      },
+      "date": 1501264525464
+    },
+    {
+      "type": "edit",
+      "id": "d683f67a82f6d795",
+      "item": {
+        "type": "html",
+        "id": "d683f67a82f6d795",
+        "text": "<a href=\"http://inglettgallery.com\"><img src=\"http://caseyg.github.io/hire/inglettgallery.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
+      },
+      "date": 1501264539961
+    },
+    {
+      "type": "edit",
+      "id": "b047cd646924daa6",
+      "item": {
+        "type": "html",
+        "id": "b047cd646924daa6",
+        "text": "<a href=\"http://aplusa.org\"><img src=\"http://caseyg.github.io/hire/aplusa.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
+      },
+      "date": 1501264553823
+    },
+    {
+      "type": "edit",
+      "id": "08fff3be0da49eac",
+      "item": {
+        "type": "html",
+        "id": "08fff3be0da49eac",
+        "text": "<a href=\"http://engineeringathome.org\"><img src=\"http://hire.caseyagollan.com/engineeringathome.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\"></a>"
+      },
+      "date": 1501264578632
+    },
+    {
+      "type": "edit",
+      "id": "fe4bc611c8621db6",
+      "item": {
+        "type": "html",
+        "id": "fe4bc611c8621db6",
+        "text": "<a href=\"http://accessibleicon.org\"><img src=\"http://hire.caseyagollan.com/accessibleicon.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\"></a>"
+      },
+      "date": 1501264596364
+    },
+    {
+      "type": "edit",
+      "id": "91c485354998c331",
+      "item": {
+        "type": "html",
+        "id": "91c485354998c331",
+        "text": "<a href=\"http://multientry.com\"><img src=\"http://hire.caseyagollan.com/multientry.png\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\"></a>"
+      },
+      "date": 1501264608065
+    },
+    {
+      "type": "edit",
+      "id": "73db7b3cee23e1df",
+      "item": {
+        "type": "paragraph",
+        "id": "73db7b3cee23e1df",
+        "text": "This is an unfinished, ever-evolving work-archive. "
+      },
+      "date": 1501264622959
+    },
+    {
+      "type": "add",
+      "id": "deefec027f52b407",
+      "item": {
+        "type": "paragraph",
+        "id": "deefec027f52b407",
+        "text": "Please feel welcome to reach out with any questions or for more information about a project."
+      },
+      "after": "73db7b3cee23e1df",
+      "date": 1501264625707
+    },
+    {
+      "type": "edit",
+      "id": "deefec027f52b407",
+      "item": {
+        "type": "paragraph",
+        "id": "deefec027f52b407",
+        "text": "Please feel welcome to reach out with any questions or for more information about a project:"
+      },
+      "date": 1501264629353
+    },
+    {
+      "type": "edit",
+      "id": "96f4ad5d92f85abc",
+      "item": {
+        "type": "html",
+        "id": "96f4ad5d92f85abc",
+        "text": "<a href=\"http://americanethnologist.org\" target=\"_blank\"><img src=\"http://caseyg.github.io/hire/aes.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
+      },
+      "date": 1501264811446
+    },
+    {
+      "type": "edit",
+      "id": "80ef7989737346da",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef7989737346da",
+        "text": "I've designed and coded websites in collaboration with artists, researchers, editors, celebrities, galleries, non-profits, publications, schools, startups, tinkerers, unconferences, and writers."
+      },
+      "date": 1501264941080
+    },
+    {
+      "type": "add",
+      "id": "02db753986f1d973",
+      "item": {
+        "type": "paragraph",
+        "id": "02db753986f1d973",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "after": "80ef7989737346da",
+      "date": 1501264942668
+    },
+    {
+      "type": "edit",
+      "id": "80ef7989737346da",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef7989737346da",
+        "text": "I design and coded websites in collaboration with artists, researchers, editors, celebrities, galleries, non-profits, publications, schools, startups, tinkerers, unconferences, and writers."
+      },
+      "date": 1501264949382
+    },
+    {
+      "type": "edit",
+      "id": "80ef7989737346da",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef7989737346da",
+        "text": "I design and code websites in collaboration with artists, researchers, editors, celebrities, galleries, non-profits, publications, schools, startups, tinkerers, unconferences, and writers."
+      },
+      "date": 1501264951845
+    },
+    {
+      "type": "remove",
+      "id": "80ef7989737346da",
+      "date": 1501264959540
+    },
+    {
+      "type": "edit",
+      "id": "02db753986f1d973",
+      "item": {
+        "type": "paragraph",
+        "id": "02db753986f1d973",
+        "text": "My favorite kind of work project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501265328643
+    },
+    {
+      "type": "edit",
+      "id": "f61a9fbe7750b0f0",
+      "item": {
+        "type": "paragraph",
+        "id": "f61a9fbe7750b0f0",
+        "text": "[[Susan Inglett Gallery]] — Tailored content management for the 23 year program of exhibitions and editions at this New York gallery has helped improve both presentation and consistency."
+      },
+      "date": 1501265427896
+    },
+    {
+      "type": "edit",
+      "id": "cc0bd144521ec654",
+      "item": {
+        "type": "reference",
+        "id": "cc0bd144521ec654",
+        "site": "work.cag.wiki",
+        "slug": "multi-entry",
+        "title": "Multi Entry",
+        "text": "Pair-programmed with ethnographer Christina Xu, walking through setting up her own site to document research into China's creative culture. Answered questions and solved problems together as they arose."
+      },
+      "date": 1501265457836
+    },
+    {
+      "type": "remove",
+      "id": "deefec027f52b407",
+      "date": 1501265476793
+    },
+    {
+      "type": "edit",
+      "id": "73db7b3cee23e1df",
+      "item": {
+        "type": "paragraph",
+        "id": "73db7b3cee23e1df",
+        "text": "This is an unfinished, ever-evolving work-archive. Please feel welcome to reach out with any questions or for more information about a project:"
+      },
+      "date": 1501265479355
+    },
+    {
+      "type": "edit",
+      "id": "02db753986f1d973",
+      "item": {
+        "type": "paragraph",
+        "id": "02db753986f1d973",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501265719053
     }
   ]
 }

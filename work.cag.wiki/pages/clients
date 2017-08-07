@@ -1,0 +1,367 @@
+{
+  "title": "Clients",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "481bf4471e8fff6a",
+      "text": "20x200"
+    },
+    {
+      "type": "paragraph",
+      "id": "11fe0583a6d4c5d5",
+      "text": "American Ethnological Society"
+    },
+    {
+      "type": "paragraph",
+      "id": "f4fcaa675e426a67",
+      "text": "Andrew Badr\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "e4f00f009640598a",
+      "text": "Atavist Books\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf2a8fd64859a695",
+      "text": "Brian Funck\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c8308c7be86dd3f0",
+      "text": "Caitrin Lynch"
+    },
+    {
+      "type": "paragraph",
+      "id": "3db9f1ddce886224",
+      "text": "Christina Xu\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "80fca8782fad9997",
+      "text": "Etsy\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4ac44eabf4203f4",
+      "text": "Girl Walk//All Day\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "2df0220d97eebc5c",
+      "text": "Josh Olins\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "1fdc43537a6dbfb2",
+      "text": "Marwa Helal\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "135665d4397c1214",
+      "text": "Open Government Foundation\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a0bc255e7e7080ef",
+      "text": "OpenNews Source\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3b7274326edf18c1",
+      "text": "Pooool\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f097a3a3a6931abc",
+      "text": "Recess New York\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ae32f3ec6fde8b95",
+      "text": "Rodi Gallery\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "9648525d8a9dccd8",
+      "text": "Sara Hendren\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f4cbcdb4ad19b3e3",
+      "text": "School for Poetic Computation\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d55e7201f3a795d7",
+      "text": "Tom Healy\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0ed354f1f57fed39",
+      "text": "Zach Lieberman"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Clients",
+        "story": []
+      },
+      "date": 1501251056896
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e2f9c0234475974a"
+      },
+      "id": "e2f9c0234475974a",
+      "type": "add",
+      "date": 1501251058160
+    },
+    {
+      "type": "remove",
+      "id": "e2f9c0234475974a",
+      "date": 1501251144215
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "481bf4471e8fff6a"
+      },
+      "id": "481bf4471e8fff6a",
+      "type": "add",
+      "date": 1501251259678
+    },
+    {
+      "type": "edit",
+      "id": "481bf4471e8fff6a",
+      "item": {
+        "type": "paragraph",
+        "id": "481bf4471e8fff6a",
+        "text": "20x200\n"
+      },
+      "date": 1501251336303
+    },
+    {
+      "type": "add",
+      "id": "f4fcaa675e426a67",
+      "item": {
+        "type": "paragraph",
+        "id": "f4fcaa675e426a67",
+        "text": "Andrew Badr\n"
+      },
+      "after": "481bf4471e8fff6a",
+      "date": 1501251337087
+    },
+    {
+      "type": "add",
+      "id": "e4f00f009640598a",
+      "item": {
+        "type": "paragraph",
+        "id": "e4f00f009640598a",
+        "text": "Atavist Books\n"
+      },
+      "after": "f4fcaa675e426a67",
+      "date": 1501251337495
+    },
+    {
+      "type": "add",
+      "id": "bf2a8fd64859a695",
+      "item": {
+        "type": "paragraph",
+        "id": "bf2a8fd64859a695",
+        "text": "Brian Funck\n"
+      },
+      "after": "e4f00f009640598a",
+      "date": 1501251338063
+    },
+    {
+      "type": "add",
+      "id": "3db9f1ddce886224",
+      "item": {
+        "type": "paragraph",
+        "id": "3db9f1ddce886224",
+        "text": "Christina Xu\n"
+      },
+      "after": "bf2a8fd64859a695",
+      "date": 1501251338837
+    },
+    {
+      "type": "add",
+      "id": "80fca8782fad9997",
+      "item": {
+        "type": "paragraph",
+        "id": "80fca8782fad9997",
+        "text": "Etsy\n"
+      },
+      "after": "3db9f1ddce886224",
+      "date": 1501251339496
+    },
+    {
+      "type": "add",
+      "id": "d4ac44eabf4203f4",
+      "item": {
+        "type": "paragraph",
+        "id": "d4ac44eabf4203f4",
+        "text": "Girl Walk//All Day\n"
+      },
+      "after": "80fca8782fad9997",
+      "date": 1501251340086
+    },
+    {
+      "type": "add",
+      "id": "2df0220d97eebc5c",
+      "item": {
+        "type": "paragraph",
+        "id": "2df0220d97eebc5c",
+        "text": "Josh Olins\n"
+      },
+      "after": "d4ac44eabf4203f4",
+      "date": 1501251340542
+    },
+    {
+      "type": "add",
+      "id": "1fdc43537a6dbfb2",
+      "item": {
+        "type": "paragraph",
+        "id": "1fdc43537a6dbfb2",
+        "text": "Marwa Helal\n"
+      },
+      "after": "2df0220d97eebc5c",
+      "date": 1501251340891
+    },
+    {
+      "type": "add",
+      "id": "135665d4397c1214",
+      "item": {
+        "type": "paragraph",
+        "id": "135665d4397c1214",
+        "text": "Open Government Foundation\n"
+      },
+      "after": "1fdc43537a6dbfb2",
+      "date": 1501251341247
+    },
+    {
+      "type": "add",
+      "id": "a0bc255e7e7080ef",
+      "item": {
+        "type": "paragraph",
+        "id": "a0bc255e7e7080ef",
+        "text": "OpenNews Source\n"
+      },
+      "after": "135665d4397c1214",
+      "date": 1501251341658
+    },
+    {
+      "type": "add",
+      "id": "3b7274326edf18c1",
+      "item": {
+        "type": "paragraph",
+        "id": "3b7274326edf18c1",
+        "text": "Pooool\n"
+      },
+      "after": "a0bc255e7e7080ef",
+      "date": 1501251342086
+    },
+    {
+      "type": "add",
+      "id": "f097a3a3a6931abc",
+      "item": {
+        "type": "paragraph",
+        "id": "f097a3a3a6931abc",
+        "text": "Recess New York\n"
+      },
+      "after": "3b7274326edf18c1",
+      "date": 1501251342410
+    },
+    {
+      "type": "add",
+      "id": "ae32f3ec6fde8b95",
+      "item": {
+        "type": "paragraph",
+        "id": "ae32f3ec6fde8b95",
+        "text": "Rodi Gallery\n"
+      },
+      "after": "f097a3a3a6931abc",
+      "date": 1501251342749
+    },
+    {
+      "type": "add",
+      "id": "9648525d8a9dccd8",
+      "item": {
+        "type": "paragraph",
+        "id": "9648525d8a9dccd8",
+        "text": "Sara Hendren\n"
+      },
+      "after": "ae32f3ec6fde8b95",
+      "date": 1501251343184
+    },
+    {
+      "type": "add",
+      "id": "f4cbcdb4ad19b3e3",
+      "item": {
+        "type": "paragraph",
+        "id": "f4cbcdb4ad19b3e3",
+        "text": "School for Poetic Computation\n"
+      },
+      "after": "9648525d8a9dccd8",
+      "date": 1501251343778
+    },
+    {
+      "type": "add",
+      "id": "d55e7201f3a795d7",
+      "item": {
+        "type": "paragraph",
+        "id": "d55e7201f3a795d7",
+        "text": "Tom Healy\n"
+      },
+      "after": "f4cbcdb4ad19b3e3",
+      "date": 1501251344666
+    },
+    {
+      "type": "add",
+      "id": "0ed354f1f57fed39",
+      "item": {
+        "type": "paragraph",
+        "id": "0ed354f1f57fed39",
+        "text": "Zach Lieberman"
+      },
+      "after": "d55e7201f3a795d7",
+      "date": 1501251345505
+    },
+    {
+      "type": "edit",
+      "id": "481bf4471e8fff6a",
+      "item": {
+        "type": "paragraph",
+        "id": "481bf4471e8fff6a",
+        "text": "20x200"
+      },
+      "date": 1501263406723
+    },
+    {
+      "type": "add",
+      "id": "11fe0583a6d4c5d5",
+      "item": {
+        "type": "paragraph",
+        "id": "11fe0583a6d4c5d5",
+        "text": "American Ethnological Society"
+      },
+      "after": "481bf4471e8fff6a",
+      "date": 1501263433783
+    },
+    {
+      "type": "add",
+      "id": "c8308c7be86dd3f0",
+      "item": {
+        "type": "paragraph",
+        "id": "c8308c7be86dd3f0",
+        "text": "Caitrin Lynch"
+      },
+      "after": "bf2a8fd64859a695",
+      "date": 1501263441527
+    }
+  ]
+}

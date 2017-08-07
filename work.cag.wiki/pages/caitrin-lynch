@@ -1,0 +1,71 @@
+{
+  "title": "Caitrin Lynch",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e8b55c43b282b114",
+      "text": "Projects with Caitrin:"
+    },
+    {
+      "type": "paragraph",
+      "id": "a89552c3636c9804",
+      "text": "[[American Ethnological Society]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "abb8a77c0349a897",
+      "text": "[[Engineering at Home]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Caitrin Lynch",
+        "story": []
+      },
+      "date": 1501263082039
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e8b55c43b282b114"
+      },
+      "id": "e8b55c43b282b114",
+      "type": "add",
+      "date": 1501263083524
+    },
+    {
+      "type": "edit",
+      "id": "e8b55c43b282b114",
+      "item": {
+        "type": "paragraph",
+        "id": "e8b55c43b282b114",
+        "text": "Projects with Caitrin:"
+      },
+      "date": 1501263087520
+    },
+    {
+      "type": "add",
+      "id": "a89552c3636c9804",
+      "item": {
+        "type": "paragraph",
+        "id": "a89552c3636c9804",
+        "text": "[[American Ethnological Society]]"
+      },
+      "after": "e8b55c43b282b114",
+      "date": 1501263093597
+    },
+    {
+      "type": "add",
+      "id": "abb8a77c0349a897",
+      "item": {
+        "type": "paragraph",
+        "id": "abb8a77c0349a897",
+        "text": "[[Engineering at Home]]"
+      },
+      "after": "a89552c3636c9804",
+      "date": 1501263096999
+    }
+  ]
+}

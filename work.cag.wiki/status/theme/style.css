@@ -374,3 +374,18 @@ textarea {
   opacity: 0.6;
   border-color: lightgray!important;
 }
+
+body {
+font-family: Times New Roman;
+background-color: gray;
+}
+h1, h2, h3, a:link, a:visited {
+font-family: sans-serif;
+}
+#welcome-visitors h1 {
+display: none;
+}
+img {
+max-width: 100%;
+}
+

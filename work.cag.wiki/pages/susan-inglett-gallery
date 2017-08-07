@@ -1,0 +1,184 @@
+{
+  "title": "Susan Inglett Gallery",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6e0c32537471b718",
+      "text": "[http://inglettgallery.com inglettgallery.com]"
+    },
+    {
+      "type": "html",
+      "id": "9fc97483bcf7876e",
+      "text": "<img src=\"http://caseyg.github.io/hire/inglettgallery.png\">"
+    },
+    {
+      "type": "paragraph",
+      "id": "9a49fe60c4696364",
+      "text": "Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped improve both presentation and consistency."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Susan Inglett Gallery",
+        "story": []
+      },
+      "date": 1501251501564
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d205fdb662f1463"
+      },
+      "id": "6d205fdb662f1463",
+      "type": "add",
+      "date": 1501253805604
+    },
+    {
+      "type": "remove",
+      "id": "6d205fdb662f1463",
+      "date": 1501253808258
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e0c32537471b718"
+      },
+      "id": "6e0c32537471b718",
+      "type": "add",
+      "date": 1501253809094
+    },
+    {
+      "type": "edit",
+      "id": "6e0c32537471b718",
+      "item": {
+        "type": "paragraph",
+        "id": "6e0c32537471b718",
+        "text": "[http://inglettgallery.com inglettgallery.com]"
+      },
+      "date": 1501253818524
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc80126fb9405d1c"
+      },
+      "id": "dc80126fb9405d1c",
+      "type": "add",
+      "after": "6e0c32537471b718",
+      "date": 1501253820885
+    },
+    {
+      "type": "edit",
+      "id": "dc80126fb9405d1c",
+      "item": {
+        "type": "pagefold",
+        "id": "dc80126fb9405d1c",
+        "text": "More Links"
+      },
+      "date": 1501253839848
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9fc97483bcf7876e"
+      },
+      "id": "9fc97483bcf7876e",
+      "type": "add",
+      "after": "dc80126fb9405d1c",
+      "date": 1501254153745
+    },
+    {
+      "type": "edit",
+      "id": "9fc97483bcf7876e",
+      "item": {
+        "type": "html",
+        "id": "9fc97483bcf7876e",
+        "text": "<img src=\"http://caseyg.github.io/hire/inglettgallery.png\">"
+      },
+      "date": 1501254158590
+    },
+    {
+      "type": "move",
+      "order": [
+        "6e0c32537471b718",
+        "9fc97483bcf7876e",
+        "dc80126fb9405d1c"
+      ],
+      "id": "9fc97483bcf7876e",
+      "date": 1501254163335
+    },
+    {
+      "type": "remove",
+      "id": "dc80126fb9405d1c",
+      "date": 1501254165355
+    },
+    {
+      "type": "add",
+      "id": "5490dfbcbd5fdd27",
+      "item": {
+        "type": "paragraph",
+        "id": "5490dfbcbd5fdd27",
+        "text": "Working with "
+      },
+      "after": "6e0c32537471b718",
+      "date": 1501258633027
+    },
+    {
+      "type": "edit",
+      "id": "5490dfbcbd5fdd27",
+      "item": {
+        "type": "paragraph",
+        "id": "5490dfbcbd5fdd27",
+        "text": "This site "
+      },
+      "date": 1501258650081
+    },
+    {
+      "type": "move",
+      "order": [
+        "9fc97483bcf7876e",
+        "6e0c32537471b718",
+        "5490dfbcbd5fdd27"
+      ],
+      "id": "9fc97483bcf7876e",
+      "date": 1501260939308
+    },
+    {
+      "type": "move",
+      "order": [
+        "6e0c32537471b718",
+        "9fc97483bcf7876e",
+        "5490dfbcbd5fdd27"
+      ],
+      "id": "9fc97483bcf7876e",
+      "date": 1501260941962
+    },
+    {
+      "type": "remove",
+      "id": "5490dfbcbd5fdd27",
+      "date": 1501263187899
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9a49fe60c4696364"
+      },
+      "id": "9a49fe60c4696364",
+      "type": "add",
+      "after": "9fc97483bcf7876e",
+      "date": 1501263665328
+    },
+    {
+      "type": "edit",
+      "id": "9a49fe60c4696364",
+      "item": {
+        "type": "paragraph",
+        "id": "9a49fe60c4696364",
+        "text": "Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped improve both presentation and consistency."
+      },
+      "date": 1501263666500
+    }
+  ]
+}

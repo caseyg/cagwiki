@@ -2,225 +2,1345 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages on this wiki:"
+      "type": "html",
+      "id": "b4766ee4b032de34",
+      "text": "<img src=\"http://bullshit.systems/sisu.gif\">"
     },
     {
-      "type": "reference",
-      "id": "b227cc8d2b5d6b6a",
-      "site": "work.cag.wiki",
-      "slug": "work",
-      "title": "Work",
-      "text": "(Porting this page from [http://hire.caseyagollan.com hire.caseyagollan.com])"
+      "type": "markdown",
+      "id": "b53a80630e831449",
+      "text": "# Hi, I'm [[Casey]]! Let's build a website."
     },
     {
       "type": "paragraph",
       "id": "821827c99b90cfd1",
-      "text": "Pages about me:"
+      "text": "🖼️ To see recent projects, visit the 👉 [[Work]] 👈 page"
     },
     {
-      "type": "reference",
-      "id": "c20a49d30c926e54",
-      "site": "work.cag.wiki",
-      "slug": "casey-gollan",
-      "title": "Casey Gollan",
-      "text": "Hi, I'm Casey! My design practice — considering the intermediation of technology and everyday life — is based out of [[Orbital]]. I have written critically about design and technology for [[Rhizome]] and [[Poool]], participated in [[Triple Canopy]]’s networked publishing intensive, and experimented with open-source administration as part of the [[School for Poetic Computation]]."
+      "type": "paragraph",
+      "id": "3873b39a0a10a1df",
+      "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a project in mind, get in touch."
     },
     {
-      "type": "reference",
-      "id": "7dc9f69f7896f30f",
-      "site": "work.cag.wiki",
-      "slug": "tools",
-      "title": "Tools",
-      "text": "Github"
+      "type": "html",
+      "id": "7738ecd46a1680fe",
+      "text": "You can reach me by email at <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+    },
+    {
+      "type": "pagefold",
+      "id": "20c4a9f0f0150595",
+      "text": "Etc."
+    },
+    {
+      "type": "paragraph",
+      "id": "3c76d1841f77335b",
+      "text": "🛠️ [[Tools]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e32a5f9e3c47051",
+      "text": "❓ [[About This Site]]"
     }
   ],
   "journal": [
     {
-      "type": "create",
-      "item": {
-        "title": "Welcome Visitors",
-        "story": []
-      },
-      "date": 1420938191608
-    },
-    {
-      "type": "add",
-      "item": {
-        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
-        "id": "7b56f22a4b9ee974",
-        "type": "paragraph"
-      },
-      "id": "7b56f22a4b9ee974",
-      "date": 1420938199166
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "Pages about us."
-      },
-      "after": "7b56f22a4b9ee974",
-      "id": "821827c99b90cfd1",
-      "date": 1420938202921
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "factory",
-        "id": "63ad2e58eecdd9e5",
-        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
-      },
-      "after": "821827c99b90cfd1",
-      "id": "63ad2e58eecdd9e5",
-      "date": 1420938208737
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "paragraph",
-        "id": "2bbd646ff3f44b51",
-        "text": "Pages where we do and share."
-      },
-      "after": "63ad2e58eecdd9e5",
-      "id": "2bbd646ff3f44b51",
-      "date": 1420938212624
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "factory",
-        "id": "05e2fa92643677ca",
-        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
-      },
-      "after": "2bbd646ff3f44b51",
-      "id": "05e2fa92643677ca",
-      "date": 1420938216782
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-      },
-      "after": "05e2fa92643677ca",
-      "id": "ee416d431ebf4fb4",
-      "date": 1420938220851
-    },
-    {
       "type": "edit",
-      "id": "7b56f22a4b9ee974",
-      "item": {
-        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. Test.",
-        "id": "7b56f22a4b9ee974",
-        "type": "paragraph"
-      },
-      "date": 1480098042746
-    },
-    {
-      "type": "edit",
-      "id": "63ad2e58eecdd9e5",
-      "item": {
-        "type": "reference",
-        "id": "63ad2e58eecdd9e5",
-        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
-        "site": "cag.wiki",
-        "slug": "casey-gollan",
-        "title": "Casey Gollan",
-        "text": "[http://caseyagollan.com homepage]"
-      },
-      "date": 1480098060964
-    },
-    {
-      "type": "edit",
-      "id": "05e2fa92643677ca",
+      "id": "3c76d1841f77335b",
       "item": {
         "type": "paragraph",
-        "id": "05e2fa92643677ca",
-        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-        "text": "[[Work]]"
+        "id": "3c76d1841f77335b",
+        "text": "🛠️ [[Tools]] I use"
       },
-      "date": 1480098073648
-    },
-    {
-      "type": "remove",
-      "id": "ee416d431ebf4fb4",
-      "date": 1480098078147
-    },
-    {
-      "type": "remove",
-      "id": "7b56f22a4b9ee974",
-      "date": 1480098087811
+      "date": 1501251169391
     },
     {
       "type": "move",
       "order": [
-        "2bbd646ff3f44b51",
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "56a41a300abe1b55",
+        "8d267c793ebdf832",
+        "326490b5bf98cf12",
         "821827c99b90cfd1",
-        "63ad2e58eecdd9e5",
-        "05e2fa92643677ca"
+        "d1a141f0fd0703ac",
+        "20c4a9f0f0150595",
+        "9e32a5f9e3c47051",
+        "3c76d1841f77335b"
       ],
+      "id": "9e32a5f9e3c47051",
+      "date": 1501251164391
+    },
+    {
+      "type": "edit",
+      "id": "20c4a9f0f0150595",
+      "item": {
+        "type": "pagefold",
+        "id": "20c4a9f0f0150595",
+        "text": "More Resources"
+      },
+      "date": 1501251162119
+    },
+    {
+      "type": "edit",
+      "id": "326490b5bf98cf12",
+      "item": {
+        "type": "pagefold",
+        "id": "326490b5bf98cf12",
+        "text": "Pages"
+      },
+      "date": 1501251157303
+    },
+    {
+      "type": "edit",
+      "id": "86ecc8d2218050a3",
+      "item": {
+        "type": "pagefold",
+        "id": "86ecc8d2218050a3",
+        "text": "Availability"
+      },
+      "date": 1501251153635
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501249888388
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501249880997
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249863844
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249848912
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249845951
+    },
+    {
+      "type": "remove",
+      "id": "faf3997338def123",
+      "date": 1501249833932
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249831773
+    },
+    {
+      "type": "edit",
+      "id": "86ecc8d2218050a3",
+      "item": {
+        "type": "pagefold",
+        "id": "86ecc8d2218050a3",
+        "text": "Availability"
+      },
+      "date": 1501249811496
+    },
+    {
+      "type": "edit",
+      "id": "9e32a5f9e3c47051",
+      "item": {
+        "type": "paragraph",
+        "id": "9e32a5f9e3c47051",
+        "text": "❓ [[About This Site]]"
+      },
+      "date": 1501249742015
+    },
+    {
+      "type": "add",
+      "id": "9e32a5f9e3c47051",
+      "item": {
+        "type": "paragraph",
+        "id": "9e32a5f9e3c47051",
+        "text": "❓ [[About This Site]]"
+      },
+      "after": "d1a141f0fd0703ac",
+      "date": 1501249738671
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 My [[Work]]"
+      },
+      "date": 1501249724042
+    },
+    {
+      "type": "edit",
+      "id": "faf3997338def123",
+      "item": {
+        "type": "paragraph",
+        "id": "faf3997338def123",
+        "text": ""
+      },
+      "date": 1501249709963
+    },
+    {
+      "type": "add",
+      "id": "8d267c793ebdf832",
+      "item": {
+        "type": "paragraph",
+        "id": "8d267c793ebdf832",
+        "text": "You can reach me by email at: casey@bullshit.systems"
+      },
+      "after": "faf3997338def123",
+      "date": 1501249707206
+    },
+    {
+      "type": "edit",
+      "id": "faf3997338def123",
+      "item": {
+        "type": "paragraph",
+        "id": "faf3997338def123",
+        "text": ""
+      },
+      "date": 1501249706184
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249700054
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249695088
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249692810
+    },
+    {
+      "type": "add",
+      "id": "d1a141f0fd0703ac",
+      "item": {
+        "type": "paragraph",
+        "id": "d1a141f0fd0703ac",
+        "text": "🤠 [[Casey Gollan]] (About Me)"
+      },
+      "after": "821827c99b90cfd1",
+      "date": 1501249677078
+    },
+    {
+      "type": "remove",
+      "id": "16e17cafd0f1c688",
+      "date": 1501249668639
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 My [[Work]]"
+      },
+      "date": 1501249664032
+    },
+    {
+      "type": "edit",
+      "id": "86ecc8d2218050a3",
+      "item": {
+        "type": "pagefold",
+        "id": "86ecc8d2218050a3",
+        "text": "Availability"
+      },
+      "date": 1501249649635
+    },
+    {
+      "type": "edit",
+      "id": "faf3997338def123",
+      "item": {
+        "type": "paragraph",
+        "id": "faf3997338def123",
+        "text": ""
+      },
+      "date": 1501249631037
+    },
+    {
+      "type": "edit",
+      "id": "faf3997338def123",
+      "item": {
+        "type": "paragraph",
+        "id": "faf3997338def123",
+        "text": ""
+      },
+      "date": 1501249626815
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249619901
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249605755
+    },
+    {
+      "type": "remove",
+      "id": "233cda1fe398e69a",
+      "date": 1501249601189
+    },
+    {
+      "type": "add",
+      "id": "233cda1fe398e69a",
+      "item": {
+        "type": "paragraph",
+        "id": "233cda1fe398e69a",
+        "text": ""
+      },
+      "after": "56a41a300abe1b55",
+      "date": 1501249597197
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249596648
+    },
+    {
+      "type": "edit",
+      "id": "86ecc8d2218050a3",
+      "item": {
+        "type": "pagefold",
+        "id": "86ecc8d2218050a3",
+        "text": "Availability"
+      },
+      "date": 1501249584631
+    },
+    {
+      "type": "edit",
+      "id": "86ecc8d2218050a3",
+      "item": {
+        "type": "pagefold",
+        "id": "86ecc8d2218050a3",
+        "text": "Availability"
+      },
+      "date": 1501249581927
+    },
+    {
+      "type": "edit",
+      "id": "86ecc8d2218050a3",
+      "item": {
+        "type": "pagefold",
+        "id": "86ecc8d2218050a3",
+        "text": "Availability"
+      },
+      "date": 1501249578250
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501249575694
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "56a41a300abe1b55",
+        "faf3997338def123",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "16e17cafd0f1c688",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b"
+      ],
+      "id": "86ecc8d2218050a3",
+      "date": 1501249571132
+    },
+    {
+      "type": "edit",
+      "id": "86ecc8d2218050a3",
+      "item": {
+        "type": "pagefold",
+        "id": "86ecc8d2218050a3",
+        "text": "Availability"
+      },
+      "date": 1501249569183
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "86ecc8d2218050a3",
+        "text": "Availability"
+      },
+      "id": "86ecc8d2218050a3",
+      "type": "add",
+      "after": "3c76d1841f77335b",
+      "date": 1501249563542
+    },
+    {
+      "type": "remove",
+      "id": "d9c697f5fb149921",
+      "date": 1501249562660
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d9c697f5fb149921",
+        "text": ""
+      },
+      "id": "d9c697f5fb149921",
+      "type": "add",
+      "after": "3c76d1841f77335b",
+      "date": 1501249560358
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "faf3997338def123",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "16e17cafd0f1c688",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b"
+      ],
+      "id": "faf3997338def123",
+      "date": 1501249548704
+    },
+    {
+      "type": "edit",
+      "id": "faf3997338def123",
+      "item": {
+        "type": "paragraph",
+        "id": "faf3997338def123",
+        "text": ""
+      },
+      "date": 1501249547082
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "faf3997338def123",
+        "text": ""
+      },
+      "id": "faf3997338def123",
+      "type": "add",
+      "after": "3c76d1841f77335b",
+      "date": 1501249542322
+    },
+    {
+      "type": "remove",
+      "id": "c817378754a9ff96",
+      "date": 1501249541038
+    },
+    {
+      "type": "edit",
+      "id": "c817378754a9ff96",
+      "item": {
+        "type": "markdown",
+        "id": "c817378754a9ff96",
+        "text": ""
+      },
+      "date": 1501249533885
+    },
+    {
+      "type": "edit",
+      "id": "c817378754a9ff96",
+      "item": {
+        "type": "markdown",
+        "id": "c817378754a9ff96",
+        "text": ""
+      },
+      "date": 1501249504201
+    },
+    {
+      "type": "edit",
+      "id": "c817378754a9ff96",
+      "item": {
+        "type": "markdown",
+        "id": "c817378754a9ff96",
+        "text": ""
+      },
+      "date": 1501249493603
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "c817378754a9ff96",
+        "text": ""
+      },
+      "id": "c817378754a9ff96",
+      "type": "add",
+      "after": "3c76d1841f77335b",
+      "date": 1501249480068
+    },
+    {
+      "type": "remove",
+      "id": "86d06fccbe4cb739",
+      "date": 1501249478957
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 My [[Work]]"
+      },
+      "date": 1501249323763
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 My [[Work]]"
+      },
+      "date": 1501249320137
+    },
+    {
+      "type": "edit",
+      "id": "86d06fccbe4cb739",
+      "item": {
+        "type": "paragraph",
+        "id": "86d06fccbe4cb739",
+        "text": ""
+      },
+      "date": 1501249312903
+    },
+    {
+      "type": "edit",
+      "id": "86d06fccbe4cb739",
+      "item": {
+        "type": "paragraph",
+        "id": "86d06fccbe4cb739",
+        "text": ""
+      },
+      "date": 1501249309591
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501249289342
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501249277792
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501249229599
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501249225182
+    },
+    {
+      "type": "edit",
+      "id": "326490b5bf98cf12",
+      "item": {
+        "type": "pagefold",
+        "id": "326490b5bf98cf12",
+        "text": "Pages"
+      },
+      "date": 1501249202797
+    },
+    {
+      "type": "remove",
+      "id": "a4fe4faa68619090",
+      "date": 1501249173713
+    },
+    {
+      "type": "edit",
+      "id": "a4fe4faa68619090",
+      "item": {
+        "type": "paragraph",
+        "id": "a4fe4faa68619090",
+        "text": ""
+      },
+      "date": 1501249168460
+    },
+    {
+      "type": "remove",
+      "id": "9998d870dda08f48",
+      "date": 1501249158445
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9998d870dda08f48",
+        "text": "See more on the [[work]] page."
+      },
+      "after": "56a41a300abe1b55",
+      "id": "9998d870dda08f48",
+      "date": 1501249156487
+    },
+    {
+      "type": "edit",
+      "id": "a4fe4faa68619090",
+      "item": {
+        "type": "paragraph",
+        "id": "a4fe4faa68619090",
+        "text": ""
+      },
+      "date": 1501249149524
+    },
+    {
+      "type": "edit",
+      "id": "a4fe4faa68619090",
+      "item": {
+        "type": "paragraph",
+        "id": "a4fe4faa68619090",
+        "text": ""
+      },
+      "date": 1501249142754
+    },
+    {
+      "type": "add",
+      "id": "a4fe4faa68619090",
+      "item": {
+        "type": "paragraph",
+        "id": "a4fe4faa68619090",
+        "text": ""
+      },
+      "after": "56a41a300abe1b55",
+      "date": 1501249136752
+    },
+    {
+      "type": "edit",
+      "id": "16e17cafd0f1c688",
+      "item": {
+        "type": "paragraph",
+        "id": "16e17cafd0f1c688",
+        "text": ""
+      },
+      "date": 1501249061234
+    },
+    {
+      "type": "edit",
+      "id": "20c4a9f0f0150595",
+      "item": {
+        "type": "pagefold",
+        "id": "20c4a9f0f0150595",
+        "text": "More Resources"
+      },
+      "date": 1501249047694
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248963426
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248949118
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248944471
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501248936325
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 My [[Work]]"
+      },
+      "date": 1501248880534
+    },
+    {
+      "type": "edit",
+      "id": "16e17cafd0f1c688",
+      "item": {
+        "type": "paragraph",
+        "id": "16e17cafd0f1c688",
+        "text": ""
+      },
+      "date": 1501248867050
+    },
+    {
+      "type": "edit",
+      "id": "16e17cafd0f1c688",
+      "item": {
+        "type": "paragraph",
+        "id": "16e17cafd0f1c688",
+        "text": ""
+      },
+      "date": 1501248807326
+    },
+    {
+      "type": "add",
+      "id": "16e17cafd0f1c688",
+      "item": {
+        "type": "paragraph",
+        "id": "16e17cafd0f1c688",
+        "text": ""
+      },
+      "after": "821827c99b90cfd1",
+      "date": 1501248792578
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 My [[Work]]"
+      },
+      "date": 1501248779442
+    },
+    {
+      "type": "edit",
+      "id": "326490b5bf98cf12",
+      "item": {
+        "type": "pagefold",
+        "id": "326490b5bf98cf12",
+        "text": "Pages"
+      },
+      "date": 1501248771130
+    },
+    {
+      "type": "remove",
       "id": "2bbd646ff3f44b51",
-      "date": 1480098091965
+      "date": 1501248761839
+    },
+    {
+      "type": "remove",
+      "id": "b227cc8d2b5d6b6a",
+      "date": 1501248760056
+    },
+    {
+      "type": "remove",
+      "id": "c20a49d30c926e54",
+      "date": 1501248757582
+    },
+    {
+      "type": "edit",
+      "id": "3c76d1841f77335b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c76d1841f77335b",
+        "text": "🛠️ [[Tools]] I use"
+      },
+      "date": 1501248751401
+    },
+    {
+      "type": "remove",
+      "id": "7dc9f69f7896f30f",
+      "date": 1501248744762
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "86d06fccbe4cb739",
+        "326490b5bf98cf12",
+        "2bbd646ff3f44b51",
+        "b227cc8d2b5d6b6a",
+        "821827c99b90cfd1",
+        "c20a49d30c926e54",
+        "20c4a9f0f0150595",
+        "7dc9f69f7896f30f",
+        "3c76d1841f77335b"
+      ],
+      "id": "20c4a9f0f0150595",
+      "date": 1501248740196
+    },
+    {
+      "type": "edit",
+      "id": "20c4a9f0f0150595",
+      "item": {
+        "type": "pagefold",
+        "id": "20c4a9f0f0150595",
+        "text": "More Resources"
+      },
+      "date": 1501248737920
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3c76d1841f77335b",
+        "text": "🛠️ [[Tools]] I use"
+      },
+      "id": "3c76d1841f77335b",
+      "type": "add",
+      "after": "20c4a9f0f0150595",
+      "date": 1501248727905
+    },
+    {
+      "type": "edit",
+      "id": "326490b5bf98cf12",
+      "item": {
+        "type": "pagefold",
+        "id": "326490b5bf98cf12",
+        "text": "Pages"
+      },
+      "date": 1501248725593
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "86d06fccbe4cb739",
+        "326490b5bf98cf12",
+        "2bbd646ff3f44b51",
+        "b227cc8d2b5d6b6a",
+        "821827c99b90cfd1",
+        "c20a49d30c926e54",
+        "7dc9f69f7896f30f",
+        "20c4a9f0f0150595"
+      ],
+      "id": "326490b5bf98cf12",
+      "date": 1501248721902
+    },
+    {
+      "type": "edit",
+      "id": "326490b5bf98cf12",
+      "item": {
+        "type": "pagefold",
+        "id": "326490b5bf98cf12",
+        "text": "Pages"
+      },
+      "date": 1501248718583
+    },
+    {
+      "type": "add",
+      "id": "86d06fccbe4cb739",
+      "item": {
+        "type": "paragraph",
+        "id": "86d06fccbe4cb739",
+        "text": ""
+      },
+      "after": "56a41a300abe1b55",
+      "date": 1501248684570
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248684097
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248676360
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248673165
+    },
+    {
+      "type": "remove",
+      "id": "e0fdf940e31b56dd",
+      "date": 1501248668161
+    },
+    {
+      "type": "remove",
+      "id": "fa7e1456a54faaa1",
+      "date": 1501248666348
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248663793
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248645657
+    },
+    {
+      "type": "remove",
+      "id": "30ab19e1a89fc79c",
+      "date": 1501248643768
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "20c4a9f0f0150595",
+        "text": "More Resources"
+      },
+      "id": "20c4a9f0f0150595",
+      "type": "add",
+      "after": "326490b5bf98cf12",
+      "date": 1501248635114
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "326490b5bf98cf12",
+        "text": "Pages"
+      },
+      "id": "326490b5bf98cf12",
+      "type": "add",
+      "after": "7dc9f69f7896f30f",
+      "date": 1501248634147
+    },
+    {
+      "type": "add",
+      "id": "e0fdf940e31b56dd",
+      "item": {
+        "type": "paragraph",
+        "id": "e0fdf940e31b56dd",
+        "text": ""
+      },
+      "after": "fa7e1456a54faaa1",
+      "date": 1501248628235
+    },
+    {
+      "type": "edit",
+      "id": "fa7e1456a54faaa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7e1456a54faaa1",
+        "text": ""
+      },
+      "date": 1501248627169
+    },
+    {
+      "type": "add",
+      "id": "30ab19e1a89fc79c",
+      "item": {
+        "type": "paragraph",
+        "id": "30ab19e1a89fc79c",
+        "text": ""
+      },
+      "after": "56a41a300abe1b55",
+      "date": 1501248622038
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248620748
+    },
+    {
+      "type": "edit",
+      "id": "fa7e1456a54faaa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7e1456a54faaa1",
+        "text": ""
+      },
+      "date": 1501248615188
+    },
+    {
+      "type": "edit",
+      "id": "fa7e1456a54faaa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7e1456a54faaa1",
+        "text": ""
+      },
+      "date": 1501248606805
+    },
+    {
+      "type": "add",
+      "id": "fa7e1456a54faaa1",
+      "item": {
+        "type": "paragraph",
+        "id": "fa7e1456a54faaa1",
+        "text": ""
+      },
+      "after": "56a41a300abe1b55",
+      "date": 1501248591222
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248566257
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "date": 1501248560175
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "2bbd646ff3f44b51",
+        "b227cc8d2b5d6b6a",
+        "821827c99b90cfd1",
+        "c20a49d30c926e54",
+        "7dc9f69f7896f30f"
+      ],
+      "id": "56a41a300abe1b55",
+      "date": 1501248549615
+    },
+    {
+      "type": "add",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
+      },
+      "after": "2bbd646ff3f44b51",
+      "date": 1501248548374
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "2bbd646ff3f44b51",
+        "b227cc8d2b5d6b6a",
+        "821827c99b90cfd1",
+        "c20a49d30c926e54",
+        "7dc9f69f7896f30f"
+      ],
+      "id": "b53a80630e831449",
+      "date": 1501248541432
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501248539546
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "id": "b53a80630e831449",
+      "type": "add",
+      "after": "7dc9f69f7896f30f",
+      "date": 1501248525414
+    },
+    {
+      "type": "remove",
+      "id": "690b78b9795e2a98",
+      "date": 1501247932799
+    },
+    {
+      "type": "edit",
+      "id": "7dc9f69f7896f30f",
+      "item": {
+        "type": "reference",
+        "id": "7dc9f69f7896f30f",
+        "site": "work.cag.wiki",
+        "slug": "tools",
+        "title": "Tools",
+        "text": "Github"
+      },
+      "date": 1501247871642
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7dc9f69f7896f30f"
+      },
+      "id": "7dc9f69f7896f30f",
+      "type": "add",
+      "after": "690b78b9795e2a98",
+      "date": 1501247869188
+    },
+    {
+      "type": "edit",
+      "id": "690b78b9795e2a98",
+      "item": {
+        "type": "paragraph",
+        "id": "690b78b9795e2a98",
+        "text": "[[Tools]]"
+      },
+      "date": 1501247620017
+    },
+    {
+      "type": "edit",
+      "id": "690b78b9795e2a98",
+      "item": {
+        "type": "paragraph",
+        "id": "690b78b9795e2a98",
+        "text": "[Tools]"
+      },
+      "date": 1501247615800
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "690b78b9795e2a98"
+      },
+      "id": "690b78b9795e2a98",
+      "type": "add",
+      "after": "c20a49d30c926e54",
+      "date": 1501247611162
+    },
+    {
+      "type": "remove",
+      "id": "64cc00a1b0fadab8",
+      "date": 1480099831292
+    },
+    {
+      "type": "edit",
+      "id": "c20a49d30c926e54",
+      "item": {
+        "type": "reference",
+        "id": "c20a49d30c926e54",
+        "site": "work.cag.wiki",
+        "slug": "casey-gollan",
+        "title": "Casey Gollan",
+        "text": "Hi, I'm Casey! My design practice — considering the intermediation of technology and everyday life — is based out of [[Orbital]]. I have written critically about design and technology for [[Rhizome]] and [[Poool]], participated in [[Triple Canopy]]’s networked publishing intensive, and experimented with open-source administration as part of the [[School for Poetic Computation]]."
+      },
+      "date": 1480099825402
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c20a49d30c926e54"
+      },
+      "id": "c20a49d30c926e54",
+      "type": "add",
+      "after": "64cc00a1b0fadab8",
+      "date": 1480099824028
+    },
+    {
+      "type": "edit",
+      "id": "64cc00a1b0fadab8",
+      "item": {
+        "type": "paragraph",
+        "id": "64cc00a1b0fadab8",
+        "text": "[[Casey Gollan]]"
+      },
+      "date": 1480099225243
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "64cc00a1b0fadab8"
+      },
+      "id": "64cc00a1b0fadab8",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1480099221003
+    },
+    {
+      "type": "remove",
+      "id": "09baaf2352e894a7",
+      "date": 1480099218612
+    },
+    {
+      "type": "edit",
+      "id": "09baaf2352e894a7",
+      "item": {
+        "type": "reference",
+        "id": "09baaf2352e894a7",
+        "site": "cag.wiki",
+        "slug": "casey-gollan",
+        "title": "Casey Gollan",
+        "text": "[[Casey Gollan]]"
+      },
+      "date": 1480099215913
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1480098914832
     },
     {
       "type": "move",
       "order": [
         "2bbd646ff3f44b51",
         "05e2fa92643677ca",
+        "b227cc8d2b5d6b6a",
         "821827c99b90cfd1",
-        "63ad2e58eecdd9e5"
+        "09baaf2352e894a7"
       ],
-      "id": "05e2fa92643677ca",
-      "date": 1480098093113
+      "id": "b227cc8d2b5d6b6a",
+      "date": 1480098913025
     },
     {
       "type": "edit",
-      "id": "821827c99b90cfd1",
+      "id": "b227cc8d2b5d6b6a",
       "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "Pages about me."
+        "type": "reference",
+        "id": "b227cc8d2b5d6b6a",
+        "site": "work.cag.wiki",
+        "slug": "work",
+        "title": "Work",
+        "text": "(Porting this page from [http://hire.caseyagollan.com hire.caseyagollan.com])"
       },
-      "date": 1480098106059
-    },
-    {
-      "type": "edit",
-      "id": "2bbd646ff3f44b51",
-      "item": {
-        "type": "paragraph",
-        "id": "2bbd646ff3f44b51",
-        "text": "Pages on this wiki:"
-      },
-      "date": 1480098610243
-    },
-    {
-      "type": "edit",
-      "id": "821827c99b90cfd1",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "Pages about me:"
-      },
-      "date": 1480098613427
-    },
-    {
-      "type": "remove",
-      "id": "63ad2e58eecdd9e5",
-      "date": 1480098619053
+      "date": 1480098910601
     },
     {
       "item": {
         "type": "factory",
-        "id": "09baaf2352e894a7"
+        "id": "b227cc8d2b5d6b6a"
       },
-      "id": "09baaf2352e894a7",
+      "id": "b227cc8d2b5d6b6a",
       "type": "add",
-      "after": "821827c99b90cfd1",
-      "date": 1480098624443
+      "after": "09baaf2352e894a7",
+      "date": 1480098909036
     },
     {
       "type": "edit",
@@ -238,166 +1358,1831 @@
     {
       "item": {
         "type": "factory",
-        "id": "b227cc8d2b5d6b6a"
+        "id": "09baaf2352e894a7"
       },
-      "id": "b227cc8d2b5d6b6a",
+      "id": "09baaf2352e894a7",
       "type": "add",
-      "after": "09baaf2352e894a7",
-      "date": 1480098909036
+      "after": "821827c99b90cfd1",
+      "date": 1480098624443
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1480098619053
     },
     {
       "type": "edit",
-      "id": "b227cc8d2b5d6b6a",
+      "id": "821827c99b90cfd1",
       "item": {
-        "type": "reference",
-        "id": "b227cc8d2b5d6b6a",
-        "site": "work.cag.wiki",
-        "slug": "work",
-        "title": "Work",
-        "text": "(Porting this page from [http://hire.caseyagollan.com hire.caseyagollan.com])"
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about me:"
       },
-      "date": 1480098910601
+      "date": 1480098613427
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages on this wiki:"
+      },
+      "date": 1480098610243
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about me."
+      },
+      "date": 1480098106059
     },
     {
       "type": "move",
       "order": [
         "2bbd646ff3f44b51",
         "05e2fa92643677ca",
-        "b227cc8d2b5d6b6a",
         "821827c99b90cfd1",
-        "09baaf2352e894a7"
+        "63ad2e58eecdd9e5"
       ],
-      "id": "b227cc8d2b5d6b6a",
-      "date": 1480098913025
+      "id": "05e2fa92643677ca",
+      "date": 1480098093113
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "05e2fa92643677ca"
+      ],
+      "id": "2bbd646ff3f44b51",
+      "date": 1480098091965
     },
     {
       "type": "remove",
-      "id": "05e2fa92643677ca",
-      "date": 1480098914832
+      "id": "7b56f22a4b9ee974",
+      "date": 1480098087811
+    },
+    {
+      "type": "remove",
+      "id": "ee416d431ebf4fb4",
+      "date": 1480098078147
     },
     {
       "type": "edit",
-      "id": "09baaf2352e894a7",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Work]]"
+      },
+      "date": 1480098073648
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
       "item": {
         "type": "reference",
-        "id": "09baaf2352e894a7",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
         "site": "cag.wiki",
         "slug": "casey-gollan",
         "title": "Casey Gollan",
-        "text": "[[Casey Gollan]]"
+        "text": "[http://caseyagollan.com homepage]"
       },
-      "date": 1480099215913
+      "date": 1480098060964
     },
     {
-      "type": "remove",
-      "id": "09baaf2352e894a7",
-      "date": 1480099218612
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. Test.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1480098042746
     },
     {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "add",
       "item": {
         "type": "factory",
-        "id": "64cc00a1b0fadab8"
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
       },
-      "id": "64cc00a1b0fadab8",
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
       "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
       "after": "821827c99b90cfd1",
-      "date": 1480099221003
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
     },
     {
-      "type": "edit",
-      "id": "64cc00a1b0fadab8",
+      "type": "add",
       "item": {
         "type": "paragraph",
-        "id": "64cc00a1b0fadab8",
-        "text": "[[Casey Gollan]]"
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
       },
-      "date": 1480099225243
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
     },
     {
-      "item": {
-        "type": "factory",
-        "id": "c20a49d30c926e54"
-      },
-      "id": "c20a49d30c926e54",
       "type": "add",
-      "after": "64cc00a1b0fadab8",
-      "date": 1480099824028
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
     },
     {
       "type": "edit",
-      "id": "c20a49d30c926e54",
+      "id": "326490b5bf98cf12",
       "item": {
-        "type": "reference",
-        "id": "c20a49d30c926e54",
-        "site": "work.cag.wiki",
-        "slug": "casey-gollan",
-        "title": "Casey Gollan",
-        "text": "Hi, I'm Casey! My design practice — considering the intermediation of technology and everyday life — is based out of [[Orbital]]. I have written critically about design and technology for [[Rhizome]] and [[Poool]], participated in [[Triple Canopy]]’s networked publishing intensive, and experimented with open-source administration as part of the [[School for Poetic Computation]]."
+        "type": "pagefold",
+        "id": "326490b5bf98cf12",
+        "text": "Pages"
       },
-      "date": 1480099825402
+      "date": 1501249778104
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "56a41a300abe1b55",
+        "8d267c793ebdf832",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b"
+      ],
+      "id": "9e32a5f9e3c47051",
+      "date": 1501251236755
+    },
+    {
+      "item": {
+        "type": "code",
+        "id": "2cecd2874c668881",
+        "text": ""
+      },
+      "id": "2cecd2874c668881",
+      "type": "add",
+      "after": "3c76d1841f77335b",
+      "date": 1501251927178
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: sans-serif;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\n</style>"
+      },
+      "id": "87e0274a664ae88f",
+      "type": "add",
+      "after": "2cecd2874c668881",
+      "date": 1501251930214
     },
     {
       "type": "remove",
-      "id": "64cc00a1b0fadab8",
-      "date": 1480099831292
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "690b78b9795e2a98"
-      },
-      "id": "690b78b9795e2a98",
-      "type": "add",
-      "after": "c20a49d30c926e54",
-      "date": 1501247611162
+      "id": "2cecd2874c668881",
+      "date": 1501251931314
     },
     {
       "type": "edit",
-      "id": "690b78b9795e2a98",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: sans-serif;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\n</style>"
+      },
+      "date": 1501251964472
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: sans-serif;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\n</style>"
+      },
+      "date": 1501251994272
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501252092499
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hire Casey."
+      },
+      "date": 1501252097053
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
       "item": {
         "type": "paragraph",
-        "id": "690b78b9795e2a98",
-        "text": "[Tools]"
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website."
       },
-      "date": 1501247615800
+      "date": 1501252099799
     },
     {
-      "type": "edit",
-      "id": "690b78b9795e2a98",
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "8d267c793ebdf832",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "56a41a300abe1b55",
+      "date": 1501252101145,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1501252106762
+    },
+    {
+      "type": "add",
+      "id": "9786f96252d0ee4e",
       "item": {
         "type": "paragraph",
-        "id": "690b78b9795e2a98",
-        "text": "[[Tools]]"
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new projects! If you've got something that seems like a good fit, please be in touch."
       },
-      "date": 1501247620017
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "7dc9f69f7896f30f"
-      },
-      "id": "7dc9f69f7896f30f",
-      "type": "add",
-      "after": "690b78b9795e2a98",
-      "date": 1501247869188
+      "after": "56a41a300abe1b55",
+      "date": 1501252107767
     },
     {
       "type": "edit",
-      "id": "7dc9f69f7896f30f",
+      "id": "56a41a300abe1b55",
       "item": {
-        "type": "reference",
-        "id": "7dc9f69f7896f30f",
-        "site": "work.cag.wiki",
-        "slug": "tools",
-        "title": "Tools",
-        "text": "Github"
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Let's build a website!"
       },
-      "date": 1501247871642
+      "date": 1501252111039
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new projects. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501252115093
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new projects for Summer and Fall 2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501252126533
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "505e943427f8410a",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "after": "56a41a300abe1b55",
+      "id": "505e943427f8410a",
+      "date": 1501252143752
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "505e943427f8410a",
+        "326490b5bf98cf12",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "8d267c793ebdf832",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "326490b5bf98cf12",
+      "date": 1501252156253
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "505e943427f8410a",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "8d267c793ebdf832",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "326490b5bf98cf12",
+      "date": 1501252160250
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "505e943427f8410a",
+        "9786f96252d0ee4e",
+        "8d267c793ebdf832",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "86ecc8d2218050a3",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "86ecc8d2218050a3",
+      "date": 1501252162662
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "505e943427f8410a",
+        "8d267c793ebdf832",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "9786f96252d0ee4e",
+      "date": 1501252164845
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "56a41a300abe1b55",
+        "505e943427f8410a",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "8d267c793ebdf832",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "8d267c793ebdf832",
+      "date": 1501252166339
+    },
+    {
+      "type": "edit",
+      "id": "9e32a5f9e3c47051",
+      "item": {
+        "type": "paragraph",
+        "id": "9e32a5f9e3c47051",
+        "text": "❓ [[About this Site]]"
+      },
+      "date": 1501252180051
+    },
+    {
+      "type": "edit",
+      "id": "9e32a5f9e3c47051",
+      "item": {
+        "type": "paragraph",
+        "id": "9e32a5f9e3c47051",
+        "text": "❓ [[About This Site]]"
+      },
+      "date": 1501252184754
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Let's build a website!"
+      },
+      "date": 1501252208890
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Hi, I'm Casey!"
+      },
+      "date": 1501252214756
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Let's build a website."
+      },
+      "date": 1501252217570
     },
     {
       "type": "remove",
-      "id": "690b78b9795e2a98",
-      "date": 1501247932799
+      "id": "505e943427f8410a",
+      "date": 1501252220624
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Hi, I'm Casey! My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "date": 1501252221244
+    },
+    {
+      "type": "edit",
+      "id": "56a41a300abe1b55",
+      "item": {
+        "type": "paragraph",
+        "id": "56a41a300abe1b55",
+        "text": "Hi, I'm Casey! "
+      },
+      "date": 1501252224792
+    },
+    {
+      "type": "add",
+      "id": "80ef7989737346da",
+      "item": {
+        "type": "paragraph",
+        "id": "80ef7989737346da",
+        "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      },
+      "after": "56a41a300abe1b55",
+      "date": 1501252225827
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm Casey! Let's build a website."
+      },
+      "date": 1501252295216
+    },
+    {
+      "type": "remove",
+      "id": "56a41a300abe1b55",
+      "date": 1501252297809
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: sans-serif;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252655083
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b4766ee4b032de34"
+      },
+      "id": "b4766ee4b032de34",
+      "type": "add",
+      "after": "87e0274a664ae88f",
+      "date": 1501252755044
+    },
+    {
+      "type": "edit",
+      "id": "b4766ee4b032de34",
+      "item": {
+        "type": "html",
+        "id": "b4766ee4b032de34",
+        "text": "<img src=\"http://bullshit.systems/sisu.gif\">"
+      },
+      "date": 1501252762275
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "8d267c793ebdf832",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "b4766ee4b032de34",
+      "date": 1501252766375
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "8d267c793ebdf832",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "b4766ee4b032de34",
+      "date": 1501252773756
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: default;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252793814
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: default!important;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252797904
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: system!important;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252800636
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: system-default!important;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252805279
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: -apple-system!important;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252827250
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: -apple-system;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252830001
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: Times New Roman;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252835091
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: Time;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252838648
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: Times;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252841281
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: Times New Roman;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252844799
+    },
+    {
+      "type": "edit",
+      "id": "8d267c793ebdf832",
+      "item": {
+        "type": "paragraph",
+        "id": "8d267c793ebdf832",
+        "text": "✉️ You can reach me by email at: casey@bullshit.systems"
+      },
+      "date": 1501252890452
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: Times New Roman;\nbackground-color: gray;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501252914114
+    },
+    {
+      "type": "remove",
+      "id": "8d267c793ebdf832",
+      "date": 1501252982293
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7738ecd46a1680fe"
+      },
+      "id": "7738ecd46a1680fe",
+      "type": "add",
+      "after": "87e0274a664ae88f",
+      "date": 1501252983783
+    },
+    {
+      "type": "edit",
+      "id": "7738ecd46a1680fe",
+      "item": {
+        "type": "html",
+        "id": "7738ecd46a1680fe",
+        "text": "✉️ You can reach me by email at: <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501252999760
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "7738ecd46a1680fe",
+      "date": 1501253003450
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: Times New Roman;\nbackground-color: gray;\n}\na:link, a:visited {\nfont-family: sans-serif;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501253069072
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: Times New Roman;\nbackground-color: gray;\n}\nh1, h2, a:link, a:visited {\nfont-family: sans-serif;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501253089708
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\nbody {\nfont-family: Times New Roman;\nbackground-color: gray;\n}\nh1, h2, h3, a:link, a:visited {\nfont-family: sans-serif;\n}\n#welcome-visitors h1 {\ndisplay: none;\n}\nimg {\nmax-width: 100%;\n}\n</style>"
+      },
+      "date": 1501253103447
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 [[Work]]"
+      },
+      "date": 1501253122667
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "86ecc8d2218050a3",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "86ecc8d2218050a3",
+      "date": 1501253315997
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "9786f96252d0ee4e",
+      "date": 1501253317497
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "20c4a9f0f0150595",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "7738ecd46a1680fe",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "20c4a9f0f0150595",
+      "date": 1501253319558
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "7738ecd46a1680fe",
+      "date": 1501253321641
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new projects for ☀️ Summer and 🍂 Fall 2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501253339785
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new projects for Summer ☀️ and 🍂 Fall 2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501253351933
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new projects for Summer ☀️ and Fall 🍂 2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501253356770
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "👍 I'm currently taking on new projects for Summer and Fall  2017. ☀️🍂 If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501253375962
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "👍 I'm currently taking on new projects for Summer and Fall  2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501253379791
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "👍 I'm currently taking on new projects for Summer and Fall  2017. If you've got something that seems like a good fit, please be in touch:"
+      },
+      "date": 1501253387774
+    },
+    {
+      "type": "edit",
+      "id": "7738ecd46a1680fe",
+      "item": {
+        "type": "html",
+        "id": "7738ecd46a1680fe",
+        "text": "✉️ You can reach me by email — <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501253394204
+    },
+    {
+      "type": "edit",
+      "id": "7738ecd46a1680fe",
+      "item": {
+        "type": "html",
+        "id": "7738ecd46a1680fe",
+        "text": "You can reach me by email ✉️ <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501253405225
+    },
+    {
+      "type": "edit",
+      "id": "7738ecd46a1680fe",
+      "item": {
+        "type": "html",
+        "id": "7738ecd46a1680fe",
+        "text": "✉️ <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501253408427
+    },
+    {
+      "type": "edit",
+      "id": "7738ecd46a1680fe",
+      "item": {
+        "type": "html",
+        "id": "7738ecd46a1680fe",
+        "text": "✉️ Email: <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501253415806
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "👍 I'm currently taking on new projects for Summer and Fall  2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501253418037
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "80ef7989737346da",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "80ef7989737346da",
+      "date": 1501253429282
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new projects for Summer and Fall  2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501253548038
+    },
+    {
+      "type": "edit",
+      "id": "7738ecd46a1680fe",
+      "item": {
+        "type": "html",
+        "id": "7738ecd46a1680fe",
+        "text": "You can reach me at <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501253558746
+    },
+    {
+      "type": "edit",
+      "id": "7738ecd46a1680fe",
+      "item": {
+        "type": "html",
+        "id": "7738ecd46a1680fe",
+        "text": "You can reach me by email at <a href=\"mailto:casey@bullshit.systems\">casey@bullshit.systems</a>"
+      },
+      "date": 1501253563168
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "80ef7989737346da",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "20c4a9f0f0150595",
+      "date": 1501253572500
+    },
+    {
+      "type": "edit",
+      "id": "d1a141f0fd0703ac",
+      "item": {
+        "type": "paragraph",
+        "id": "d1a141f0fd0703ac",
+        "text": "🤠 [[Casey Gollan]] (More about me)"
+      },
+      "date": 1501253589825
+    },
+    {
+      "type": "edit",
+      "id": "b4766ee4b032de34",
+      "item": {
+        "type": "html",
+        "id": "b4766ee4b032de34",
+        "text": "[[<img src=\"http://bullshit.systems/sisu.gif\">]]"
+      },
+      "date": 1501253629910
+    },
+    {
+      "type": "edit",
+      "id": "b4766ee4b032de34",
+      "item": {
+        "type": "html",
+        "id": "b4766ee4b032de34",
+        "text": "<img src=\"http://bullshit.systems/sisu.gif\">"
+      },
+      "date": 1501253634842
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "80ef7989737346da",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "b4766ee4b032de34",
+      "date": 1501253646492
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new work projects for Summer and Fall  2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501253655293
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new work for Summer and Fall  2017. If you've got something that seems like a good fit, please be in touch."
+      },
+      "date": 1501254089817
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a collaboration in mind, please be in touch."
+      },
+      "date": 1501254110008
+    },
+    {
+      "type": "edit",
+      "id": "87e0274a664ae88f",
+      "item": {
+        "type": "html",
+        "id": "87e0274a664ae88f",
+        "text": ".css\n<style type=\"text/css\">\n</style>"
+      },
+      "date": 1501254296681
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]]! Let's build a website."
+      },
+      "date": 1501254405891
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "80ef7989737346da",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "86ecc8d2218050a3",
+      "date": 1501254991823
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "80ef7989737346da",
+        "7738ecd46a1680fe",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "9786f96252d0ee4e",
+      "date": 1501254993675
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "d1a141f0fd0703ac",
+        "9e32a5f9e3c47051",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "7738ecd46a1680fe",
+      "date": 1501254995293
+    },
+    {
+      "type": "edit",
+      "id": "326490b5bf98cf12",
+      "item": {
+        "type": "pagefold",
+        "id": "326490b5bf98cf12",
+        "text": "More Info"
+      },
+      "date": 1501255005014
+    },
+    {
+      "type": "remove",
+      "id": "d1a141f0fd0703ac",
+      "date": 1501255009100
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "80ef7989737346da",
+        "326490b5bf98cf12",
+        "821827c99b90cfd1",
+        "20c4a9f0f0150595",
+        "9e32a5f9e3c47051",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "9e32a5f9e3c47051",
+      "date": 1501255011055
+    },
+    {
+      "type": "remove",
+      "id": "326490b5bf98cf12",
+      "date": 1501255017695
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 Browse my [[Work]]"
+      },
+      "date": 1501255034333
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "821827c99b90cfd1",
+        "80ef7989737346da",
+        "20c4a9f0f0150595",
+        "9e32a5f9e3c47051",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "821827c99b90cfd1",
+      "date": 1501255035912
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b7a91e13f1d67d1"
+      },
+      "id": "2b7a91e13f1d67d1",
+      "type": "add",
+      "after": "87e0274a664ae88f",
+      "date": 1501255050355
+    },
+    {
+      "type": "edit",
+      "id": "2b7a91e13f1d67d1",
+      "item": {
+        "type": "pagefold",
+        "id": "2b7a91e13f1d67d1",
+        "text": "Work"
+      },
+      "date": 1501255057633
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "86ecc8d2218050a3",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "2b7a91e13f1d67d1",
+        "821827c99b90cfd1",
+        "80ef7989737346da",
+        "20c4a9f0f0150595",
+        "9e32a5f9e3c47051",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "2b7a91e13f1d67d1",
+      "date": 1501255059738
+    },
+    {
+      "type": "edit",
+      "id": "2b7a91e13f1d67d1",
+      "item": {
+        "type": "pagefold",
+        "id": "2b7a91e13f1d67d1",
+        "text": "My Work"
+      },
+      "date": 1501255065622
+    },
+    {
+      "type": "remove",
+      "id": "86ecc8d2218050a3",
+      "date": 1501255076308
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 Click here 👉 [[Work]] 👈 to see recent projects"
+      },
+      "date": 1501255117311
+    },
+    {
+      "type": "remove",
+      "id": "80ef7989737346da",
+      "date": 1501255138019
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "821827c99b90cfd1",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "2b7a91e13f1d67d1",
+        "20c4a9f0f0150595",
+        "9e32a5f9e3c47051",
+        "3c76d1841f77335b",
+        "87e0274a664ae88f"
+      ],
+      "id": "821827c99b90cfd1",
+      "date": 1501255545484
+    },
+    {
+      "type": "remove",
+      "id": "2b7a91e13f1d67d1",
+      "date": 1501255552041
+    },
+    {
+      "type": "remove",
+      "id": "87e0274a664ae88f",
+      "date": 1501255556891
+    },
+    {
+      "type": "edit",
+      "id": "3c76d1841f77335b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c76d1841f77335b",
+        "text": "🛠️ [[Tools]]"
+      },
+      "date": 1501255577961
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "821827c99b90cfd1",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "9e32a5f9e3c47051",
+      "date": 1501255579732
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 Click here 👉👉👉 [[Work]] 👈👈👈 to see recent projects"
+      },
+      "date": 1501255592249
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 Click here 👉 👉 👉 [[Work]] 👈 👈 👈 to see recent projects"
+      },
+      "date": 1501255597636
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 Click here 👉 [[Work]] 👈 to see recent projects"
+      },
+      "date": 1501255602715
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 Click here 👉 [[Work]] 👈 to see recent projects."
+      },
+      "date": 1501255604714
+    },
+    {
+      "type": "edit",
+      "id": "20c4a9f0f0150595",
+      "item": {
+        "type": "pagefold",
+        "id": "20c4a9f0f0150595",
+        "text": "Etc."
+      },
+      "date": 1501255619603
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "💻 Click on 👉 [[Work]] 👈 to see recent projects."
+      },
+      "date": 1501255666755
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new projects for Summer and Fall 2017. If you've got a collaboration in mind, please be in touch."
+      },
+      "date": 1501255714885
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "821827c99b90cfd1",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "b53a80630e831449",
+      "date": 1501255723332
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "821827c99b90cfd1",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "b53a80630e831449",
+      "date": 1501255726394
+    },
+    {
+      "type": "edit",
+      "id": "9786f96252d0ee4e",
+      "item": {
+        "type": "paragraph",
+        "id": "9786f96252d0ee4e",
+        "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a collaboration in mind, please be in touch."
+      },
+      "date": 1501255973425
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "821827c99b90cfd1",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "821827c99b90cfd1",
+      "date": 1501256095583
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "821827c99b90cfd1",
+        "9786f96252d0ee4e",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "821827c99b90cfd1",
+      "date": 1501256097105
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ Click on 👉 [[Work]] 👈 to see recent projects."
+      },
+      "date": 1501256110209
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ My recent projects are here: 👉 [[Work]] 👈"
+      },
+      "date": 1501257622022
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ To see my recent projects click on 👉 [[Work]] 👈"
+      },
+      "date": 1501257636938
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ To see my recent projects, click on 👉 [[Work]] 👈"
+      },
+      "date": 1501257645248
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ To see my recent projects, click here: 👉 [[Work]] 👈"
+      },
+      "date": 1501258473910
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ To see my recent projects, click on 👉 [[Work]] 👈"
+      },
+      "date": 1501258611768
+    },
+    {
+      "type": "remove",
+      "id": "9786f96252d0ee4e",
+      "date": 1501261281233
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc6c85e5c05f6118"
+      },
+      "id": "fc6c85e5c05f6118",
+      "type": "add",
+      "after": "9e32a5f9e3c47051",
+      "date": 1501261283951
+    },
+    {
+      "type": "edit",
+      "id": "fc6c85e5c05f6118",
+      "item": {
+        "type": "html",
+        "id": "fc6c85e5c05f6118",
+        "text": "✅ <strongI'm currently taking on new work for Summer and Fall 2017.</strong> If you've got a collaboration in mind, please be in touch."
+      },
+      "date": 1501261296636
+    },
+    {
+      "type": "edit",
+      "id": "fc6c85e5c05f6118",
+      "item": {
+        "type": "html",
+        "id": "fc6c85e5c05f6118",
+        "text": "✅ <strong>I'm currently taking on new work for Summer and Fall 2017.</strong> If you've got a collaboration in mind, please be in touch."
+      },
+      "date": 1501261301999
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "821827c99b90cfd1",
+        "fc6c85e5c05f6118",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "fc6c85e5c05f6118",
+      "date": 1501261305677
+    },
+    {
+      "type": "edit",
+      "id": "fc6c85e5c05f6118",
+      "item": {
+        "type": "html",
+        "id": "fc6c85e5c05f6118",
+        "text": "✅ I'm currently taking on new work for <strong>Summer and Fall 2017.</strong> If you've got a collaboration in mind, please be in touch."
+      },
+      "date": 1501261311353
+    },
+    {
+      "type": "remove",
+      "id": "fc6c85e5c05f6118",
+      "date": 1501261319091
+    },
+    {
+      "type": "add",
+      "id": "3873b39a0a10a1df",
+      "item": {
+        "type": "paragraph",
+        "id": "3873b39a0a10a1df",
+        "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a collaboration in mind, please be in touch."
+      },
+      "after": "821827c99b90cfd1",
+      "date": 1501261327882
+    },
+    {
+      "type": "edit",
+      "id": "3873b39a0a10a1df",
+      "item": {
+        "type": "paragraph",
+        "id": "3873b39a0a10a1df",
+        "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a project in mind, please be in touch."
+      },
+      "date": 1501261333273
+    },
+    {
+      "type": "edit",
+      "id": "3873b39a0a10a1df",
+      "item": {
+        "type": "paragraph",
+        "id": "3873b39a0a10a1df",
+        "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a project in mind, get in touch."
+      },
+      "date": 1501261343510
+    },
+    {
+      "type": "edit",
+      "id": "3873b39a0a10a1df",
+      "item": {
+        "type": "paragraph",
+        "id": "3873b39a0a10a1df",
+        "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a project in mind, please be in touch."
+      },
+      "date": 1501261346857
+    },
+    {
+      "type": "edit",
+      "id": "3873b39a0a10a1df",
+      "item": {
+        "type": "paragraph",
+        "id": "3873b39a0a10a1df",
+        "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a project in mind, get in touch."
+      },
+      "date": 1501261367870
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ To see my recent projects, visit my 👉 [[Work]] 👈 page"
+      },
+      "date": 1501265309925
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ To see recent projects, visit my 👉 [[Work]] 👈 page"
+      },
+      "date": 1501265314604
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "🖼️ To see recent projects, visit the 👉 [[Work]] 👈 page"
+      },
+      "date": 1501265352912
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "3873b39a0a10a1df",
+        "821827c99b90cfd1",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "3873b39a0a10a1df",
+      "date": 1501265397179
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "821827c99b90cfd1",
+        "3873b39a0a10a1df",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "3873b39a0a10a1df",
+      "date": 1501265402857
     }
   ]
 }

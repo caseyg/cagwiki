@@ -1,0 +1,323 @@
+{
+  "title": "Adaptation + Ability Group",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "65774994e8674d4b",
+      "text": "[http://aplusa.org aplusa.org]"
+    },
+    {
+      "type": "html",
+      "id": "ccabe07972d0a821",
+      "text": "<img src=\"http://caseyg.github.io/hire/aplusa.png\">"
+    },
+    {
+      "type": "paragraph",
+      "id": "38722bed1d001e22",
+      "text": "Experimenting with the functionality and aesthetics of web accessibility in this open-source website for an academic research lab."
+    },
+    {
+      "type": "paragraph",
+      "id": "3f7317e8a14e5fc0",
+      "text": "Sara writes:"
+    },
+    {
+      "type": "html",
+      "id": "ea28ef4e85eef7e7",
+      "text": "<blockquote><p>A + A is the Adaptation and Ability Group, my lab at Olin College. It’s the first of a three-in-one site designed to keep distinct the work of the lab, the ongoing Abler archive that points to other people’s work, and then my own site for personal projects, essays, and the like. Abler as one canopy has more or less worked since 2009, but my new job and multiple collaborations have strained its edges too much in the last years. I’ve been working with the super talented Casey Gollan to get it right—let us know if you find some bugs here or there as we fully transfer over.\n<p>\nWe’re also trying a bunch of things around digital accessibility. Abler has always had alt text descriptions for images, and that’s still true on the new site. But on A + A, captions are also present and foregrounded in a new way, and we’re using Fluid Project’s Infusion Framework to change various reader preferences. Click on the little equalizer icon at the top right, and play around with font sizes, color contrast, and more. We’ve documented all our code, design, and research on accessibility over on Github.</p>\n<p>\nI’m thrilled to get new work out into the world and to keep building a technical and social practice. \n</p></blockquote>"
+    },
+    {
+      "type": "pagefold",
+      "id": "499105feda2f8751",
+      "text": "More Links"
+    },
+    {
+      "type": "paragraph",
+      "id": "61b63eff4309dedf",
+      "text": "[https://ablersite.org/2016/07/21/introducing-a-plus-a/ Introducing a+a] (Sara's announcement blog post)"
+    },
+    {
+      "type": "paragraph",
+      "id": "34231e74e97ef9a6",
+      "text": "[http://github.com/sarahendren/aplusa github] (source code)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Adaptation + Ability Group",
+        "story": []
+      },
+      "date": 1501251481017
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7dd2374b5ac4c465"
+      },
+      "id": "7dd2374b5ac4c465",
+      "type": "add",
+      "date": 1501253693398
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ccabe07972d0a821"
+      },
+      "id": "ccabe07972d0a821",
+      "type": "add",
+      "after": "7dd2374b5ac4c465",
+      "date": 1501253695418
+    },
+    {
+      "type": "remove",
+      "id": "7dd2374b5ac4c465",
+      "date": 1501253696467
+    },
+    {
+      "type": "edit",
+      "id": "ccabe07972d0a821",
+      "item": {
+        "type": "html",
+        "id": "ccabe07972d0a821",
+        "text": "<img src=\"http://caseyg.github.io/hire/aplusa.png\">"
+      },
+      "date": 1501253700337
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65774994e8674d4b"
+      },
+      "id": "65774994e8674d4b",
+      "type": "add",
+      "after": "ccabe07972d0a821",
+      "date": 1501253914535
+    },
+    {
+      "type": "edit",
+      "id": "65774994e8674d4b",
+      "item": {
+        "type": "paragraph",
+        "id": "65774994e8674d4b",
+        "text": "[http://aplusa.org aplusa.org]"
+      },
+      "date": 1501253926698
+    },
+    {
+      "type": "move",
+      "order": [
+        "65774994e8674d4b",
+        "ccabe07972d0a821"
+      ],
+      "id": "65774994e8674d4b",
+      "date": 1501253928400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "499105feda2f8751"
+      },
+      "id": "499105feda2f8751",
+      "type": "add",
+      "after": "ccabe07972d0a821",
+      "date": 1501258726201
+    },
+    {
+      "type": "edit",
+      "id": "499105feda2f8751",
+      "item": {
+        "type": "pagefold",
+        "id": "499105feda2f8751",
+        "text": "More Links"
+      },
+      "date": 1501258732176
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "61b63eff4309dedf",
+        "text": "[https://ablersite.org/2016/07/21/introducing-a-plus-a/ Introducing a+a] (Sara's announcement blog post)"
+      },
+      "after": "499105feda2f8751",
+      "id": "61b63eff4309dedf",
+      "date": 1501258735807
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "34231e74e97ef9a6",
+        "text": "[http://github.com/sarahendren/aplusa github] (source code)"
+      },
+      "after": "61b63eff4309dedf",
+      "id": "34231e74e97ef9a6",
+      "date": 1501258737562
+    },
+    {
+      "type": "add",
+      "id": "c891b346b75703b6",
+      "item": {
+        "type": "paragraph",
+        "id": "c891b346b75703b6",
+        "text": ">  It’s the first of a three-in-one site designed to keep distinct the work of the lab, the ongoing Abler archive that points to other people’s work, and then my own site for personal projects, essays, and the like. Abler as one canopy has more or less worked since 2009, but my new job and multiple collaborations have strained its edges too much in the last years. I’ve been working with the super talented Casey Gollan to get it right—let us know if you find some bugs here or there as we fully transfer over.\n\nWe’re also trying a bunch of things around digital accessibility. Abler has always had alt text descriptions for images, and that’s still true on the new site. But on A + A, captions are also present and foregrounded in a new way, and we’re using Fluid Project’s Infusion Framework to change various reader preferences. Click on the little equalizer icon at the top right, and play around with font sizes, color contrast, and more. We’ve documented all our code, design, and research on accessibility over on Github."
+      },
+      "after": "65774994e8674d4b",
+      "date": 1501258760088
+    },
+    {
+      "type": "remove",
+      "id": "c891b346b75703b6",
+      "date": 1501258761978
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "27e679132ec45940"
+      },
+      "id": "27e679132ec45940",
+      "type": "add",
+      "after": "34231e74e97ef9a6",
+      "date": 1501258762672
+    },
+    {
+      "type": "edit",
+      "id": "27e679132ec45940",
+      "item": {
+        "type": "markdown",
+        "id": "27e679132ec45940",
+        "text": "> >  It’s the first of a three-in-one site designed to keep distinct the work of the lab, the ongoing Abler archive that points to other people’s work, and then my own site for personal projects, essays, and the like. Abler as one canopy has more or less worked since 2009, but my new job and multiple collaborations have strained its edges too much in the last years. I’ve been working with the super talented Casey Gollan to get it right—let us know if you find some bugs here or there as we fully transfer over.\n\nWe’re also trying a bunch of things around digital accessibility. Abler has always had alt text descriptions for images, and that’s still true on the new site. But on A + A, captions are also present and foregrounded in a new way, and we’re using Fluid Project’s Infusion Framework to change various reader preferences. Click on the little equalizer icon at the top right, and play around with font sizes, color contrast, and more. We’ve documented all our code, design, and research on accessibility over on Github."
+      },
+      "date": 1501258765805
+    },
+    {
+      "type": "edit",
+      "id": "27e679132ec45940",
+      "item": {
+        "type": "markdown",
+        "id": "27e679132ec45940",
+        "text": "> It’s the first of a three-in-one site designed to keep distinct the work of the lab, the ongoing Abler archive that points to other people’s work, and then my own site for personal projects, essays, and the like. Abler as one canopy has more or less worked since 2009, but my new job and multiple collaborations have strained its edges too much in the last years. I’ve been working with the super talented Casey Gollan to get it right—let us know if you find some bugs here or there as we fully transfer over.\n\nWe’re also trying a bunch of things around digital accessibility. Abler has always had alt text descriptions for images, and that’s still true on the new site. But on A + A, captions are also present and foregrounded in a new way, and we’re using Fluid Project’s Infusion Framework to change various reader preferences. Click on the little equalizer icon at the top right, and play around with font sizes, color contrast, and more. We’ve documented all our code, design, and research on accessibility over on Github."
+      },
+      "date": 1501258769102
+    },
+    {
+      "type": "remove",
+      "id": "27e679132ec45940",
+      "date": 1501258771165
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ea28ef4e85eef7e7"
+      },
+      "id": "ea28ef4e85eef7e7",
+      "type": "add",
+      "after": "34231e74e97ef9a6",
+      "date": 1501258772104
+    },
+    {
+      "type": "edit",
+      "id": "ea28ef4e85eef7e7",
+      "item": {
+        "type": "html",
+        "id": "ea28ef4e85eef7e7",
+        "text": "<blockquote><p>It’s the first of a three-in-one site designed to keep distinct the work of the lab, the ongoing Abler archive that points to other people’s work, and then my own site for personal projects, essays, and the like. Abler as one canopy has more or less worked since 2009, but my new job and multiple collaborations have strained its edges too much in the last years. I’ve been working with the super talented Casey Gollan to get it right—let us know if you find some bugs here or there as we fully transfer over.\n<p>\nWe’re also trying a bunch of things around digital accessibility. Abler has always had alt text descriptions for images, and that’s still true on the new site. But on A + A, captions are also present and foregrounded in a new way, and we’re using Fluid Project’s Infusion Framework to change various reader preferences. Click on the little equalizer icon at the top right, and play around with font sizes, color contrast, and more. We’ve documented all our code, design, and research on accessibility over on Github.</p></blockquote>"
+      },
+      "date": 1501258800479
+    },
+    {
+      "type": "move",
+      "order": [
+        "65774994e8674d4b",
+        "ea28ef4e85eef7e7",
+        "ccabe07972d0a821",
+        "499105feda2f8751",
+        "61b63eff4309dedf",
+        "34231e74e97ef9a6"
+      ],
+      "id": "ea28ef4e85eef7e7",
+      "date": 1501258803180
+    },
+    {
+      "type": "edit",
+      "id": "ea28ef4e85eef7e7",
+      "item": {
+        "type": "html",
+        "id": "ea28ef4e85eef7e7",
+        "text": "<blockquote><p>A + A is the Adaptation and Ability Group, my lab at Olin College. It’s the first of a three-in-one site designed to keep distinct the work of the lab, the ongoing Abler archive that points to other people’s work, and then my own site for personal projects, essays, and the like. Abler as one canopy has more or less worked since 2009, but my new job and multiple collaborations have strained its edges too much in the last years. I’ve been working with the super talented Casey Gollan to get it right—let us know if you find some bugs here or there as we fully transfer over.\n<p>\nWe’re also trying a bunch of things around digital accessibility. Abler has always had alt text descriptions for images, and that’s still true on the new site. But on A + A, captions are also present and foregrounded in a new way, and we’re using Fluid Project’s Infusion Framework to change various reader preferences. Click on the little equalizer icon at the top right, and play around with font sizes, color contrast, and more. We’ve documented all our code, design, and research on accessibility over on Github.</p></blockquote>"
+      },
+      "date": 1501258828246
+    },
+    {
+      "type": "edit",
+      "id": "ea28ef4e85eef7e7",
+      "item": {
+        "type": "html",
+        "id": "ea28ef4e85eef7e7",
+        "text": "<blockquote><p>A + A is the Adaptation and Ability Group, my lab at Olin College. It’s the first of a three-in-one site designed to keep distinct the work of the lab, the ongoing Abler archive that points to other people’s work, and then my own site for personal projects, essays, and the like. Abler as one canopy has more or less worked since 2009, but my new job and multiple collaborations have strained its edges too much in the last years. I’ve been working with the super talented Casey Gollan to get it right—let us know if you find some bugs here or there as we fully transfer over.\n<p>\nWe’re also trying a bunch of things around digital accessibility. Abler has always had alt text descriptions for images, and that’s still true on the new site. But on A + A, captions are also present and foregrounded in a new way, and we’re using Fluid Project’s Infusion Framework to change various reader preferences. Click on the little equalizer icon at the top right, and play around with font sizes, color contrast, and more. We’ve documented all our code, design, and research on accessibility over on Github.</p>\n<p>\nI’m thrilled to get new work out into the world and to keep building a technical and social practice. \n</p></blockquote>"
+      },
+      "date": 1501258845381
+    },
+    {
+      "type": "move",
+      "order": [
+        "65774994e8674d4b",
+        "ccabe07972d0a821",
+        "ea28ef4e85eef7e7",
+        "499105feda2f8751",
+        "61b63eff4309dedf",
+        "34231e74e97ef9a6"
+      ],
+      "id": "ccabe07972d0a821",
+      "date": 1501258863462
+    },
+    {
+      "type": "add",
+      "id": "38722bed1d001e22",
+      "item": {
+        "type": "paragraph",
+        "id": "38722bed1d001e22",
+        "text": "Sara writes:"
+      },
+      "after": "65774994e8674d4b",
+      "date": 1501260025620
+    },
+    {
+      "type": "move",
+      "order": [
+        "65774994e8674d4b",
+        "ccabe07972d0a821",
+        "38722bed1d001e22",
+        "ea28ef4e85eef7e7",
+        "499105feda2f8751",
+        "61b63eff4309dedf",
+        "34231e74e97ef9a6"
+      ],
+      "id": "38722bed1d001e22",
+      "date": 1501260026907
+    },
+    {
+      "type": "edit",
+      "id": "38722bed1d001e22",
+      "item": {
+        "type": "paragraph",
+        "id": "38722bed1d001e22",
+        "text": "Experimenting with the functionality and aesthetics of web accessibility in this open-source website for an academic research lab."
+      },
+      "date": 1501263675822
+    },
+    {
+      "type": "add",
+      "id": "3f7317e8a14e5fc0",
+      "item": {
+        "type": "paragraph",
+        "id": "3f7317e8a14e5fc0",
+        "text": "Sara writes:"
+      },
+      "after": "38722bed1d001e22",
+      "date": 1501263676353
+    }
+  ]
+}

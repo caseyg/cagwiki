@@ -1,0 +1,413 @@
+{
+  "title": "Sara Hendren (website)",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "147669ad855790fc",
+      "text": "[http://sarahendren.com sarahendren.com]"
+    },
+    {
+      "type": "html",
+      "id": "94cf5e3ed73e26c3",
+      "text": "<img src=\"http://caseyg.github.io/hire/sarahendren.png\">"
+    },
+    {
+      "type": "paragraph",
+      "id": "9458a1414aef3ad9",
+      "text": "Carving new space for the personal projects of [[Sara Hendren]], while integrating with (and sharing the architecture of) a companion site dedicated to her collaborative research and teaching."
+    },
+    {
+      "type": "paragraph",
+      "id": "c1ea940c4d61eac6",
+      "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice, which encompasses teaching & research, personal projects, and the long-running blog Abler."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Sara Hendren (website)",
+        "story": []
+      },
+      "date": 1501251413746
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94cf5e3ed73e26c3"
+      },
+      "id": "94cf5e3ed73e26c3",
+      "type": "add",
+      "date": 1501252622663
+    },
+    {
+      "type": "edit",
+      "id": "94cf5e3ed73e26c3",
+      "item": {
+        "type": "html",
+        "id": "94cf5e3ed73e26c3",
+        "text": "<img src=\"http://caseyg.github.io/hire/sarahendren.png\">"
+      },
+      "date": 1501252628201
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "40f55b2653bd1e69"
+      },
+      "id": "40f55b2653bd1e69",
+      "type": "add",
+      "after": "94cf5e3ed73e26c3",
+      "date": 1501253674448
+    },
+    {
+      "type": "edit",
+      "id": "40f55b2653bd1e69",
+      "item": {
+        "type": "paragraph",
+        "id": "40f55b2653bd1e69",
+        "text": "[[Adaptation + Ability Group]]"
+      },
+      "date": 1501253685404
+    },
+    {
+      "type": "move",
+      "order": [
+        "40f55b2653bd1e69",
+        "94cf5e3ed73e26c3"
+      ],
+      "id": "40f55b2653bd1e69",
+      "date": 1501253687046
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "727ea2dbc1959273"
+      },
+      "id": "727ea2dbc1959273",
+      "type": "add",
+      "after": "94cf5e3ed73e26c3",
+      "date": 1501253705612
+    },
+    {
+      "type": "edit",
+      "id": "727ea2dbc1959273",
+      "item": {
+        "type": "pagefold",
+        "id": "727ea2dbc1959273",
+        "text": "Links"
+      },
+      "date": 1501253710336
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3491108c30511375"
+      },
+      "id": "3491108c30511375",
+      "type": "add",
+      "after": "727ea2dbc1959273",
+      "date": 1501253712098
+    },
+    {
+      "type": "edit",
+      "id": "3491108c30511375",
+      "item": {
+        "type": "paragraph",
+        "id": "3491108c30511375",
+        "text": "[http://aplusa.org aplusa.org]"
+      },
+      "date": 1501253728028
+    },
+    {
+      "type": "add",
+      "id": "61b63eff4309dedf",
+      "item": {
+        "type": "paragraph",
+        "id": "61b63eff4309dedf",
+        "text": "[https://ablersite.org/2016/07/21/introducing-a-plus-a/ Sara's announcement post]"
+      },
+      "after": "3491108c30511375",
+      "date": 1501253758115
+    },
+    {
+      "type": "edit",
+      "id": "61b63eff4309dedf",
+      "item": {
+        "type": "paragraph",
+        "id": "61b63eff4309dedf",
+        "text": "[https://ablersite.org/2016/07/21/introducing-a-plus-a/ Sara's announcement blog post]"
+      },
+      "date": 1501253761187
+    },
+    {
+      "type": "add",
+      "id": "34231e74e97ef9a6",
+      "item": {
+        "type": "paragraph",
+        "id": "34231e74e97ef9a6",
+        "text": "[http://github.com/sarahendren/aplusa github]"
+      },
+      "after": "61b63eff4309dedf",
+      "date": 1501253778566
+    },
+    {
+      "type": "edit",
+      "id": "34231e74e97ef9a6",
+      "item": {
+        "type": "paragraph",
+        "id": "34231e74e97ef9a6",
+        "text": "[http://github.com/sarahendren/aplusa github] (source code)"
+      },
+      "date": 1501253784820
+    },
+    {
+      "type": "edit",
+      "id": "40f55b2653bd1e69",
+      "item": {
+        "type": "paragraph",
+        "id": "40f55b2653bd1e69",
+        "text": "[]"
+      },
+      "date": 1501253871357
+    },
+    {
+      "type": "add",
+      "id": "8c9e54b02ef08988",
+      "item": {
+        "type": "paragraph",
+        "id": "8c9e54b02ef08988",
+        "text": "[[Adaptation + Ability Group]]"
+      },
+      "after": "40f55b2653bd1e69",
+      "date": 1501253873183
+    },
+    {
+      "type": "edit",
+      "id": "40f55b2653bd1e69",
+      "item": {
+        "type": "paragraph",
+        "id": "40f55b2653bd1e69",
+        "text": "[http://sarahendren.com sarahendren.com]"
+      },
+      "date": 1501253879430
+    },
+    {
+      "type": "remove",
+      "id": "3491108c30511375",
+      "date": 1501253940541
+    },
+    {
+      "type": "edit",
+      "id": "727ea2dbc1959273",
+      "item": {
+        "type": "pagefold",
+        "id": "727ea2dbc1959273",
+        "text": "More Links"
+      },
+      "date": 1501253943438
+    },
+    {
+      "type": "edit",
+      "id": "61b63eff4309dedf",
+      "item": {
+        "type": "paragraph",
+        "id": "61b63eff4309dedf",
+        "text": "[https://ablersite.org/2016/07/21/introducing-a-plus-a/ Introducing a+a] (Sara's announcement blog post)"
+      },
+      "date": 1501258672789
+    },
+    {
+      "type": "remove",
+      "id": "61b63eff4309dedf",
+      "date": 1501258735805
+    },
+    {
+      "type": "remove",
+      "id": "34231e74e97ef9a6",
+      "date": 1501258737561
+    },
+    {
+      "type": "move",
+      "order": [
+        "40f55b2653bd1e69",
+        "94cf5e3ed73e26c3",
+        "8c9e54b02ef08988",
+        "727ea2dbc1959273"
+      ],
+      "id": "94cf5e3ed73e26c3",
+      "date": 1501258869594
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "147669ad855790fc"
+      },
+      "id": "147669ad855790fc",
+      "type": "add",
+      "after": "94cf5e3ed73e26c3",
+      "date": 1501259752223
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "The second site in a three-part project to separate out the research, artwork, and writings of "
+      },
+      "date": 1501259815298
+    },
+    {
+      "type": "move",
+      "order": [
+        "147669ad855790fc",
+        "94cf5e3ed73e26c3"
+      ],
+      "id": "147669ad855790fc",
+      "date": 1501259817224
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "The second site in a three-part project to separate out the research, artwork, and writings of [[Sara Hendren]]."
+      },
+      "date": 1501259850728
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "The second site in a three-part project to separate out the research, artwork, and long-running blog of [[Sara Hendren]]."
+      },
+      "date": 1501259856195
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "The second site in a three-part project to separate out [[Sara Hendren]]'s research, artwork, and long-running blog of."
+      },
+      "date": 1501259867127
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "The second site in a three-part project to separate out [[Sara Hendren]]'s research, artwork, and long-running blog."
+      },
+      "date": 1501259876624
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "The second site in a three-part project which both separates out and integrates a wide-ranging practice of Sara Hendren's research and teaching, artwork and personal projects, as well as her long-running blog."
+      },
+      "date": 1501260009354
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice, which encompasses teaching & research, personal projects, and the long-running blog Abler."
+      },
+      "date": 1501260879931
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "The second site in a three-part project to distinguish the elements of [[Sara Hendren]]'s wide-ranging practice, which encompasses teaching & research, personal projects, and the long-running blog Abler."
+      },
+      "date": 1501260887652
+    },
+    {
+      "type": "edit",
+      "id": "147669ad855790fc",
+      "item": {
+        "type": "paragraph",
+        "id": "147669ad855790fc",
+        "text": "[http://sarahendren.com sarahendren.com]"
+      },
+      "date": 1501260908243
+    },
+    {
+      "type": "add",
+      "id": "c1ea940c4d61eac6",
+      "item": {
+        "type": "paragraph",
+        "id": "c1ea940c4d61eac6",
+        "text": "The second site in a three-part project to distinguish the elements of [[Sara Hendren]]'s wide-ranging practice, which encompasses teaching & research, personal projects, and the long-running blog Abler."
+      },
+      "after": "147669ad855790fc",
+      "date": 1501260908822
+    },
+    {
+      "type": "move",
+      "order": [
+        "94cf5e3ed73e26c3",
+        "147669ad855790fc",
+        "c1ea940c4d61eac6"
+      ],
+      "id": "94cf5e3ed73e26c3",
+      "date": 1501260923141
+    },
+    {
+      "type": "move",
+      "order": [
+        "147669ad855790fc",
+        "94cf5e3ed73e26c3",
+        "c1ea940c4d61eac6"
+      ],
+      "id": "94cf5e3ed73e26c3",
+      "date": 1501260928446
+    },
+    {
+      "type": "add",
+      "id": "9458a1414aef3ad9",
+      "item": {
+        "type": "paragraph",
+        "id": "9458a1414aef3ad9",
+        "text": "Carving new space for the personal projects of Sara Hendren, while integrating with (and sharing the architecture of) a companion site dedicated to her collaborative research and teaching."
+      },
+      "after": "94cf5e3ed73e26c3",
+      "date": 1501263169698
+    },
+    {
+      "type": "edit",
+      "id": "9458a1414aef3ad9",
+      "item": {
+        "type": "paragraph",
+        "id": "9458a1414aef3ad9",
+        "text": "Carving new space for the personal projects of [[Sara Hendren]], while integrating with (and sharing the architecture of) a companion site dedicated to her collaborative research and teaching."
+      },
+      "date": 1501263175680
+    },
+    {
+      "type": "edit",
+      "id": "c1ea940c4d61eac6",
+      "item": {
+        "type": "paragraph",
+        "id": "c1ea940c4d61eac6",
+        "text": "The second site in a three-part project to distinguish the elements of Sara's wide-ranging practice, which encompasses teaching & research, personal projects, and the long-running blog Abler."
+      },
+      "date": 1501263180470
+    }
+  ]
+}

@@ -1,92 +1,6 @@
 {
   "title": "Casey Gollan",
-  "story": [
-    {
-      "type": "html",
-      "id": "da0a01c89a1cea73",
-      "text": "<img src=\"https://avatars1.githubusercontent.com/u/462020?v=4&s=460\" style=\"float:right;width:25%;\">"
-    },
-    {
-      "type": "paragraph",
-      "id": "dddb8bee1028a050",
-      "text": "Hi, I'm Casey!"
-    },
-    {
-      "type": "markdown",
-      "id": "85047b4a642d557a",
-      "text": "# Let's build a website."
-    },
-    {
-      "type": "paragraph",
-      "id": "505e943427f8410a",
-      "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
-    },
-    {
-      "type": "paragraph",
-      "id": "9998d870dda08f48",
-      "text": "See more on the [[work]] page."
-    },
-    {
-      "type": "markdown",
-      "id": "9a37b508357c94d5",
-      "text": "# Hire Casey."
-    },
-    {
-      "type": "paragraph",
-      "id": "8a16e55af59af0bb",
-      "text": "📅  🌷"
-    },
-    {
-      "type": "paragraph",
-      "id": "4431daf8997388bc",
-      "text": "I'm currently taking on new projects for spring 2017."
-    },
-    {
-      "type": "paragraph",
-      "id": "7ed134afa25ff19c",
-      "text": "email: casey@bullshit.systems"
-    },
-    {
-      "type": "paragraph",
-      "id": "c3c1d5811cbfcffb",
-      "text": "[http://caseyagollan.com homepage]  [http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
-    },
-    {
-      "type": "markdown",
-      "id": "b7ed45fecf716707",
-      "text": "# Actually, let's do [[everything]]."
-    },
-    {
-      "type": "paragraph",
-      "id": "8fdc9401d8407457",
-      "text": "Though I do a lot of website building, I'm a generalist who enjoys working across disciplines to see a great project through."
-    },
-    {
-      "type": "markdown",
-      "id": "af2558ea75e55cd0",
-      "text": "# More about me."
-    },
-    {
-      "type": "paragraph",
-      "id": "f20c775c6ffe8050",
-      "text": "My design practice — considering the intermediation of technology and everyday life — is based out of [[Orbital]]. "
-    },
-    {
-      "type": "paragraph",
-      "id": "dc8e09b9e2bc31e8",
-      "text": "I have written critically about design and technology for [[Rhizome]] and [[Poool]], participated in [[Triple Canopy]]’s networked publishing intensive, and experimented with open-source administration as part of the [[School for Poetic Computation]]."
-    },
-    {
-      "type": "markdown",
-      "id": "db12fa3293ef5e60",
-      "text": "# Recent work."
-    },
-    {
-      "type": "paragraph",
-      "id": "e44148501af64d05",
-      "text": "Recent work includes an ongoing collaboration with design researcher [[Sara Hendren]], director of the [[Adaptation + Ability Group]] at [[Olin College]]. Their project [[Engineering at Home]] will be included in an exhibition on the future of design at the Victoria & Albert Museum in London in 2017."
-    }
-  ],
+  "story": [],
   "journal": [
     {
       "type": "create",
@@ -1988,6 +1902,164 @@
         "text": "# Actually, let's do [[everything]]."
       },
       "date": 1501248021460
+    },
+    {
+      "type": "remove",
+      "id": "9a37b508357c94d5",
+      "date": 1501249069855
+    },
+    {
+      "type": "remove",
+      "id": "8a16e55af59af0bb",
+      "date": 1501249073466
+    },
+    {
+      "type": "remove",
+      "id": "4431daf8997388bc",
+      "date": 1501249075691
+    },
+    {
+      "type": "remove",
+      "id": "7ed134afa25ff19c",
+      "date": 1501249077564
+    },
+    {
+      "type": "edit",
+      "id": "c3c1d5811cbfcffb",
+      "item": {
+        "type": "paragraph",
+        "id": "c3c1d5811cbfcffb",
+        "text": "Or on [http://cag.wiki my homepage]  [http://twitter.com/caseyg twitter] [http://github.com/caseyg github]"
+      },
+      "date": 1501249090808
+    },
+    {
+      "type": "remove",
+      "id": "9998d870dda08f48",
+      "date": 1501249156483
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9998d870dda08f48",
+        "text": "See more on the [[work]] page."
+      },
+      "after": "c3c1d5811cbfcffb",
+      "id": "9998d870dda08f48",
+      "date": 1501249158447
+    },
+    {
+      "type": "move",
+      "order": [
+        "da0a01c89a1cea73",
+        "dddb8bee1028a050",
+        "85047b4a642d557a",
+        "505e943427f8410a",
+        "9998d870dda08f48",
+        "c3c1d5811cbfcffb",
+        "b7ed45fecf716707",
+        "8fdc9401d8407457",
+        "af2558ea75e55cd0",
+        "f20c775c6ffe8050",
+        "dc8e09b9e2bc31e8",
+        "db12fa3293ef5e60",
+        "e44148501af64d05"
+      ],
+      "id": "9998d870dda08f48",
+      "date": 1501249159927
+    },
+    {
+      "type": "remove",
+      "id": "dddb8bee1028a050",
+      "date": 1501249242621
+    },
+    {
+      "type": "remove",
+      "id": "85047b4a642d557a",
+      "date": 1501249245767
+    },
+    {
+      "type": "edit",
+      "id": "f20c775c6ffe8050",
+      "item": {
+        "type": "paragraph",
+        "id": "f20c775c6ffe8050",
+        "text": "My design practice is based out of [[Orbital]]. "
+      },
+      "date": 1501249904930
+    },
+    {
+      "type": "remove",
+      "id": "505e943427f8410a",
+      "date": 1501252077878
+    },
+    {
+      "type": "move",
+      "order": [
+        "9998d870dda08f48",
+        "da0a01c89a1cea73",
+        "c3c1d5811cbfcffb",
+        "b7ed45fecf716707",
+        "8fdc9401d8407457",
+        "af2558ea75e55cd0",
+        "f20c775c6ffe8050",
+        "dc8e09b9e2bc31e8",
+        "db12fa3293ef5e60",
+        "e44148501af64d05"
+      ],
+      "id": "da0a01c89a1cea73",
+      "date": 1501254430106
+    },
+    {
+      "type": "remove",
+      "id": "b7ed45fecf716707",
+      "date": 1501254431961
+    },
+    {
+      "type": "remove",
+      "id": "8fdc9401d8407457",
+      "date": 1501254433428
+    },
+    {
+      "type": "remove",
+      "id": "f20c775c6ffe8050",
+      "date": 1501254436176
+    },
+    {
+      "type": "remove",
+      "id": "dc8e09b9e2bc31e8",
+      "date": 1501254437658
+    },
+    {
+      "type": "remove",
+      "id": "db12fa3293ef5e60",
+      "date": 1501254441345
+    },
+    {
+      "type": "remove",
+      "id": "e44148501af64d05",
+      "date": 1501254442632
+    },
+    {
+      "type": "remove",
+      "id": "af2558ea75e55cd0",
+      "date": 1501254446394
+    },
+    {
+      "type": "remove",
+      "id": "9998d870dda08f48",
+      "date": 1501254448992
+    },
+    {
+      "type": "remove",
+      "id": "c3c1d5811cbfcffb",
+      "date": 1501254450771
+    },
+    {
+      "type": "remove",
+      "id": "da0a01c89a1cea73",
+      "date": 1501254452644
     }
   ]
 }

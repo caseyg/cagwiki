@@ -1,0 +1,384 @@
+{
+  "title": "About This Site",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "51c06a8669de8e08",
+      "text": "This site is a [http://fed.wiki.org/ Federated Wiki], running on open-source code by Ward Cunningham, who also developed some of the earliest wiki software."
+    },
+    {
+      "type": "paragraph",
+      "id": "6bc832ed40ba7d13",
+      "text": "Cunningham has said that he was inspired to create the wiki after reading Christopher Alexander's book [https://en.wikipedia.org/wiki/A_Pattern_Language A Pattern Language]."
+    },
+    {
+      "type": "paragraph",
+      "id": "2d3713de50370711",
+      "text": "In my own practice, I've long been interested in wikis and hypertext — forms which prod the boundaries of what computers can do to help people think in new ways."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About This Site",
+        "story": []
+      },
+      "date": 1501252190041
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "51c06a8669de8e08"
+      },
+      "id": "51c06a8669de8e08",
+      "type": "add",
+      "date": 1501252191604
+    },
+    {
+      "type": "edit",
+      "id": "51c06a8669de8e08",
+      "item": {
+        "type": "paragraph",
+        "id": "51c06a8669de8e08",
+        "text": "This site is a Federated Wiki."
+      },
+      "date": 1501252196823
+    },
+    {
+      "type": "add",
+      "id": "c11822d4ccb82996",
+      "item": {
+        "type": "paragraph",
+        "id": "c11822d4ccb82996",
+        "text": "The software was designed by Ward Cunningham."
+      },
+      "after": "51c06a8669de8e08",
+      "date": 1501253174972
+    },
+    {
+      "type": "add",
+      "id": "6bc832ed40ba7d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6bc832ed40ba7d13",
+        "text": "He was inspired by Christopher Alexander."
+      },
+      "after": "c11822d4ccb82996",
+      "date": 1501253179832
+    },
+    {
+      "type": "edit",
+      "id": "c11822d4ccb82996",
+      "item": {
+        "type": "paragraph",
+        "id": "c11822d4ccb82996",
+        "text": "The software was designed by Ward Cunningham, creator of early wiki software."
+      },
+      "date": 1501253190976
+    },
+    {
+      "type": "add",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "I've long been interested in wiki and hypertext."
+      },
+      "after": "51c06a8669de8e08",
+      "date": 1501255638934
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wiki and hypertext."
+      },
+      "date": 1501255652383
+    },
+    {
+      "type": "move",
+      "order": [
+        "51c06a8669de8e08",
+        "c11822d4ccb82996",
+        "6bc832ed40ba7d13",
+        "2d3713de50370711"
+      ],
+      "id": "2d3713de50370711",
+      "date": 1501255657560
+    },
+    {
+      "type": "edit",
+      "id": "51c06a8669de8e08",
+      "item": {
+        "type": "paragraph",
+        "id": "51c06a8669de8e08",
+        "text": "This site is a [http://fed.wiki.org/ Federated Wiki]."
+      },
+      "date": 1501263705645
+    },
+    {
+      "type": "edit",
+      "id": "c11822d4ccb82996",
+      "item": {
+        "type": "paragraph",
+        "id": "c11822d4ccb82996",
+        "text": "The software was designed by Ward Cunningham, creator of some of the earliest wiki software."
+      },
+      "date": 1501263726997
+    },
+    {
+      "type": "edit",
+      "id": "c11822d4ccb82996",
+      "item": {
+        "type": "paragraph",
+        "id": "c11822d4ccb82996",
+        "text": "The software was developed by Ward Cunningham, creator of some of the earliest wiki software."
+      },
+      "date": 1501263734645
+    },
+    {
+      "type": "edit",
+      "id": "6bc832ed40ba7d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6bc832ed40ba7d13",
+        "text": "He was inspired by Christopher Alexander's "
+      },
+      "date": 1501263747612
+    },
+    {
+      "type": "edit",
+      "id": "6bc832ed40ba7d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6bc832ed40ba7d13",
+        "text": "He was inspired by Christopher Alexander's [https://en.wikipedia.org/wiki/A_Pattern_Language A Pattern Language]."
+      },
+      "date": 1501263774442
+    },
+    {
+      "type": "edit",
+      "id": "c11822d4ccb82996",
+      "item": {
+        "type": "paragraph",
+        "id": "c11822d4ccb82996",
+        "text": "The open-source software was developed by Ward Cunningham, creator of some of the earliest wiki software."
+      },
+      "date": 1501263792321
+    },
+    {
+      "type": "remove",
+      "id": "c11822d4ccb82996",
+      "date": 1501263795928
+    },
+    {
+      "type": "edit",
+      "id": "51c06a8669de8e08",
+      "item": {
+        "type": "paragraph",
+        "id": "51c06a8669de8e08",
+        "text": "This site is a [http://fed.wiki.org/ Federated Wiki], running on open-source software was developed by Ward Cunningham, who also created some of the earliest wiki software."
+      },
+      "date": 1501263812795
+    },
+    {
+      "type": "edit",
+      "id": "51c06a8669de8e08",
+      "item": {
+        "type": "paragraph",
+        "id": "51c06a8669de8e08",
+        "text": "This site is a [http://fed.wiki.org/ Federated Wiki], running on open-source code developed by Ward Cunningham, who also created some of the earliest wiki software."
+      },
+      "date": 1501263819991
+    },
+    {
+      "type": "edit",
+      "id": "51c06a8669de8e08",
+      "item": {
+        "type": "paragraph",
+        "id": "51c06a8669de8e08",
+        "text": "This site is a [http://fed.wiki.org/ Federated Wiki]. "
+      },
+      "date": 1501263834652
+    },
+    {
+      "type": "add",
+      "id": "09d3311adc042b50",
+      "item": {
+        "type": "paragraph",
+        "id": "09d3311adc042b50",
+        "text": "It's running on open-source code developed by Ward Cunningham, who also created some of the earliest wiki software."
+      },
+      "after": "51c06a8669de8e08",
+      "date": 1501263835309
+    },
+    {
+      "type": "remove",
+      "id": "09d3311adc042b50",
+      "date": 1501263847108
+    },
+    {
+      "type": "edit",
+      "id": "51c06a8669de8e08",
+      "item": {
+        "type": "paragraph",
+        "id": "51c06a8669de8e08",
+        "text": "This site is a [http://fed.wiki.org/ Federated Wiki], an open-source project by Ward Cunningham, who also developed some of the earliest wiki software."
+      },
+      "date": 1501263859040
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wikis and other forms which push the boundaries of hypertext."
+      },
+      "date": 1501263894779
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wikis and hypertext, forms which push the boundaries of how computers can help us organize information."
+      },
+      "date": 1501263935007
+    },
+    {
+      "type": "edit",
+      "id": "51c06a8669de8e08",
+      "item": {
+        "type": "paragraph",
+        "id": "51c06a8669de8e08",
+        "text": "This site is a [http://fed.wiki.org/ Federated Wiki], running on open-source code by Ward Cunningham, who developed some of the earliest wiki software."
+      },
+      "date": 1501263958273
+    },
+    {
+      "type": "edit",
+      "id": "51c06a8669de8e08",
+      "item": {
+        "type": "paragraph",
+        "id": "51c06a8669de8e08",
+        "text": "This site is a [http://fed.wiki.org/ Federated Wiki], running on open-source code by Ward Cunningham, who also developed some of the earliest wiki software."
+      },
+      "date": 1501263961665
+    },
+    {
+      "type": "move",
+      "order": [
+        "51c06a8669de8e08",
+        "2d3713de50370711",
+        "6bc832ed40ba7d13"
+      ],
+      "id": "6bc832ed40ba7d13",
+      "date": 1501263970213
+    },
+    {
+      "type": "edit",
+      "id": "6bc832ed40ba7d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6bc832ed40ba7d13",
+        "text": "Cunningham was allegedly inspired to create the wiki after reading Christopher Alexander's [https://en.wikipedia.org/wiki/A_Pattern_Language A Pattern Language]."
+      },
+      "date": 1501263989103
+    },
+    {
+      "type": "edit",
+      "id": "6bc832ed40ba7d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6bc832ed40ba7d13",
+        "text": "Cunningham was allegedly inspired to create the wiki after reading Christopher Alexander's book [https://en.wikipedia.org/wiki/A_Pattern_Language A Pattern Language]."
+      },
+      "date": 1501263993287
+    },
+    {
+      "type": "move",
+      "order": [
+        "51c06a8669de8e08",
+        "6bc832ed40ba7d13",
+        "2d3713de50370711"
+      ],
+      "id": "2d3713de50370711",
+      "date": 1501263997736
+    },
+    {
+      "type": "edit",
+      "id": "6bc832ed40ba7d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6bc832ed40ba7d13",
+        "text": "Cunningham has said that he was inspired to create the wiki after reading Christopher Alexander's book [https://en.wikipedia.org/wiki/A_Pattern_Language A Pattern Language]."
+      },
+      "date": 1501264009912
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wikis and hypertext, as forms which push the boundaries of how computers can help us organize information."
+      },
+      "date": 1501264023721
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wikis and hypertext, as forms prodding the boundaries of what computers can help us think in new ways."
+      },
+      "date": 1501264056541
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wikis and hypertext as forms prodding the boundaries of what computers can help us think in new ways."
+      },
+      "date": 1501264067472
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wikis and hypertext as forms which prod the boundaries of what computers can help us think in new ways."
+      },
+      "date": 1501264071005
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wikis and hypertext — forms which prod the boundaries of what computers can do to help us think in new ways."
+      },
+      "date": 1501264092334
+    },
+    {
+      "type": "edit",
+      "id": "2d3713de50370711",
+      "item": {
+        "type": "paragraph",
+        "id": "2d3713de50370711",
+        "text": "In my own practice, I've long been interested in wikis and hypertext — forms which prod the boundaries of what computers can do to help people think in new ways."
+      },
+      "date": 1501264237669
+    }
+  ]
+}
