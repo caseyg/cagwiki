@@ -1,0 +1,341 @@
+{
+  "title": "Writing",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "375fbbf9980199c4",
+      "text": "\"Unhinged Writing on Screens\" Summer 2012"
+    },
+    {
+      "type": "paragraph",
+      "id": "b3e567860e0eea5d",
+      "text": "\"You Can't Fuck The System If You've Never Met One\" March 2012"
+    },
+    {
+      "type": "paragraph",
+      "id": "4f2a41de9c07b156",
+      "text": "[http://rhizome.org/editorial/2012/jan/23/book-review-programmed-visions-software-and-memory/ \"Book Review: Programmed Visions: Software and Memory\"] Rhizome, January 2012"
+    },
+    {
+      "type": "paragraph",
+      "id": "405825b7630ba7da",
+      "text": "[http://pooool.info/user-generated-content/ \"User Generated Content\"] Pool, August 2011"
+    },
+    {
+      "type": "paragraph",
+      "id": "577fc73945e9bfda",
+      "text": "[http://notes.caseyagollan.com/post/8375915240/until-i-get-better-at-coding-there-will-be-no \"Until I get better at coding, there will be no four-dimensional node-based constellation of ideas that spins around, so text will have to suffice.\"] August 2011"
+    },
+    {
+      "type": "paragraph",
+      "id": "8f6e93950e37ee8d",
+      "text": "[http://notes.caseyagollan.com/post/5151672211/mixing-metaphors-skeuomorphic-hyper-and-fantasy \"Mixing Metaphors: Skeuomorphic, Hyper, and Fantasy Interfaces\"] May 2011"
+    },
+    {
+      "type": "paragraph",
+      "id": "0e64d672c3c77aea",
+      "text": "[http://notes.caseyagollan.com/post/577577550/a-project-to-digitally-catalog-the-13000-book \"Notes on the Judd Library\"] May 2010"
+    },
+    {
+      "type": "paragraph",
+      "id": "4a5bef62a5cbe2c5",
+      "text": "[http://notes.caseyagollan.com/post/429650021/built-to-last-built-to-decay-authentic \"Built to Last, Built to Decay: Authentic, Self-Reflective, Relationship Building Books in the Age of the iPad\"] March 2010"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Writing",
+        "story": []
+      },
+      "date": 1507094265829
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "375fbbf9980199c4"
+      },
+      "id": "375fbbf9980199c4",
+      "type": "add",
+      "date": 1507094267371
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "Rhizome"
+      },
+      "date": 1507094271689
+    },
+    {
+      "type": "add",
+      "id": "405825b7630ba7da",
+      "item": {
+        "type": "paragraph",
+        "id": "405825b7630ba7da",
+        "text": "Pool"
+      },
+      "after": "375fbbf9980199c4",
+      "date": 1507094274221
+    },
+    {
+      "type": "add",
+      "id": "0e64d672c3c77aea",
+      "item": {
+        "type": "paragraph",
+        "id": "0e64d672c3c77aea",
+        "text": "Judd"
+      },
+      "after": "405825b7630ba7da",
+      "date": 1507094279540
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "[\"Book Review: Programmed Visions: Software and Memory\" http://rhizome.org/editorial/2012/jan/23/book-review-programmed-visions-software-and-memory/] Rhizome, January 23, 2012"
+      },
+      "date": 1507469766098
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "[http://rhizome.org/editorial/2012/jan/23/book-review-programmed-visions-software-and-memory/ \"Book Review: Programmed Visions: Software and Memory\"] Rhizome, January 23, 2012"
+      },
+      "date": 1507469771636
+    },
+    {
+      "type": "edit",
+      "id": "405825b7630ba7da",
+      "item": {
+        "type": "paragraph",
+        "id": "405825b7630ba7da",
+        "text": "[http://pooool.info/user-generated-content/ \"User Generated Content\"] Pool"
+      },
+      "date": 1507469848387
+    },
+    {
+      "type": "edit",
+      "id": "405825b7630ba7da",
+      "item": {
+        "type": "paragraph",
+        "id": "405825b7630ba7da",
+        "text": "[http://pooool.info/user-generated-content/ \"User Generated Content\"] Pool, August 23, 2011"
+      },
+      "date": 1507469856788
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "\"You Can't Fuck The System If You Haven't Met One\""
+      },
+      "date": 1507470235791
+    },
+    {
+      "type": "add",
+      "id": "4f2a41de9c07b156",
+      "item": {
+        "type": "paragraph",
+        "id": "4f2a41de9c07b156",
+        "text": "[http://rhizome.org/editorial/2012/jan/23/book-review-programmed-visions-software-and-memory/ \"Book Review: Programmed Visions: Software and Memory\"] Rhizome, January 23, 2012"
+      },
+      "after": "375fbbf9980199c4",
+      "date": 1507470239084
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "\"You Can't Fuck The System If You've Never Met One\""
+      },
+      "date": 1507470251291
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "\"You Can't Fuck The System If You've Never Met One\", March 2012"
+      },
+      "date": 1507470259269
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "\"You Can't Fuck The System If You've Never Met One\" March 2012"
+      },
+      "date": 1507470265461
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "\""
+      },
+      "date": 1507470303656
+    },
+    {
+      "type": "edit",
+      "id": "375fbbf9980199c4",
+      "item": {
+        "type": "paragraph",
+        "id": "375fbbf9980199c4",
+        "text": "\"Unhinged Writing on Screens\" Summer 2012"
+      },
+      "date": 1507470315389
+    },
+    {
+      "type": "add",
+      "id": "b3e567860e0eea5d",
+      "item": {
+        "type": "paragraph",
+        "id": "b3e567860e0eea5d",
+        "text": "\"You Can't Fuck The System If You've Never Met One\" March 2012"
+      },
+      "after": "375fbbf9980199c4",
+      "date": 1507470316029
+    },
+    {
+      "type": "add",
+      "id": "8f6e93950e37ee8d",
+      "item": {
+        "type": "paragraph",
+        "id": "8f6e93950e37ee8d",
+        "text": "\"Mixing Metaphors\" May 2011"
+      },
+      "after": "405825b7630ba7da",
+      "date": 1507470352512
+    },
+    {
+      "type": "edit",
+      "id": "8f6e93950e37ee8d",
+      "item": {
+        "type": "paragraph",
+        "id": "8f6e93950e37ee8d",
+        "text": "\"Mixing Metaphors: Skeuomorphic, Hyper, and Fantasy Interfaces\" May 2011"
+      },
+      "date": 1507470368606
+    },
+    {
+      "type": "edit",
+      "id": "8f6e93950e37ee8d",
+      "item": {
+        "type": "paragraph",
+        "id": "8f6e93950e37ee8d",
+        "text": "[http://notes.caseyagollan.com/post/5151672211/mixing-metaphors-skeuomorphic-hyper-and-fantasy \"Mixing Metaphors: Skeuomorphic, Hyper, and Fantasy Interfaces\"] May 2011"
+      },
+      "date": 1507470498519
+    },
+    {
+      "type": "edit",
+      "id": "0e64d672c3c77aea",
+      "item": {
+        "type": "paragraph",
+        "id": "0e64d672c3c77aea",
+        "text": "\"Notes on the Judd Library\", "
+      },
+      "date": 1507470536666
+    },
+    {
+      "type": "edit",
+      "id": "0e64d672c3c77aea",
+      "item": {
+        "type": "paragraph",
+        "id": "0e64d672c3c77aea",
+        "text": "[http://notes.caseyagollan.com/post/577577550/a-project-to-digitally-catalog-the-13000-book\"Notes on the Judd Library\"] May 2010"
+      },
+      "date": 1507470553182
+    },
+    {
+      "type": "edit",
+      "id": "0e64d672c3c77aea",
+      "item": {
+        "type": "paragraph",
+        "id": "0e64d672c3c77aea",
+        "text": "[http://notes.caseyagollan.com/post/577577550/a-project-to-digitally-catalog-the-13000-book \"Notes on the Judd Library\"] May 2010"
+      },
+      "date": 1507470556180
+    },
+    {
+      "type": "add",
+      "id": "4a5bef62a5cbe2c5",
+      "item": {
+        "type": "paragraph",
+        "id": "4a5bef62a5cbe2c5",
+        "text": "\"Built to Last, Built to Decay: Authentic, Self-Reflective, Relationship Building Books in the Age of the iPad\" March 2010"
+      },
+      "after": "0e64d672c3c77aea",
+      "date": 1507470784444
+    },
+    {
+      "type": "edit",
+      "id": "4a5bef62a5cbe2c5",
+      "item": {
+        "type": "paragraph",
+        "id": "4a5bef62a5cbe2c5",
+        "text": "[http://notes.caseyagollan.com/post/429650021/built-to-last-built-to-decay-authentic \"Built to Last, Built to Decay: Authentic, Self-Reflective, Relationship Building Books in the Age of the iPad\"] March 2010"
+      },
+      "date": 1507470794276
+    },
+    {
+      "type": "add",
+      "id": "577fc73945e9bfda",
+      "item": {
+        "type": "paragraph",
+        "id": "577fc73945e9bfda",
+        "text": "[\"Until I get better at coding, there will be no four-dimensional node-based constellation of ideas that spins around, so text will have to suffice.\"] August 2011"
+      },
+      "after": "405825b7630ba7da",
+      "date": 1507471810244
+    },
+    {
+      "type": "edit",
+      "id": "577fc73945e9bfda",
+      "item": {
+        "type": "paragraph",
+        "id": "577fc73945e9bfda",
+        "text": "[http://notes.caseyagollan.com/post/8375915240/until-i-get-better-at-coding-there-will-be-no \"Until I get better at coding, there will be no four-dimensional node-based constellation of ideas that spins around, so text will have to suffice.\"] August 2011"
+      },
+      "date": 1507471817586
+    },
+    {
+      "type": "edit",
+      "id": "4f2a41de9c07b156",
+      "item": {
+        "type": "paragraph",
+        "id": "4f2a41de9c07b156",
+        "text": "[http://rhizome.org/editorial/2012/jan/23/book-review-programmed-visions-software-and-memory/ \"Book Review: Programmed Visions: Software and Memory\"] Rhizome, January 2012"
+      },
+      "date": 1507472948152
+    },
+    {
+      "type": "edit",
+      "id": "405825b7630ba7da",
+      "item": {
+        "type": "paragraph",
+        "id": "405825b7630ba7da",
+        "text": "[http://pooool.info/user-generated-content/ \"User Generated Content\"] Pool, August 2011"
+      },
+      "date": 1507472951390
+    }
+  ]
+}

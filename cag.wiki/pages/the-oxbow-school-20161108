@@ -714,7 +714,7 @@
     {
       "type": "paragraph",
       "id": "bc30eb81434974a2",
-      "text": "Audience: You talked a lot about your activism. I was wondering if you've ever incorporated activisim into your art or art into your activism? \n"
+      "text": "Audience: You talked a lot about your activism. I was wondering if you've ever incorporated activism into your art or art into your activism? \n"
     },
     {
       "type": "paragraph",
@@ -3562,6 +3562,16 @@
       },
       "after": "e0089e8da99178ea",
       "date": 1487473507578
+    },
+    {
+      "type": "edit",
+      "id": "bc30eb81434974a2",
+      "item": {
+        "type": "paragraph",
+        "id": "bc30eb81434974a2",
+        "text": "Audience: You talked a lot about your activism. I was wondering if you've ever incorporated activism into your art or art into your activism? \n"
+      },
+      "date": 1507476066909
     }
   ]
 }

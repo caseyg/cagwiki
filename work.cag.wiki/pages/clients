@@ -23,6 +23,11 @@
     },
     {
       "type": "paragraph",
+      "id": "0e9223d44915c69c",
+      "text": "Benjamin Degen"
+    },
+    {
+      "type": "paragraph",
       "id": "bf2a8fd64859a695",
       "text": "Brian Funck\n"
     },
@@ -90,6 +95,11 @@
       "type": "paragraph",
       "id": "f4cbcdb4ad19b3e3",
       "text": "School for Poetic Computation\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "af2525b8068c9141",
+      "text": "Susan Inglett Gallery"
     },
     {
       "type": "paragraph",
@@ -362,6 +372,28 @@
       },
       "after": "bf2a8fd64859a695",
       "date": 1501263441527
+    },
+    {
+      "type": "add",
+      "id": "0e9223d44915c69c",
+      "item": {
+        "type": "paragraph",
+        "id": "0e9223d44915c69c",
+        "text": "Benjamin Degen"
+      },
+      "after": "e4f00f009640598a",
+      "date": 1507493067487
+    },
+    {
+      "type": "add",
+      "id": "af2525b8068c9141",
+      "item": {
+        "type": "paragraph",
+        "id": "af2525b8068c9141",
+        "text": "Susan Inglett Gallery"
+      },
+      "after": "f4cbcdb4ad19b3e3",
+      "date": 1507493093230
     }
   ]
 }

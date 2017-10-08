@@ -9,7 +9,7 @@
     {
       "type": "markdown",
       "id": "57f8a30e298e88b4",
-      "text": "TODO\n- [ ] scan cards\n- [ ] get index card printer?\n- [ ] add Ox Talk\n- [ ] add Goals"
+      "text": "TODO\n- [ ] scan cards\n- [ ] get index card printer?\n- [x] add Ox Talk\n- [ ] add Goals"
     },
     {
       "type": "pagefold",
@@ -1444,6 +1444,45 @@
         "text": "TODO\n- [ ] scan cards\n- [ ] get index card printer?\n- [ ] add Ox Talk\n- [ ] add Goals"
       },
       "date": 1480111254254
+    },
+    {
+      "type": "edit",
+      "id": "57f8a30e298e88b4",
+      "item": {
+        "type": "markdown",
+        "id": "57f8a30e298e88b4",
+        "text": "TODO\n- [ ] scan cards\n- [ ] get index card printer?\n- [x] add Ox Talk\n- [ ] add Goals"
+      },
+      "date": 1503170970122,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "57f8a30e298e88b4",
+      "item": {
+        "type": "markdown",
+        "id": "57f8a30e298e88b4",
+        "text": "TODO\n- [ ] scan cards\n- [ ] get index card printer?\n- [x] add Ox Talk\n- [ ] add Goals"
+      },
+      "date": 1503170980757
+    },
+    {
+      "type": "edit",
+      "id": "57f8a30e298e88b4",
+      "item": {
+        "type": "markdown",
+        "id": "57f8a30e298e88b4",
+        "text": "TODO\n- [ ] scan cards\n- [ ] get index card printer?\n- [x] add Ox Talk\n- [ ] add Goals"
+      },
+      "date": 1503170980961
+    },
+    {
+      "type": "fork",
+      "date": 1503170983515
     }
   ]
 }

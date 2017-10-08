@@ -2,6 +2,16 @@
   "title": "Files",
   "story": [
     {
+      "type": "html",
+      "id": "09302a2787e8d38f",
+      "text": "<img src=\"http://cag9x.blot.im/IMG_5027.jpg\" style=\"width:100%;height:auto;\">"
+    },
+    {
+      "type": "paragraph",
+      "id": "5d8228ad94611764",
+      "text": "% Updated or added 9/30/17"
+    },
+    {
       "type": "paragraph",
       "id": "cb8937afa3e96805",
       "text": "✴︎ Updated or added 6/8/17"
@@ -69,7 +79,7 @@
     {
       "type": "paragraph",
       "id": "00c6c05cd52df942",
-      "text": "J: Jenn✴︎; Jessica, Judy, Jury Duty\n"
+      "text": "J: Japan%; Jenn✴︎; Jessica, Judy, Jury Duty\n"
     },
     {
       "type": "paragraph",
@@ -89,17 +99,17 @@
     {
       "type": "paragraph",
       "id": "a54e6530be4796bd",
-      "text": "N: Nonstop; Nudies\n"
+      "text": "N: New School Publishing Institute%; Nonstop; Nudies\n"
     },
     {
       "type": "paragraph",
       "id": "3a0a07a3efcc2d8d",
-      "text": "O: Occupy; Olin; Oxbow\n"
+      "text": "O: Occupy; Old Phone; Olin; Optimum%; Oxbow\n"
     },
     {
       "type": "paragraph",
       "id": "82568d7bad0fc242",
-      "text": "P: Passports; Photos; Prescription; Projects✴︎; Purchase✴︎"
+      "text": "P: Passports; Photos; Prescription; Projects✴︎%; Purchase✴︎"
     },
     {
       "type": "paragraph",
@@ -114,12 +124,12 @@
     {
       "type": "paragraph",
       "id": "09756422546d95e4",
-      "text": "S: Sara; Senior Show; Susan; SFPC; Skyframe; Social Security✴︎; Source; Stephen’s Dad; Superbowl; Systems\n"
+      "text": "S: Sara; Sara (Haley)%; Senior Show; Susan%; SFPC; Skyframe; Social Security✴︎; Source; Stephen’s Dad; Superbowl; Systems\n"
     },
     {
       "type": "paragraph",
       "id": "cd5d82ee5f8103be",
-      "text": "T: Taxes 2015; Taxes 2016✴︎; Ticket Stubs✴︎; Todo Archive; Tom; Transcripts; Triple Canopy; Tyler✴︎\n"
+      "text": "T: Taxes 2014%; Taxes 2015; Taxes 2016✴︎%; Ticket Stubs✴︎%; Todo Archive%; Tom; Transcripts; Triple Canopy; Tyler✴︎\n"
     },
     {
       "type": "paragraph",
@@ -129,12 +139,12 @@
     {
       "type": "paragraph",
       "id": "895d6003a42bc2dd",
-      "text": "V: Vera List Center✴︎; Vic✴︎; Vitamix; Vruba\n"
+      "text": "V: Vera List Center✴︎%; Vic✴︎; Vitamix; Vruba\n"
     },
     {
       "type": "paragraph",
       "id": "b0539e7f0e4e374d",
-      "text": "W: Whitney✴︎, Wireframe Paper\n"
+      "text": "W: Whitney✴︎%, Wireframe Paper\n"
     },
     {
       "type": "paragraph",
@@ -164,17 +174,17 @@
     {
       "type": "paragraph",
       "id": "f7241850cc34defe",
-      "text": "A: Aaron; Alex✴︎; American Ethnological Society✴︎; Anna; Anime✴︎; Artwork✴︎; Atavist\n\n"
+      "text": "A: Aaron; Alex✴︎%; American Ethnological Society✴︎%; Anna; Anime✴︎; Artwork✴︎; Atavist\n\n"
     },
     {
       "type": "paragraph",
       "id": "c5c80a4e1a264375",
-      "text": "B: BHQFU; Block Party; Block Party 2017✴︎; Business Cards\n"
+      "text": "B: BHQFU; Block Party; Block Party 2017✴︎%; Business Cards\n"
     },
     {
       "type": "paragraph",
       "id": "5c3fc002702115bc",
-      "text": "C: Cards; Coaching; Cooper; Con-Ed; Contacts; Coupons✴︎; Chase; Checks; Civ; Claritin\n\n"
+      "text": "C: Cards; Coaching%; Cooper%; Con-Ed%; Contacts; Coupons✴︎; Chase; Checks; Civ; Claritin; Crushing%\n"
     },
     {
       "type": "paragraph",
@@ -229,7 +239,7 @@
     {
       "type": "paragraph",
       "id": "6be2dd51ef80e01d",
-      "text": "N: National Grid✴︎; Notebooks\n"
+      "text": "N: National Grid✴︎%; Notebooks%\n"
     },
     {
       "type": "paragraph",
@@ -1945,6 +1955,477 @@
         "text": "R: Readings✴︎; Reflections/IDS; Review of Books; Rhizome; Riso✴︎"
       },
       "date": 1496952363837
+    },
+    {
+      "type": "add",
+      "id": "5d8228ad94611764",
+      "item": {
+        "type": "paragraph",
+        "id": "5d8228ad94611764",
+        "text": "% Update or added 9/30/17"
+      },
+      "after": "cb8937afa3e96805",
+      "date": 1506782327451
+    },
+    {
+      "type": "move",
+      "order": [
+        "5d8228ad94611764",
+        "cb8937afa3e96805",
+        "97befce650d71a23",
+        "43b79066298df2c6",
+        "e73cde79f844e7ad",
+        "fadf1ece4c24569f",
+        "f51e2b143e4d8070",
+        "53229f0e93d87fe1",
+        "dfbbbf1eb5d6140c",
+        "7795c1407af6893e",
+        "a0aa0d2c7fdf7d1e",
+        "2e4b9398c9ad8347",
+        "11287f2fda0c5bb4",
+        "8f738503556d49b5",
+        "8398ba2d064776f9",
+        "00c6c05cd52df942",
+        "9c37e33c2be2c774",
+        "9cc399bf3c13e103",
+        "5032b28267aa2608",
+        "a54e6530be4796bd",
+        "3a0a07a3efcc2d8d",
+        "82568d7bad0fc242",
+        "0b72852dfc545e75",
+        "55e05378011dc99c",
+        "09756422546d95e4",
+        "cd5d82ee5f8103be",
+        "1f006ab198ccf8c4",
+        "895d6003a42bc2dd",
+        "b0539e7f0e4e374d",
+        "0c7b29751da308f7",
+        "7e560a03a97a5334",
+        "cd0383c6f345915d",
+        "7351e2d673adff38",
+        "f1213dd9f565ec26",
+        "f7241850cc34defe",
+        "c5c80a4e1a264375",
+        "5c3fc002702115bc",
+        "b47b339034b25843",
+        "5a875469f788c8de",
+        "70805ecc54703721",
+        "61ec92eb37bb7539",
+        "d86c4677003460dc",
+        "9e5c4713ae445d66",
+        "f151c60383713bb4",
+        "463db790a2002124",
+        "e00d7e90065d1d3b",
+        "ed20f9c3edfbf4a3",
+        "6be2dd51ef80e01d",
+        "bf73a19a60cd7310",
+        "3c405814a05f51eb",
+        "0a6ae3c5cd41db0b",
+        "64aeec3735071ed0",
+        "fe7a36f11d590b27",
+        "ebaa627c33976b93",
+        "4660e8f4b3b337e5",
+        "44ec455e6d384e07",
+        "8f66b9f6f81024eb",
+        "94236a8817e6dea1",
+        "99f85ec4191dc311",
+        "4d660608cbad11e1"
+      ],
+      "id": "5d8228ad94611764",
+      "date": 1506782328947,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1506782333137
+    },
+    {
+      "type": "edit",
+      "id": "5d8228ad94611764",
+      "item": {
+        "type": "paragraph",
+        "id": "5d8228ad94611764",
+        "text": "% Updated or added 9/30/17"
+      },
+      "date": 1506782337518
+    },
+    {
+      "type": "edit",
+      "id": "6be2dd51ef80e01d",
+      "item": {
+        "type": "paragraph",
+        "id": "6be2dd51ef80e01d",
+        "text": "N: National Grid✴︎; Notebooks%\n"
+      },
+      "date": 1506782520190
+    },
+    {
+      "type": "edit",
+      "id": "5c3fc002702115bc",
+      "item": {
+        "type": "paragraph",
+        "id": "5c3fc002702115bc",
+        "text": "C: Cards; Coaching%; Cooper; Con-Ed; Contacts; Coupons✴︎; Chase; Checks; Civ; Claritin; Crushing%\n"
+      },
+      "date": 1506782745269
+    },
+    {
+      "type": "edit",
+      "id": "f7241850cc34defe",
+      "item": {
+        "type": "paragraph",
+        "id": "f7241850cc34defe",
+        "text": "A: Aaron; Alex✴︎; American Ethnological Society✴︎%; Anna; Anime✴︎; Artwork✴︎; Atavist\n\n"
+      },
+      "date": 1506782749523
+    },
+    {
+      "type": "edit",
+      "id": "09756422546d95e4",
+      "item": {
+        "type": "paragraph",
+        "id": "09756422546d95e4",
+        "text": "S: Sara; Senior Show; Susan%; SFPC; Skyframe; Social Security✴︎; Source; Stephen’s Dad; Superbowl; Systems\n"
+      },
+      "date": 1506782788885
+    },
+    {
+      "type": "edit",
+      "id": "82568d7bad0fc242",
+      "item": {
+        "type": "paragraph",
+        "id": "82568d7bad0fc242",
+        "text": "P: Passports; Photos; Prescription; Projects✴︎%; Purchase✴︎"
+      },
+      "date": 1506782838699
+    },
+    {
+      "type": "edit",
+      "id": "cd5d82ee5f8103be",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5d82ee5f8103be",
+        "text": "T: Taxes 2014%; Taxes 2015; Taxes 2016✴︎; Ticket Stubs✴︎; Todo Archive; Tom; Transcripts; Triple Canopy; Tyler✴︎\n"
+      },
+      "date": 1506782894922
+    },
+    {
+      "type": "edit",
+      "id": "5c3fc002702115bc",
+      "item": {
+        "type": "paragraph",
+        "id": "5c3fc002702115bc",
+        "text": "C: Cards; Coaching%; Cooper; Con-Ed%; Contacts; Coupons✴︎; Chase; Checks; Civ; Claritin; Crushing%\n"
+      },
+      "date": 1506782938041
+    },
+    {
+      "type": "edit",
+      "id": "3a0a07a3efcc2d8d",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0a07a3efcc2d8d",
+        "text": "O: Occupy; Olin; Optimum%; Oxbow\n"
+      },
+      "date": 1506782987871
+    },
+    {
+      "type": "edit",
+      "id": "6be2dd51ef80e01d",
+      "item": {
+        "type": "paragraph",
+        "id": "6be2dd51ef80e01d",
+        "text": "N: National Grid✴︎%; Notebooks%\n"
+      },
+      "date": 1506783034411
+    },
+    {
+      "type": "edit",
+      "id": "cd5d82ee5f8103be",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5d82ee5f8103be",
+        "text": "T: Taxes 2014%; Taxes 2015; Taxes 2016✴︎%; Ticket Stubs✴︎; Todo Archive; Tom; Transcripts; Triple Canopy; Tyler✴︎\n"
+      },
+      "date": 1506783071402
+    },
+    {
+      "type": "edit",
+      "id": "a54e6530be4796bd",
+      "item": {
+        "type": "paragraph",
+        "id": "a54e6530be4796bd",
+        "text": "N: New School Publishing Institute%; Nonstop; Nudies\n"
+      },
+      "date": 1506783109438
+    },
+    {
+      "type": "edit",
+      "id": "3a0a07a3efcc2d8d",
+      "item": {
+        "type": "paragraph",
+        "id": "3a0a07a3efcc2d8d",
+        "text": "O: Occupy; Old Phone; Olin; Optimum%; Oxbow\n"
+      },
+      "date": 1506783142781
+    },
+    {
+      "type": "edit",
+      "id": "cd5d82ee5f8103be",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5d82ee5f8103be",
+        "text": "T: Taxes 2014%; Taxes 2015; Taxes 2016✴︎%; Ticket Stubs✴︎%; Todo Archive; Tom; Transcripts; Triple Canopy; Tyler✴︎\n"
+      },
+      "date": 1506783209733
+    },
+    {
+      "type": "edit",
+      "id": "f7241850cc34defe",
+      "item": {
+        "type": "paragraph",
+        "id": "f7241850cc34defe",
+        "text": "A: Aaron; Alex✴︎%; American Ethnological Society✴︎%; Anna; Anime✴︎; Artwork✴︎; Atavist\n\n"
+      },
+      "date": 1506783252572
+    },
+    {
+      "type": "edit",
+      "id": "09756422546d95e4",
+      "item": {
+        "type": "paragraph",
+        "id": "09756422546d95e4",
+        "text": "S: Sara; Sara (Haley)%; Senior Show; Susan%; SFPC; Skyframe; Social Security✴︎; Source; Stephen’s Dad; Superbowl; Systems\n"
+      },
+      "date": 1506783301166
+    },
+    {
+      "type": "edit",
+      "id": "895d6003a42bc2dd",
+      "item": {
+        "type": "paragraph",
+        "id": "895d6003a42bc2dd",
+        "text": "V: Vera List Center✴︎%; Vic✴︎; Vitamix; Vruba\n"
+      },
+      "date": 1506783381419
+    },
+    {
+      "type": "edit",
+      "id": "c5c80a4e1a264375",
+      "item": {
+        "type": "paragraph",
+        "id": "c5c80a4e1a264375",
+        "text": "B: BHQFU; Block Party; Block Party 2017✴︎%; Business Cards\n"
+      },
+      "date": 1506783385756
+    },
+    {
+      "type": "edit",
+      "id": "5c3fc002702115bc",
+      "item": {
+        "type": "paragraph",
+        "id": "5c3fc002702115bc",
+        "text": "C: Cards; Coaching%; Cooper%; Con-Ed%; Contacts; Coupons✴︎; Chase; Checks; Civ; Claritin; Crushing%\n"
+      },
+      "date": 1506783592529
+    },
+    {
+      "type": "edit",
+      "id": "b0539e7f0e4e374d",
+      "item": {
+        "type": "paragraph",
+        "id": "b0539e7f0e4e374d",
+        "text": "W: Whitney✴︎%, Wireframe Paper\n"
+      },
+      "date": 1506783598469
+    },
+    {
+      "type": "edit",
+      "id": "cd5d82ee5f8103be",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5d82ee5f8103be",
+        "text": "T: Taxes 2014%; Taxes 2015; Taxes 2016✴︎%; Ticket Stubs✴︎%; Todo Archive%; Tom; Transcripts; Triple Canopy; Tyler✴︎\n"
+      },
+      "date": 1506783685557
+    },
+    {
+      "type": "edit",
+      "id": "00c6c05cd52df942",
+      "item": {
+        "type": "paragraph",
+        "id": "00c6c05cd52df942",
+        "text": "J: Japan%; Jenn✴︎; Jessica, Judy, Jury Duty\n"
+      },
+      "date": 1506783735907
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "09302a2787e8d38f"
+      },
+      "id": "09302a2787e8d38f",
+      "type": "add",
+      "after": "4d660608cbad11e1",
+      "date": 1507473303579
+    },
+    {
+      "type": "edit",
+      "id": "09302a2787e8d38f",
+      "item": {
+        "type": "html",
+        "id": "09302a2787e8d38f",
+        "text": "<img src=\"http://cag9x.blot.im/IMG_5027.jpg\">"
+      },
+      "date": 1507473308776
+    },
+    {
+      "type": "edit",
+      "id": "09302a2787e8d38f",
+      "item": {
+        "type": "html",
+        "id": "09302a2787e8d38f",
+        "text": "<img src=\"http://cag9x.blot.im/IMG_5027.jpg\" style=\"width:100%;height:auto;\">"
+      },
+      "date": 1507473322788
+    },
+    {
+      "type": "move",
+      "order": [
+        "5d8228ad94611764",
+        "09302a2787e8d38f",
+        "cb8937afa3e96805",
+        "43b79066298df2c6",
+        "e73cde79f844e7ad",
+        "fadf1ece4c24569f",
+        "f51e2b143e4d8070",
+        "53229f0e93d87fe1",
+        "dfbbbf1eb5d6140c",
+        "7795c1407af6893e",
+        "a0aa0d2c7fdf7d1e",
+        "2e4b9398c9ad8347",
+        "11287f2fda0c5bb4",
+        "8f738503556d49b5",
+        "8398ba2d064776f9",
+        "00c6c05cd52df942",
+        "9c37e33c2be2c774",
+        "9cc399bf3c13e103",
+        "5032b28267aa2608",
+        "a54e6530be4796bd",
+        "3a0a07a3efcc2d8d",
+        "82568d7bad0fc242",
+        "0b72852dfc545e75",
+        "55e05378011dc99c",
+        "09756422546d95e4",
+        "cd5d82ee5f8103be",
+        "1f006ab198ccf8c4",
+        "895d6003a42bc2dd",
+        "b0539e7f0e4e374d",
+        "0c7b29751da308f7",
+        "7e560a03a97a5334",
+        "cd0383c6f345915d",
+        "7351e2d673adff38",
+        "f1213dd9f565ec26",
+        "f7241850cc34defe",
+        "c5c80a4e1a264375",
+        "5c3fc002702115bc",
+        "b47b339034b25843",
+        "5a875469f788c8de",
+        "70805ecc54703721",
+        "61ec92eb37bb7539",
+        "d86c4677003460dc",
+        "9e5c4713ae445d66",
+        "f151c60383713bb4",
+        "463db790a2002124",
+        "e00d7e90065d1d3b",
+        "ed20f9c3edfbf4a3",
+        "6be2dd51ef80e01d",
+        "bf73a19a60cd7310",
+        "3c405814a05f51eb",
+        "0a6ae3c5cd41db0b",
+        "64aeec3735071ed0",
+        "fe7a36f11d590b27",
+        "ebaa627c33976b93",
+        "4660e8f4b3b337e5",
+        "44ec455e6d384e07",
+        "8f66b9f6f81024eb",
+        "94236a8817e6dea1",
+        "99f85ec4191dc311",
+        "4d660608cbad11e1"
+      ],
+      "id": "09302a2787e8d38f",
+      "date": 1507473331108
+    },
+    {
+      "type": "move",
+      "order": [
+        "09302a2787e8d38f",
+        "5d8228ad94611764",
+        "cb8937afa3e96805",
+        "43b79066298df2c6",
+        "e73cde79f844e7ad",
+        "fadf1ece4c24569f",
+        "f51e2b143e4d8070",
+        "53229f0e93d87fe1",
+        "dfbbbf1eb5d6140c",
+        "7795c1407af6893e",
+        "a0aa0d2c7fdf7d1e",
+        "2e4b9398c9ad8347",
+        "11287f2fda0c5bb4",
+        "8f738503556d49b5",
+        "8398ba2d064776f9",
+        "00c6c05cd52df942",
+        "9c37e33c2be2c774",
+        "9cc399bf3c13e103",
+        "5032b28267aa2608",
+        "a54e6530be4796bd",
+        "3a0a07a3efcc2d8d",
+        "82568d7bad0fc242",
+        "0b72852dfc545e75",
+        "55e05378011dc99c",
+        "09756422546d95e4",
+        "cd5d82ee5f8103be",
+        "1f006ab198ccf8c4",
+        "895d6003a42bc2dd",
+        "b0539e7f0e4e374d",
+        "0c7b29751da308f7",
+        "7e560a03a97a5334",
+        "cd0383c6f345915d",
+        "7351e2d673adff38",
+        "f1213dd9f565ec26",
+        "f7241850cc34defe",
+        "c5c80a4e1a264375",
+        "5c3fc002702115bc",
+        "b47b339034b25843",
+        "5a875469f788c8de",
+        "70805ecc54703721",
+        "61ec92eb37bb7539",
+        "d86c4677003460dc",
+        "9e5c4713ae445d66",
+        "f151c60383713bb4",
+        "463db790a2002124",
+        "e00d7e90065d1d3b",
+        "ed20f9c3edfbf4a3",
+        "6be2dd51ef80e01d",
+        "bf73a19a60cd7310",
+        "3c405814a05f51eb",
+        "0a6ae3c5cd41db0b",
+        "64aeec3735071ed0",
+        "fe7a36f11d590b27",
+        "ebaa627c33976b93",
+        "4660e8f4b3b337e5",
+        "44ec455e6d384e07",
+        "8f66b9f6f81024eb",
+        "94236a8817e6dea1",
+        "99f85ec4191dc311",
+        "4d660608cbad11e1"
+      ],
+      "id": "5d8228ad94611764",
+      "date": 1507473338054
     }
   ]
 }

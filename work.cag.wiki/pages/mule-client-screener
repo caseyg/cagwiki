@@ -1,0 +1,39 @@
+{
+  "title": "Mule Client Screener",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "16c4d6ea7b7ffff9",
+      "text": "How important is each of these?\n\nChange in company strategy\nRebranding/New image/Look and feel\nEngineering/Backend development\nImproving key metrics/Quantifying success or results/Conversion\nContent strategy/writing\nUnderstanding your audience or organization\nGetting it done as fast as possible\nGetting it done as inexpensively as possible\nDifferentiating from competition\nReach new audience\nBetter demonstrate value or correct misconceptions\nWorking relationship/communication with your design partner\nWho is/are your audience/your target users/your customers?\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Mule Client Screener",
+        "story": []
+      },
+      "date": 1503168240770
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "16c4d6ea7b7ffff9"
+      },
+      "id": "16c4d6ea7b7ffff9",
+      "type": "add",
+      "date": 1503168242309
+    },
+    {
+      "type": "edit",
+      "id": "16c4d6ea7b7ffff9",
+      "item": {
+        "type": "paragraph",
+        "id": "16c4d6ea7b7ffff9",
+        "text": "How important is each of these?\n\nChange in company strategy\nRebranding/New image/Look and feel\nEngineering/Backend development\nImproving key metrics/Quantifying success or results/Conversion\nContent strategy/writing\nUnderstanding your audience or organization\nGetting it done as fast as possible\nGetting it done as inexpensively as possible\nDifferentiating from competition\nReach new audience\nBetter demonstrate value or correct misconceptions\nWorking relationship/communication with your design partner\nWho is/are your audience/your target users/your customers?\n"
+      },
+      "date": 1503168243825
+    }
+  ]
+}

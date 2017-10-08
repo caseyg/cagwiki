@@ -1,0 +1,172 @@
+{
+  "title": "2017-10-08",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d3f70b1601cad98e",
+      "text": "Made some wiki updates today! "
+    },
+    {
+      "type": "paragraph",
+      "id": "a104cd006ef0dec5",
+      "text": "Reorgamized [[Welcome Visitors]] so it's just an alphabetical list of working pages, rather than a few at the top, and a jumble at the bottom."
+    },
+    {
+      "type": "paragraph",
+      "id": "135766a58d0b0271",
+      "text": "Added a [[Questions from talks]] page"
+    },
+    {
+      "type": "paragraph",
+      "id": "6d54637e4377d56c",
+      "text": "Updated [[Words]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "126cf9a76b756ed5",
+      "text": "Added some more info & links to [[Writing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "88a90e18955a7847",
+      "text": "Fixed some typos"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2017-10-08",
+        "story": []
+      },
+      "date": 1507476872963
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d3f70b1601cad98e"
+      },
+      "id": "d3f70b1601cad98e",
+      "type": "add",
+      "date": 1507476874304
+    },
+    {
+      "type": "edit",
+      "id": "d3f70b1601cad98e",
+      "item": {
+        "type": "paragraph",
+        "id": "d3f70b1601cad98e",
+        "text": "Made some wiki updates today! "
+      },
+      "date": 1507476890642
+    },
+    {
+      "type": "add",
+      "id": "a104cd006ef0dec5",
+      "item": {
+        "type": "paragraph",
+        "id": "a104cd006ef0dec5",
+        "text": "Changed the homepage so it's just an alphabetical list of working pages, rather than a few at the top, and a jumble at the bottom."
+      },
+      "after": "d3f70b1601cad98e",
+      "date": 1507476923334
+    },
+    {
+      "type": "add",
+      "id": "135766a58d0b0271",
+      "item": {
+        "type": "paragraph",
+        "id": "135766a58d0b0271",
+        "text": "Added a [[Questions from talks]] page"
+      },
+      "after": "a104cd006ef0dec5",
+      "date": 1507476930093
+    },
+    {
+      "type": "add",
+      "id": "6d54637e4377d56c",
+      "item": {
+        "type": "paragraph",
+        "id": "6d54637e4377d56c",
+        "text": "Updated [[Words]]"
+      },
+      "after": "135766a58d0b0271",
+      "date": 1507476947625
+    },
+    {
+      "type": "edit",
+      "id": "a104cd006ef0dec5",
+      "item": {
+        "type": "paragraph",
+        "id": "a104cd006ef0dec5",
+        "text": "Changed the [[Welcome Visitors]] so it's just an alphabetical list of working pages, rather than a few at the top, and a jumble at the bottom."
+      },
+      "date": 1507476957554
+    },
+    {
+      "type": "edit",
+      "id": "a104cd006ef0dec5",
+      "item": {
+        "type": "paragraph",
+        "id": "a104cd006ef0dec5",
+        "text": "Changed [[Welcome Visitors]] so it's just an alphabetical list of working pages, rather than a few at the top, and a jumble at the bottom."
+      },
+      "date": 1507476962722
+    },
+    {
+      "type": "edit",
+      "id": "a104cd006ef0dec5",
+      "item": {
+        "type": "paragraph",
+        "id": "a104cd006ef0dec5",
+        "text": "Reorgamized [[Welcome Visitors]] so it's just an alphabetical list of working pages, rather than a few at the top, and a jumble at the bottom."
+      },
+      "date": 1507476969086
+    },
+    {
+      "type": "add",
+      "id": "88a90e18955a7847",
+      "item": {
+        "type": "paragraph",
+        "id": "88a90e18955a7847",
+        "text": "Fixed some typos"
+      },
+      "after": "6d54637e4377d56c",
+      "date": 1507476975882
+    },
+    {
+      "type": "add",
+      "id": "126cf9a76b756ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "126cf9a76b756ed5",
+        "text": "Added links to [[Writing]]"
+      },
+      "after": "88a90e18955a7847",
+      "date": 1507476984011
+    },
+    {
+      "type": "move",
+      "order": [
+        "d3f70b1601cad98e",
+        "a104cd006ef0dec5",
+        "135766a58d0b0271",
+        "6d54637e4377d56c",
+        "126cf9a76b756ed5",
+        "88a90e18955a7847"
+      ],
+      "id": "126cf9a76b756ed5",
+      "date": 1507476985541
+    },
+    {
+      "type": "edit",
+      "id": "126cf9a76b756ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "126cf9a76b756ed5",
+        "text": "Added some more info & links to [[Writing]]"
+      },
+      "date": 1507476992786
+    }
+  ]
+}

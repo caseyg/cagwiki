@@ -139,7 +139,7 @@
     {
       "type": "paragraph",
       "id": "00fbdd3978446855",
-      "text": "[[Principles (Ray Dalio)]]"
+      "text": "[[Principles (Ray Dalio)]] 👿"
     },
     {
       "type": "paragraph",
@@ -1228,6 +1228,26 @@
         "text": "[[Bureaucratic Intelligence]]"
       },
       "date": 1480186787593
+    },
+    {
+      "type": "edit",
+      "id": "00fbdd3978446855",
+      "item": {
+        "type": "paragraph",
+        "id": "00fbdd3978446855",
+        "text": "[[Principles (Ray Dalio)]] :👿"
+      },
+      "date": 1507477097298
+    },
+    {
+      "type": "edit",
+      "id": "00fbdd3978446855",
+      "item": {
+        "type": "paragraph",
+        "id": "00fbdd3978446855",
+        "text": "[[Principles (Ray Dalio)]] 👿"
+      },
+      "date": 1507477100295
     }
   ]
 }

@@ -13,6 +13,11 @@
     },
     {
       "type": "paragraph",
+      "id": "010525c63dc3a6ec",
+      "text": "[[2017-10-08]]"
+    },
+    {
+      "type": "paragraph",
       "id": "e4d3fc4af63fc72e",
       "text": "[[2017-07-28]]"
     },
@@ -262,6 +267,17 @@
       },
       "after": "00a6353dc47726b4",
       "date": 1501231167398
+    },
+    {
+      "type": "add",
+      "id": "010525c63dc3a6ec",
+      "item": {
+        "type": "paragraph",
+        "id": "010525c63dc3a6ec",
+        "text": "[[2017-10-08]]"
+      },
+      "after": "00a6353dc47726b4",
+      "date": 1507476870713
     }
   ]
 }

@@ -14,7 +14,7 @@
     {
       "type": "video",
       "id": "a13aebef6380479d",
-      "text": "YOUTUBE BjxOLDcM4Hk"
+      "text": "YOUTUBE BjxOLDcM4Hk\nThought that you might get the message / You're never gonna reach me\n"
     }
   ],
   "journal": [
@@ -155,6 +155,26 @@
         "text": "Email: casey@bullshit.systems"
       },
       "date": 1494008004815
+    },
+    {
+      "type": "edit",
+      "id": "a13aebef6380479d",
+      "item": {
+        "type": "video",
+        "id": "a13aebef6380479d",
+        "text": "YOUTUBE BjxOLDcM4Hk\nThought that you might get the message"
+      },
+      "date": 1507477232448
+    },
+    {
+      "type": "edit",
+      "id": "a13aebef6380479d",
+      "item": {
+        "type": "video",
+        "id": "a13aebef6380479d",
+        "text": "YOUTUBE BjxOLDcM4Hk\nThought that you might get the message / You're never gonna reach me\n"
+      },
+      "date": 1507477240233
     }
   ]
 }

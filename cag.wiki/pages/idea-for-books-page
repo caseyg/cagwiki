@@ -1,0 +1,49 @@
+{
+  "title": "Idea for Books Page",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a025a40a73354054",
+      "text": "Favorite Books: don't read"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Idea for Books Page",
+        "story": []
+      },
+      "date": 1507474918610
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a025a40a73354054"
+      },
+      "id": "a025a40a73354054",
+      "type": "add",
+      "date": 1507474919848
+    },
+    {
+      "type": "edit",
+      "id": "a025a40a73354054",
+      "item": {
+        "type": "paragraph",
+        "id": "a025a40a73354054",
+        "text": "don't read"
+      },
+      "date": 1507474925145
+    },
+    {
+      "type": "edit",
+      "id": "a025a40a73354054",
+      "item": {
+        "type": "paragraph",
+        "id": "a025a40a73354054",
+        "text": "Favorite Books: don't read"
+      },
+      "date": 1507474929916
+    }
+  ]
+}

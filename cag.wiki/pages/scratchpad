@@ -3,28 +3,8 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "0cb69ea2a544e96f",
-      "text": "[[2016-12-28]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "37a9ccf7b8227171",
-      "text": "[[2017-01-15]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "d6b2f80a90ad6135",
-      "text": "[[2017-01-22]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "ff760d2e29bbbc02",
-      "text": "[[2017-01-25]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "ef0f05b0784b875a",
-      "text": "[[2017-01-27]]"
+      "id": "acca433dfe8b3111",
+      "text": "[[2017-04-04]]"
     },
     {
       "type": "paragraph",
@@ -33,8 +13,28 @@
     },
     {
       "type": "paragraph",
-      "id": "acca433dfe8b3111",
-      "text": "[[2017-04-04]]"
+      "id": "ef0f05b0784b875a",
+      "text": "[[2017-01-27]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ff760d2e29bbbc02",
+      "text": "[[2017-01-25]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6b2f80a90ad6135",
+      "text": "[[2017-01-22]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "37a9ccf7b8227171",
+      "text": "[[2017-01-15]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0cb69ea2a544e96f",
+      "text": "[[2016-12-28]]"
     }
   ],
   "journal": [
@@ -150,6 +150,90 @@
       },
       "after": "ad6fff4c1fa2a078",
       "date": 1491348433582
+    },
+    {
+      "type": "move",
+      "order": [
+        "acca433dfe8b3111",
+        "0cb69ea2a544e96f",
+        "37a9ccf7b8227171",
+        "d6b2f80a90ad6135",
+        "ff760d2e29bbbc02",
+        "ef0f05b0784b875a",
+        "ad6fff4c1fa2a078"
+      ],
+      "id": "acca433dfe8b3111",
+      "date": 1507477361233
+    },
+    {
+      "type": "move",
+      "order": [
+        "acca433dfe8b3111",
+        "ad6fff4c1fa2a078",
+        "0cb69ea2a544e96f",
+        "37a9ccf7b8227171",
+        "d6b2f80a90ad6135",
+        "ff760d2e29bbbc02",
+        "ef0f05b0784b875a"
+      ],
+      "id": "ad6fff4c1fa2a078",
+      "date": 1507477362729
+    },
+    {
+      "type": "move",
+      "order": [
+        "acca433dfe8b3111",
+        "ad6fff4c1fa2a078",
+        "ef0f05b0784b875a",
+        "0cb69ea2a544e96f",
+        "37a9ccf7b8227171",
+        "d6b2f80a90ad6135",
+        "ff760d2e29bbbc02"
+      ],
+      "id": "ef0f05b0784b875a",
+      "date": 1507477365190
+    },
+    {
+      "type": "move",
+      "order": [
+        "acca433dfe8b3111",
+        "ad6fff4c1fa2a078",
+        "ef0f05b0784b875a",
+        "ff760d2e29bbbc02",
+        "0cb69ea2a544e96f",
+        "37a9ccf7b8227171",
+        "d6b2f80a90ad6135"
+      ],
+      "id": "ff760d2e29bbbc02",
+      "date": 1507477366741
+    },
+    {
+      "type": "move",
+      "order": [
+        "acca433dfe8b3111",
+        "ad6fff4c1fa2a078",
+        "ef0f05b0784b875a",
+        "ff760d2e29bbbc02",
+        "d6b2f80a90ad6135",
+        "0cb69ea2a544e96f",
+        "37a9ccf7b8227171"
+      ],
+      "id": "d6b2f80a90ad6135",
+      "date": 1507477368184
+    },
+    {
+      "type": "move",
+      "order": [
+        "acca433dfe8b3111",
+        "ad6fff4c1fa2a078",
+        "ef0f05b0784b875a",
+        "ff760d2e29bbbc02",
+        "d6b2f80a90ad6135",
+        "37a9ccf7b8227171",
+        "0cb69ea2a544e96f"
+      ],
+      "id": "37a9ccf7b8227171",
+      "date": 1507477369395
     }
   ]
 }

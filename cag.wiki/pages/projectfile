@@ -8,8 +8,13 @@
     },
     {
       "type": "paragraph",
+      "id": "85123f7c93b0c6c4",
+      "text": "networked publishing syllabus"
+    },
+    {
+      "type": "paragraph",
       "id": "a494781ab34326d9",
-      "text": "friend graveyard"
+      "text": "[[friend graveyard]]"
     },
     {
       "type": "paragraph",
@@ -393,6 +398,37 @@
       },
       "after": "556077c89e6948a5",
       "date": 1480881484432
+    },
+    {
+      "type": "add",
+      "id": "85123f7c93b0c6c4",
+      "item": {
+        "type": "paragraph",
+        "id": "85123f7c93b0c6c4",
+        "text": "networked publishing"
+      },
+      "after": "556077c89e6948a5",
+      "date": 1502203558329
+    },
+    {
+      "type": "edit",
+      "id": "85123f7c93b0c6c4",
+      "item": {
+        "type": "paragraph",
+        "id": "85123f7c93b0c6c4",
+        "text": "networked publishing syllabus"
+      },
+      "date": 1502203561861
+    },
+    {
+      "type": "edit",
+      "id": "a494781ab34326d9",
+      "item": {
+        "type": "paragraph",
+        "id": "a494781ab34326d9",
+        "text": "[[friend graveyard]]"
+      },
+      "date": 1502203713645
     }
   ]
 }

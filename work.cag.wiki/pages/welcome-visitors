@@ -9,17 +9,17 @@
     {
       "type": "markdown",
       "id": "b53a80630e831449",
-      "text": "# Hi, I'm [[Casey]]! Let's build a website."
+      "text": "# Hi, I'm [[Casey]] Gollan! I design and build websites for academics, artists, and writers."
     },
     {
-      "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "🖼️ To see recent projects, visit the 👉 [[Work]] 👈 page"
+      "type": "html",
+      "id": "92415ad4b9296364",
+      "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are when I'm helping to communicate complex practices and organizing large archives.</p>"
     },
     {
       "type": "paragraph",
       "id": "3873b39a0a10a1df",
-      "text": "✅ I'm currently taking on new work for Summer and Fall 2017. If you've got a project in mind, get in touch."
+      "text": "✅ I'm currently taking on new work for Fall and Winter 2017. If you've got a project in mind, get in touch."
     },
     {
       "type": "html",
@@ -33,8 +33,28 @@
     },
     {
       "type": "paragraph",
+      "id": "6ba76c854483ddb9",
+      "text": "👉 [[Work]]"
+    },
+    {
+      "type": "paragraph",
       "id": "3c76d1841f77335b",
       "text": "🛠️ [[Tools]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "91a97c9e7b742718",
+      "text": "💬 [[Process]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6fd24d6cbe48ccb6",
+      "text": "🌾 [[Approaches]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "94e947565aec9ee0",
+      "text": "👀 [[Features]]"
     },
     {
       "type": "paragraph",
@@ -3183,6 +3203,341 @@
       ],
       "id": "3873b39a0a10a1df",
       "date": 1501265402857
+    },
+    {
+      "type": "add",
+      "id": "6fd24d6cbe48ccb6",
+      "item": {
+        "type": "paragraph",
+        "id": "6fd24d6cbe48ccb6",
+        "text": "🌾 [[Approaches]]"
+      },
+      "after": "3c76d1841f77335b",
+      "date": 1502215266741
+    },
+    {
+      "type": "add",
+      "id": "94e947565aec9ee0",
+      "item": {
+        "type": "paragraph",
+        "id": "94e947565aec9ee0",
+        "text": "👀 [[Features]]"
+      },
+      "after": "6fd24d6cbe48ccb6",
+      "date": 1502818240659
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey Gollan]]! Let's build a website."
+      },
+      "date": 1507495302834
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey Gollan]]! I help build websites for academics, artists, and writers.\n\nMy favorite projects are helping communicate complex practices and reorganize large archives."
+      },
+      "date": 1507495307502
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey Gollan]]! I help build websites for academics, artists, and writers.\n\n## My favorite projects are helping communicate complex practices and reorganize large archives."
+      },
+      "date": 1507495311792
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey Gollan]]! I help build websites for academics, artists, and writers.\n\n# I do all kinds of work. My favorite projects are helping communicate complex practices and reorganize large archives."
+      },
+      "date": 1507495320403
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey Gollan]]! I help build websites for academics, artists, and writers.\n\n# I work across many fields, but my favorite projects are helping communicate complex practices and reorganize large archives."
+      },
+      "date": 1507495345882
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey Gollan]]! I help build websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites are helping communicate complex practices and reorganize large archives."
+      },
+      "date": 1507495369545
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey Gollan]]! I help build websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites are helping communicate complex practices and reorganizing large archives."
+      },
+      "date": 1507495377709
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey Gollan]]! I help build websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites are helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507495380593
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I help build websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites are helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507495392108
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "3873b39a0a10a1df",
+        "7738ecd46a1680fe",
+        "821827c99b90cfd1",
+        "20c4a9f0f0150595",
+        "3c76d1841f77335b",
+        "6fd24d6cbe48ccb6",
+        "94e947565aec9ee0",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "821827c99b90cfd1",
+      "date": 1507495401369
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1507495408942
+    },
+    {
+      "type": "add",
+      "id": "6ba76c854483ddb9",
+      "item": {
+        "type": "paragraph",
+        "id": "6ba76c854483ddb9",
+        "text": "👉 [[Work]]"
+      },
+      "after": "20c4a9f0f0150595",
+      "date": 1507495411647
+    },
+    {
+      "type": "add",
+      "id": "91a97c9e7b742718",
+      "item": {
+        "type": "paragraph",
+        "id": "91a97c9e7b742718",
+        "text": "💬 [[Process]]"
+      },
+      "after": "3c76d1841f77335b",
+      "date": 1507495452095
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I help build solid and reader-friendly websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites are helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507496186952
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I help build solid and reader-friendly websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites ones are helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507496202146
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I help build solid and reader-friendly websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites ones are when I'm helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507496226177
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I build solid and reader-friendly websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites ones are when I'm helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507496245619
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I design and buildwebsites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites ones are when I'm helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507496255544
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I design and build websites for academics, artists, and writers.\n\n# I work on many types of projects, but my favorites ones are when I'm helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507496258107
+    },
+    {
+      "type": "edit",
+      "id": "3873b39a0a10a1df",
+      "item": {
+        "type": "paragraph",
+        "id": "3873b39a0a10a1df",
+        "text": "✅ I'm currently taking on new work for Fall and Winter 2017. If you've got a project in mind, get in touch."
+      },
+      "date": 1507496293582
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I design and build websites for academics, artists, and writers."
+      },
+      "date": 1507496518297
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "92415ad4b9296364"
+      },
+      "id": "92415ad4b9296364",
+      "type": "add",
+      "after": "9e32a5f9e3c47051",
+      "date": 1507496520529
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "# I work on many types of projects, but my favorites ones are when I'm helping communicate complex practices and organizing large archives."
+      },
+      "date": 1507496525256
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites ones are when I'm helping communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507496533698
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4766ee4b032de34",
+        "b53a80630e831449",
+        "92415ad4b9296364",
+        "3873b39a0a10a1df",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "6ba76c854483ddb9",
+        "3c76d1841f77335b",
+        "91a97c9e7b742718",
+        "6fd24d6cbe48ccb6",
+        "94e947565aec9ee0",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "92415ad4b9296364",
+      "date": 1507496536965
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorite ones are when I'm helping communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507496548742
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are when I'm helping communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507496567354
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are when I'm helping to communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507496573174
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are when I'm helping to communicate complex practices or organizing large archives.</p>"
+      },
+      "date": 1507496576794
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are when I'm helping to communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507496580309
     }
   ]
 }
