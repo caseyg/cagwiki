@@ -2,9 +2,9 @@
   "title": "Tools",
   "story": [
     {
-      "type": "paragraph",
-      "id": "2638e38929f93bfa",
-      "text": "These are some of the tools that I use to do my work:"
+      "type": "html",
+      "id": "07d8671439846719",
+      "text": "<p style=\"font-size: 1.25em;\">These are some of the tools that I use to do my work:</p>"
     },
     {
       "type": "markdown",
@@ -1618,6 +1618,81 @@
         "text": "[[Mule Client Screener]]\n [http://muledesign.com/designbook/screener.html link]"
       },
       "date": 1503168256169
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07d8671439846719"
+      },
+      "id": "07d8671439846719",
+      "type": "add",
+      "after": "30a0710b4fccd045",
+      "date": 1507498684608
+    },
+    {
+      "type": "edit",
+      "id": "07d8671439846719",
+      "item": {
+        "type": "html",
+        "id": "07d8671439846719",
+        "text": "<p style=\"font-size: 1.25em;\">My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain.</p>"
+      },
+      "date": 1507498702160
+    },
+    {
+      "type": "move",
+      "order": [
+        "2638e38929f93bfa",
+        "07d8671439846719",
+        "d3333d4e9f6e3b95",
+        "0b2c77b06e8c2c59",
+        "0d518372f7d0fabd",
+        "a7734313302ca614",
+        "4ce6c97cd1ae6b63",
+        "963c1aa3769d6dd7",
+        "36679dde6955d6b5",
+        "f0a6ba0fc4e77875",
+        "92f14ab3c966e341",
+        "03bd3cc57a0fe6b2",
+        "755b3d8ff4021c78",
+        "b5cabead4439d067",
+        "9c78e1a0d10c4fba",
+        "94529d652612dd56",
+        "d731aa3eab4bc60f",
+        "2c829c0c1518c6f1",
+        "483f7a720a0842e7",
+        "aec39e2f0d7cc130",
+        "ef52c13ff2522447",
+        "8f4859c902256dc2",
+        "e92184feaa0dd0de",
+        "d371e3a37a110843",
+        "45e3731b8bb67968",
+        "b533715b1c7da45f",
+        "f282992f49007b83",
+        "789b4b72855fc99e",
+        "1a0c1b5d24443ae1",
+        "dd2fa29d5bcf58cd",
+        "50d949d11b3f2b13",
+        "95b882afe23251f0",
+        "30a0710b4fccd045"
+      ],
+      "id": "07d8671439846719",
+      "date": 1507498704927
+    },
+    {
+      "type": "remove",
+      "id": "2638e38929f93bfa",
+      "date": 1507498706635
+    },
+    {
+      "type": "edit",
+      "id": "07d8671439846719",
+      "item": {
+        "type": "html",
+        "id": "07d8671439846719",
+        "text": "<p style=\"font-size: 1.25em;\">These are some of the tools that I use to do my work:</p>"
+      },
+      "date": 1507498710358
     }
   ]
 }

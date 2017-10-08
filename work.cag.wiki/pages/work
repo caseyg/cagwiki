@@ -7,9 +7,9 @@
       "text": "🌀 Approach"
     },
     {
-      "type": "paragraph",
-      "id": "02db753986f1d973",
-      "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
+      "type": "html",
+      "id": "e1d41aa79c55f70a",
+      "text": "<p style=\"font-size: 1.25em;\">My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain.</p>"
     },
     {
       "type": "pagefold",
@@ -28,6 +28,11 @@
     },
     {
       "type": "html",
+      "id": "d2db0e86fa4b9bb0",
+      "text": "<hr style=\"border:none;border-top:1px solid #ccc;clear:both;\">"
+    },
+    {
+      "type": "html",
       "id": "75c40c0ee7de1d4e",
       "text": "<a href=\"http://sarahendren.com\"><img src=\"http://caseyg.github.io/hire/sarahendren.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
     },
@@ -38,6 +43,11 @@
     },
     {
       "type": "html",
+      "id": "a99ed4bc20f1d0a3",
+      "text": "<hr style=\"border:none;border-top:1px solid #ccc;clear:both;\">"
+    },
+    {
+      "type": "html",
       "id": "d683f67a82f6d795",
       "text": "<a href=\"http://inglettgallery.com\"><img src=\"http://caseyg.github.io/hire/inglettgallery.png\" style=\"float:right;width:40%;margin: 0 0 10px 10px;\"></a>"
     },
@@ -45,6 +55,11 @@
       "type": "paragraph",
       "id": "f61a9fbe7750b0f0",
       "text": "[[Susan Inglett Gallery]] — Tailored content management for the 23 year program of exhibitions and editions at this New York gallery has helped improve both presentation and consistency."
+    },
+    {
+      "type": "html",
+      "id": "6e6289e959017f7c",
+      "text": "<hr style=\"border:none;border-top:1px solid #ccc;clear:both;\">"
     },
     {
       "type": "html",
@@ -4554,6 +4569,454 @@
         "text": "My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain."
       },
       "date": 1501265719053
+    },
+    {
+      "type": "add",
+      "id": "3fff75b56cfb8c8b",
+      "item": {
+        "type": "paragraph",
+        "id": "3fff75b56cfb8c8b",
+        "text": "---"
+      },
+      "after": "6bbacb1673dc7111",
+      "date": 1507498354574
+    },
+    {
+      "type": "remove",
+      "id": "3fff75b56cfb8c8b",
+      "date": 1507498358953
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d2db0e86fa4b9bb0"
+      },
+      "id": "d2db0e86fa4b9bb0",
+      "type": "add",
+      "after": "eb4a153507259e23",
+      "date": 1507498362754
+    },
+    {
+      "type": "edit",
+      "id": "d2db0e86fa4b9bb0",
+      "item": {
+        "type": "html",
+        "id": "d2db0e86fa4b9bb0",
+        "text": "<hr>"
+      },
+      "date": 1507498368857
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "75c40c0ee7de1d4e",
+        "d2db0e86fa4b9bb0",
+        "9e6aff6de78b5eeb",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "d2db0e86fa4b9bb0",
+      "date": 1507498384398
+    },
+    {
+      "type": "edit",
+      "id": "d2db0e86fa4b9bb0",
+      "item": {
+        "type": "html",
+        "id": "d2db0e86fa4b9bb0",
+        "text": "<hr style=\"clear:both;\">"
+      },
+      "date": 1507498397479
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "d2db0e86fa4b9bb0",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "75c40c0ee7de1d4e",
+      "date": 1507498400424
+    },
+    {
+      "type": "edit",
+      "id": "d2db0e86fa4b9bb0",
+      "item": {
+        "type": "html",
+        "id": "d2db0e86fa4b9bb0",
+        "text": "<hr style=\"border-top:1px solid #ccc;clear:both;\">"
+      },
+      "date": 1507498411012
+    },
+    {
+      "type": "edit",
+      "id": "d2db0e86fa4b9bb0",
+      "item": {
+        "type": "html",
+        "id": "d2db0e86fa4b9bb0",
+        "text": "<hr style=\"border:none;border-top:1px solid #ccc;clear:both;\">"
+      },
+      "date": 1507498417034
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "d2db0e86fa4b9bb0",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "d2db0e86fa4b9bb0",
+      "date": 1507498423613
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "d2db0e86fa4b9bb0",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "d2db0e86fa4b9bb0",
+      "date": 1507498448085
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a99ed4bc20f1d0a3"
+      },
+      "id": "a99ed4bc20f1d0a3",
+      "type": "add",
+      "after": "eb4a153507259e23",
+      "date": 1507498469960
+    },
+    {
+      "type": "edit",
+      "id": "a99ed4bc20f1d0a3",
+      "item": {
+        "type": "html",
+        "id": "a99ed4bc20f1d0a3",
+        "text": "<hr style=\"border:none;border-top:1px solid #ccc;clear:both;\">"
+      },
+      "date": 1507498472920
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "d2db0e86fa4b9bb0",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "d683f67a82f6d795",
+        "a99ed4bc20f1d0a3",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "a99ed4bc20f1d0a3",
+      "date": 1507498479612
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "d2db0e86fa4b9bb0",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "a99ed4bc20f1d0a3",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "d683f67a82f6d795",
+      "date": 1507498481233
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e6289e959017f7c"
+      },
+      "id": "6e6289e959017f7c",
+      "type": "add",
+      "after": "eb4a153507259e23",
+      "date": 1507498486774
+    },
+    {
+      "type": "edit",
+      "id": "6e6289e959017f7c",
+      "item": {
+        "type": "html",
+        "id": "6e6289e959017f7c",
+        "text": "<hr style=\"border:none;border-top:1px solid #ccc;clear:both;\">"
+      },
+      "date": 1507498490157
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "d2db0e86fa4b9bb0",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "a99ed4bc20f1d0a3",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "b047cd646924daa6",
+        "6e6289e959017f7c",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "6e6289e959017f7c",
+      "date": 1507498495196
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "d2db0e86fa4b9bb0",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "a99ed4bc20f1d0a3",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "6e6289e959017f7c",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "b047cd646924daa6",
+      "date": 1507498496368
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e1d41aa79c55f70a"
+      },
+      "id": "e1d41aa79c55f70a",
+      "type": "add",
+      "after": "eb4a153507259e23",
+      "date": 1507498620742
+    },
+    {
+      "type": "edit",
+      "id": "e1d41aa79c55f70a",
+      "item": {
+        "type": "html",
+        "id": "e1d41aa79c55f70a",
+        "text": "<p>TEST</p>"
+      },
+      "date": 1507498627210
+    },
+    {
+      "type": "move",
+      "order": [
+        "24e971a317321f6b",
+        "02db753986f1d973",
+        "e1d41aa79c55f70a",
+        "fee2ad6031a69034",
+        "96f4ad5d92f85abc",
+        "6bbacb1673dc7111",
+        "d2db0e86fa4b9bb0",
+        "75c40c0ee7de1d4e",
+        "9e6aff6de78b5eeb",
+        "a99ed4bc20f1d0a3",
+        "d683f67a82f6d795",
+        "f61a9fbe7750b0f0",
+        "6e6289e959017f7c",
+        "b047cd646924daa6",
+        "2c405153c0590310",
+        "e5dda81105c8b852",
+        "08fff3be0da49eac",
+        "e8b92c436b4dac7d",
+        "fe4bc611c8621db6",
+        "501e30e1c0976c0e",
+        "91c485354998c331",
+        "cc0bd144521ec654",
+        "de1668e79e618175",
+        "659b420ac7d35eb1",
+        "1667843851bc72f1",
+        "f0f08aa98c51d5bf",
+        "73db7b3cee23e1df",
+        "eb4a153507259e23"
+      ],
+      "id": "e1d41aa79c55f70a",
+      "date": 1507498630637
+    },
+    {
+      "type": "edit",
+      "id": "e1d41aa79c55f70a",
+      "item": {
+        "type": "html",
+        "id": "e1d41aa79c55f70a",
+        "text": "<p style=\"font-size: 1.25em;\">TEST</p>"
+      },
+      "date": 1507498648609
+    },
+    {
+      "type": "remove",
+      "id": "02db753986f1d973",
+      "date": 1507498650180
+    },
+    {
+      "type": "edit",
+      "id": "e1d41aa79c55f70a",
+      "item": {
+        "type": "html",
+        "id": "e1d41aa79c55f70a",
+        "text": "<p style=\"font-size: 1.25em;\">My favorite kind of project is highly collaborative and process-oriented: asking you questions to help articulate your audiences and goals; drawing out the stories behind your work; sketching out a structure and form that communicates effectively; and building you a website that is solid, reader-friendly, and easy to maintain.</p>"
+      },
+      "date": 1507498653345
     }
   ]
 }

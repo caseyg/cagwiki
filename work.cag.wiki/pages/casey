@@ -7,9 +7,9 @@
       "text": "<img src=\"https://avatars1.githubusercontent.com/u/462020?v=4&s=460\" style=\"float:right;width:25%;margin: 0 0 10px 10px;\">"
     },
     {
-      "type": "paragraph",
-      "id": "28b63feaded2fe41",
-      "text": "I'm Casey Gollan — a designer and developer for hire, based out of [[Orbital]] in New York."
+      "type": "html",
+      "id": "188dcd51dd9f78af",
+      "text": "<p style=\"font-size: 1.25em;\">I'm Casey Gollan — a designer and developer for hire, based in New York.</p>"
     },
     {
       "type": "paragraph",
@@ -995,6 +995,70 @@
         "text": "Recent work includes an ongoing collaboration with design researcher [[Sara Hendren]], director of the [[Adaptation + Ability Group]] at Olin College. The [[Engineering at Home]] project will be included in an exhibition on the future of design at the Victoria & Albert Museum in London in 2017."
       },
       "date": 1501261228288
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "188dcd51dd9f78af"
+      },
+      "id": "188dcd51dd9f78af",
+      "type": "add",
+      "after": "590527bdcbccc239",
+      "date": 1507498758464
+    },
+    {
+      "type": "edit",
+      "id": "188dcd51dd9f78af",
+      "item": {
+        "type": "html",
+        "id": "188dcd51dd9f78af",
+        "text": "<p style=\"font-size: 1.25em;\">There's more to design than meets the eye! 👀 In fact — after negotiating a contract — every project I work on starts with a research phase. We also spend time together setting goals, workshopping content and organization.</p>"
+      },
+      "date": 1507498760964
+    },
+    {
+      "type": "move",
+      "order": [
+        "da0a01c89a1cea73",
+        "188dcd51dd9f78af",
+        "28b63feaded2fe41",
+        "8fdc9401d8407457",
+        "28ac3b2dcaf44fce",
+        "9998d870dda08f48",
+        "f07599dbada81d49",
+        "db12fa3293ef5e60",
+        "e44148501af64d05",
+        "af2558ea75e55cd0",
+        "dc8e09b9e2bc31e8",
+        "590527bdcbccc239"
+      ],
+      "id": "188dcd51dd9f78af",
+      "date": 1507498763255
+    },
+    {
+      "type": "remove",
+      "id": "28b63feaded2fe41",
+      "date": 1507498765601
+    },
+    {
+      "type": "edit",
+      "id": "188dcd51dd9f78af",
+      "item": {
+        "type": "html",
+        "id": "188dcd51dd9f78af",
+        "text": "<p style=\"font-size: 1.25em;\">I'm Casey Gollan — a designer and developer for hire, based out of [[Orbital]] in New York.</p>"
+      },
+      "date": 1507498769765
+    },
+    {
+      "type": "edit",
+      "id": "188dcd51dd9f78af",
+      "item": {
+        "type": "html",
+        "id": "188dcd51dd9f78af",
+        "text": "<p style=\"font-size: 1.25em;\">I'm Casey Gollan — a designer and developer for hire, based in New York.</p>"
+      },
+      "date": 1507498782352
     }
   ]
 }
