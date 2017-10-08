@@ -34,7 +34,6 @@ body {
   right: 0;
   bottom: 0;
   position: absolute;
-  bottom: 60px;
   margin: 0;
   width: 10000%; }
 
@@ -43,13 +42,21 @@ footer {
   box-shadow: none;
   background: white;
   position: fixed;
-  left: 0;
-  right: 0;
+    bottom: 0;
+    right: 0;
   height: 20px;
   padding: 10px;
   font-size: 80%;
   z-index: 1000;
   color: gray; }
+
+footer {
+  opacity: 0;
+}
+
+footer:hover {
+  opacity: 1;
+}
 
 footer form, .footer-item {
   display: inline;
@@ -102,12 +109,18 @@ header {
 footer {
   bottom: 0; }
 
+.footer,
+.twins {
+  display: none;
+}
+
 .twins,
 .journal,
 .footer {
   min-height: 1em;
   opacity: 1;
 }
+
 .twins:hover,
 .journal:hover,
 .footer:hover {
@@ -258,18 +271,27 @@ p.readout {
 
 .page {
   float: left;    /* inline-block preferred? */
-  margin: 8px;
+  margin: 0;
   /* padding: 0 31px; */
-  width: 490px;
-  background-color: white;
+  width: 600px;
+  background-color: #eee;
+  color: #555;
   height: 100%;
   overflow: auto;
-  border: 1px dotted gray;
+  border: 0;
   box-shadow: none; }
+  .page:hover {
+    box-shadow: inset 0px 0px 15px 15px #ccc;
+    color: #000;
+    cursor: pointer;
+  }
   .page.active {
     box-shadow: none;
-    border: 1px solid black;
-    z-index: 10; }
+    border: 0;
+    color: #000;
+    background: #fff;
+    z-index: 10;
+    cursor: auto; }
 
 .page.plugin > .paper {
   box-shadow: inset 0px 0px 40px 40px lime;
@@ -367,6 +389,7 @@ textarea {
 }
 
 .favicon {
+  display: none;
   position: relative;
   margin-bottom: -6px; }
 
