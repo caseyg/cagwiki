@@ -53,8 +53,8 @@
     },
     {
       "type": "paragraph",
-      "id": "2df0220d97eebc5c",
-      "text": "Josh Olins\n"
+      "id": "1d6d5a211c878b68",
+      "text": "Jennifer Brook"
     },
     {
       "type": "paragraph",
@@ -75,11 +75,6 @@
       "type": "paragraph",
       "id": "3b7274326edf18c1",
       "text": "Pooool\n"
-    },
-    {
-      "type": "paragraph",
-      "id": "f097a3a3a6931abc",
-      "text": "Recess New York\n"
     },
     {
       "type": "paragraph",
@@ -394,6 +389,27 @@
       },
       "after": "f4cbcdb4ad19b3e3",
       "date": 1507493093230
+    },
+    {
+      "type": "remove",
+      "id": "f097a3a3a6931abc",
+      "date": 1508519186867
+    },
+    {
+      "type": "add",
+      "id": "1d6d5a211c878b68",
+      "item": {
+        "type": "paragraph",
+        "id": "1d6d5a211c878b68",
+        "text": "Jennifer Brook"
+      },
+      "after": "d4ac44eabf4203f4",
+      "date": 1508519193808
+    },
+    {
+      "type": "remove",
+      "id": "2df0220d97eebc5c",
+      "date": 1508519197868
     }
   ]
 }

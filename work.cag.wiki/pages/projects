@@ -4,6 +4,11 @@
     {
       "type": "paragraph",
       "id": "0d69b5e314916420",
+      "text": "[[Jennifer Brook (website)]], 2017"
+    },
+    {
+      "type": "paragraph",
+      "id": "ba23b62d27af84b8",
       "text": "[[Sara Hendren (website)]], 2017"
     },
     {
@@ -967,6 +972,37 @@
         "text": "[[Sara Hendren (website)]], 2017"
       },
       "date": 1501251718970
+    },
+    {
+      "type": "edit",
+      "id": "0d69b5e314916420",
+      "item": {
+        "type": "paragraph",
+        "id": "0d69b5e314916420",
+        "text": "Jennifer Brook (website), 2017"
+      },
+      "date": 1508519425915
+    },
+    {
+      "type": "add",
+      "id": "ba23b62d27af84b8",
+      "item": {
+        "type": "paragraph",
+        "id": "ba23b62d27af84b8",
+        "text": "[[Sara Hendren (website)]], 2017"
+      },
+      "after": "0d69b5e314916420",
+      "date": 1508519426776
+    },
+    {
+      "type": "edit",
+      "id": "0d69b5e314916420",
+      "item": {
+        "type": "paragraph",
+        "id": "0d69b5e314916420",
+        "text": "[[Jennifer Brook (website)]], 2017"
+      },
+      "date": 1508519438285
     }
   ]
 }

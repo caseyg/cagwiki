@@ -15,6 +15,16 @@
       "type": "paragraph",
       "id": "9a49fe60c4696364",
       "text": "Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped improve both presentation and consistency."
+    },
+    {
+      "type": "paragraph",
+      "id": "35113f4bbb087487",
+      "text": "# Content Modeling"
+    },
+    {
+      "type": "paragraph",
+      "id": "86960ecaa3b7d033",
+      "text": "Migration from Squarespace"
     }
   ],
   "journal": [
@@ -179,6 +189,28 @@
         "text": "Tailored content management for the 23 year program of exhibitions and editions of this New York gallery has helped improve both presentation and consistency."
       },
       "date": 1501263666500
+    },
+    {
+      "type": "add",
+      "id": "35113f4bbb087487",
+      "item": {
+        "type": "paragraph",
+        "id": "35113f4bbb087487",
+        "text": "# Content Modeling"
+      },
+      "after": "9a49fe60c4696364",
+      "date": 1507499549452
+    },
+    {
+      "type": "add",
+      "id": "86960ecaa3b7d033",
+      "item": {
+        "type": "paragraph",
+        "id": "86960ecaa3b7d033",
+        "text": "Migration from Squarespace"
+      },
+      "after": "35113f4bbb087487",
+      "date": 1507499553036
     }
   ]
 }

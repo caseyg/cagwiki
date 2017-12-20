@@ -2,11 +2,6 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "type": "html",
-      "id": "b4766ee4b032de34",
-      "text": "<img src=\"http://bullshit.systems/sisu.gif\">"
-    },
-    {
       "type": "markdown",
       "id": "b53a80630e831449",
       "text": "# Hi, I'm [[Casey]] Gollan! I design and build websites for academics, artists, and writers."
@@ -14,12 +9,17 @@
     {
       "type": "html",
       "id": "92415ad4b9296364",
-      "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are when I'm helping to communicate complex practices and organizing large archives.</p>"
+      "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are helping to communicate complex practices and organizing large archives.</p>"
+    },
+    {
+      "type": "html",
+      "id": "b4766ee4b032de34",
+      "text": "<img src=\"http://bullshit.systems/sisu.gif\">"
     },
     {
       "type": "paragraph",
       "id": "3873b39a0a10a1df",
-      "text": "✅ I'm currently taking on new work for Fall and Winter 2017. If you've got a project in mind, get in touch."
+      "text": "✅ I'm currently taking on new work for Fall and Winter 2017. If you've got a project in mind, get in touch:"
     },
     {
       "type": "html",
@@ -3538,6 +3538,280 @@
         "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are when I'm helping to communicate complex practices and organizing large archives.</p>"
       },
       "date": 1507496580309
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! Let's build a website."
+      },
+      "date": 1507499320166
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I design and build many types of websites for academics, artists, and writers — but my favorites are when I'm helping to communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507499334927
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I design and build websites for academics, artists, and writers — but my favorites are when I'm helping to communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507499343221
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are when I'm helping to communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507499362110
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I design and build websites for academics, artists, and writers "
+      },
+      "date": 1507499366099
+    },
+    {
+      "type": "edit",
+      "id": "b53a80630e831449",
+      "item": {
+        "type": "markdown",
+        "id": "b53a80630e831449",
+        "text": "# Hi, I'm [[Casey]] Gollan! I design and build websites for academics, artists, and writers."
+      },
+      "date": 1507499369146
+    },
+    {
+      "type": "edit",
+      "id": "6ba76c854483ddb9",
+      "item": {
+        "type": "paragraph",
+        "id": "6ba76c854483ddb9",
+        "text": "[[Work]] 👉"
+      },
+      "date": 1507499444203
+    },
+    {
+      "type": "edit",
+      "id": "3c76d1841f77335b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c76d1841f77335b",
+        "text": "[[Tools]] 🛠️"
+      },
+      "date": 1507499448652
+    },
+    {
+      "type": "edit",
+      "id": "3c76d1841f77335b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c76d1841f77335b",
+        "text": "🛠️ [[Tools]]"
+      },
+      "date": 1507499456736
+    },
+    {
+      "type": "edit",
+      "id": "6ba76c854483ddb9",
+      "item": {
+        "type": "paragraph",
+        "id": "6ba76c854483ddb9",
+        "text": "👉 [[Work]]"
+      },
+      "date": 1507499460206
+    },
+    {
+      "type": "edit",
+      "id": "6ba76c854483ddb9",
+      "item": {
+        "type": "paragraph",
+        "id": "6ba76c854483ddb9",
+        "text": "👉 — [[Work]]"
+      },
+      "date": 1507499464004
+    },
+    {
+      "type": "edit",
+      "id": "3c76d1841f77335b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c76d1841f77335b",
+        "text": "🛠️ — [[Tools]]"
+      },
+      "date": 1507499467673
+    },
+    {
+      "type": "edit",
+      "id": "6ba76c854483ddb9",
+      "item": {
+        "type": "paragraph",
+        "id": "6ba76c854483ddb9",
+        "text": "👉 [[Work]]"
+      },
+      "date": 1507499473862
+    },
+    {
+      "type": "edit",
+      "id": "3c76d1841f77335b",
+      "item": {
+        "type": "paragraph",
+        "id": "3c76d1841f77335b",
+        "text": "🛠️ [[Tools]]"
+      },
+      "date": 1507499479610
+    },
+    {
+      "type": "edit",
+      "id": "92415ad4b9296364",
+      "item": {
+        "type": "html",
+        "id": "92415ad4b9296364",
+        "text": "<p style=\"font-size: 1.25em;\">I work on many types of projects, but my favorites are helping to communicate complex practices and organizing large archives.</p>"
+      },
+      "date": 1507500805503
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "b4766ee4b032de34",
+        "92415ad4b9296364",
+        "3873b39a0a10a1df",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "6ba76c854483ddb9",
+        "3c76d1841f77335b",
+        "91a97c9e7b742718",
+        "6fd24d6cbe48ccb6",
+        "94e947565aec9ee0",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "b53a80630e831449",
+      "date": 1507512987721
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "3873b39a0a10a1df",
+        "b4766ee4b032de34",
+        "92415ad4b9296364",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "6ba76c854483ddb9",
+        "3c76d1841f77335b",
+        "91a97c9e7b742718",
+        "6fd24d6cbe48ccb6",
+        "94e947565aec9ee0",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "3873b39a0a10a1df",
+      "date": 1507512991135
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "3873b39a0a10a1df",
+        "7738ecd46a1680fe",
+        "b4766ee4b032de34",
+        "92415ad4b9296364",
+        "20c4a9f0f0150595",
+        "6ba76c854483ddb9",
+        "3c76d1841f77335b",
+        "91a97c9e7b742718",
+        "6fd24d6cbe48ccb6",
+        "94e947565aec9ee0",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "7738ecd46a1680fe",
+      "date": 1507512994175
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "92415ad4b9296364",
+        "3873b39a0a10a1df",
+        "7738ecd46a1680fe",
+        "b4766ee4b032de34",
+        "20c4a9f0f0150595",
+        "6ba76c854483ddb9",
+        "3c76d1841f77335b",
+        "91a97c9e7b742718",
+        "6fd24d6cbe48ccb6",
+        "94e947565aec9ee0",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "92415ad4b9296364",
+      "date": 1507513009385
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "92415ad4b9296364",
+        "3873b39a0a10a1df",
+        "b4766ee4b032de34",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "6ba76c854483ddb9",
+        "3c76d1841f77335b",
+        "91a97c9e7b742718",
+        "6fd24d6cbe48ccb6",
+        "94e947565aec9ee0",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "7738ecd46a1680fe",
+      "date": 1507513010900
+    },
+    {
+      "type": "move",
+      "order": [
+        "b53a80630e831449",
+        "92415ad4b9296364",
+        "b4766ee4b032de34",
+        "3873b39a0a10a1df",
+        "7738ecd46a1680fe",
+        "20c4a9f0f0150595",
+        "6ba76c854483ddb9",
+        "3c76d1841f77335b",
+        "91a97c9e7b742718",
+        "6fd24d6cbe48ccb6",
+        "94e947565aec9ee0",
+        "9e32a5f9e3c47051"
+      ],
+      "id": "3873b39a0a10a1df",
+      "date": 1507513015337
+    },
+    {
+      "type": "edit",
+      "id": "3873b39a0a10a1df",
+      "item": {
+        "type": "paragraph",
+        "id": "3873b39a0a10a1df",
+        "text": "✅ I'm currently taking on new work for Fall and Winter 2017. If you've got a project in mind, get in touch:"
+      },
+      "date": 1507513027034
     }
   ]
 }

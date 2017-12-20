@@ -12,14 +12,19 @@
       "text": "(Of course, the process for every project is a little bit different, but what you see below is a pretty typical outline.)"
     },
     {
-      "type": "paragraph",
-      "id": "c46e18d77cb5f5e6",
-      "text": "PRE-RESEARCH AND SCOPING"
-    },
-    {
       "type": "markdown",
       "id": "01b0bc1e6d5f144e",
       "text": "# 1. Plan"
+    },
+    {
+      "type": "html",
+      "id": "47654294839f33b1",
+      "text": "<h4 style=\"font-weight: 600;\">Pre-research and Scoping<h4>"
+    },
+    {
+      "type": "paragraph",
+      "id": "eedf8c18c511e830",
+      "text": "Ask the [[Project starter questions]]"
     },
     {
       "type": "paragraph",
@@ -42,9 +47,9 @@
       "text": "# 2. Design"
     },
     {
-      "type": "paragraph",
-      "id": "e181d6ea201a0795",
-      "text": "CONTENT STRATEGY"
+      "type": "html",
+      "id": "679074747d243597",
+      "text": "<h4 style=\"font-weight: 600;\">Content Strategy<h4>"
     },
     {
       "type": "paragraph",
@@ -52,9 +57,9 @@
       "text": "Articulate flexible guidelines to help promote cohesive messaging, tone, and style."
     },
     {
-      "type": "paragraph",
-      "id": "85f7f89eba09a381",
-      "text": "INFORMATION ARCHITECTURE"
+      "type": "html",
+      "id": "c9f3401c7b8d55c3",
+      "text": "<h4 style=\"font-weight: 600;\">Information Architecture<h4>"
     },
     {
       "type": "paragraph",
@@ -62,9 +67,9 @@
       "text": "Audit existing content and structure. Annotate issues with existing site design."
     },
     {
-      "type": "paragraph",
-      "id": "0c704e3d032126c8",
-      "text": "VISUAL RESEARCH"
+      "type": "html",
+      "id": "9babedfa0558ac23",
+      "text": "<h4 style=\"font-weight: 600;\">Visual Research<h4>"
     },
     {
       "type": "paragraph",
@@ -72,9 +77,9 @@
       "text": "Ground the visual design by surveying historical materials, current landscape, and distant future."
     },
     {
-      "type": "paragraph",
-      "id": "6dcab7311078f450",
-      "text": "MOCKUPS"
+      "type": "html",
+      "id": "8a942292c0624d19",
+      "text": "<h4 style=\"font-weight: 600;\">Mockups<h4>"
     },
     {
       "type": "paragraph",
@@ -87,9 +92,9 @@
       "text": "# 3. Build"
     },
     {
-      "type": "paragraph",
-      "id": "5d33890bf25b6165",
-      "text": "PROTOTYPE"
+      "type": "html",
+      "id": "8d00e04ef4c37df6",
+      "text": "<h4 style=\"font-weight: 600;\">Prototype<h4>"
     },
     {
       "type": "paragraph",
@@ -97,9 +102,9 @@
       "text": "Create a live staging site demonstrating the breadth of designs and functionalities."
     },
     {
-      "type": "paragraph",
-      "id": "908ffe2ad78e22b0",
-      "text": "ITERATE"
+      "type": "html",
+      "id": "49afb1b21aceb5a5",
+      "text": "<h4 style=\"font-weight: 600;\">Iterate<h4>"
     },
     {
       "type": "paragraph",
@@ -107,9 +112,9 @@
       "text": "Gather late-stage feedback from stakeholders and incorporate back into prototype."
     },
     {
-      "type": "paragraph",
-      "id": "9e469beecd9b64f0",
-      "text": "TRAINING"
+      "type": "html",
+      "id": "fcad69dac57b0ce8",
+      "text": "<h4 style=\"font-weight: 600;\">Training<h4>"
     },
     {
       "type": "paragraph",
@@ -117,9 +122,9 @@
       "text": "Train site editors on new structure."
     },
     {
-      "type": "paragraph",
-      "id": "ddbbbd85f93acb9f",
-      "text": "CONTENT MIGRATION"
+      "type": "html",
+      "id": "542dfb9f292139bc",
+      "text": "<h4 style=\"font-weight: 600;\">Content Migration<h4>"
     },
     {
       "type": "paragraph",
@@ -127,9 +132,9 @@
       "text": "Merge, import, and clean up existing site content, in collaboration with site editors."
     },
     {
-      "type": "paragraph",
-      "id": "254008c723420246",
-      "text": "TESTING"
+      "type": "html",
+      "id": "63240cd81eb4c3fa",
+      "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
     },
     {
       "type": "paragraph",
@@ -1403,6 +1408,1059 @@
         "text": "(Of course, the process for every project is a little bit different, but what you see below is a pretty typical outline.)"
       },
       "date": 1507496669734
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc6e998774b31b13"
+      },
+      "id": "fc6e998774b31b13",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521059291
+    },
+    {
+      "type": "edit",
+      "id": "fc6e998774b31b13",
+      "item": {
+        "type": "paragraph",
+        "id": "fc6e998774b31b13",
+        "text": "<h2>Test</h2>"
+      },
+      "date": 1507521067243
+    },
+    {
+      "type": "remove",
+      "id": "fc6e998774b31b13",
+      "date": 1507521069321
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63240cd81eb4c3fa"
+      },
+      "id": "63240cd81eb4c3fa",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521070429
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h2>Test</h2>"
+      },
+      "date": 1507521072443
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h3>Test</h3>"
+      },
+      "date": 1507521077661
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4>Test</h4>"
+      },
+      "date": 1507521082824
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h5>Test</h5>"
+      },
+      "date": 1507521093452
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4>Test</h4>"
+      },
+      "date": 1507521098451
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"text-transform:uppercase;\">Test</h4>"
+      },
+      "date": 1507521178200
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 100;\">Test</h4>"
+      },
+      "date": 1507521187911
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 300;\">Test</h4>"
+      },
+      "date": 1507521191259
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 400;\">Test</h4>"
+      },
+      "date": 1507521194112
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 500;\">Test</h4>"
+      },
+      "date": 1507521198237
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 500;\">TESTING<h4>"
+      },
+      "date": 1507521204705
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "eb0b2192a592920f",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "ddbbbd85f93acb9f",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "254008c723420246",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "63240cd81eb4c3fa",
+      "date": 1507521206618
+    },
+    {
+      "type": "remove",
+      "id": "254008c723420246",
+      "date": 1507521208641
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 600;\">TESTING<h4>"
+      },
+      "date": 1507521213250
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 500;\">TESTING<h4>"
+      },
+      "date": 1507521216562
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 400;\">TESTING<h4>"
+      },
+      "date": 1507521221142
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 400;\">Testing<h4>"
+      },
+      "date": 1507521228746
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 500;\">Testing<h4>"
+      },
+      "date": 1507521233922
+    },
+    {
+      "type": "edit",
+      "id": "63240cd81eb4c3fa",
+      "item": {
+        "type": "html",
+        "id": "63240cd81eb4c3fa",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521236609
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "542dfb9f292139bc"
+      },
+      "id": "542dfb9f292139bc",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521248600
+    },
+    {
+      "type": "edit",
+      "id": "542dfb9f292139bc",
+      "item": {
+        "type": "html",
+        "id": "542dfb9f292139bc",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521252324
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "eb0b2192a592920f",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "ddbbbd85f93acb9f",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "542dfb9f292139bc",
+      "date": 1507521253979
+    },
+    {
+      "type": "remove",
+      "id": "ddbbbd85f93acb9f",
+      "date": 1507521256279
+    },
+    {
+      "type": "edit",
+      "id": "542dfb9f292139bc",
+      "item": {
+        "type": "html",
+        "id": "542dfb9f292139bc",
+        "text": "<h4 style=\"font-weight: 600;\">Content Migration<h4>"
+      },
+      "date": 1507521262546
+    },
+    {
+      "type": "edit",
+      "id": "bd12c4983a497264",
+      "item": {
+        "type": "markdown",
+        "id": "bd12c4983a497264",
+        "text": "# 4. LAUNCH"
+      },
+      "date": 1507521270663
+    },
+    {
+      "type": "edit",
+      "id": "bd12c4983a497264",
+      "item": {
+        "type": "markdown",
+        "id": "bd12c4983a497264",
+        "text": "# 4. Launch"
+      },
+      "date": 1507521277158
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fcad69dac57b0ce8"
+      },
+      "id": "fcad69dac57b0ce8",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521285556
+    },
+    {
+      "type": "edit",
+      "id": "fcad69dac57b0ce8",
+      "item": {
+        "type": "html",
+        "id": "fcad69dac57b0ce8",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521289324
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "fcad69dac57b0ce8",
+      "date": 1507521291029
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "49afb1b21aceb5a5"
+      },
+      "id": "49afb1b21aceb5a5",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521293500
+    },
+    {
+      "type": "edit",
+      "id": "49afb1b21aceb5a5",
+      "item": {
+        "type": "html",
+        "id": "49afb1b21aceb5a5",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521295657
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "49afb1b21aceb5a5",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "49afb1b21aceb5a5",
+      "date": 1507521298442
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8d00e04ef4c37df6"
+      },
+      "id": "8d00e04ef4c37df6",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521300620
+    },
+    {
+      "type": "edit",
+      "id": "8d00e04ef4c37df6",
+      "item": {
+        "type": "html",
+        "id": "8d00e04ef4c37df6",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521302581
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "8d00e04ef4c37df6",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "49afb1b21aceb5a5",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "8d00e04ef4c37df6",
+      "date": 1507521305401
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a942292c0624d19"
+      },
+      "id": "8a942292c0624d19",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521307712
+    },
+    {
+      "type": "edit",
+      "id": "8a942292c0624d19",
+      "item": {
+        "type": "html",
+        "id": "8a942292c0624d19",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521309495
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "8a942292c0624d19",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "8d00e04ef4c37df6",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "49afb1b21aceb5a5",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "8a942292c0624d19",
+      "date": 1507521312731
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9babedfa0558ac23"
+      },
+      "id": "9babedfa0558ac23",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521315073
+    },
+    {
+      "type": "edit",
+      "id": "9babedfa0558ac23",
+      "item": {
+        "type": "html",
+        "id": "9babedfa0558ac23",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521317948
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "9babedfa0558ac23",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "8a942292c0624d19",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "8d00e04ef4c37df6",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "49afb1b21aceb5a5",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "9babedfa0558ac23",
+      "date": 1507521323220
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9f3401c7b8d55c3"
+      },
+      "id": "c9f3401c7b8d55c3",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521326585
+    },
+    {
+      "type": "edit",
+      "id": "c9f3401c7b8d55c3",
+      "item": {
+        "type": "html",
+        "id": "c9f3401c7b8d55c3",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521328813
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "c9f3401c7b8d55c3",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "9babedfa0558ac23",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "8a942292c0624d19",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "8d00e04ef4c37df6",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "49afb1b21aceb5a5",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "c9f3401c7b8d55c3",
+      "date": 1507521333478
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "679074747d243597"
+      },
+      "id": "679074747d243597",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521335145
+    },
+    {
+      "type": "edit",
+      "id": "679074747d243597",
+      "item": {
+        "type": "html",
+        "id": "679074747d243597",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521336783
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "c46e18d77cb5f5e6",
+        "01b0bc1e6d5f144e",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "679074747d243597",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "c9f3401c7b8d55c3",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "9babedfa0558ac23",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "8a942292c0624d19",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "8d00e04ef4c37df6",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "49afb1b21aceb5a5",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "679074747d243597",
+      "date": 1507521341320
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "01b0bc1e6d5f144e",
+        "c46e18d77cb5f5e6",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "679074747d243597",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "c9f3401c7b8d55c3",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "9babedfa0558ac23",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "8a942292c0624d19",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "8d00e04ef4c37df6",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "49afb1b21aceb5a5",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "c46e18d77cb5f5e6",
+      "date": 1507521346930
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9eefc85bfc8157d7"
+      },
+      "id": "9eefc85bfc8157d7",
+      "type": "add",
+      "after": "cba3b6e378748722",
+      "date": 1507521349449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47654294839f33b1"
+      },
+      "id": "47654294839f33b1",
+      "type": "add",
+      "after": "9eefc85bfc8157d7",
+      "date": 1507521353713
+    },
+    {
+      "type": "remove",
+      "id": "9eefc85bfc8157d7",
+      "date": 1507521354821
+    },
+    {
+      "type": "edit",
+      "id": "47654294839f33b1",
+      "item": {
+        "type": "html",
+        "id": "47654294839f33b1",
+        "text": "<h4 style=\"font-weight: 600;\">Testing<h4>"
+      },
+      "date": 1507521355920
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b6eb2a022a6f74d",
+        "8d728ae21185a9fc",
+        "01b0bc1e6d5f144e",
+        "47654294839f33b1",
+        "c46e18d77cb5f5e6",
+        "432364396eb2f78f",
+        "485c4253c7cfeb69",
+        "774bfb97a37db6ea",
+        "a3232c8b89b85897",
+        "e181d6ea201a0795",
+        "679074747d243597",
+        "569dc5255913f9d8",
+        "85f7f89eba09a381",
+        "c9f3401c7b8d55c3",
+        "5df29a1e2d82652c",
+        "0c704e3d032126c8",
+        "9babedfa0558ac23",
+        "09bd0c09f209ffaa",
+        "6dcab7311078f450",
+        "8a942292c0624d19",
+        "d32ba7504f5f35e0",
+        "b60ce2438ac4e112",
+        "5d33890bf25b6165",
+        "8d00e04ef4c37df6",
+        "3f2af0b6c0882696",
+        "908ffe2ad78e22b0",
+        "49afb1b21aceb5a5",
+        "eb0b2192a592920f",
+        "fcad69dac57b0ce8",
+        "9e469beecd9b64f0",
+        "6094392447357d89",
+        "542dfb9f292139bc",
+        "7dbb87d4c2fcc1ef",
+        "63240cd81eb4c3fa",
+        "d01788bc8bb1e762",
+        "bd12c4983a497264",
+        "cf5b52a3506c5d2c",
+        "cba3b6e378748722"
+      ],
+      "id": "47654294839f33b1",
+      "date": 1507521360588
+    },
+    {
+      "type": "remove",
+      "id": "c46e18d77cb5f5e6",
+      "date": 1507521363473
+    },
+    {
+      "type": "edit",
+      "id": "47654294839f33b1",
+      "item": {
+        "type": "html",
+        "id": "47654294839f33b1",
+        "text": "<h4 style=\"font-weight: 600;\">Pre-research and Scoping<h4>"
+      },
+      "date": 1507521372219
+    },
+    {
+      "type": "remove",
+      "id": "e181d6ea201a0795",
+      "date": 1507521377928
+    },
+    {
+      "type": "edit",
+      "id": "679074747d243597",
+      "item": {
+        "type": "html",
+        "id": "679074747d243597",
+        "text": "<h4 style=\"font-weight: 600;\">Content Stratevy<h4>"
+      },
+      "date": 1507521386059
+    },
+    {
+      "type": "edit",
+      "id": "679074747d243597",
+      "item": {
+        "type": "html",
+        "id": "679074747d243597",
+        "text": "<h4 style=\"font-weight: 600;\">Content Strategy<h4>"
+      },
+      "date": 1507521389392
+    },
+    {
+      "type": "remove",
+      "id": "85f7f89eba09a381",
+      "date": 1507521393246
+    },
+    {
+      "type": "edit",
+      "id": "c9f3401c7b8d55c3",
+      "item": {
+        "type": "html",
+        "id": "c9f3401c7b8d55c3",
+        "text": "<h4 style=\"font-weight: 600;\">Information Architecture<h4>"
+      },
+      "date": 1507521401207
+    },
+    {
+      "type": "remove",
+      "id": "0c704e3d032126c8",
+      "date": 1507521403605
+    },
+    {
+      "type": "edit",
+      "id": "9babedfa0558ac23",
+      "item": {
+        "type": "html",
+        "id": "9babedfa0558ac23",
+        "text": "<h4 style=\"font-weight: 600;\">Visual Research<h4>"
+      },
+      "date": 1507521408009
+    },
+    {
+      "type": "edit",
+      "id": "8a942292c0624d19",
+      "item": {
+        "type": "html",
+        "id": "8a942292c0624d19",
+        "text": "<h4 style=\"font-weight: 600;\">Mockups<h4>"
+      },
+      "date": 1507521413540
+    },
+    {
+      "type": "remove",
+      "id": "6dcab7311078f450",
+      "date": 1507521414942
+    },
+    {
+      "type": "remove",
+      "id": "5d33890bf25b6165",
+      "date": 1507521417417
+    },
+    {
+      "type": "edit",
+      "id": "8d00e04ef4c37df6",
+      "item": {
+        "type": "html",
+        "id": "8d00e04ef4c37df6",
+        "text": "<h4 style=\"font-weight: 600;\">Prototype<h4>"
+      },
+      "date": 1507521420870
+    },
+    {
+      "type": "edit",
+      "id": "49afb1b21aceb5a5",
+      "item": {
+        "type": "html",
+        "id": "49afb1b21aceb5a5",
+        "text": "<h4 style=\"font-weight: 600;\">Iterate<h4>"
+      },
+      "date": 1507521426256
+    },
+    {
+      "type": "remove",
+      "id": "908ffe2ad78e22b0",
+      "date": 1507521427676
+    },
+    {
+      "type": "edit",
+      "id": "fcad69dac57b0ce8",
+      "item": {
+        "type": "html",
+        "id": "fcad69dac57b0ce8",
+        "text": "<h4 style=\"font-weight: 600;\">Training<h4>"
+      },
+      "date": 1507521433906
+    },
+    {
+      "type": "remove",
+      "id": "9e469beecd9b64f0",
+      "date": 1507521435443
+    },
+    {
+      "type": "add",
+      "id": "eedf8c18c511e830",
+      "item": {
+        "type": "paragraph",
+        "id": "eedf8c18c511e830",
+        "text": "Ask [[Questions to start a project]]"
+      },
+      "after": "47654294839f33b1",
+      "date": 1507563115283
+    },
+    {
+      "type": "edit",
+      "id": "eedf8c18c511e830",
+      "item": {
+        "type": "paragraph",
+        "id": "eedf8c18c511e830",
+        "text": "Ask [[Project starter questions]]"
+      },
+      "date": 1507563125716
+    },
+    {
+      "type": "edit",
+      "id": "eedf8c18c511e830",
+      "item": {
+        "type": "paragraph",
+        "id": "eedf8c18c511e830",
+        "text": "Ask the [[Project starter questions]]"
+      },
+      "date": 1507563243881
     }
   ]
 }

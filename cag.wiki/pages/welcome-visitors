@@ -13,6 +13,11 @@
     },
     {
       "type": "paragraph",
+      "id": "c23b829363c6ff47",
+      "text": "A ... B"
+    },
+    {
+      "type": "paragraph",
       "id": "44471403d16574db",
       "text": "[[Baby Names]]"
     },
@@ -28,6 +33,16 @@
     },
     {
       "type": "paragraph",
+      "id": "20ad27fc8018dfe4",
+      "text": "C"
+    },
+    {
+      "type": "paragraph",
+      "id": "12808e2fe9bea250",
+      "text": "[http://caseyagollan.com Caseyagollan.com archive]"
+    },
+    {
+      "type": "paragraph",
       "id": "353336920bc2bf85",
       "text": "[[Casey Gollan]]"
     },
@@ -38,8 +53,18 @@
     },
     {
       "type": "paragraph",
+      "id": "9b009d6af727b30c",
+      "text": "D ... E"
+    },
+    {
+      "type": "paragraph",
       "id": "f6d99bfa60626c56",
       "text": "[[Everyday Weblog]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0cf0b85394f2651b",
+      "text": "F"
     },
     {
       "type": "paragraph",
@@ -48,8 +73,8 @@
     },
     {
       "type": "paragraph",
-      "id": "3904814310e8f71e",
-      "text": "[[Notes]]"
+      "id": "0ef3876f137d5639",
+      "text": "G ... H ... I ... J ... K ... L"
     },
     {
       "type": "paragraph",
@@ -58,8 +83,43 @@
     },
     {
       "type": "paragraph",
+      "id": "25c708227f027998",
+      "text": "M ... N"
+    },
+    {
+      "type": "paragraph",
+      "id": "3904814310e8f71e",
+      "text": "[[Notes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "54860aff0c52e648",
+      "text": "O ... P"
+    },
+    {
+      "type": "paragraph",
+      "id": "a6a9f5a2cd9961ab",
+      "text": "[http://projects.cag.wiki/view/projects Projects Class notes] and [http://projectsthecooperunion.wiki class wiki]"
+    },
+    {
+      "type": "paragraph",
+      "id": "db3f56bca4b32f89",
+      "text": "[[Projectfile]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c00df787e1dab97c",
+      "text": "Q ... R ... S"
+    },
+    {
+      "type": "paragraph",
       "id": "3ea232acde666987",
       "text": "[[Scratchpad]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ed15ca2ac29931f9",
+      "text": "T"
     },
     {
       "type": "paragraph",
@@ -78,13 +138,8 @@
     },
     {
       "type": "paragraph",
-      "id": "a6a9f5a2cd9961ab",
-      "text": "[http://projects.cag.wiki/view/projects Projects Class notes] and [http://projectsthecooperunion.wiki class wiki]"
-    },
-    {
-      "type": "paragraph",
-      "id": "db3f56bca4b32f89",
-      "text": "[[Projectfile]]"
+      "id": "ae5ccf15ff9696f1",
+      "text": "U ... V ... W"
     },
     {
       "type": "paragraph",
@@ -93,8 +148,18 @@
     },
     {
       "type": "paragraph",
+      "id": "d40a0ca7597c5b02",
+      "text": "[http://work.cag.wiki Work.CAG.wiki]"
+    },
+    {
+      "type": "paragraph",
       "id": "d212c3554c910a2c",
       "text": "[[Writing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f7d5d653acb5a43a",
+      "text": "X ... Y ... Z"
     },
     {
       "type": "pagefold",
@@ -6020,6 +6085,862 @@
         "text": "\\/\\/elcome to CAG.wiki   👽   we come in peace!!"
       },
       "date": 1507477162721
+    },
+    {
+      "type": "add",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki Work]"
+      },
+      "after": "6d6f158e80b0c4fa",
+      "date": 1507502986795
+    },
+    {
+      "type": "edit",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki Work] portfolio"
+      },
+      "date": 1507502992507
+    },
+    {
+      "type": "edit",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki Work]"
+      },
+      "date": 1507502998070
+    },
+    {
+      "type": "edit",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki Work] (design + development site)"
+      },
+      "date": 1507503005939
+    },
+    {
+      "type": "edit",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki Work]"
+      },
+      "date": 1507503306360
+    },
+    {
+      "type": "edit",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki Work.cag.wiki]"
+      },
+      "date": 1507503313492
+    },
+    {
+      "type": "edit",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki Work.CAG.wiki]"
+      },
+      "date": 1507503320870
+    },
+    {
+      "type": "add",
+      "id": "12808e2fe9bea250",
+      "item": {
+        "type": "paragraph",
+        "id": "12808e2fe9bea250",
+        "text": "[http://caseyagollan.com Caseyagollan.com archive]"
+      },
+      "after": "db32076ee63aa7f7",
+      "date": 1507511131391
+    },
+    {
+      "type": "add",
+      "id": "c23b829363c6ff47",
+      "item": {
+        "type": "paragraph",
+        "id": "c23b829363c6ff47",
+        "text": "B"
+      },
+      "after": "08cfde0d44acc465",
+      "date": 1507512223724
+    },
+    {
+      "type": "add",
+      "id": "5abfdc18fd0af15b",
+      "item": {
+        "type": "paragraph",
+        "id": "5abfdc18fd0af15b",
+        "text": "C"
+      },
+      "after": "db32076ee63aa7f7",
+      "date": 1507512226850
+    },
+    {
+      "type": "add",
+      "id": "9b009d6af727b30c",
+      "item": {
+        "type": "paragraph",
+        "id": "9b009d6af727b30c",
+        "text": "E"
+      },
+      "after": "996e19473147f7fc",
+      "date": 1507512229879
+    },
+    {
+      "type": "add",
+      "id": "0cf0b85394f2651b",
+      "item": {
+        "type": "paragraph",
+        "id": "0cf0b85394f2651b",
+        "text": "F"
+      },
+      "after": "f6d99bfa60626c56",
+      "date": 1507512232175
+    },
+    {
+      "type": "add",
+      "id": "25c708227f027998",
+      "item": {
+        "type": "paragraph",
+        "id": "25c708227f027998",
+        "text": "N"
+      },
+      "after": "633f792b781269e5",
+      "date": 1507512235322
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "5abfdc18fd0af15b",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "3904814310e8f71e",
+        "3ea232acde666987",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "a6a9f5a2cd9961ab",
+        "db3f56bca4b32f89",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "e40251abdd23a0af",
+      "date": 1507512242614
+    },
+    {
+      "type": "add",
+      "id": "fdf4c9922032d4bd",
+      "item": {
+        "type": "paragraph",
+        "id": "fdf4c9922032d4bd",
+        "text": "L"
+      },
+      "after": "633f792b781269e5",
+      "date": 1507512244357
+    },
+    {
+      "type": "add",
+      "id": "d06ab600a7b313ff",
+      "item": {
+        "type": "paragraph",
+        "id": "d06ab600a7b313ff",
+        "text": "S"
+      },
+      "after": "3904814310e8f71e",
+      "date": 1507512249058
+    },
+    {
+      "type": "add",
+      "id": "ed15ca2ac29931f9",
+      "item": {
+        "type": "paragraph",
+        "id": "ed15ca2ac29931f9",
+        "text": "T"
+      },
+      "after": "3ea232acde666987",
+      "date": 1507512251437
+    },
+    {
+      "type": "add",
+      "id": "bb5e628ec82201d4",
+      "item": {
+        "type": "paragraph",
+        "id": "bb5e628ec82201d4",
+        "text": "P"
+      },
+      "after": "a8ff1d4629deb381",
+      "date": 1507512254465
+    },
+    {
+      "type": "add",
+      "id": "0a1b3e76997b726e",
+      "item": {
+        "type": "paragraph",
+        "id": "0a1b3e76997b726e",
+        "text": "W"
+      },
+      "after": "db3f56bca4b32f89",
+      "date": 1507512257249
+    },
+    {
+      "type": "edit",
+      "id": "c23b829363c6ff47",
+      "item": {
+        "type": "paragraph",
+        "id": "c23b829363c6ff47",
+        "text": "A"
+      },
+      "date": 1507512260432
+    },
+    {
+      "type": "add",
+      "id": "075f52b80d722a84",
+      "item": {
+        "type": "paragraph",
+        "id": "075f52b80d722a84",
+        "text": "B"
+      },
+      "after": "c23b829363c6ff47",
+      "date": 1507512260830
+    },
+    {
+      "type": "edit",
+      "id": "9b009d6af727b30c",
+      "item": {
+        "type": "paragraph",
+        "id": "9b009d6af727b30c",
+        "text": "D"
+      },
+      "date": 1507512264573
+    },
+    {
+      "type": "add",
+      "id": "a9aa4d92eac713be",
+      "item": {
+        "type": "paragraph",
+        "id": "a9aa4d92eac713be",
+        "text": "E"
+      },
+      "after": "9b009d6af727b30c",
+      "date": 1507512265361
+    },
+    {
+      "type": "add",
+      "id": "0ef3876f137d5639",
+      "item": {
+        "type": "paragraph",
+        "id": "0ef3876f137d5639",
+        "text": "G"
+      },
+      "after": "633f792b781269e5",
+      "date": 1507512269723
+    },
+    {
+      "type": "add",
+      "id": "6240f0b18c910cf9",
+      "item": {
+        "type": "paragraph",
+        "id": "6240f0b18c910cf9",
+        "text": "H"
+      },
+      "after": "0ef3876f137d5639",
+      "date": 1507512270941
+    },
+    {
+      "type": "add",
+      "id": "e5fa990ee7477762",
+      "item": {
+        "type": "paragraph",
+        "id": "e5fa990ee7477762",
+        "text": "I"
+      },
+      "after": "6240f0b18c910cf9",
+      "date": 1507512271533
+    },
+    {
+      "type": "add",
+      "id": "0cf59cdb99d3cf85",
+      "item": {
+        "type": "paragraph",
+        "id": "0cf59cdb99d3cf85",
+        "text": "J"
+      },
+      "after": "e5fa990ee7477762",
+      "date": 1507512272219
+    },
+    {
+      "type": "add",
+      "id": "27f2ace8108ff442",
+      "item": {
+        "type": "paragraph",
+        "id": "27f2ace8108ff442",
+        "text": "K"
+      },
+      "after": "0cf59cdb99d3cf85",
+      "date": 1507512272847
+    },
+    {
+      "type": "edit",
+      "id": "25c708227f027998",
+      "item": {
+        "type": "paragraph",
+        "id": "25c708227f027998",
+        "text": "M"
+      },
+      "date": 1507512277096
+    },
+    {
+      "type": "add",
+      "id": "ee6a6c00a05a5a92",
+      "item": {
+        "type": "paragraph",
+        "id": "ee6a6c00a05a5a92",
+        "text": "N"
+      },
+      "after": "25c708227f027998",
+      "date": 1507512277541
+    },
+    {
+      "type": "add",
+      "id": "54860aff0c52e648",
+      "item": {
+        "type": "paragraph",
+        "id": "54860aff0c52e648",
+        "text": "O"
+      },
+      "after": "3904814310e8f71e",
+      "date": 1507512279877
+    },
+    {
+      "type": "add",
+      "id": "d01208712e605f85",
+      "item": {
+        "type": "paragraph",
+        "id": "d01208712e605f85",
+        "text": "P"
+      },
+      "after": "54860aff0c52e648",
+      "date": 1507512280434
+    },
+    {
+      "type": "add",
+      "id": "c00df787e1dab97c",
+      "item": {
+        "type": "paragraph",
+        "id": "c00df787e1dab97c",
+        "text": "Q"
+      },
+      "after": "d01208712e605f85",
+      "date": 1507512281545
+    },
+    {
+      "type": "add",
+      "id": "66abeb42d7fe0ee7",
+      "item": {
+        "type": "paragraph",
+        "id": "66abeb42d7fe0ee7",
+        "text": "R"
+      },
+      "after": "c00df787e1dab97c",
+      "date": 1507512283335
+    },
+    {
+      "type": "add",
+      "id": "ae5ccf15ff9696f1",
+      "item": {
+        "type": "paragraph",
+        "id": "ae5ccf15ff9696f1",
+        "text": "U"
+      },
+      "after": "a8ff1d4629deb381",
+      "date": 1507512288981
+    },
+    {
+      "type": "add",
+      "id": "c6424ac9be40a745",
+      "item": {
+        "type": "paragraph",
+        "id": "c6424ac9be40a745",
+        "text": "V"
+      },
+      "after": "ae5ccf15ff9696f1",
+      "date": 1507512289735
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "075f52b80d722a84",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "5abfdc18fd0af15b",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "a9aa4d92eac713be",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "0ef3876f137d5639",
+        "6240f0b18c910cf9",
+        "e5fa990ee7477762",
+        "0cf59cdb99d3cf85",
+        "27f2ace8108ff442",
+        "fdf4c9922032d4bd",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "ee6a6c00a05a5a92",
+        "3904814310e8f71e",
+        "54860aff0c52e648",
+        "d01208712e605f85",
+        "a6a9f5a2cd9961ab",
+        "c00df787e1dab97c",
+        "66abeb42d7fe0ee7",
+        "d06ab600a7b313ff",
+        "3ea232acde666987",
+        "ed15ca2ac29931f9",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "ae5ccf15ff9696f1",
+        "c6424ac9be40a745",
+        "bb5e628ec82201d4",
+        "db3f56bca4b32f89",
+        "0a1b3e76997b726e",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "a6a9f5a2cd9961ab",
+      "date": 1507512296897
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "075f52b80d722a84",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "5abfdc18fd0af15b",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "a9aa4d92eac713be",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "0ef3876f137d5639",
+        "6240f0b18c910cf9",
+        "e5fa990ee7477762",
+        "0cf59cdb99d3cf85",
+        "27f2ace8108ff442",
+        "fdf4c9922032d4bd",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "ee6a6c00a05a5a92",
+        "3904814310e8f71e",
+        "54860aff0c52e648",
+        "d01208712e605f85",
+        "a6a9f5a2cd9961ab",
+        "db3f56bca4b32f89",
+        "c00df787e1dab97c",
+        "66abeb42d7fe0ee7",
+        "d06ab600a7b313ff",
+        "3ea232acde666987",
+        "ed15ca2ac29931f9",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "ae5ccf15ff9696f1",
+        "c6424ac9be40a745",
+        "bb5e628ec82201d4",
+        "0a1b3e76997b726e",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "db3f56bca4b32f89",
+      "date": 1507512298997
+    },
+    {
+      "type": "remove",
+      "id": "bb5e628ec82201d4",
+      "date": 1507512301814
+    },
+    {
+      "type": "add",
+      "id": "f7d5d653acb5a43a",
+      "item": {
+        "type": "paragraph",
+        "id": "f7d5d653acb5a43a",
+        "text": "XYZ"
+      },
+      "after": "d212c3554c910a2c",
+      "date": 1507512305735
+    },
+    {
+      "type": "edit",
+      "id": "f7d5d653acb5a43a",
+      "item": {
+        "type": "paragraph",
+        "id": "f7d5d653acb5a43a",
+        "text": "X"
+      },
+      "date": 1507512310895
+    },
+    {
+      "type": "add",
+      "id": "4bd26e95f630b2d2",
+      "item": {
+        "type": "paragraph",
+        "id": "4bd26e95f630b2d2",
+        "text": "Y"
+      },
+      "after": "f7d5d653acb5a43a",
+      "date": 1507512311534
+    },
+    {
+      "type": "add",
+      "id": "469c2db5782454ca",
+      "item": {
+        "type": "paragraph",
+        "id": "469c2db5782454ca",
+        "text": "Z"
+      },
+      "after": "4bd26e95f630b2d2",
+      "date": 1507512311837
+    },
+    {
+      "type": "remove",
+      "id": "5abfdc18fd0af15b",
+      "date": 1507512356551
+    },
+    {
+      "type": "add",
+      "id": "20ad27fc8018dfe4",
+      "item": {
+        "type": "paragraph",
+        "id": "20ad27fc8018dfe4",
+        "text": "C"
+      },
+      "after": "db32076ee63aa7f7",
+      "date": 1507512359673
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "A"
+      },
+      "date": 1507512432057
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "✍️ Working Pages"
+      },
+      "date": 1507512435996
+    },
+    {
+      "type": "edit",
+      "id": "c23b829363c6ff47",
+      "item": {
+        "type": "paragraph",
+        "id": "c23b829363c6ff47",
+        "text": "A ..."
+      },
+      "date": 1507514360137
+    },
+    {
+      "type": "remove",
+      "id": "075f52b80d722a84",
+      "date": 1507514363878
+    },
+    {
+      "type": "edit",
+      "id": "c23b829363c6ff47",
+      "item": {
+        "type": "paragraph",
+        "id": "c23b829363c6ff47",
+        "text": "A ... B"
+      },
+      "date": 1507514365006
+    },
+    {
+      "type": "remove",
+      "id": "a9aa4d92eac713be",
+      "date": 1507514369232
+    },
+    {
+      "type": "edit",
+      "id": "9b009d6af727b30c",
+      "item": {
+        "type": "paragraph",
+        "id": "9b009d6af727b30c",
+        "text": "D ... E"
+      },
+      "date": 1507514371310
+    },
+    {
+      "type": "remove",
+      "id": "fdf4c9922032d4bd",
+      "date": 1507514376982
+    },
+    {
+      "type": "remove",
+      "id": "27f2ace8108ff442",
+      "date": 1507514378856
+    },
+    {
+      "type": "remove",
+      "id": "0cf59cdb99d3cf85",
+      "date": 1507514380795
+    },
+    {
+      "type": "remove",
+      "id": "e5fa990ee7477762",
+      "date": 1507514383244
+    },
+    {
+      "type": "remove",
+      "id": "6240f0b18c910cf9",
+      "date": 1507514385453
+    },
+    {
+      "type": "edit",
+      "id": "0ef3876f137d5639",
+      "item": {
+        "type": "paragraph",
+        "id": "0ef3876f137d5639",
+        "text": "G ... H ... I ... J ... K ... L"
+      },
+      "date": 1507514387437
+    },
+    {
+      "type": "remove",
+      "id": "ee6a6c00a05a5a92",
+      "date": 1507514398252
+    },
+    {
+      "type": "edit",
+      "id": "25c708227f027998",
+      "item": {
+        "type": "paragraph",
+        "id": "25c708227f027998",
+        "text": "M ... N"
+      },
+      "date": 1507514399860
+    },
+    {
+      "type": "remove",
+      "id": "d01208712e605f85",
+      "date": 1507514402785
+    },
+    {
+      "type": "edit",
+      "id": "54860aff0c52e648",
+      "item": {
+        "type": "paragraph",
+        "id": "54860aff0c52e648",
+        "text": "O ... P"
+      },
+      "date": 1507514404144
+    },
+    {
+      "type": "remove",
+      "id": "d06ab600a7b313ff",
+      "date": 1507514406368
+    },
+    {
+      "type": "remove",
+      "id": "66abeb42d7fe0ee7",
+      "date": 1507514408153
+    },
+    {
+      "type": "edit",
+      "id": "c00df787e1dab97c",
+      "item": {
+        "type": "paragraph",
+        "id": "c00df787e1dab97c",
+        "text": "Q ... R ... S"
+      },
+      "date": 1507514409732
+    },
+    {
+      "type": "remove",
+      "id": "0a1b3e76997b726e",
+      "date": 1507514412520
+    },
+    {
+      "type": "remove",
+      "id": "c6424ac9be40a745",
+      "date": 1507514413945
+    },
+    {
+      "type": "edit",
+      "id": "ae5ccf15ff9696f1",
+      "item": {
+        "type": "paragraph",
+        "id": "ae5ccf15ff9696f1",
+        "text": "U ... V ... W"
+      },
+      "date": 1507514415958
+    },
+    {
+      "type": "remove",
+      "id": "469c2db5782454ca",
+      "date": 1507514419328
+    },
+    {
+      "type": "remove",
+      "id": "4bd26e95f630b2d2",
+      "date": 1507514421167
+    },
+    {
+      "type": "edit",
+      "id": "f7d5d653acb5a43a",
+      "item": {
+        "type": "paragraph",
+        "id": "f7d5d653acb5a43a",
+        "text": "X ... Y ... Z"
+      },
+      "date": 1507514422695
+    },
+    {
+      "type": "edit",
+      "id": "0ef3876f137d5639",
+      "item": {
+        "type": "paragraph",
+        "id": "0ef3876f137d5639",
+        "text": "G ... H ... I ... J ... K ... "
+      },
+      "date": 1507514438110
+    },
+    {
+      "type": "add",
+      "id": "93a413eab2df00af",
+      "item": {
+        "type": "paragraph",
+        "id": "93a413eab2df00af",
+        "text": "L"
+      },
+      "after": "0ef3876f137d5639",
+      "date": 1507514438399
+    },
+    {
+      "type": "remove",
+      "id": "93a413eab2df00af",
+      "date": 1507514441671
+    },
+    {
+      "type": "edit",
+      "id": "0ef3876f137d5639",
+      "item": {
+        "type": "paragraph",
+        "id": "0ef3876f137d5639",
+        "text": "G ... H ... I ... J ... K ... L"
+      },
+      "date": 1507514442169
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "4c361f9162d07102",
+        "text": "November"
+      },
+      "after": "a6a9f5a2cd9961ab",
+      "id": "4c361f9162d07102",
+      "date": 1509975775578
+    },
+    {
+      "type": "remove",
+      "id": "4c361f9162d07102",
+      "date": 1509975781364
     }
   ]
 }

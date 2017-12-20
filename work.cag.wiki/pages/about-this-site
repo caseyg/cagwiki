@@ -379,6 +379,26 @@
         "text": "In my own practice, I've long been interested in wikis and hypertext — forms which prod the boundaries of what computers can do to help people think in new ways."
       },
       "date": 1501264237669
+    },
+    {
+      "type": "move",
+      "order": [
+        "51c06a8669de8e08",
+        "2d3713de50370711",
+        "6bc832ed40ba7d13"
+      ],
+      "id": "2d3713de50370711",
+      "date": 1507499485353
+    },
+    {
+      "type": "move",
+      "order": [
+        "51c06a8669de8e08",
+        "6bc832ed40ba7d13",
+        "2d3713de50370711"
+      ],
+      "id": "2d3713de50370711",
+      "date": 1507499487141
     }
   ]
 }

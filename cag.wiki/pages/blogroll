@@ -548,6 +548,11 @@
     },
     {
       "type": "paragraph",
+      "id": "6244192880efb26d",
+      "text": "[http://jarrettfuller.blog/ Jarrett Fuller]"
+    },
+    {
+      "type": "paragraph",
       "id": "029c77cb623dcbec",
       "text": "[http://jasonsantamaria.com/articles/ Jason Santa Maria]"
     },
@@ -9759,6 +9764,17 @@
         "text": "[http://morning.computer Morning Computer] (Warren Ellis)"
       },
       "date": 1489294966466
+    },
+    {
+      "type": "add",
+      "id": "6244192880efb26d",
+      "item": {
+        "type": "paragraph",
+        "id": "6244192880efb26d",
+        "text": "[http://jarrettfuller.blog/ Jarrett Fuller]"
+      },
+      "after": "7a1f82f56ef3999b",
+      "date": 1507551686988
     }
   ]
 }

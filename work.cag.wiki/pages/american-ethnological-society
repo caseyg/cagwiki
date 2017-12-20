@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "3c01516d36aaad06",
       "text": "A modern site for the oldest anthropological organization in the United States, which brings together their quarterly journal, juried competitions, conferences, and online content."
+    },
+    {
+      "type": "paragraph",
+      "id": "c0444a3a74c72f07",
+      "text": "# Content Types"
     }
   ],
   "journal": [
@@ -192,6 +197,17 @@
         "text": "A modern site for the oldest anthropological organization in the United States, which brings together their quarterly journal, juried competitions, conferences, and online content."
       },
       "date": 1501264266271
+    },
+    {
+      "type": "add",
+      "id": "c0444a3a74c72f07",
+      "item": {
+        "type": "paragraph",
+        "id": "c0444a3a74c72f07",
+        "text": "# Content Types"
+      },
+      "after": "3c01516d36aaad06",
+      "date": 1507499572557
     }
   ]
 }

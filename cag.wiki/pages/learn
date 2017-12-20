@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "a3a07e4aa3804db4",
-      "text": "deploying a website"
+      "text": "deploying a website less stupidly"
     },
     {
       "type": "paragraph",
@@ -20,6 +20,16 @@
       "type": "paragraph",
       "id": "bf0529c00bcf5000",
       "text": "server permissions"
+    },
+    {
+      "type": "paragraph",
+      "id": "55c20d37abb6d2b6",
+      "text": "quantum"
+    },
+    {
+      "type": "paragraph",
+      "id": "490526b51d630bed",
+      "text": "(lmao)"
     }
   ],
   "journal": [
@@ -82,6 +92,54 @@
       },
       "after": "a6d5e22338225a73",
       "date": 1498922828836
+    },
+    {
+      "type": "add",
+      "id": "55c20d37abb6d2b6",
+      "item": {
+        "type": "paragraph",
+        "id": "55c20d37abb6d2b6",
+        "text": "quantum"
+      },
+      "after": "bf0529c00bcf5000",
+      "date": 1507512375949
+    },
+    {
+      "type": "add",
+      "id": "3a77f2276552cd1b",
+      "item": {
+        "type": "paragraph",
+        "id": "3a77f2276552cd1b",
+        "text": "crypto"
+      },
+      "after": "55c20d37abb6d2b6",
+      "date": 1507512377444
+    },
+    {
+      "type": "remove",
+      "id": "3a77f2276552cd1b",
+      "date": 1509975685434
+    },
+    {
+      "type": "edit",
+      "id": "a3a07e4aa3804db4",
+      "item": {
+        "type": "paragraph",
+        "id": "a3a07e4aa3804db4",
+        "text": "deploying a website less stupidly"
+      },
+      "date": 1511066308901
+    },
+    {
+      "type": "add",
+      "id": "490526b51d630bed",
+      "item": {
+        "type": "paragraph",
+        "id": "490526b51d630bed",
+        "text": "(lmao)"
+      },
+      "after": "55c20d37abb6d2b6",
+      "date": 1511066317714
     }
   ]
 }

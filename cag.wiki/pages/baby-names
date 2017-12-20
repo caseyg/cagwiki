@@ -4,6 +4,11 @@
     {
       "type": "paragraph",
       "id": "d14f2c6cc2306f17",
+      "text": "Bluster"
+    },
+    {
+      "type": "paragraph",
+      "id": "21fc42b2e95e5b27",
       "text": "Oracle"
     },
     {
@@ -706,6 +711,27 @@
       },
       "after": "82dd360565625166",
       "date": 1499390051607
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Bluster"
+      },
+      "date": 1509845279347
+    },
+    {
+      "type": "add",
+      "id": "21fc42b2e95e5b27",
+      "item": {
+        "type": "paragraph",
+        "id": "21fc42b2e95e5b27",
+        "text": "Oracle"
+      },
+      "after": "d14f2c6cc2306f17",
+      "date": 1509845279853
     }
   ]
 }

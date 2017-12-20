@@ -2,14 +2,14 @@
   "title": "Engineering at Home",
   "story": [
     {
-      "type": "paragraph",
-      "id": "fb6f8b339afeacca",
-      "text": "A 6-month long collaboration with anthropologist [[Caitrin Lynch]] and designer [[Sara Hendren]], of Olin College, to produce an interactive archive that frames their academic research for a broad internet readership."
-    },
-    {
       "type": "html",
       "id": "91de1f76a7708e74",
       "text": "<img src=\"http://hire.caseyagollan.com/engineeringathome.png\">"
+    },
+    {
+      "type": "paragraph",
+      "id": "fb6f8b339afeacca",
+      "text": "A 6-month long collaboration with anthropologist [[Caitrin Lynch]] and designer [[Sara Hendren]], of Olin College, to produce an interactive archive that frames their academic research for a broad internet readership."
     }
   ],
   "journal": [
@@ -94,6 +94,15 @@
         "text": "<img src=\"http://hire.caseyagollan.com/engineeringathome.png\">"
       },
       "date": 1480098461667
+    },
+    {
+      "type": "move",
+      "order": [
+        "91de1f76a7708e74",
+        "fb6f8b339afeacca"
+      ],
+      "id": "91de1f76a7708e74",
+      "date": 1507500818926
     }
   ]
 }

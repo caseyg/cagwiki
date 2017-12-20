@@ -42,6 +42,21 @@
       "text": "[[Planning Notes]]"
     },
     {
+      "type": "paragraph",
+      "id": "7857554c403aebdb",
+      "text": "My presentations:"
+    },
+    {
+      "type": "paragraph",
+      "id": "c32da94b5dcf66c7",
+      "text": "[[Casey (11/21/16)]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d9396e3607455b79",
+      "text": "[[Casey (04/24/17)]]"
+    },
+    {
       "type": "markdown",
       "id": "39903e17413f4cef",
       "text": "# "
@@ -3507,6 +3522,49 @@
       },
       "after": "152dad1d43552b10",
       "date": 1490626434411
+    },
+    {
+      "type": "add",
+      "id": "7857554c403aebdb",
+      "item": {
+        "type": "paragraph",
+        "id": "7857554c403aebdb",
+        "text": "My presentations"
+      },
+      "after": "792bfcdc3b80cee6",
+      "date": 1507554951950
+    },
+    {
+      "type": "edit",
+      "id": "7857554c403aebdb",
+      "item": {
+        "type": "paragraph",
+        "id": "7857554c403aebdb",
+        "text": "My presentations:"
+      },
+      "date": 1507554964435
+    },
+    {
+      "type": "add",
+      "id": "c32da94b5dcf66c7",
+      "item": {
+        "type": "paragraph",
+        "id": "c32da94b5dcf66c7",
+        "text": "[[Casey (11/21/16)]]"
+      },
+      "after": "7857554c403aebdb",
+      "date": 1507554967257
+    },
+    {
+      "type": "add",
+      "id": "d9396e3607455b79",
+      "item": {
+        "type": "paragraph",
+        "id": "d9396e3607455b79",
+        "text": "[[Casey (04/24/17)]]"
+      },
+      "after": "c32da94b5dcf66c7",
+      "date": 1507554981268
     }
   ]
 }
