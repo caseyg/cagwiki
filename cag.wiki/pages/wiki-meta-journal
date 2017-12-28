@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "953de15c07153249",
+      "text": "Dec 28 — after crashing the wiki for a few days entirely, I did a re-install on a new droplet and moved the content over. want to fix authentication and write up a howto."
+    },
+    {
+      "type": "paragraph",
       "id": "6703c00e81173b44",
       "text": "Feb 18 — added pared down theme, maybe in preparation to replace my main website?"
     },
@@ -312,6 +317,37 @@
         "text": "Feb 18 — added pared down theme, maybe in preparation to replace my main website?"
       },
       "date": 1488210590302
+    },
+    {
+      "type": "add",
+      "id": "953de15c07153249",
+      "item": {
+        "type": "paragraph",
+        "id": "953de15c07153249",
+        "text": "Dec 28"
+      },
+      "after": "e104be173593fbc6",
+      "date": 1514442639854
+    },
+    {
+      "type": "edit",
+      "id": "953de15c07153249",
+      "item": {
+        "type": "paragraph",
+        "id": "953de15c07153249",
+        "text": "Dec 28 — after crashing the wiki for a few days entirely, I did a re-install on a new droplet and moved the content over. "
+      },
+      "date": 1514442667706
+    },
+    {
+      "type": "edit",
+      "id": "953de15c07153249",
+      "item": {
+        "type": "paragraph",
+        "id": "953de15c07153249",
+        "text": "Dec 28 — after crashing the wiki for a few days entirely, I did a re-install on a new droplet and moved the content over. want to fix authentication and write up a howto."
+      },
+      "date": 1514444234885
     }
   ]
 }

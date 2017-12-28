@@ -143,6 +143,11 @@
     },
     {
       "type": "paragraph",
+      "id": "79c91400f1f7979b",
+      "text": "[[Wiki Meta Journal]]"
+    },
+    {
+      "type": "paragraph",
       "id": "6d6f158e80b0c4fa",
       "text": "[[Words]]"
     },
@@ -6941,6 +6946,27 @@
       "type": "remove",
       "id": "4c361f9162d07102",
       "date": 1509975781364
+    },
+    {
+      "type": "add",
+      "id": "79c91400f1f7979b",
+      "item": {
+        "type": "paragraph",
+        "id": "79c91400f1f7979b",
+        "text": "[[Wiki Meta Journal"
+      },
+      "after": "ae5ccf15ff9696f1",
+      "date": 1514444221253
+    },
+    {
+      "type": "edit",
+      "id": "79c91400f1f7979b",
+      "item": {
+        "type": "paragraph",
+        "id": "79c91400f1f7979b",
+        "text": "[[Wiki Meta Journal]]"
+      },
+      "date": 1514444222665
     }
   ]
 }
