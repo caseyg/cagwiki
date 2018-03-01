@@ -4,12 +4,37 @@
     {
       "type": "paragraph",
       "id": "27f9f5e8cbc5ce82",
-      "text": "\\/\\/elcome to CAG.wiki   👽   we come in peace!!"
+      "text": "\\/\\/elcome to CAG.wiki   👽we come in peace!!"
+    },
+    {
+      "type": "pagefold",
+      "id": "068fb70921c0976f",
+      "text": "📣"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea167bcf4c45caed",
+      "text": "🌸 For design & code inquiries, please [http://hire.caseyagollan.com visit my work site]  🌼"
+    },
+    {
+      "type": "paragraph",
+      "id": "59bd6db6aea23dad",
+      "text": "and for baby names, administrivia, etc. see below..."
+    },
+    {
+      "type": "pagefold",
+      "id": "013dc8b1008429d2",
+      "text": "⚠️"
+    },
+    {
+      "type": "paragraph",
+      "id": "ece82bf05c83c1e2",
+      "text": "⚠️TO WHOMST IT MAY CONCERN: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 💣 Nothing gold can stay! 🙃 If that doesn't sound grrreat, maaaybe find some some other cloud. ☁️"
     },
     {
       "type": "pagefold",
       "id": "08cfde0d44acc465",
-      "text": "✍️ Working Pages"
+      "text": "Index"
     },
     {
       "type": "paragraph",
@@ -63,6 +88,11 @@
     },
     {
       "type": "paragraph",
+      "id": "61271e68a585b0cb",
+      "text": "[[Engagement Locations]]"
+    },
+    {
+      "type": "paragraph",
       "id": "0cf0b85394f2651b",
       "text": "F"
     },
@@ -74,7 +104,17 @@
     {
       "type": "paragraph",
       "id": "0ef3876f137d5639",
-      "text": "G ... H ... I ... J ... K ... L"
+      "text": "G ... H "
+    },
+    {
+      "type": "paragraph",
+      "id": "2def806f7362e579",
+      "text": "[http://hire.caseyagollan.com Hire.caseyagollan.com]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7e41b1571401389d",
+      "text": "I ... J ... K ... L"
     },
     {
       "type": "paragraph",
@@ -143,6 +183,11 @@
     },
     {
       "type": "paragraph",
+      "id": "82b8f4ff17ad19b5",
+      "text": "[http://mac.are.na/playlist/what-i-think-is-sexy What I Think Is Sexy]"
+    },
+    {
+      "type": "paragraph",
       "id": "79c91400f1f7979b",
       "text": "[[Wiki Meta Journal]]"
     },
@@ -154,7 +199,7 @@
     {
       "type": "paragraph",
       "id": "d40a0ca7597c5b02",
-      "text": "[http://work.cag.wiki Work.CAG.wiki]"
+      "text": "[http://work.cag.wiki Work.cag.wiki]"
     },
     {
       "type": "paragraph",
@@ -180,11 +225,6 @@
       "type": "html",
       "id": "0cd3d9790ee0a7ce",
       "text": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I was going to make soup today but I set up a federated wiki farm instead?? <a href=\"https://t.co/8Gw55rDW81\">cag.wiki</a></p>&mdash; Casey Gollan (@CaseyG) <a href=\"https://twitter.com/CaseyG/status/801629921126793216\">November 24, 2016</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-    },
-    {
-      "type": "paragraph",
-      "id": "ece82bf05c83c1e2",
-      "text": "NOTE: This is a VERY ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
     },
     {
       "type": "paragraph",
@@ -6967,6 +7007,824 @@
         "text": "[[Wiki Meta Journal]]"
       },
       "date": 1514444222665
+    },
+    {
+      "type": "add",
+      "id": "ea167bcf4c45caed",
+      "item": {
+        "type": "paragraph",
+        "id": "ea167bcf4c45caed",
+        "text": "[http://hire.caseyagollan.com hi]"
+      },
+      "after": "27f9f5e8cbc5ce82",
+      "date": 1517586115498
+    },
+    {
+      "type": "edit",
+      "id": "ea167bcf4c45caed",
+      "item": {
+        "type": "paragraph",
+        "id": "ea167bcf4c45caed",
+        "text": "🌸 For web design & development inquiries, visit my [http://hire.caseyagollan.com work site] 🌼"
+      },
+      "date": 1517586160424
+    },
+    {
+      "type": "edit",
+      "id": "ea167bcf4c45caed",
+      "item": {
+        "type": "paragraph",
+        "id": "ea167bcf4c45caed",
+        "text": "🌸 For design & code inquiries, visit my [http://hire.caseyagollan.com work site] 🌼"
+      },
+      "date": 1517586165455
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "068fb70921c0976f"
+      },
+      "id": "068fb70921c0976f",
+      "type": "add",
+      "after": "6186185fcfef5ce6",
+      "date": 1517586178462
+    },
+    {
+      "type": "edit",
+      "id": "068fb70921c0976f",
+      "item": {
+        "type": "pagefold",
+        "id": "068fb70921c0976f",
+        "text": "📣"
+      },
+      "date": 1517586211916
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "068fb70921c0976f",
+        "ea167bcf4c45caed",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "20ad27fc8018dfe4",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "0ef3876f137d5639",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "3904814310e8f71e",
+        "54860aff0c52e648",
+        "a6a9f5a2cd9961ab",
+        "db3f56bca4b32f89",
+        "c00df787e1dab97c",
+        "3ea232acde666987",
+        "ed15ca2ac29931f9",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "ae5ccf15ff9696f1",
+        "79c91400f1f7979b",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "f7d5d653acb5a43a",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "ece82bf05c83c1e2",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "068fb70921c0976f",
+      "date": 1517586217974
+    },
+    {
+      "type": "edit",
+      "id": "ea167bcf4c45caed",
+      "item": {
+        "type": "paragraph",
+        "id": "ea167bcf4c45caed",
+        "text": "🌸 For design & code inquiries, [http://hire.caseyagollan.com visit my work site] 🌼"
+      },
+      "date": 1517586231571
+    },
+    {
+      "type": "edit",
+      "id": "ea167bcf4c45caed",
+      "item": {
+        "type": "paragraph",
+        "id": "ea167bcf4c45caed",
+        "text": "🌸 For design & code inquiries, [http://hire.caseyagollan.com visit my work site]  🌼"
+      },
+      "date": 1517586239627
+    },
+    {
+      "type": "edit",
+      "id": "08cfde0d44acc465",
+      "item": {
+        "type": "pagefold",
+        "id": "08cfde0d44acc465",
+        "text": "Index"
+      },
+      "date": 1517586253156
+    },
+    {
+      "type": "edit",
+      "id": "0ef3876f137d5639",
+      "item": {
+        "type": "paragraph",
+        "id": "0ef3876f137d5639",
+        "text": "G ... H "
+      },
+      "date": 1517586273461
+    },
+    {
+      "type": "add",
+      "id": "7e41b1571401389d",
+      "item": {
+        "type": "paragraph",
+        "id": "7e41b1571401389d",
+        "text": "I ... J ... K ... L"
+      },
+      "after": "0ef3876f137d5639",
+      "date": 1517586277191
+    },
+    {
+      "type": "add",
+      "id": "2def806f7362e579",
+      "item": {
+        "type": "paragraph",
+        "id": "2def806f7362e579",
+        "text": "[http://hire.caseyagollan.com hire.caseyagollan.com]"
+      },
+      "after": "0ef3876f137d5639",
+      "date": 1517586287446
+    },
+    {
+      "type": "edit",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki work.cag.wiki]"
+      },
+      "date": 1517586294719
+    },
+    {
+      "type": "edit",
+      "id": "d40a0ca7597c5b02",
+      "item": {
+        "type": "paragraph",
+        "id": "d40a0ca7597c5b02",
+        "text": "[http://work.cag.wiki Work.cag.wiki]"
+      },
+      "date": 1517586299032
+    },
+    {
+      "type": "edit",
+      "id": "2def806f7362e579",
+      "item": {
+        "type": "paragraph",
+        "id": "2def806f7362e579",
+        "text": "[http://hire.caseyagollan.com Hire.caseyagollan.com]"
+      },
+      "date": 1517586305324
+    },
+    {
+      "type": "edit",
+      "id": "ea167bcf4c45caed",
+      "item": {
+        "type": "paragraph",
+        "id": "ea167bcf4c45caed",
+        "text": "🌸 For design & code inquiries, pls [http://hire.caseyagollan.com visit my work site]  🌼"
+      },
+      "date": 1517586316375
+    },
+    {
+      "type": "edit",
+      "id": "ea167bcf4c45caed",
+      "item": {
+        "type": "paragraph",
+        "id": "ea167bcf4c45caed",
+        "text": "🌸 For design & code inquiries, please [http://hire.caseyagollan.com visit my work site]  🌼"
+      },
+      "date": 1517586328184
+    },
+    {
+      "type": "add",
+      "id": "59bd6db6aea23dad",
+      "item": {
+        "type": "paragraph",
+        "id": "59bd6db6aea23dad",
+        "text": "For baby names, etc. see below 👇"
+      },
+      "after": "ea167bcf4c45caed",
+      "date": 1518125745131
+    },
+    {
+      "type": "edit",
+      "id": "59bd6db6aea23dad",
+      "item": {
+        "type": "paragraph",
+        "id": "59bd6db6aea23dad",
+        "text": "For baby names, etc. see below."
+      },
+      "date": 1518125758323
+    },
+    {
+      "type": "edit",
+      "id": "59bd6db6aea23dad",
+      "item": {
+        "type": "paragraph",
+        "id": "59bd6db6aea23dad",
+        "text": "and for baby names, etc. see below."
+      },
+      "date": 1518125765130
+    },
+    {
+      "type": "edit",
+      "id": "59bd6db6aea23dad",
+      "item": {
+        "type": "paragraph",
+        "id": "59bd6db6aea23dad",
+        "text": "and for baby names, etc. see below..."
+      },
+      "date": 1518125768099
+    },
+    {
+      "type": "edit",
+      "id": "59bd6db6aea23dad",
+      "item": {
+        "type": "paragraph",
+        "id": "59bd6db6aea23dad",
+        "text": "and for baby names, administrivia, etc. see below..."
+      },
+      "date": 1518148054598
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "ece82bf05c83c1e2",
+        "068fb70921c0976f",
+        "ea167bcf4c45caed",
+        "59bd6db6aea23dad",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "20ad27fc8018dfe4",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "0ef3876f137d5639",
+        "2def806f7362e579",
+        "7e41b1571401389d",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "3904814310e8f71e",
+        "54860aff0c52e648",
+        "a6a9f5a2cd9961ab",
+        "db3f56bca4b32f89",
+        "c00df787e1dab97c",
+        "3ea232acde666987",
+        "ed15ca2ac29931f9",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "ae5ccf15ff9696f1",
+        "79c91400f1f7979b",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "f7d5d653acb5a43a",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "ece82bf05c83c1e2",
+      "date": 1518148083705
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "NOTE: This is an ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud."
+      },
+      "date": 1518148093694
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "NOTE: This is an ~experimental server~! Data loss is imminent! Nothing gold can stay! If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148126832
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "NOTE: This is an ~experimental server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! ☁️ If that doesn't sound great, maybe find some some other cloud."
+      },
+      "date": 1518148159403
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "NOTE: This is an ~experimental server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🌬 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148196271
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️ NOTE: This is an ~experimental server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🌬 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148207302
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️ NOTE: This is an ~experimental server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🎭 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148239447
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️ NOTE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🎭 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148261827
+    },
+    {
+      "type": "edit",
+      "id": "27f9f5e8cbc5ce82",
+      "item": {
+        "type": "paragraph",
+        "id": "27f9f5e8cbc5ce82",
+        "text": "\\/\\/elcome to CAG.wiki   👽  we come in peace!!"
+      },
+      "date": 1518148290236
+    },
+    {
+      "type": "edit",
+      "id": "27f9f5e8cbc5ce82",
+      "item": {
+        "type": "paragraph",
+        "id": "27f9f5e8cbc5ce82",
+        "text": "\\/\\/elcome to CAG.wiki   👽we come in peace!!"
+      },
+      "date": 1518148296594
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️NOTE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🎭 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148306869
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "068fb70921c0976f",
+        "ece82bf05c83c1e2",
+        "ea167bcf4c45caed",
+        "59bd6db6aea23dad",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "20ad27fc8018dfe4",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "0ef3876f137d5639",
+        "2def806f7362e579",
+        "7e41b1571401389d",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "3904814310e8f71e",
+        "54860aff0c52e648",
+        "a6a9f5a2cd9961ab",
+        "db3f56bca4b32f89",
+        "c00df787e1dab97c",
+        "3ea232acde666987",
+        "ed15ca2ac29931f9",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "ae5ccf15ff9696f1",
+        "79c91400f1f7979b",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "f7d5d653acb5a43a",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "068fb70921c0976f",
+      "date": 1518148337602
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "068fb70921c0976f",
+        "ea167bcf4c45caed",
+        "ece82bf05c83c1e2",
+        "59bd6db6aea23dad",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "20ad27fc8018dfe4",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "0ef3876f137d5639",
+        "2def806f7362e579",
+        "7e41b1571401389d",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "3904814310e8f71e",
+        "54860aff0c52e648",
+        "a6a9f5a2cd9961ab",
+        "db3f56bca4b32f89",
+        "c00df787e1dab97c",
+        "3ea232acde666987",
+        "ed15ca2ac29931f9",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "ae5ccf15ff9696f1",
+        "79c91400f1f7979b",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "f7d5d653acb5a43a",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "ea167bcf4c45caed",
+      "date": 1518148338939
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "068fb70921c0976f",
+        "ea167bcf4c45caed",
+        "59bd6db6aea23dad",
+        "ece82bf05c83c1e2",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "20ad27fc8018dfe4",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "0ef3876f137d5639",
+        "2def806f7362e579",
+        "7e41b1571401389d",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "3904814310e8f71e",
+        "54860aff0c52e648",
+        "a6a9f5a2cd9961ab",
+        "db3f56bca4b32f89",
+        "c00df787e1dab97c",
+        "3ea232acde666987",
+        "ed15ca2ac29931f9",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "ae5ccf15ff9696f1",
+        "79c91400f1f7979b",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "f7d5d653acb5a43a",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "59bd6db6aea23dad",
+      "date": 1518148340590
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "013dc8b1008429d2"
+      },
+      "id": "013dc8b1008429d2",
+      "type": "add",
+      "after": "6186185fcfef5ce6",
+      "date": 1518148345676
+    },
+    {
+      "type": "edit",
+      "id": "013dc8b1008429d2",
+      "item": {
+        "type": "pagefold",
+        "id": "013dc8b1008429d2",
+        "text": "."
+      },
+      "date": 1518148350492
+    },
+    {
+      "type": "move",
+      "order": [
+        "27f9f5e8cbc5ce82",
+        "068fb70921c0976f",
+        "ea167bcf4c45caed",
+        "59bd6db6aea23dad",
+        "013dc8b1008429d2",
+        "ece82bf05c83c1e2",
+        "08cfde0d44acc465",
+        "c23b829363c6ff47",
+        "44471403d16574db",
+        "ac539f99b51d6a54",
+        "db32076ee63aa7f7",
+        "20ad27fc8018dfe4",
+        "12808e2fe9bea250",
+        "353336920bc2bf85",
+        "996e19473147f7fc",
+        "9b009d6af727b30c",
+        "f6d99bfa60626c56",
+        "0cf0b85394f2651b",
+        "633f792b781269e5",
+        "0ef3876f137d5639",
+        "2def806f7362e579",
+        "7e41b1571401389d",
+        "e40251abdd23a0af",
+        "25c708227f027998",
+        "3904814310e8f71e",
+        "54860aff0c52e648",
+        "a6a9f5a2cd9961ab",
+        "db3f56bca4b32f89",
+        "c00df787e1dab97c",
+        "3ea232acde666987",
+        "ed15ca2ac29931f9",
+        "92dafac67f60a4db",
+        "9e26b116da592400",
+        "a8ff1d4629deb381",
+        "ae5ccf15ff9696f1",
+        "79c91400f1f7979b",
+        "6d6f158e80b0c4fa",
+        "d40a0ca7597c5b02",
+        "d212c3554c910a2c",
+        "f7d5d653acb5a43a",
+        "5d1c8b70266d5656",
+        "fedfc747518a9d2c",
+        "0cd3d9790ee0a7ce",
+        "3c6df18b845d916e",
+        "93ef02b6fe714d5a",
+        "c43a88598cb67997",
+        "02050d40a0f1f923",
+        "e9f455ad9ca60b25",
+        "c527b8fa29fa235d",
+        "12ad408d1ef4b89d",
+        "da47516fe37d0364",
+        "87eccaf5f52ebdfd",
+        "6186185fcfef5ce6"
+      ],
+      "id": "013dc8b1008429d2",
+      "date": 1518148358588
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "NOTE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🎭 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148361436
+    },
+    {
+      "type": "edit",
+      "id": "013dc8b1008429d2",
+      "item": {
+        "type": "pagefold",
+        "id": "013dc8b1008429d2",
+        "text": "⚠️"
+      },
+      "date": 1518148363956
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️NOTE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🎭 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148368418
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️PLEASE TAKE NOTE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🎭 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148385460
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️YOUR ATTENTION, PLEASE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 🙃 Nothing gold can stay! 🎭 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148398021
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️YOUR ATTENTION, PLEASE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 💣 Nothing gold can stay! 🙃 If that doesn't sound great, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148420792
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️YOUR ATTENTION, PLEASE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 💣 Nothing gold can stay! 🙃 If that doesn't sound grrreat, maybe find some some other cloud. ☁️"
+      },
+      "date": 1518148427817
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️YOUR ATTENTION, PLEASE: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 💣 Nothing gold can stay! 🙃 If that doesn't sound grrreat, maaaybe find some some other cloud. ☁️"
+      },
+      "date": 1518148439406
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️TO WHOM IT MAY CONCERN: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 💣 Nothing gold can stay! 🙃 If that doesn't sound grrreat, maaaybe find some some other cloud. ☁️"
+      },
+      "date": 1518148881765
+    },
+    {
+      "type": "add",
+      "id": "61271e68a585b0cb",
+      "item": {
+        "type": "paragraph",
+        "id": "61271e68a585b0cb",
+        "text": "[[Engagement Location]]"
+      },
+      "after": "f6d99bfa60626c56",
+      "date": 1518281977888
+    },
+    {
+      "type": "edit",
+      "id": "61271e68a585b0cb",
+      "item": {
+        "type": "paragraph",
+        "id": "61271e68a585b0cb",
+        "text": "[[Engagement Locations]]"
+      },
+      "date": 1518281984958
+    },
+    {
+      "type": "edit",
+      "id": "ece82bf05c83c1e2",
+      "item": {
+        "type": "paragraph",
+        "id": "ece82bf05c83c1e2",
+        "text": "⚠️TO WHOMST IT MAY CONCERN: This is an ~experimental [[federated wiki]] server~! 🛠 Data loss is imminent! 💣 Nothing gold can stay! 🙃 If that doesn't sound grrreat, maaaybe find some some other cloud. ☁️"
+      },
+      "date": 1518543110897
+    },
+    {
+      "type": "add",
+      "id": "82b8f4ff17ad19b5",
+      "item": {
+        "type": "paragraph",
+        "id": "82b8f4ff17ad19b5",
+        "text": "[http://mac.are.na/playlist/what-i-think-is-sexy What I Think Is Sexy]"
+      },
+      "after": "ae5ccf15ff9696f1",
+      "date": 1518891712587
     }
   ]
 }

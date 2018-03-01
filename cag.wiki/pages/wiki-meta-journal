@@ -3,6 +3,26 @@
   "story": [
     {
       "type": "pagefold",
+      "id": "fc471c4ff435e1b0",
+      "text": "2018"
+    },
+    {
+      "type": "paragraph",
+      "id": "0133cab93eb458ab",
+      "text": "January 25 — laurel told me my wiki was down! I have no idea how long it has been broken for. 🙀 I had to wrack my brain to remember how to fix it, because I didn't end up writing myself a tutorial in december."
+    },
+    {
+      "type": "code",
+      "id": "43b9c8d895862611",
+      "text": "> ssh root@cag.wiki\n> su cag\n> pm2 start /usr/local/lib/node_modules/wiki/index.js -- -conf ~/config.json"
+    },
+    {
+      "type": "paragraph",
+      "id": "e777176ffaf08081",
+      "text": "(This setup, w/ root access, is still janky. And I would like for wiki to restart itself on failure in the future. Also I should un-install the experimental plugins which are probably causing crashes, and check logs to get to the bottom of things.)"
+    },
+    {
+      "type": "pagefold",
       "id": "e104be173593fbc6",
       "text": "2017"
     },
@@ -348,6 +368,194 @@
         "text": "Dec 28 — after crashing the wiki for a few days entirely, I did a re-install on a new droplet and moved the content over. want to fix authentication and write up a howto."
       },
       "date": 1514444234885
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc471c4ff435e1b0"
+      },
+      "id": "fc471c4ff435e1b0",
+      "type": "add",
+      "after": "f7f8fbdb072e670d",
+      "date": 1516897293649
+    },
+    {
+      "type": "edit",
+      "id": "fc471c4ff435e1b0",
+      "item": {
+        "type": "pagefold",
+        "id": "fc471c4ff435e1b0",
+        "text": "2018"
+      },
+      "date": 1516897299418
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "fc471c4ff435e1b0",
+      "date": 1516897303580
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0133cab93eb458ab"
+      },
+      "id": "0133cab93eb458ab",
+      "type": "add",
+      "after": "f7f8fbdb072e670d",
+      "date": 1516897305778
+    },
+    {
+      "type": "edit",
+      "id": "0133cab93eb458ab",
+      "item": {
+        "type": "paragraph",
+        "id": "0133cab93eb458ab",
+        "text": "January 25 — "
+      },
+      "date": 1516897319950
+    },
+    {
+      "type": "edit",
+      "id": "0133cab93eb458ab",
+      "item": {
+        "type": "paragraph",
+        "id": "0133cab93eb458ab",
+        "text": "January 25 — laurel told me my wiki was down! I have no idea how long it has been broken for. 🙀 I had to wrack my brain to remember how to fix it, because I didn't end up writing myself a tutorial in december."
+      },
+      "date": 1516897368662
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "e104be173593fbc6",
+        "0133cab93eb458ab",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "0133cab93eb458ab",
+      "date": 1516897371602
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "0133cab93eb458ab",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "0133cab93eb458ab",
+      "date": 1516897374680
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43b9c8d895862611"
+      },
+      "id": "43b9c8d895862611",
+      "type": "add",
+      "after": "f7f8fbdb072e670d",
+      "date": 1516897376838
+    },
+    {
+      "type": "edit",
+      "id": "43b9c8d895862611",
+      "item": {
+        "type": "code",
+        "id": "43b9c8d895862611",
+        "text": "> ssh root@cag.wiki\n> su cag\n> pm2 start /usr/local/lib/node_modules/wiki/index.js -- -conf ~/config.json"
+      },
+      "date": 1516897398026
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "0133cab93eb458ab",
+        "43b9c8d895862611",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "43b9c8d895862611",
+      "date": 1516897401525
+    },
+    {
+      "type": "add",
+      "id": "e777176ffaf08081",
+      "item": {
+        "type": "paragraph",
+        "id": "e777176ffaf08081",
+        "text": "(This setup, w/ root access, is still janky and I would like for it to restart itself on failure in the future.)"
+      },
+      "after": "0133cab93eb458ab",
+      "date": 1516897433483
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "0133cab93eb458ab",
+        "43b9c8d895862611",
+        "e777176ffaf08081",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "e777176ffaf08081",
+      "date": 1516897434778
+    },
+    {
+      "type": "edit",
+      "id": "e777176ffaf08081",
+      "item": {
+        "type": "paragraph",
+        "id": "e777176ffaf08081",
+        "text": "(This setup, w/ root access, is still janky. And I would like for it to restart itself on failure in the future. Also I should un-install the experimental plugins which are probably causing crashes, and check logs to get to the bottom of things.)"
+      },
+      "date": 1516897467610
+    },
+    {
+      "type": "edit",
+      "id": "e777176ffaf08081",
+      "item": {
+        "type": "paragraph",
+        "id": "e777176ffaf08081",
+        "text": "(This setup, w/ root access, is still janky. And I would like for wiki to restart itself on failure in the future. Also I should un-install the experimental plugins which are probably causing crashes, and check logs to get to the bottom of things.)"
+      },
+      "date": 1516897529504
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "title": "Engagement Locations",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "086428d8aee75010",
+      "text": "Megabus"
+    },
+    {
+      "type": "paragraph",
+      "id": "b744519ec6e82b91",
+      "text": "Panera"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Engagement Locations",
+        "story": []
+      },
+      "date": 1518281986999
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b744519ec6e82b91"
+      },
+      "id": "b744519ec6e82b91",
+      "type": "add",
+      "date": 1518281988402
+    },
+    {
+      "type": "edit",
+      "id": "b744519ec6e82b91",
+      "item": {
+        "type": "paragraph",
+        "id": "b744519ec6e82b91",
+        "text": "Panera"
+      },
+      "date": 1518281998095
+    },
+    {
+      "type": "add",
+      "id": "086428d8aee75010",
+      "item": {
+        "type": "paragraph",
+        "id": "086428d8aee75010",
+        "text": "Megabus"
+      },
+      "after": "b744519ec6e82b91",
+      "date": 1518282043213
+    },
+    {
+      "type": "move",
+      "order": [
+        "086428d8aee75010",
+        "b744519ec6e82b91"
+      ],
+      "id": "b744519ec6e82b91",
+      "date": 1518403491050
+    }
+  ]
+}

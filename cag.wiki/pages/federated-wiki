@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "34491db897e19f27",
-      "text": "What is a wiki"
+      "text": "What is a wiki?"
     },
     {
       "type": "paragraph",
@@ -497,6 +497,16 @@
       },
       "after": "530fa0c6d830da7d",
       "date": 1490551944702
+    },
+    {
+      "type": "edit",
+      "id": "34491db897e19f27",
+      "item": {
+        "type": "paragraph",
+        "id": "34491db897e19f27",
+        "text": "What is a wiki?"
+      },
+      "date": 1518148269085
     }
   ]
 }
