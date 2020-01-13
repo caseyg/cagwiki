@@ -8,6 +8,21 @@
     },
     {
       "type": "pagefold",
+      "id": "068fb70921c0976f",
+      "text": "📣"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea167bcf4c45caed",
+      "text": "🌸 For design & code inquiries, please [http://hire.caseyagollan.com visit my work site]  🌼"
+    },
+    {
+      "type": "paragraph",
+      "id": "59bd6db6aea23dad",
+      "text": "and for baby names, administrivia, etc. see below..."
+    },
+    {
+      "type": "pagefold",
       "id": "013dc8b1008429d2",
       "text": "⚠️"
     },
@@ -50,11 +65,6 @@
       "type": "paragraph",
       "id": "db32076ee63aa7f7",
       "text": "[[Books]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "c634248e86c51ab5",
-      "text": "[http://bullshit.systems Bullshit.systems] [[bs]]"
     },
     {
       "type": "paragraph",
@@ -138,11 +148,6 @@
     },
     {
       "type": "paragraph",
-      "id": "96734306a263e3a1",
-      "text": "[[P2P]]"
-    },
-    {
-      "type": "paragraph",
       "id": "a6a9f5a2cd9961ab",
       "text": "[http://projects.cag.wiki/view/projects Projects Class notes] and [http://projectsthecooperunion.wiki class wiki]"
     },
@@ -185,11 +190,6 @@
       "type": "paragraph",
       "id": "ae5ccf15ff9696f1",
       "text": "U ... V ... W"
-    },
-    {
-      "type": "paragraph",
-      "id": "b697818d50d9673a",
-      "text": "[[Website Theory]]"
     },
     {
       "type": "paragraph",
@@ -237,6 +237,11 @@
       "text": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I was going to make soup today but I set up a federated wiki farm instead?? <a href=\"https://t.co/8Gw55rDW81\">cag.wiki</a></p>&mdash; Casey Gollan (@CaseyG) <a href=\"https://twitter.com/CaseyG/status/801629921126793216\">November 24, 2016</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
     },
     {
+      "type": "paragraph",
+      "id": "3c6df18b845d916e",
+      "text": "[[Fedwiki Meta]]"
+    },
+    {
       "type": "pagefold",
       "id": "93ef02b6fe714d5a",
       "text": "Recent Activity"
@@ -280,14 +285,6 @@
       "type": "paragraph",
       "id": "6186185fcfef5ce6",
       "text": "[[Neighborhood]]"
-    },
-    {
-      "type": "factory",
-      "id": "e4d5b5314925a5a5"
-    },
-    {
-      "type": "factory",
-      "id": "c58d95f26e98c2a3"
     }
   ],
   "journal": [
@@ -8120,188 +8117,6 @@
       },
       "after": "575c817d5fd11063",
       "date": 1520540947767
-    },
-    {
-      "type": "remove",
-      "id": "3c6df18b845d916e",
-      "date": 1524178915540,
-      "error": {
-        "type": "error",
-        "msg": "Forbidden",
-        "response": "Forbidden"
-      }
-    },
-    {
-      "type": "fork",
-      "date": 1524178923172
-    },
-    {
-      "type": "add",
-      "id": "96734306a263e3a1",
-      "item": {
-        "type": "paragraph",
-        "id": "96734306a263e3a1",
-        "text": "[p2p]"
-      },
-      "after": "54860aff0c52e648",
-      "date": 1524850731880
-    },
-    {
-      "type": "edit",
-      "id": "96734306a263e3a1",
-      "item": {
-        "type": "paragraph",
-        "id": "96734306a263e3a1",
-        "text": "[[P2P]]"
-      },
-      "date": 1524850741008
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "7ff68c734e168d53"
-      },
-      "id": "7ff68c734e168d53",
-      "type": "add",
-      "after": "6186185fcfef5ce6",
-      "date": 1526392343078
-    },
-    {
-      "type": "remove",
-      "id": "7ff68c734e168d53",
-      "date": 1526392360428
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "e4d5b5314925a5a5"
-      },
-      "id": "e4d5b5314925a5a5",
-      "type": "add",
-      "after": "6186185fcfef5ce6",
-      "date": 1526392362606
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "4603d15814de7a4e"
-      },
-      "id": "4603d15814de7a4e",
-      "type": "add",
-      "after": "e4d5b5314925a5a5",
-      "date": 1526394497394
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "c58d95f26e98c2a3"
-      },
-      "id": "c58d95f26e98c2a3",
-      "type": "add",
-      "after": "4603d15814de7a4e",
-      "date": 1526413024382
-    },
-    {
-      "type": "remove",
-      "id": "4603d15814de7a4e",
-      "date": 1526413028248
-    },
-    {
-      "type": "add",
-      "id": "b697818d50d9673a",
-      "item": {
-        "type": "paragraph",
-        "id": "b697818d50d9673a",
-        "text": "Website Theory"
-      },
-      "after": "ae5ccf15ff9696f1",
-      "date": 1530413642238
-    },
-    {
-      "type": "edit",
-      "id": "b697818d50d9673a",
-      "item": {
-        "type": "paragraph",
-        "id": "b697818d50d9673a",
-        "text": "[[Website Theory]]"
-      },
-      "date": 1530413645817
-    },
-    {
-      "type": "remove",
-      "id": "ea167bcf4c45caed",
-      "date": 1533497814866
-    },
-    {
-      "type": "remove",
-      "id": "59bd6db6aea23dad",
-      "date": 1533497816499
-    },
-    {
-      "type": "remove",
-      "id": "068fb70921c0976f",
-      "date": 1533497818943
-    },
-    {
-      "type": "add",
-      "id": "c634248e86c51ab5",
-      "item": {
-        "type": "paragraph",
-        "id": "c634248e86c51ab5",
-        "text": "[Bullshit.systems"
-      },
-      "after": "db32076ee63aa7f7",
-      "date": 1551056779445
-    },
-    {
-      "type": "edit",
-      "id": "c634248e86c51ab5",
-      "item": {
-        "type": "paragraph",
-        "id": "c634248e86c51ab5",
-        "text": "[Bullshit.systems]"
-      },
-      "date": 1551056782473
-    },
-    {
-      "type": "edit",
-      "id": "c634248e86c51ab5",
-      "item": {
-        "type": "paragraph",
-        "id": "c634248e86c51ab5",
-        "text": "[Bullshit.systems]()"
-      },
-      "date": 1551056788549
-    },
-    {
-      "type": "edit",
-      "id": "c634248e86c51ab5",
-      "item": {
-        "type": "paragraph",
-        "id": "c634248e86c51ab5",
-        "text": "[Bullshit.systems http://bullshit.systems]"
-      },
-      "date": 1551056798428
-    },
-    {
-      "type": "edit",
-      "id": "c634248e86c51ab5",
-      "item": {
-        "type": "paragraph",
-        "id": "c634248e86c51ab5",
-        "text": "[http://bullshit.systems Bullshit.systems]"
-      },
-      "date": 1551056802843
-    },
-    {
-      "type": "edit",
-      "id": "c634248e86c51ab5",
-      "item": {
-        "type": "paragraph",
-        "id": "c634248e86c51ab5",
-        "text": "[http://bullshit.systems Bullshit.systems] [[bs]]"
-      },
-      "date": 1551056812745
     }
   ]
 }

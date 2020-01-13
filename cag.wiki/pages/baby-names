@@ -2,14 +2,64 @@
   "title": "Baby Names",
   "story": [
     {
+      "type": "markdown",
+      "id": "00a9dc339b60a250",
+      "text": "Halliburton"
+    },
+    {
+      "type": "markdown",
+      "id": "18671946bc3b81f0",
+      "text": "Egplant "
+    },
+    {
       "type": "paragraph",
-      "id": "d14f2c6cc2306f17",
-      "text": "Bluster"
+      "id": "4b26e549ad7cfd3c",
+      "text": "Complicity"
+    },
+    {
+      "type": "paragraph",
+      "id": "5aedf77a3a9a6bd4",
+      "text": "Litany"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a6449653081d351",
+      "text": "Kriptyn"
     },
     {
       "type": "paragraph",
       "id": "21fc42b2e95e5b27",
       "text": "Oracle"
+    },
+    {
+      "type": "paragraph",
+      "id": "442855ff9e78dcd3",
+      "text": "Delimeet"
+    },
+    {
+      "type": "paragraph",
+      "id": "0837c1e75b9570da",
+      "text": "Router"
+    },
+    {
+      "type": "paragraph",
+      "id": "c9e7b9eea491de4e",
+      "text": "Viterine"
+    },
+    {
+      "type": "paragraph",
+      "id": "c612b86f90342282",
+      "text": "Lellie"
+    },
+    {
+      "type": "paragraph",
+      "id": "6098901f09afef90",
+      "text": "Enertia"
+    },
+    {
+      "type": "paragraph",
+      "id": "f8699836d16b84c7",
+      "text": "Bluster"
     },
     {
       "type": "paragraph",
@@ -30,11 +80,6 @@
       "type": "paragraph",
       "id": "2f1179dc253487a0",
       "text": "Ephiphany"
-    },
-    {
-      "type": "paragraph",
-      "id": "0837c1e75b9570da",
-      "text": "Router"
     },
     {
       "type": "paragraph",
@@ -175,6 +220,16 @@
       "type": "paragraph",
       "id": "b4e00f7adfd5584e",
       "text": "Shameus"
+    },
+    {
+      "type": "markdown",
+      "id": "82209a7fea2a6fff",
+      "text": "Opacity"
+    },
+    {
+      "type": "markdown",
+      "id": "da4b5c16473b0df4",
+      "text": "Standclearoftheclosingdoorsplease"
     }
   ],
   "journal": [
@@ -732,6 +787,635 @@
       },
       "after": "d14f2c6cc2306f17",
       "date": 1509845279853
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Entertia"
+      },
+      "date": 1521591350782
+    },
+    {
+      "type": "add",
+      "id": "f8699836d16b84c7",
+      "item": {
+        "type": "paragraph",
+        "id": "f8699836d16b84c7",
+        "text": "Bluster"
+      },
+      "after": "d14f2c6cc2306f17",
+      "date": 1521591351389
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "Enertia"
+      },
+      "date": 1521591396110
+    },
+    {
+      "type": "edit",
+      "id": "d14f2c6cc2306f17",
+      "item": {
+        "type": "paragraph",
+        "id": "d14f2c6cc2306f17",
+        "text": "https://twitter.com/CaseyG/status/723588755634925568"
+      },
+      "date": 1524687692101
+    },
+    {
+      "type": "add",
+      "id": "fb1eb84f7aa9d45c",
+      "item": {
+        "type": "paragraph",
+        "id": "fb1eb84f7aa9d45c",
+        "text": "Enertia"
+      },
+      "after": "d14f2c6cc2306f17",
+      "date": 1524687692998
+    },
+    {
+      "type": "edit",
+      "id": "fb1eb84f7aa9d45c",
+      "item": {
+        "type": "paragraph",
+        "id": "fb1eb84f7aa9d45c",
+        "text": "Delimeet"
+      },
+      "date": 1524687707050
+    },
+    {
+      "type": "add",
+      "id": "c9e7b9eea491de4e",
+      "item": {
+        "type": "paragraph",
+        "id": "c9e7b9eea491de4e",
+        "text": "Viterine"
+      },
+      "after": "fb1eb84f7aa9d45c",
+      "date": 1524687709399
+    },
+    {
+      "type": "add",
+      "id": "c612b86f90342282",
+      "item": {
+        "type": "paragraph",
+        "id": "c612b86f90342282",
+        "text": "Lellie"
+      },
+      "after": "c9e7b9eea491de4e",
+      "date": 1524687711116
+    },
+    {
+      "type": "add",
+      "id": "6098901f09afef90",
+      "item": {
+        "type": "paragraph",
+        "id": "6098901f09afef90",
+        "text": "Enertia"
+      },
+      "after": "c612b86f90342282",
+      "date": 1524687716024
+    },
+    {
+      "type": "edit",
+      "id": "fb1eb84f7aa9d45c",
+      "item": {
+        "type": "paragraph",
+        "id": "fb1eb84f7aa9d45c",
+        "text": "Sos"
+      },
+      "date": 1524687753202
+    },
+    {
+      "type": "add",
+      "id": "4b26e549ad7cfd3c",
+      "item": {
+        "type": "paragraph",
+        "id": "4b26e549ad7cfd3c",
+        "text": "Delimeet"
+      },
+      "after": "fb1eb84f7aa9d45c",
+      "date": 1524687753703
+    },
+    {
+      "type": "remove",
+      "id": "d14f2c6cc2306f17",
+      "date": 1524687794100
+    },
+    {
+      "type": "remove",
+      "id": "fb1eb84f7aa9d45c",
+      "date": 1524687798521
+    },
+    {
+      "type": "edit",
+      "id": "4b26e549ad7cfd3c",
+      "item": {
+        "type": "paragraph",
+        "id": "4b26e549ad7cfd3c",
+        "text": "Kryptyn"
+      },
+      "date": 1524989565266
+    },
+    {
+      "type": "add",
+      "id": "442855ff9e78dcd3",
+      "item": {
+        "type": "paragraph",
+        "id": "442855ff9e78dcd3",
+        "text": "Delimeet"
+      },
+      "after": "4b26e549ad7cfd3c",
+      "date": 1524989566060
+    },
+    {
+      "type": "edit",
+      "id": "4b26e549ad7cfd3c",
+      "item": {
+        "type": "paragraph",
+        "id": "4b26e549ad7cfd3c",
+        "text": "Kriptyn"
+      },
+      "date": 1524989588562
+    },
+    {
+      "type": "edit",
+      "id": "4b26e549ad7cfd3c",
+      "item": {
+        "type": "paragraph",
+        "id": "4b26e549ad7cfd3c",
+        "text": "Litany"
+      },
+      "date": 1529432319252
+    },
+    {
+      "type": "add",
+      "id": "0a6449653081d351",
+      "item": {
+        "type": "paragraph",
+        "id": "0a6449653081d351",
+        "text": "Kriptyn"
+      },
+      "after": "4b26e549ad7cfd3c",
+      "date": 1529432319838
+    },
+    {
+      "type": "edit",
+      "id": "4b26e549ad7cfd3c",
+      "item": {
+        "type": "paragraph",
+        "id": "4b26e549ad7cfd3c",
+        "text": "Complicity"
+      },
+      "date": 1531429183025
+    },
+    {
+      "type": "add",
+      "id": "5aedf77a3a9a6bd4",
+      "item": {
+        "type": "paragraph",
+        "id": "5aedf77a3a9a6bd4",
+        "text": "Litany"
+      },
+      "after": "4b26e549ad7cfd3c",
+      "date": 1531429183536
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b26e549ad7cfd3c",
+        "5aedf77a3a9a6bd4",
+        "0a6449653081d351",
+        "442855ff9e78dcd3",
+        "c9e7b9eea491de4e",
+        "c612b86f90342282",
+        "21fc42b2e95e5b27",
+        "6098901f09afef90",
+        "f8699836d16b84c7",
+        "82dd360565625166",
+        "761b0aa8d2fc1217",
+        "2773a355ef401fd2",
+        "2f1179dc253487a0",
+        "0837c1e75b9570da",
+        "cd41bd668fa750ab",
+        "ebd0b5dfd4dd768f",
+        "c925b35b00facb91",
+        "460ea23004c017ee",
+        "971f73475e3637f8",
+        "4b0b5967dfacb009",
+        "41e67adc6bb8873e",
+        "a3921cf6d04b880a",
+        "96c78251e7378e3a",
+        "534f2254aeb932d9",
+        "f8bb91e57ec20c83",
+        "dd2f7ee6861d9e0f",
+        "6d9f46164d90cd70",
+        "83dc1a3e310dfe25",
+        "2b487bc7697d2446",
+        "bfb1349487a4cd9d",
+        "652b27ecbaf3662e",
+        "c6d690641e6f9611",
+        "76206414d2da7c38",
+        "d4a87413c3363389",
+        "de8d16faaf27765c",
+        "99afda9ad40caae8",
+        "d2be1e13db630a71",
+        "7716b8c7560ca9db",
+        "91a7e3c533f907a6",
+        "8dcd901f39d381de",
+        "cc7748328abdd924",
+        "b4e00f7adfd5584e"
+      ],
+      "id": "21fc42b2e95e5b27",
+      "date": 1550801333928
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b26e549ad7cfd3c",
+        "5aedf77a3a9a6bd4",
+        "0a6449653081d351",
+        "442855ff9e78dcd3",
+        "c9e7b9eea491de4e",
+        "c612b86f90342282",
+        "21fc42b2e95e5b27",
+        "6098901f09afef90",
+        "0837c1e75b9570da",
+        "f8699836d16b84c7",
+        "82dd360565625166",
+        "761b0aa8d2fc1217",
+        "2773a355ef401fd2",
+        "2f1179dc253487a0",
+        "cd41bd668fa750ab",
+        "ebd0b5dfd4dd768f",
+        "c925b35b00facb91",
+        "460ea23004c017ee",
+        "971f73475e3637f8",
+        "4b0b5967dfacb009",
+        "41e67adc6bb8873e",
+        "a3921cf6d04b880a",
+        "96c78251e7378e3a",
+        "534f2254aeb932d9",
+        "f8bb91e57ec20c83",
+        "dd2f7ee6861d9e0f",
+        "6d9f46164d90cd70",
+        "83dc1a3e310dfe25",
+        "2b487bc7697d2446",
+        "bfb1349487a4cd9d",
+        "652b27ecbaf3662e",
+        "c6d690641e6f9611",
+        "76206414d2da7c38",
+        "d4a87413c3363389",
+        "de8d16faaf27765c",
+        "99afda9ad40caae8",
+        "d2be1e13db630a71",
+        "7716b8c7560ca9db",
+        "91a7e3c533f907a6",
+        "8dcd901f39d381de",
+        "cc7748328abdd924",
+        "b4e00f7adfd5584e"
+      ],
+      "id": "0837c1e75b9570da",
+      "date": 1550801339247
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18671946bc3b81f0"
+      },
+      "id": "18671946bc3b81f0",
+      "type": "add",
+      "after": "b4e00f7adfd5584e",
+      "date": 1550801344801
+    },
+    {
+      "type": "edit",
+      "id": "18671946bc3b81f0",
+      "item": {
+        "type": "markdown",
+        "id": "18671946bc3b81f0",
+        "text": "Egplant "
+      },
+      "date": 1550801393308
+    },
+    {
+      "type": "move",
+      "order": [
+        "18671946bc3b81f0",
+        "4b26e549ad7cfd3c",
+        "5aedf77a3a9a6bd4",
+        "0a6449653081d351",
+        "442855ff9e78dcd3",
+        "c9e7b9eea491de4e",
+        "c612b86f90342282",
+        "21fc42b2e95e5b27",
+        "6098901f09afef90",
+        "0837c1e75b9570da",
+        "f8699836d16b84c7",
+        "82dd360565625166",
+        "761b0aa8d2fc1217",
+        "2773a355ef401fd2",
+        "2f1179dc253487a0",
+        "cd41bd668fa750ab",
+        "ebd0b5dfd4dd768f",
+        "c925b35b00facb91",
+        "460ea23004c017ee",
+        "971f73475e3637f8",
+        "4b0b5967dfacb009",
+        "41e67adc6bb8873e",
+        "a3921cf6d04b880a",
+        "96c78251e7378e3a",
+        "534f2254aeb932d9",
+        "f8bb91e57ec20c83",
+        "dd2f7ee6861d9e0f",
+        "6d9f46164d90cd70",
+        "83dc1a3e310dfe25",
+        "2b487bc7697d2446",
+        "bfb1349487a4cd9d",
+        "652b27ecbaf3662e",
+        "c6d690641e6f9611",
+        "76206414d2da7c38",
+        "d4a87413c3363389",
+        "de8d16faaf27765c",
+        "99afda9ad40caae8",
+        "d2be1e13db630a71",
+        "7716b8c7560ca9db",
+        "91a7e3c533f907a6",
+        "8dcd901f39d381de",
+        "cc7748328abdd924",
+        "b4e00f7adfd5584e"
+      ],
+      "id": "18671946bc3b81f0",
+      "date": 1550801400388
+    },
+    {
+      "type": "move",
+      "order": [
+        "18671946bc3b81f0",
+        "4b26e549ad7cfd3c",
+        "5aedf77a3a9a6bd4",
+        "0a6449653081d351",
+        "442855ff9e78dcd3",
+        "c9e7b9eea491de4e",
+        "c612b86f90342282",
+        "0837c1e75b9570da",
+        "21fc42b2e95e5b27",
+        "6098901f09afef90",
+        "f8699836d16b84c7",
+        "82dd360565625166",
+        "761b0aa8d2fc1217",
+        "2773a355ef401fd2",
+        "2f1179dc253487a0",
+        "cd41bd668fa750ab",
+        "ebd0b5dfd4dd768f",
+        "c925b35b00facb91",
+        "460ea23004c017ee",
+        "971f73475e3637f8",
+        "4b0b5967dfacb009",
+        "41e67adc6bb8873e",
+        "a3921cf6d04b880a",
+        "96c78251e7378e3a",
+        "534f2254aeb932d9",
+        "f8bb91e57ec20c83",
+        "dd2f7ee6861d9e0f",
+        "6d9f46164d90cd70",
+        "83dc1a3e310dfe25",
+        "2b487bc7697d2446",
+        "bfb1349487a4cd9d",
+        "652b27ecbaf3662e",
+        "c6d690641e6f9611",
+        "76206414d2da7c38",
+        "d4a87413c3363389",
+        "de8d16faaf27765c",
+        "99afda9ad40caae8",
+        "d2be1e13db630a71",
+        "7716b8c7560ca9db",
+        "91a7e3c533f907a6",
+        "8dcd901f39d381de",
+        "cc7748328abdd924",
+        "b4e00f7adfd5584e"
+      ],
+      "id": "0837c1e75b9570da",
+      "date": 1557491596350
+    },
+    {
+      "type": "move",
+      "order": [
+        "18671946bc3b81f0",
+        "4b26e549ad7cfd3c",
+        "5aedf77a3a9a6bd4",
+        "0a6449653081d351",
+        "442855ff9e78dcd3",
+        "0837c1e75b9570da",
+        "c9e7b9eea491de4e",
+        "c612b86f90342282",
+        "21fc42b2e95e5b27",
+        "6098901f09afef90",
+        "f8699836d16b84c7",
+        "82dd360565625166",
+        "761b0aa8d2fc1217",
+        "2773a355ef401fd2",
+        "2f1179dc253487a0",
+        "cd41bd668fa750ab",
+        "ebd0b5dfd4dd768f",
+        "c925b35b00facb91",
+        "460ea23004c017ee",
+        "971f73475e3637f8",
+        "4b0b5967dfacb009",
+        "41e67adc6bb8873e",
+        "a3921cf6d04b880a",
+        "96c78251e7378e3a",
+        "534f2254aeb932d9",
+        "f8bb91e57ec20c83",
+        "dd2f7ee6861d9e0f",
+        "6d9f46164d90cd70",
+        "83dc1a3e310dfe25",
+        "2b487bc7697d2446",
+        "bfb1349487a4cd9d",
+        "652b27ecbaf3662e",
+        "c6d690641e6f9611",
+        "76206414d2da7c38",
+        "d4a87413c3363389",
+        "de8d16faaf27765c",
+        "99afda9ad40caae8",
+        "d2be1e13db630a71",
+        "7716b8c7560ca9db",
+        "91a7e3c533f907a6",
+        "8dcd901f39d381de",
+        "cc7748328abdd924",
+        "b4e00f7adfd5584e"
+      ],
+      "id": "0837c1e75b9570da",
+      "date": 1559778180497
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "00a9dc339b60a250"
+      },
+      "id": "00a9dc339b60a250",
+      "type": "add",
+      "after": "b4e00f7adfd5584e",
+      "date": 1559778188946
+    },
+    {
+      "type": "edit",
+      "id": "00a9dc339b60a250",
+      "item": {
+        "type": "markdown",
+        "id": "00a9dc339b60a250",
+        "text": "Halliburton"
+      },
+      "date": 1559778223407
+    },
+    {
+      "type": "move",
+      "order": [
+        "00a9dc339b60a250",
+        "18671946bc3b81f0",
+        "4b26e549ad7cfd3c",
+        "5aedf77a3a9a6bd4",
+        "0a6449653081d351",
+        "442855ff9e78dcd3",
+        "0837c1e75b9570da",
+        "c9e7b9eea491de4e",
+        "c612b86f90342282",
+        "21fc42b2e95e5b27",
+        "6098901f09afef90",
+        "f8699836d16b84c7",
+        "82dd360565625166",
+        "761b0aa8d2fc1217",
+        "2773a355ef401fd2",
+        "2f1179dc253487a0",
+        "cd41bd668fa750ab",
+        "ebd0b5dfd4dd768f",
+        "c925b35b00facb91",
+        "460ea23004c017ee",
+        "971f73475e3637f8",
+        "4b0b5967dfacb009",
+        "41e67adc6bb8873e",
+        "a3921cf6d04b880a",
+        "96c78251e7378e3a",
+        "534f2254aeb932d9",
+        "f8bb91e57ec20c83",
+        "dd2f7ee6861d9e0f",
+        "6d9f46164d90cd70",
+        "83dc1a3e310dfe25",
+        "2b487bc7697d2446",
+        "bfb1349487a4cd9d",
+        "652b27ecbaf3662e",
+        "c6d690641e6f9611",
+        "76206414d2da7c38",
+        "d4a87413c3363389",
+        "de8d16faaf27765c",
+        "99afda9ad40caae8",
+        "d2be1e13db630a71",
+        "7716b8c7560ca9db",
+        "91a7e3c533f907a6",
+        "8dcd901f39d381de",
+        "cc7748328abdd924",
+        "b4e00f7adfd5584e"
+      ],
+      "id": "00a9dc339b60a250",
+      "date": 1559778229888
+    },
+    {
+      "type": "move",
+      "order": [
+        "00a9dc339b60a250",
+        "18671946bc3b81f0",
+        "4b26e549ad7cfd3c",
+        "5aedf77a3a9a6bd4",
+        "0a6449653081d351",
+        "21fc42b2e95e5b27",
+        "442855ff9e78dcd3",
+        "0837c1e75b9570da",
+        "c9e7b9eea491de4e",
+        "c612b86f90342282",
+        "6098901f09afef90",
+        "f8699836d16b84c7",
+        "82dd360565625166",
+        "761b0aa8d2fc1217",
+        "2773a355ef401fd2",
+        "2f1179dc253487a0",
+        "cd41bd668fa750ab",
+        "ebd0b5dfd4dd768f",
+        "c925b35b00facb91",
+        "460ea23004c017ee",
+        "971f73475e3637f8",
+        "4b0b5967dfacb009",
+        "41e67adc6bb8873e",
+        "a3921cf6d04b880a",
+        "96c78251e7378e3a",
+        "534f2254aeb932d9",
+        "f8bb91e57ec20c83",
+        "dd2f7ee6861d9e0f",
+        "6d9f46164d90cd70",
+        "83dc1a3e310dfe25",
+        "2b487bc7697d2446",
+        "bfb1349487a4cd9d",
+        "652b27ecbaf3662e",
+        "c6d690641e6f9611",
+        "76206414d2da7c38",
+        "d4a87413c3363389",
+        "de8d16faaf27765c",
+        "99afda9ad40caae8",
+        "d2be1e13db630a71",
+        "7716b8c7560ca9db",
+        "91a7e3c533f907a6",
+        "8dcd901f39d381de",
+        "cc7748328abdd924",
+        "b4e00f7adfd5584e"
+      ],
+      "id": "21fc42b2e95e5b27",
+      "date": 1572055581333
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "82209a7fea2a6fff"
+      },
+      "id": "82209a7fea2a6fff",
+      "type": "add",
+      "after": "b4e00f7adfd5584e",
+      "date": 1572055587782
+    },
+    {
+      "type": "edit",
+      "id": "82209a7fea2a6fff",
+      "item": {
+        "type": "markdown",
+        "id": "82209a7fea2a6fff",
+        "text": "Opacity"
+      },
+      "date": 1572055614357
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "da4b5c16473b0df4"
+      },
+      "id": "da4b5c16473b0df4",
+      "type": "add",
+      "after": "82209a7fea2a6fff",
+      "date": 1572055619448
+    },
+    {
+      "type": "edit",
+      "id": "da4b5c16473b0df4",
+      "item": {
+        "type": "markdown",
+        "id": "da4b5c16473b0df4",
+        "text": "Standclearoftheclosingdoorsplease"
+      },
+      "date": 1572055632854
     }
   ]
 }

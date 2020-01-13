@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "9a8362497aed5508",
+      "text": "4/28/18: I think I'll have the better version soon :)"
+    },
+    {
+      "type": "paragraph",
       "id": "34491db897e19f27",
       "text": "What is a wiki?"
     },
@@ -507,6 +512,17 @@
         "text": "What is a wiki?"
       },
       "date": 1518148269085
+    },
+    {
+      "type": "add",
+      "id": "9a8362497aed5508",
+      "item": {
+        "type": "paragraph",
+        "id": "9a8362497aed5508",
+        "text": "4/28/18: I think I'll have the better version soon :)"
+      },
+      "after": "530fa0c6d830da7d",
+      "date": 1524949740986
     }
   ]
 }

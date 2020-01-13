@@ -9,7 +9,7 @@
     {
       "type": "html",
       "id": "c2f6c4e0a0cd0075",
-      "text": "<small><strong>CSS</strong></small> <style>\n#bedroom-stack.page {width:740px;}\n#bedroom-stack .code, #books pre {width: 670px!important;}</style>"
+      "text": "<small><strong>CSS</strong></small> <style>\n#bedroom-stack.page {width:760px;}\n#bedroom-stack .code, #books pre {width: 680px!important;}</style>"
     }
   ],
   "journal": [
@@ -59,6 +59,56 @@
         "text": "<small><strong>CSS</strong></small> <style>\n#bedroom-stack.page {width:740px;}\n#bedroom-stack .code, #books pre {width: 670px!important;}</style>"
       },
       "date": 1490551675013
+    },
+    {
+      "type": "edit",
+      "id": "c2f6c4e0a0cd0075",
+      "item": {
+        "type": "html",
+        "id": "c2f6c4e0a0cd0075",
+        "text": "<small><strong>CSS</strong></small> <style>\n#bedroom-stack.page {width:760px;}\n#bedroom-stack .code, #books pre {width: 670px!important;}</style>"
+      },
+      "date": 1524851696862
+    },
+    {
+      "type": "edit",
+      "id": "c2f6c4e0a0cd0075",
+      "item": {
+        "type": "html",
+        "id": "c2f6c4e0a0cd0075",
+        "text": "<small><strong>CSS</strong></small> <style>\n#bedroom-stack.page {width:800px;}\n#bedroom-stack .code, #books pre {width: 670px!important;}</style>"
+      },
+      "date": 1524851705138
+    },
+    {
+      "type": "edit",
+      "id": "c2f6c4e0a0cd0075",
+      "item": {
+        "type": "html",
+        "id": "c2f6c4e0a0cd0075",
+        "text": "<small><strong>CSS</strong></small> <style>\n#bedroom-stack.page {width:800px;}\n#bedroom-stack .code, #books pre {width: 680px!important;}</style>"
+      },
+      "date": 1524851723356
+    },
+    {
+      "type": "edit",
+      "id": "c2f6c4e0a0cd0075",
+      "item": {
+        "type": "html",
+        "id": "c2f6c4e0a0cd0075",
+        "text": "<small><strong>CSS</strong></small> <style>\n#bedroom-stack.page {width:770px;}\n#bedroom-stack .code, #books pre {width: 680px!important;}</style>"
+      },
+      "date": 1524851758726
+    },
+    {
+      "type": "edit",
+      "id": "c2f6c4e0a0cd0075",
+      "item": {
+        "type": "html",
+        "id": "c2f6c4e0a0cd0075",
+        "text": "<small><strong>CSS</strong></small> <style>\n#bedroom-stack.page {width:760px;}\n#bedroom-stack .code, #books pre {width: 680px!important;}</style>"
+      },
+      "date": 1524851774654
     }
   ]
 }

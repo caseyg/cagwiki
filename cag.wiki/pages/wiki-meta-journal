@@ -8,6 +8,36 @@
     },
     {
       "type": "paragraph",
+      "id": "0739319b38125b32",
+      "text": "April 19 — wiki was down again, installed papertrail to log everything and set up a log for errors, deleted the fedwiki-meta and wiki-plugins pages which I suspect were causing the server to melt down, updated node modules"
+    },
+    {
+      "type": "paragraph",
+      "id": "277b6c253f2d38b8",
+      "text": "March 1 — wiki went down again, hard to say for how long?! logged in and found that pm2 had no running processes, so started it up again and all was well. ran an update on the wiki software, too:"
+    },
+    {
+      "type": "code",
+      "id": "647b517a34cb0637",
+      "text": "> npm outdated --silent -g | grep '^Package\\|^wiki'\nPackage  Current  Wanted  Latest  Location\nwiki      0.13.0  0.13.0  0.14.0\n> npm install -g wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "7afee39b21fa4d56",
+      "text": "and ran "
+    },
+    {
+      "type": "code",
+      "id": "057223e65f7707c7",
+      "text": "> pm2 save\n[PM2] Saving current process list...\n[PM2] Successfully saved in /home/cag/.pm2/dump.pm2\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "1a0fa04298f0fd2b",
+      "text": "which I think will help restart the wiki process automatically from pm2?"
+    },
+    {
+      "type": "paragraph",
       "id": "0133cab93eb458ab",
       "text": "January 25 — laurel told me my wiki was down! I have no idea how long it has been broken for. 🙀 I had to wrack my brain to remember how to fix it, because I didn't end up writing myself a tutorial in december."
     },
@@ -556,6 +586,256 @@
         "text": "(This setup, w/ root access, is still janky. And I would like for wiki to restart itself on failure in the future. Also I should un-install the experimental plugins which are probably causing crashes, and check logs to get to the bottom of things.)"
       },
       "date": 1516897529504
+    },
+    {
+      "type": "add",
+      "id": "277b6c253f2d38b8",
+      "item": {
+        "type": "paragraph",
+        "id": "277b6c253f2d38b8",
+        "text": "March 1 — wiki went down again, hard to say for how long?! logged in and found that pm2 had no running processes, so started it up again and all was well. ran an update on the wiki software, too:"
+      },
+      "after": "fc471c4ff435e1b0",
+      "date": 1519913608847
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ced6dff9e21bb05b"
+      },
+      "id": "ced6dff9e21bb05b",
+      "type": "add",
+      "after": "f7f8fbdb072e670d",
+      "date": 1519913625239
+    },
+    {
+      "type": "remove",
+      "id": "ced6dff9e21bb05b",
+      "date": 1519913631409
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "647b517a34cb0637"
+      },
+      "id": "647b517a34cb0637",
+      "type": "add",
+      "after": "f7f8fbdb072e670d",
+      "date": 1519913640015
+    },
+    {
+      "type": "edit",
+      "id": "647b517a34cb0637",
+      "item": {
+        "type": "code",
+        "id": "647b517a34cb0637",
+        "text": "> npm outdated --silent -g | grep '^Package\\|^wiki'\n> npm install -g wiki\n"
+      },
+      "date": 1519913652467
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "277b6c253f2d38b8",
+        "647b517a34cb0637",
+        "0133cab93eb458ab",
+        "43b9c8d895862611",
+        "e777176ffaf08081",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "647b517a34cb0637",
+      "date": 1519913655913
+    },
+    {
+      "type": "add",
+      "id": "7afee39b21fa4d56",
+      "item": {
+        "type": "paragraph",
+        "id": "7afee39b21fa4d56",
+        "text": "and ran "
+      },
+      "after": "277b6c253f2d38b8",
+      "date": 1519913670521
+    },
+    {
+      "type": "add",
+      "id": "1a0fa04298f0fd2b",
+      "item": {
+        "type": "paragraph",
+        "id": "1a0fa04298f0fd2b",
+        "text": "which I think will help restart the wiki process automatically from pm2?"
+      },
+      "after": "7afee39b21fa4d56",
+      "date": 1519913696323
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "277b6c253f2d38b8",
+        "7afee39b21fa4d56",
+        "647b517a34cb0637",
+        "1a0fa04298f0fd2b",
+        "0133cab93eb458ab",
+        "43b9c8d895862611",
+        "e777176ffaf08081",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "1a0fa04298f0fd2b",
+      "date": 1519913697743
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "277b6c253f2d38b8",
+        "647b517a34cb0637",
+        "7afee39b21fa4d56",
+        "1a0fa04298f0fd2b",
+        "0133cab93eb458ab",
+        "43b9c8d895862611",
+        "e777176ffaf08081",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "7afee39b21fa4d56",
+      "date": 1519913699120
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "057223e65f7707c7"
+      },
+      "id": "057223e65f7707c7",
+      "type": "add",
+      "after": "f7f8fbdb072e670d",
+      "date": 1519913701397
+    },
+    {
+      "type": "edit",
+      "id": "057223e65f7707c7",
+      "item": {
+        "type": "code",
+        "id": "057223e65f7707c7",
+        "text": "> pm2 save"
+      },
+      "date": 1519913707845
+    },
+    {
+      "type": "edit",
+      "id": "057223e65f7707c7",
+      "item": {
+        "type": "code",
+        "id": "057223e65f7707c7",
+        "text": "> pm2 save\n[PM2] Saving current process list...\n[PM2] Successfully saved in /home/cag/.pm2/dump.pm2\n"
+      },
+      "date": 1519913712857
+    },
+    {
+      "type": "move",
+      "order": [
+        "fc471c4ff435e1b0",
+        "277b6c253f2d38b8",
+        "647b517a34cb0637",
+        "7afee39b21fa4d56",
+        "057223e65f7707c7",
+        "1a0fa04298f0fd2b",
+        "0133cab93eb458ab",
+        "43b9c8d895862611",
+        "e777176ffaf08081",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "057223e65f7707c7",
+      "date": 1519913716946
+    },
+    {
+      "type": "edit",
+      "id": "647b517a34cb0637",
+      "item": {
+        "type": "code",
+        "id": "647b517a34cb0637",
+        "text": "> npm outdated --silent -g | grep '^Package\\|^wiki'\n└─┬ wiki@0.13.0\n> npm install -g wiki\n└─┬ wiki@0.13.0"
+      },
+      "date": 1519913980740
+    },
+    {
+      "type": "edit",
+      "id": "647b517a34cb0637",
+      "item": {
+        "type": "code",
+        "id": "647b517a34cb0637",
+        "text": "> npm outdated --silent -g | grep '^Package\\|^wiki'\nPackage  Current  Wanted  Latest  Location\nwiki      0.13.0  0.13.0  0.14.0\n> npm install -g wiki"
+      },
+      "date": 1519913997729
+    },
+    {
+      "type": "add",
+      "id": "0739319b38125b32",
+      "item": {
+        "type": "paragraph",
+        "id": "0739319b38125b32",
+        "text": "April 19 — wiki was down, installed papertrail to log failures, and deleted the wiki-meta"
+      },
+      "after": "fc471c4ff435e1b0",
+      "date": 1524178952221
+    },
+    {
+      "type": "edit",
+      "id": "0739319b38125b32",
+      "item": {
+        "type": "paragraph",
+        "id": "0739319b38125b32",
+        "text": "April 19 — wiki was down, installed papertrail to log failures, and deleted the fedwiki-meta and wiki-plugins"
+      },
+      "date": 1524178963283
+    },
+    {
+      "type": "edit",
+      "id": "0739319b38125b32",
+      "item": {
+        "type": "paragraph",
+        "id": "0739319b38125b32",
+        "text": "April 19 — wiki was down, installed papertrail to log failures, and deleted the fedwiki-meta and wiki-plugins pages which I suspect were causing the server to melt down"
+      },
+      "date": 1524178977480
+    },
+    {
+      "type": "edit",
+      "id": "0739319b38125b32",
+      "item": {
+        "type": "paragraph",
+        "id": "0739319b38125b32",
+        "text": "April 19 — wiki was down again, installed papertrail to log everything and set up a log for errors, deleted the fedwiki-meta and wiki-plugins pages which I suspect were causing the server to melt down, updated node modules"
+      },
+      "date": 1524178999150
     }
   ]
 }

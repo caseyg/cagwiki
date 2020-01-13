@@ -8,11 +8,6 @@
     },
     {
       "type": "paragraph",
-      "id": "a3a07e4aa3804db4",
-      "text": "deploying a website less stupidly"
-    },
-    {
-      "type": "paragraph",
       "id": "a6d5e22338225a73",
       "text": "using ssh keys with multiple users/computers"
     },
@@ -140,6 +135,11 @@
       },
       "after": "55c20d37abb6d2b6",
       "date": 1511066317714
+    },
+    {
+      "type": "remove",
+      "id": "a3a07e4aa3804db4",
+      "date": 1525447392626
     }
   ]
 }

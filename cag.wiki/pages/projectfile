@@ -2,13 +2,18 @@
   "title": "Projectfile",
   "story": [
     {
+      "type": "paragraph",
+      "id": "85123f7c93b0c6c4",
+      "text": "(i don't remember what almost any of this means, hehe)"
+    },
+    {
       "type": "pagefold",
       "id": "556077c89e6948a5",
       "text": "tools"
     },
     {
       "type": "paragraph",
-      "id": "85123f7c93b0c6c4",
+      "id": "a5f9dd2c5612c945",
       "text": "networked publishing syllabus"
     },
     {
@@ -429,6 +434,68 @@
         "text": "[[friend graveyard]]"
       },
       "date": 1502203713645
+    },
+    {
+      "type": "edit",
+      "id": "85123f7c93b0c6c4",
+      "item": {
+        "type": "paragraph",
+        "id": "85123f7c93b0c6c4",
+        "text": "(i don't remember what any of this means)"
+      },
+      "date": 1525447428374
+    },
+    {
+      "type": "add",
+      "id": "a5f9dd2c5612c945",
+      "item": {
+        "type": "paragraph",
+        "id": "a5f9dd2c5612c945",
+        "text": "networked publishing syllabus"
+      },
+      "after": "85123f7c93b0c6c4",
+      "date": 1525447429668
+    },
+    {
+      "type": "edit",
+      "id": "85123f7c93b0c6c4",
+      "item": {
+        "type": "paragraph",
+        "id": "85123f7c93b0c6c4",
+        "text": "(i don't remember what almost any of this means)"
+      },
+      "date": 1525447431882
+    },
+    {
+      "type": "move",
+      "order": [
+        "85123f7c93b0c6c4",
+        "556077c89e6948a5",
+        "a5f9dd2c5612c945",
+        "a494781ab34326d9",
+        "a91c3fbcb7565320",
+        "f353a2c7ff3bbe79",
+        "0c8247c4b2c56303",
+        "2d6fc099eae530a3",
+        "16450767c0c22d0d",
+        "d9a3a86335f424c1",
+        "0081b88bd32e185e",
+        "b97d9af10b6cea34",
+        "da2e87bcc05371f9",
+        "2e0850b0899da2af"
+      ],
+      "id": "85123f7c93b0c6c4",
+      "date": 1525447432988
+    },
+    {
+      "type": "edit",
+      "id": "85123f7c93b0c6c4",
+      "item": {
+        "type": "paragraph",
+        "id": "85123f7c93b0c6c4",
+        "text": "(i don't remember what almost any of this means, hehe)"
+      },
+      "date": 1525447438698
     }
   ]
 }

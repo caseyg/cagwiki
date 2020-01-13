@@ -4,6 +4,11 @@
     {
       "type": "paragraph",
       "id": "87781dbaebb3c174",
+      "text": "Vera List Center (2018/04/21)"
+    },
+    {
+      "type": "paragraph",
+      "id": "1c92af0565cdf324",
       "text": "[[Yale School of Art (2017/04/07)]]"
     },
     {
@@ -256,6 +261,47 @@
         "text": "⁕"
       },
       "date": 1507475934812
+    },
+    {
+      "type": "edit",
+      "id": "87781dbaebb3c174",
+      "item": {
+        "type": "paragraph",
+        "id": "87781dbaebb3c174",
+        "text": " An Index, Conversation I: Archive "
+      },
+      "date": 1524883546064
+    },
+    {
+      "type": "add",
+      "id": "1c92af0565cdf324",
+      "item": {
+        "type": "paragraph",
+        "id": "1c92af0565cdf324",
+        "text": "[[Yale School of Art (2017/04/07)]]"
+      },
+      "after": "87781dbaebb3c174",
+      "date": 1524883547444
+    },
+    {
+      "type": "edit",
+      "id": "87781dbaebb3c174",
+      "item": {
+        "type": "paragraph",
+        "id": "87781dbaebb3c174",
+        "text": "An Index, Conversation I: Archive "
+      },
+      "date": 1524883549800
+    },
+    {
+      "type": "edit",
+      "id": "87781dbaebb3c174",
+      "item": {
+        "type": "paragraph",
+        "id": "87781dbaebb3c174",
+        "text": "Vera List Center (2018/04/21)"
+      },
+      "date": 1524883573456
     }
   ]
 }

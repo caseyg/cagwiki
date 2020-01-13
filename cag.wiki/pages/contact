@@ -2,9 +2,14 @@
   "title": "Contact",
   "story": [
     {
-      "type": "paragraph",
-      "id": "dc726038687821a4",
-      "text": "Email: casey@bullshit.systems"
+      "type": "html",
+      "id": "ede28441b93851a0",
+      "text": "<img src=\"http://retiary.org/terra/electronic_mail_transp.gif\" width=\"100%\"><center><small><em><a href=\"http://retiary.org/terra/email.html\">Environmentalist Image by & © 1998 Laurie Spiegel</a></em></small></center>"
+    },
+    {
+      "type": "html",
+      "id": "e621231689a0b508",
+      "text": "Email: <a href=\"mailto:casey@bullshit.systems?subject=Making contact from cag.wiki\">casey@bullshit.systems</a>\n"
     },
     {
       "type": "paragraph",
@@ -12,9 +17,19 @@
       "text": "Twitter: [http://twitter.com/caseyg @CaseyG]"
     },
     {
+      "type": "paragraph",
+      "id": "786675e6eed03c88",
+      "text": "For other websites: see [[Casey Gollan]]"
+    },
+    {
       "type": "video",
       "id": "a13aebef6380479d",
       "text": "YOUTUBE BjxOLDcM4Hk\nThought that you might get the message / You're never gonna reach me\n"
+    },
+    {
+      "type": "html",
+      "id": "38c1988d3fd1dde3",
+      "text": "<a href=\""
     }
   ],
   "journal": [
@@ -175,6 +190,177 @@
         "text": "YOUTUBE BjxOLDcM4Hk\nThought that you might get the message / You're never gonna reach me\n"
       },
       "date": 1507477240233
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ede28441b93851a0"
+      },
+      "id": "ede28441b93851a0",
+      "type": "add",
+      "after": "a13aebef6380479d",
+      "date": 1520532745540
+    },
+    {
+      "type": "edit",
+      "id": "ede28441b93851a0",
+      "item": {
+        "type": "html",
+        "id": "ede28441b93851a0",
+        "text": "<img src=\"http://retiary.org/terra/electronic_mail_transp.gif\" width=\"100%\">"
+      },
+      "date": 1520532757596
+    },
+    {
+      "type": "move",
+      "order": [
+        "ede28441b93851a0",
+        "dc726038687821a4",
+        "5c5da79f15c941dd",
+        "a13aebef6380479d"
+      ],
+      "id": "ede28441b93851a0",
+      "date": 1520532759387
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "38c1988d3fd1dde3"
+      },
+      "id": "38c1988d3fd1dde3",
+      "type": "add",
+      "after": "a13aebef6380479d",
+      "date": 1520532768062
+    },
+    {
+      "type": "edit",
+      "id": "ede28441b93851a0",
+      "item": {
+        "type": "html",
+        "id": "ede28441b93851a0",
+        "text": "<img src=\"http://retiary.org/terra/electronic_mail_transp.gif\" width=\"100%\"> <small></small>"
+      },
+      "date": 1520532777606
+    },
+    {
+      "type": "edit",
+      "id": "ede28441b93851a0",
+      "item": {
+        "type": "html",
+        "id": "ede28441b93851a0",
+        "text": "<img src=\"http://retiary.org/terra/electronic_mail_transp.gif\" width=\"100%\"> <small><a href=\"http://retiary.org/terra/email.html\">Environmentalist Image by Laurie Spiegel</a></small>"
+      },
+      "date": 1520532799623
+    },
+    {
+      "type": "edit",
+      "id": "ede28441b93851a0",
+      "item": {
+        "type": "html",
+        "id": "ede28441b93851a0",
+        "text": "<img src=\"http://retiary.org/terra/electronic_mail_transp.gif\" width=\"100%\"><center><small><a href=\"http://retiary.org/terra/email.html\">Environmentalist Image by Laurie Spiegel</a></center></small>"
+      },
+      "date": 1520532810573
+    },
+    {
+      "type": "edit",
+      "id": "ede28441b93851a0",
+      "item": {
+        "type": "html",
+        "id": "ede28441b93851a0",
+        "text": "<img src=\"http://retiary.org/terra/electronic_mail_transp.gif\" width=\"100%\"><center><small><em><a href=\"http://retiary.org/terra/email.html\">Environmentalist Image by Laurie Spiegel</a></em></small></center>"
+      },
+      "date": 1520532826709
+    },
+    {
+      "type": "add",
+      "id": "786675e6eed03c88",
+      "item": {
+        "type": "paragraph",
+        "id": "786675e6eed03c88",
+        "text": "Other websites: see [[Casey Gollan]]"
+      },
+      "after": "5c5da79f15c941dd",
+      "date": 1520532855766
+    },
+    {
+      "type": "edit",
+      "id": "786675e6eed03c88",
+      "item": {
+        "type": "paragraph",
+        "id": "786675e6eed03c88",
+        "text": "On other websites: see [[Casey Gollan]]"
+      },
+      "date": 1520533098041
+    },
+    {
+      "type": "edit",
+      "id": "786675e6eed03c88",
+      "item": {
+        "type": "paragraph",
+        "id": "786675e6eed03c88",
+        "text": "For other websites: see [[Casey Gollan]]"
+      },
+      "date": 1520533101965
+    },
+    {
+      "type": "edit",
+      "id": "ede28441b93851a0",
+      "item": {
+        "type": "html",
+        "id": "ede28441b93851a0",
+        "text": "<img src=\"http://retiary.org/terra/electronic_mail_transp.gif\" width=\"100%\"><center><small><em><a href=\"http://retiary.org/terra/email.html\">Environmentalist Image by & © 1998 Laurie Spiegel</a></em></small></center>"
+      },
+      "date": 1520533173153
+    },
+    {
+      "type": "edit",
+      "id": "38c1988d3fd1dde3",
+      "item": {
+        "type": "html",
+        "id": "38c1988d3fd1dde3",
+        "text": "<a href=\""
+      },
+      "date": 1520533233458
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e621231689a0b508"
+      },
+      "id": "e621231689a0b508",
+      "type": "add",
+      "after": "38c1988d3fd1dde3",
+      "date": 1520533248176
+    },
+    {
+      "type": "edit",
+      "id": "e621231689a0b508",
+      "item": {
+        "type": "html",
+        "id": "e621231689a0b508",
+        "text": "Email: <a href=\"mailto:casey@bullshit.systems?subject=Making contact from cag.wiki\">casey@bullshit.systems</a>\n"
+      },
+      "date": 1520533282796
+    },
+    {
+      "type": "move",
+      "order": [
+        "ede28441b93851a0",
+        "dc726038687821a4",
+        "e621231689a0b508",
+        "5c5da79f15c941dd",
+        "786675e6eed03c88",
+        "a13aebef6380479d",
+        "38c1988d3fd1dde3"
+      ],
+      "id": "e621231689a0b508",
+      "date": 1520533295343
+    },
+    {
+      "type": "remove",
+      "id": "dc726038687821a4",
+      "date": 1520533297068
     }
   ]
 }

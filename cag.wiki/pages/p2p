@@ -1,0 +1,445 @@
+{
+  "title": "P2P",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9d95c9be13479768",
+      "text": "Here is where you can find me on the p2p web, using [https://beakerbrowser.com/ beaker browser] and the [https://datproject.org/ dat protocol]:"
+    },
+    {
+      "type": "paragraph",
+      "id": "76d40e37d4b49914",
+      "text": "casey learning beaker (watery-notebook)"
+    },
+    {
+      "type": "code",
+      "id": "abe3988505a5d0c6",
+      "text": "dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970"
+    },
+    {
+      "type": "paragraph",
+      "id": "c1aa04bd86621692",
+      "text": "@caseyg on fritter"
+    },
+    {
+      "type": "code",
+      "id": "b0abc9c0c6569957",
+      "text": "dat://932d41ce3ec6b74e4ac0cc457fdf703ec132bf3821cc6546161050124944f62f"
+    },
+    {
+      "type": "paragraph",
+      "id": "e7e28bd28479574b",
+      "text": "my http sites on dat:"
+    },
+    {
+      "type": "code",
+      "id": "2ffa4fd55bd7bc75",
+      "text": "dat://caseyagollan.com\ndat://bullshit.systems"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "P2P",
+        "story": []
+      },
+      "date": 1524850749444
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d95c9be13479768"
+      },
+      "id": "9d95c9be13479768",
+      "type": "add",
+      "date": 1524850750818
+    },
+    {
+      "type": "edit",
+      "id": "9d95c9be13479768",
+      "item": {
+        "type": "paragraph",
+        "id": "9d95c9be13479768",
+        "text": "Here is where you can find me on the p2p web, using the [dat protocol] and beaker browser []"
+      },
+      "date": 1524850783490
+    },
+    {
+      "type": "edit",
+      "id": "9d95c9be13479768",
+      "item": {
+        "type": "paragraph",
+        "id": "9d95c9be13479768",
+        "text": "Here is where you can find me on the p2p web, using the [dat protocol apropos] and beaker browser []"
+      },
+      "date": 1524850806628
+    },
+    {
+      "type": "edit",
+      "id": "9d95c9be13479768",
+      "item": {
+        "type": "paragraph",
+        "id": "9d95c9be13479768",
+        "text": "Here is where you can find me on the p2p web, using the [dat protocol https://datproject.org/] and beaker browser []"
+      },
+      "date": 1524850812754
+    },
+    {
+      "type": "edit",
+      "id": "9d95c9be13479768",
+      "item": {
+        "type": "paragraph",
+        "id": "9d95c9be13479768",
+        "text": "Here is where you can find me on the p2p web, using the [https://datproject.org/ dat protocol] and beaker browser []"
+      },
+      "date": 1524850818316
+    },
+    {
+      "type": "edit",
+      "id": "9d95c9be13479768",
+      "item": {
+        "type": "paragraph",
+        "id": "9d95c9be13479768",
+        "text": "Here is where you can find me on the p2p web, using the [https://datproject.org/ dat protocol] and [https://beakerbrowser.com/ beaker browser]:"
+      },
+      "date": 1524850836492
+    },
+    {
+      "type": "edit",
+      "id": "9d95c9be13479768",
+      "item": {
+        "type": "paragraph",
+        "id": "9d95c9be13479768",
+        "text": "Here is where you can find me on the p2p web, over the [https://datproject.org/ dat protocol] and [https://beakerbrowser.com/ beaker browser]:"
+      },
+      "date": 1524850842206
+    },
+    {
+      "type": "edit",
+      "id": "9d95c9be13479768",
+      "item": {
+        "type": "paragraph",
+        "id": "9d95c9be13479768",
+        "text": "Here is where you can find me on the p2p web, over the [https://datproject.org/ dat protocol] using [https://beakerbrowser.com/ beaker browser]:"
+      },
+      "date": 1524850845926
+    },
+    {
+      "type": "add",
+      "id": "b22e123350fc722a",
+      "item": {
+        "type": "paragraph",
+        "id": "b22e123350fc722a",
+        "text": "[dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970/ dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970/]"
+      },
+      "after": "9d95c9be13479768",
+      "date": 1524850875262
+    },
+    {
+      "type": "edit",
+      "id": "b22e123350fc722a",
+      "item": {
+        "type": "paragraph",
+        "id": "b22e123350fc722a",
+        "text": "[dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970/ dat://2d03817..70]"
+      },
+      "date": 1524850891270
+    },
+    {
+      "type": "remove",
+      "id": "b22e123350fc722a",
+      "date": 1524850894658
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "51accbaafb5bd78a"
+      },
+      "id": "51accbaafb5bd78a",
+      "type": "add",
+      "after": "9d95c9be13479768",
+      "date": 1524850895620
+    },
+    {
+      "type": "edit",
+      "id": "51accbaafb5bd78a",
+      "item": {
+        "type": "html",
+        "id": "51accbaafb5bd78a",
+        "text": "<a href=\"dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970/\">dat://2d03817..70</a>"
+      },
+      "date": 1524850907530
+    },
+    {
+      "type": "edit",
+      "id": "51accbaafb5bd78a",
+      "item": {
+        "type": "html",
+        "id": "51accbaafb5bd78a",
+        "text": "<a href=\"dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970/\">2d03817..70</a>"
+      },
+      "date": 1524850931866
+    },
+    {
+      "type": "remove",
+      "id": "51accbaafb5bd78a",
+      "date": 1524850938978
+    },
+    {
+      "type": "add",
+      "id": "e0ba1e4421f464f1",
+      "item": {
+        "type": "paragraph",
+        "id": "e0ba1e4421f464f1",
+        "text": "dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970"
+      },
+      "after": "9d95c9be13479768",
+      "date": 1524850941106
+    },
+    {
+      "type": "remove",
+      "id": "e0ba1e4421f464f1",
+      "date": 1524850946442
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "abe3988505a5d0c6"
+      },
+      "id": "abe3988505a5d0c6",
+      "type": "add",
+      "after": "9d95c9be13479768",
+      "date": 1524850947390
+    },
+    {
+      "type": "edit",
+      "id": "abe3988505a5d0c6",
+      "item": {
+        "type": "code",
+        "id": "abe3988505a5d0c6",
+        "text": "dat://2d038175fbf152b4643739a36617c4ab4677630286da80988043f68b332a1970"
+      },
+      "date": 1524850949062
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9cf7301bbc701882"
+      },
+      "id": "9cf7301bbc701882",
+      "type": "add",
+      "after": "abe3988505a5d0c6",
+      "date": 1524850954234
+    },
+    {
+      "type": "remove",
+      "id": "9cf7301bbc701882",
+      "date": 1524850967098
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "10e3d2b225cc054c"
+      },
+      "id": "10e3d2b225cc054c",
+      "type": "add",
+      "after": "abe3988505a5d0c6",
+      "date": 1524850968124
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a5460f18ac865f63"
+      },
+      "id": "a5460f18ac865f63",
+      "type": "add",
+      "after": "10e3d2b225cc054c",
+      "date": 1524850978672
+    },
+    {
+      "type": "remove",
+      "id": "10e3d2b225cc054c",
+      "date": 1524850979850
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c2896bd24c467932"
+      },
+      "id": "c2896bd24c467932",
+      "type": "add",
+      "after": "a5460f18ac865f63",
+      "date": 1524850980896
+    },
+    {
+      "type": "remove",
+      "id": "a5460f18ac865f63",
+      "date": 1524850982502
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cecd8e563f0cf5e4"
+      },
+      "id": "cecd8e563f0cf5e4",
+      "type": "add",
+      "after": "c2896bd24c467932",
+      "date": 1524850983680
+    },
+    {
+      "type": "remove",
+      "id": "c2896bd24c467932",
+      "date": 1524850985830
+    },
+    {
+      "type": "remove",
+      "id": "cecd8e563f0cf5e4",
+      "date": 1524850994444
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0abc9c0c6569957"
+      },
+      "id": "b0abc9c0c6569957",
+      "type": "add",
+      "after": "abe3988505a5d0c6",
+      "date": 1524851015520
+    },
+    {
+      "type": "edit",
+      "id": "b0abc9c0c6569957",
+      "item": {
+        "type": "code",
+        "id": "b0abc9c0c6569957",
+        "text": "dat://932d41ce3ec6b74e4ac0cc457fdf703ec132bf3821cc6546161050124944f62f/"
+      },
+      "date": 1524851018518
+    },
+    {
+      "type": "add",
+      "id": "76d40e37d4b49914",
+      "item": {
+        "type": "paragraph",
+        "id": "76d40e37d4b49914",
+        "text": "casey learning water (watery-notebook)"
+      },
+      "after": "9d95c9be13479768",
+      "date": 1524851026900
+    },
+    {
+      "type": "add",
+      "id": "c1aa04bd86621692",
+      "item": {
+        "type": "paragraph",
+        "id": "c1aa04bd86621692",
+        "text": "@caseyg on fritter"
+      },
+      "after": "76d40e37d4b49914",
+      "date": 1524851032516
+    },
+    {
+      "type": "move",
+      "order": [
+        "9d95c9be13479768",
+        "76d40e37d4b49914",
+        "abe3988505a5d0c6",
+        "c1aa04bd86621692",
+        "b0abc9c0c6569957"
+      ],
+      "id": "c1aa04bd86621692",
+      "date": 1524851033732
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7e28bd28479574b"
+      },
+      "id": "e7e28bd28479574b",
+      "type": "add",
+      "after": "b0abc9c0c6569957",
+      "date": 1524851037532
+    },
+    {
+      "type": "edit",
+      "id": "e7e28bd28479574b",
+      "item": {
+        "type": "paragraph",
+        "id": "e7e28bd28479574b",
+        "text": "my http sites on dat:"
+      },
+      "date": 1524851048792
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ffa4fd55bd7bc75"
+      },
+      "id": "2ffa4fd55bd7bc75",
+      "type": "add",
+      "after": "e7e28bd28479574b",
+      "date": 1524851050044
+    },
+    {
+      "type": "edit",
+      "id": "2ffa4fd55bd7bc75",
+      "item": {
+        "type": "code",
+        "id": "2ffa4fd55bd7bc75",
+        "text": "dat://caseyagollan.com/"
+      },
+      "date": 1524851052172
+    },
+    {
+      "type": "edit",
+      "id": "2ffa4fd55bd7bc75",
+      "item": {
+        "type": "code",
+        "id": "2ffa4fd55bd7bc75",
+        "text": "dat://caseyagollan.com\ndat://bullshit.systems/"
+      },
+      "date": 1524851058746
+    },
+    {
+      "type": "edit",
+      "id": "2ffa4fd55bd7bc75",
+      "item": {
+        "type": "code",
+        "id": "2ffa4fd55bd7bc75",
+        "text": "dat://caseyagollan.com\ndat://bullshit.systems"
+      },
+      "date": 1524851061428
+    },
+    {
+      "type": "edit",
+      "id": "b0abc9c0c6569957",
+      "item": {
+        "type": "code",
+        "id": "b0abc9c0c6569957",
+        "text": "dat://932d41ce3ec6b74e4ac0cc457fdf703ec132bf3821cc6546161050124944f62f"
+      },
+      "date": 1524851067188
+    },
+    {
+      "type": "edit",
+      "id": "76d40e37d4b49914",
+      "item": {
+        "type": "paragraph",
+        "id": "76d40e37d4b49914",
+        "text": "casey learning beaker (watery-notebook)"
+      },
+      "date": 1524851073220
+    },
+    {
+      "type": "edit",
+      "id": "9d95c9be13479768",
+      "item": {
+        "type": "paragraph",
+        "id": "9d95c9be13479768",
+        "text": "Here is where you can find me on the p2p web, using [https://beakerbrowser.com/ beaker browser] and the [https://datproject.org/ dat protocol]:"
+      },
+      "date": 1524851121150
+    }
+  ]
+}

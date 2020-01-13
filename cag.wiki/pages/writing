@@ -23,13 +23,13 @@
     },
     {
       "type": "paragraph",
-      "id": "405825b7630ba7da",
-      "text": "[http://pooool.info/user-generated-content/ \"User Generated Content\"] Pool, August 2011"
+      "id": "577fc73945e9bfda",
+      "text": "[http://notes.caseyagollan.com/post/8375915240/until-i-get-better-at-coding-there-will-be-no \"Until I get better at coding, there will be no four-dimensional node-based constellation of ideas that spins around, so text will have to suffice.\"] August 2011"
     },
     {
       "type": "paragraph",
-      "id": "577fc73945e9bfda",
-      "text": "[http://notes.caseyagollan.com/post/8375915240/until-i-get-better-at-coding-there-will-be-no \"Until I get better at coding, there will be no four-dimensional node-based constellation of ideas that spins around, so text will have to suffice.\"] August 2011"
+      "id": "405825b7630ba7da",
+      "text": "[http://pooool.info/user-generated-content/ \"User Generated Content\"] Pool, August 2011"
     },
     {
       "type": "paragraph",
@@ -372,6 +372,22 @@
         "text": "\"[http://notes.caseyagollan.com/post/82072441878/an-administrators-lament An Administrator's Lament]\" April 2014"
       },
       "date": 1508166138085
+    },
+    {
+      "type": "move",
+      "order": [
+        "375fbbf9980199c4",
+        "c40b98f766d48006",
+        "b3e567860e0eea5d",
+        "4f2a41de9c07b156",
+        "577fc73945e9bfda",
+        "405825b7630ba7da",
+        "8f6e93950e37ee8d",
+        "0e64d672c3c77aea",
+        "4a5bef62a5cbe2c5"
+      ],
+      "id": "577fc73945e9bfda",
+      "date": 1572382003765
     }
   ]
 }

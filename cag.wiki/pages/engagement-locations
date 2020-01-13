@@ -4,6 +4,11 @@
     {
       "type": "paragraph",
       "id": "086428d8aee75010",
+      "text": "(Ongoing list of places which offer marriage proposal-related promotions)"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e0df50bed839aba",
       "text": "Megabus"
     },
     {
@@ -59,6 +64,37 @@
       ],
       "id": "b744519ec6e82b91",
       "date": 1518403491050
+    },
+    {
+      "type": "edit",
+      "id": "086428d8aee75010",
+      "item": {
+        "type": "paragraph",
+        "id": "086428d8aee75010",
+        "text": "(Places which offer marriage proposal-related promotions)"
+      },
+      "date": 1525447364204
+    },
+    {
+      "type": "add",
+      "id": "9e0df50bed839aba",
+      "item": {
+        "type": "paragraph",
+        "id": "9e0df50bed839aba",
+        "text": "Megabus"
+      },
+      "after": "086428d8aee75010",
+      "date": 1525447365094
+    },
+    {
+      "type": "edit",
+      "id": "086428d8aee75010",
+      "item": {
+        "type": "paragraph",
+        "id": "086428d8aee75010",
+        "text": "(Ongoing list of places which offer marriage proposal-related promotions)"
+      },
+      "date": 1525447374082
     }
   ]
 }

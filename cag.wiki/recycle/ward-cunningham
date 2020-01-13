@@ -4,12 +4,7 @@
     {
       "type": "paragraph",
       "id": "a3ca0ce4243de26c",
-      "text": "Ward Cunningham :)"
-    },
-    {
-      "type": "paragraph",
-      "id": "ceb9ea0878127981",
-      "text": " invented the wiki, inspired by [[Christopher Alexander]]. "
+      "text": "Ward Cunningham invented the wiki, inspired by [[Christopher Alexander]]. "
     },
     {
       "type": "paragraph",
@@ -1045,31 +1040,6 @@
       },
       "after": "a3ca0ce4243de26c",
       "date": 1480635005470
-    },
-    {
-      "type": "fork",
-      "date": 1551056896773
-    },
-    {
-      "type": "edit",
-      "id": "a3ca0ce4243de26c",
-      "item": {
-        "type": "paragraph",
-        "id": "a3ca0ce4243de26c",
-        "text": "Ward Cunningham :)"
-      },
-      "date": 1551056903352
-    },
-    {
-      "type": "add",
-      "id": "ceb9ea0878127981",
-      "item": {
-        "type": "paragraph",
-        "id": "ceb9ea0878127981",
-        "text": " invented the wiki, inspired by [[Christopher Alexander]]. "
-      },
-      "after": "a3ca0ce4243de26c",
-      "date": 1551056905210
     }
   ]
 }
