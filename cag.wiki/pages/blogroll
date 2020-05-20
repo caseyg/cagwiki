@@ -193,6 +193,11 @@
     },
     {
       "type": "paragraph",
+      "id": "e8bf9472ebd13e0d",
+      "text": "[http://cigarsandcybernetics.libsyn.com/ Cigars & Cybernetics] (George Voss & Wesley Goatley)"
+    },
+    {
+      "type": "paragraph",
       "id": "8d566b6c6fd3e9c0",
       "text": "[https://coordinate.systems/ coordinate.systems] (Max Fenton)"
     },
@@ -265,6 +270,11 @@
       "type": "paragraph",
       "id": "7b5152c9685dcbc5",
       "text": "[http://anildash.com Dashes] (Anil Dash)"
+    },
+    {
+      "type": "paragraph",
+      "id": "6c7c958be572a47b",
+      "text": "[https://datasociety.net/ Data & Society]"
     },
     {
       "type": "paragraph",
@@ -437,6 +447,11 @@
       "text": "[http://feed.grantcuster.com Grant Custer]"
     },
     {
+      "type": "paragraph",
+      "id": "1d5bb6c023572ae0",
+      "text": "[https://www.guerrillatranslation.org/ Guerilla Translation]"
+    },
+    {
       "type": "markdown",
       "id": "532fc071d320511d",
       "text": "# H"
@@ -567,6 +582,11 @@
       "text": "[http://jenlowe.net jen lowe]"
     },
     {
+      "type": "paragraph",
+      "id": "fa968a14c887dd28",
+      "text": "[https://www.justinobeirne.com/ Justin O'Beirne]"
+    },
+    {
       "type": "markdown",
       "id": "ef980da5c4f44ea5",
       "text": "# K"
@@ -585,6 +605,11 @@
       "type": "markdown",
       "id": "5a1f0f1589d341b6",
       "text": "# L"
+    },
+    {
+      "type": "paragraph",
+      "id": "56fb647cb35a485e",
+      "text": "[http://laurelschwulst.com/ Laurel Schwulst]"
     },
     {
       "type": "paragraph",
@@ -610,6 +635,11 @@
       "type": "paragraph",
       "id": "49f5c26c27418e5e",
       "text": "[http://blog.longnow.org The Long Now Foundation blog]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dcae70aca8e274aa",
+      "text": "[http://lovely.com/ Lovely Music Ltd.]"
     },
     {
       "type": "markdown",
@@ -753,6 +783,11 @@
     },
     {
       "type": "paragraph",
+      "id": "b5515be204977a9f",
+      "text": "[https://phenomenalworld.org/ Phenomenal World] (Jain Family Institute)"
+    },
+    {
+      "type": "paragraph",
       "id": "c96254cb8518341e",
       "text": "[http://www.gyford.com/ Phil Gyford’s website]"
     },
@@ -884,7 +919,7 @@
     {
       "type": "paragraph",
       "id": "4caa07d9e83df37d",
-      "text": "[https://m.signalvnoise.com Signal V. Noise]"
+      "text": "[https://m.signalvnoise.com Signal v. Noise]"
     },
     {
       "type": "paragraph",
@@ -895,6 +930,11 @@
       "type": "paragraph",
       "id": "74df80b35d2619d4",
       "text": "[https://www.subtraction.com  Subtraction] (Khoi Vinh)"
+    },
+    {
+      "type": "paragraph",
+      "id": "ca6dd8e61241edba",
+      "text": "[https://sub.media/ Sub.media]"
     },
     {
       "type": "paragraph",
@@ -967,6 +1007,11 @@
       "text": "[http://blog.sfpc.io School for Poetic Computation]"
     },
     {
+      "type": "paragraph",
+      "id": "320bd4a3a390d245",
+      "text": "[https://smalldata.industries/ Small Data Industries]"
+    },
+    {
       "type": "markdown",
       "id": "efb57f0a41f70387",
       "text": "# T"
@@ -980,6 +1025,11 @@
       "type": "paragraph",
       "id": "e277ab4b7c3408d8",
       "text": "[http://tangentialism.com Tangentialism] (David Yee)"
+    },
+    {
+      "type": "paragraph",
+      "id": "d15333b605fb74bc",
+      "text": "[http://tarabrach.libsyn.com/ Tara Brach]"
     },
     {
       "type": "paragraph",
@@ -1022,6 +1072,11 @@
       "text": "[http://www.techmeme.com Techmeme]"
     },
     {
+      "type": "paragraph",
+      "id": "ef00c7035dc06b88",
+      "text": "[http://tombubul.info/ Tom Bubul]"
+    },
+    {
       "type": "markdown",
       "id": "983b1f1cc3d97122",
       "text": "# U"
@@ -1045,6 +1100,11 @@
       "type": "paragraph",
       "id": "5c38422740f42b2d",
       "text": "[http://uncommonplaces.com/words/ Uncommon Places] (Ida Benedetto)"
+    },
+    {
+      "type": "paragraph",
+      "id": "047c2c792eacb2dd",
+      "text": "[https://unseenworlds.com/ Unseen Worlds]"
     },
     {
       "type": "markdown",
@@ -1075,6 +1135,11 @@
       "type": "paragraph",
       "id": "2840980ce440c6b6",
       "text": "[http://www.wordsinspace.net/shannon/ Words in Space] (Shannon Mattern)"
+    },
+    {
+      "type": "paragraph",
+      "id": "452ab53014e15597",
+      "text": "[https://www.wordsofmouth.org/ Words of Mouth]"
     },
     {
       "type": "markdown",
@@ -9775,6 +9840,289 @@
       },
       "after": "7a1f82f56ef3999b",
       "date": 1507551686988
+    },
+    {
+      "type": "add",
+      "id": "d15333b605fb74bc",
+      "item": {
+        "type": "paragraph",
+        "id": "d15333b605fb74bc",
+        "text": "Tara Brach"
+      },
+      "after": "e277ab4b7c3408d8",
+      "date": 1585625814851
+    },
+    {
+      "type": "edit",
+      "id": "d15333b605fb74bc",
+      "item": {
+        "type": "paragraph",
+        "id": "d15333b605fb74bc",
+        "text": "[http://tarabrach.libsyn.com/ Tara Brach]"
+      },
+      "date": 1585625851707
+    },
+    {
+      "type": "add",
+      "id": "e8bf9472ebd13e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "e8bf9472ebd13e0d",
+        "text": "Cigars & Cybernetics"
+      },
+      "after": "6b6ad071dccfb79a",
+      "date": 1585625886619
+    },
+    {
+      "type": "edit",
+      "id": "e8bf9472ebd13e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "e8bf9472ebd13e0d",
+        "text": "[http://cigarsandcybernetics.libsyn.com/ Cigars & Cybernetics]"
+      },
+      "date": 1585625902115
+    },
+    {
+      "type": "edit",
+      "id": "e8bf9472ebd13e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "e8bf9472ebd13e0d",
+        "text": "[http://cigarsandcybernetics.libsyn.com/ Cigars & Cybernetics] (George Voss & Wesley Goatley)"
+      },
+      "date": 1585625971653
+    },
+    {
+      "type": "add",
+      "id": "fa968a14c887dd28",
+      "item": {
+        "type": "paragraph",
+        "id": "fa968a14c887dd28",
+        "text": "[https://www.justinobeirne.com/ Justin O"
+      },
+      "after": "c1fb794700f7e047",
+      "date": 1585626021654
+    },
+    {
+      "type": "edit",
+      "id": "fa968a14c887dd28",
+      "item": {
+        "type": "paragraph",
+        "id": "fa968a14c887dd28",
+        "text": "[https://www.justinobeirne.com/ Justin O'Beirne]"
+      },
+      "date": 1585626047336
+    },
+    {
+      "type": "add",
+      "id": "1d5bb6c023572ae0",
+      "item": {
+        "type": "paragraph",
+        "id": "1d5bb6c023572ae0",
+        "text": "[https://www.guerrillatranslation.org/ Guerilla Translation]"
+      },
+      "after": "8816362470f3de8e",
+      "date": 1585626114169
+    },
+    {
+      "type": "add",
+      "id": "ca6dd8e61241edba",
+      "item": {
+        "type": "paragraph",
+        "id": "ca6dd8e61241edba",
+        "text": "Submedia.tv"
+      },
+      "after": "74df80b35d2619d4",
+      "date": 1585626126314
+    },
+    {
+      "type": "edit",
+      "id": "ca6dd8e61241edba",
+      "item": {
+        "type": "paragraph",
+        "id": "ca6dd8e61241edba",
+        "text": "[https://sub.media/ "
+      },
+      "date": 1585626151762
+    },
+    {
+      "type": "edit",
+      "id": "ca6dd8e61241edba",
+      "item": {
+        "type": "paragraph",
+        "id": "ca6dd8e61241edba",
+        "text": "[https://sub.media/ Sub.media]"
+      },
+      "date": 1585626153691
+    },
+    {
+      "type": "add",
+      "id": "56fb647cb35a485e",
+      "item": {
+        "type": "paragraph",
+        "id": "56fb647cb35a485e",
+        "text": "[http://laurelschwulst.com/ Laurel Schwulst]"
+      },
+      "after": "5a1f0f1589d341b6",
+      "date": 1585626236581
+    },
+    {
+      "type": "add",
+      "id": "6c7c958be572a47b",
+      "item": {
+        "type": "paragraph",
+        "id": "6c7c958be572a47b",
+        "text": "[https://datasociety.net/ "
+      },
+      "after": "7b5152c9685dcbc5",
+      "date": 1585626313606
+    },
+    {
+      "type": "edit",
+      "id": "6c7c958be572a47b",
+      "item": {
+        "type": "paragraph",
+        "id": "6c7c958be572a47b",
+        "text": "[https://datasociety.net/ Data & Society]"
+      },
+      "date": 1585626315110
+    },
+    {
+      "type": "add",
+      "id": "b5515be204977a9f",
+      "item": {
+        "type": "paragraph",
+        "id": "b5515be204977a9f",
+        "text": "[https://phenomenalworld.org/ Phenomenal World]"
+      },
+      "after": "52c225c999cfa5de",
+      "date": 1585626339998
+    },
+    {
+      "type": "edit",
+      "id": "b5515be204977a9f",
+      "item": {
+        "type": "paragraph",
+        "id": "b5515be204977a9f",
+        "text": "[https://phenomenalworld.org/ Phenomenal World] (Jain Family Institute)"
+      },
+      "date": 1585626347736
+    },
+    {
+      "type": "edit",
+      "id": "4caa07d9e83df37d",
+      "item": {
+        "type": "paragraph",
+        "id": "4caa07d9e83df37d",
+        "text": "[https://m.signalvnoise.com Signal v. Noise]"
+      },
+      "date": 1585626399920
+    },
+    {
+      "type": "add",
+      "id": "452ab53014e15597",
+      "item": {
+        "type": "paragraph",
+        "id": "452ab53014e15597",
+        "text": "[https://www.wordsofmouth.org/ Words of Mouth]"
+      },
+      "after": "2840980ce440c6b6",
+      "date": 1585626488185
+    },
+    {
+      "type": "add",
+      "id": "320bd4a3a390d245",
+      "item": {
+        "type": "paragraph",
+        "id": "320bd4a3a390d245",
+        "text": "[https://smalldata.industries/ Small Data Industries]"
+      },
+      "after": "0da7dc12b9745294",
+      "date": 1585626514958
+    },
+    {
+      "type": "add",
+      "id": "dcae70aca8e274aa",
+      "item": {
+        "type": "paragraph",
+        "id": "dcae70aca8e274aa",
+        "text": "Lovely Music"
+      },
+      "after": "49f5c26c27418e5e",
+      "date": 1585626625692
+    },
+    {
+      "type": "add",
+      "id": "047c2c792eacb2dd",
+      "item": {
+        "type": "paragraph",
+        "id": "047c2c792eacb2dd",
+        "text": "Unseen Worlds"
+      },
+      "after": "5c38422740f42b2d",
+      "date": 1585626644668
+    },
+    {
+      "type": "edit",
+      "id": "047c2c792eacb2dd",
+      "item": {
+        "type": "paragraph",
+        "id": "047c2c792eacb2dd",
+        "text": "[Unseen Worlds]"
+      },
+      "date": 1585626653436
+    },
+    {
+      "type": "edit",
+      "id": "047c2c792eacb2dd",
+      "item": {
+        "type": "paragraph",
+        "id": "047c2c792eacb2dd",
+        "text": "[https://unseenworlds.com/ Unseen Worlds]"
+      },
+      "date": 1585626657361
+    },
+    {
+      "type": "edit",
+      "id": "dcae70aca8e274aa",
+      "item": {
+        "type": "paragraph",
+        "id": "dcae70aca8e274aa",
+        "text": "[http://lovely.com/ Lovely Music Ltd.]"
+      },
+      "date": 1585626674519
+    },
+    {
+      "type": "add",
+      "id": "ef00c7035dc06b88",
+      "item": {
+        "type": "paragraph",
+        "id": "ef00c7035dc06b88",
+        "text": "[Tom Bulbul]"
+      },
+      "after": "d9dee324b2d6d9b0",
+      "date": 1585626828009
+    },
+    {
+      "type": "edit",
+      "id": "ef00c7035dc06b88",
+      "item": {
+        "type": "paragraph",
+        "id": "ef00c7035dc06b88",
+        "text": "[http://tombubul.info/ "
+      },
+      "date": 1585626867937
+    },
+    {
+      "type": "edit",
+      "id": "ef00c7035dc06b88",
+      "item": {
+        "type": "paragraph",
+        "id": "ef00c7035dc06b88",
+        "text": "[http://tombubul.info/ Tom Bubul]"
+      },
+      "date": 1585626870664
     }
   ]
 }

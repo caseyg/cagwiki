@@ -29,7 +29,7 @@
     {
       "type": "paragraph",
       "id": "6c7ca58e9ada9436",
-      "text": "Scuttlebutt* 2018-, [https://hashbase.io/caseyg Hashbase] 2018-, [https://social.coop/@caseyg Social.coop] 2018-, [http://mastodon.social/@caseyg Mastodon.social] 2017-, [http://cag.wiki CAG.wiki] 2016-, [http://cag.blot.im Blot] 2016-, [https://www.mixcloud.com/casey-a-von-gollan/ Mixcloud] 2015-, [http://orbital.nyc Orbital] 2014-, [https://cash.me/$caseyg Cash] 2014-, [https://venmo.com/Casey-Gollan Venmo] 2014-, [https://keybase.io/caseyg Keybase] 2014-, [https://medium.com/@caseyg Medium] 2013-,   [https://www.23andme.com/user/?profile=1a8c4b63b79c5459&view_public 23andme] 2013-, [http://are.na/casey-gollan Are.na] 2012-, [http://reading.am/CaseyG Reading] 2012-, [https://open.spotify.com/user/sneezeburg Spotify] 2011-, [http://pinboard.in/u:caseygollan Pinboard] 2010-, [https://github.com/caseyg Github] 2010-, [http://twitter.com/caseyg Twitter] 2007-, [http://last.fm/user/caseygollan Last.fm] 2005-"
+      "text": "[https://cag.exchange/u/cag/ cag.exchange] 2020-, Scuttlebutt* 2018-, [https://hashbase.io/caseyg Hashbase] 2018-, [https://social.coop/@caseyg Social.coop] 2018-, [https://www.zotero.org/caseygollan/library Zotero] 2017-, [http://mastodon.social/@caseyg Mastodon.social] 2017-, [http://cag.wiki CAG.wiki] 2016-, [http://cag.blot.im Blot] 2016-, [https://www.mixcloud.com/casey-a-von-gollan/ Mixcloud] 2015-, [http://orbital.nyc Orbital] 2014-, [https://cash.me/$caseyg Cash] 2014-, [https://venmo.com/Casey-Gollan Venmo] 2014-, [https://keybase.io/caseyg Keybase] 2014-, [https://medium.com/@caseyg Medium] 2013-,   [https://www.23andme.com/user/?profile=1a8c4b63b79c5459&view_public 23andme] 2013-, [http://are.na/casey-gollan Are.na] 2012-, [http://reading.am/CaseyG Reading] 2012-, [https://open.spotify.com/user/sneezeburg Spotify] 2011-, [http://pinboard.in/u:caseygollan Pinboard] 2010-, [https://github.com/caseyg Github] 2010-, [http://twitter.com/caseyg Twitter] 2007-, [http://last.fm/user/caseygollan Last.fm] 2005-"
     },
     {
       "type": "code",
@@ -1599,6 +1599,56 @@
         "text": "* scuttlebutt id: @Dioy8PPiLbOteNnQFtbazctHJ7fHZ62c0Bg8Cr551GM=.ed25519"
       },
       "date": 1525894745546
+    },
+    {
+      "type": "edit",
+      "id": "6c7ca58e9ada9436",
+      "item": {
+        "type": "paragraph",
+        "id": "6c7ca58e9ada9436",
+        "text": "[https://www.zotero.org/caseygollan/library Zotero] -, Scuttlebutt* 2018-, [https://hashbase.io/caseyg Hashbase] 2018-, [https://social.coop/@caseyg Social.coop] 2018-, [http://mastodon.social/@caseyg Mastodon.social] 2017-, [http://cag.wiki CAG.wiki] 2016-, [http://cag.blot.im Blot] 2016-, [https://www.mixcloud.com/casey-a-von-gollan/ Mixcloud] 2015-, [http://orbital.nyc Orbital] 2014-, [https://cash.me/$caseyg Cash] 2014-, [https://venmo.com/Casey-Gollan Venmo] 2014-, [https://keybase.io/caseyg Keybase] 2014-, [https://medium.com/@caseyg Medium] 2013-,   [https://www.23andme.com/user/?profile=1a8c4b63b79c5459&view_public 23andme] 2013-, [http://are.na/casey-gollan Are.na] 2012-, [http://reading.am/CaseyG Reading] 2012-, [https://open.spotify.com/user/sneezeburg Spotify] 2011-, [http://pinboard.in/u:caseygollan Pinboard] 2010-, [https://github.com/caseyg Github] 2010-, [http://twitter.com/caseyg Twitter] 2007-, [http://last.fm/user/caseygollan Last.fm] 2005-"
+      },
+      "date": 1581968497861
+    },
+    {
+      "type": "edit",
+      "id": "6c7ca58e9ada9436",
+      "item": {
+        "type": "paragraph",
+        "id": "6c7ca58e9ada9436",
+        "text": "Scuttlebutt* 2018-, [https://hashbase.io/caseyg Hashbase] 2018-, [https://social.coop/@caseyg Social.coop] 2018-, [https://www.zotero.org/caseygollan/library Zotero] 2017-, [http://mastodon.social/@caseyg Mastodon.social] 2017-, [http://cag.wiki CAG.wiki] 2016-, [http://cag.blot.im Blot] 2016-, [https://www.mixcloud.com/casey-a-von-gollan/ Mixcloud] 2015-, [http://orbital.nyc Orbital] 2014-, [https://cash.me/$caseyg Cash] 2014-, [https://venmo.com/Casey-Gollan Venmo] 2014-, [https://keybase.io/caseyg Keybase] 2014-, [https://medium.com/@caseyg Medium] 2013-,   [https://www.23andme.com/user/?profile=1a8c4b63b79c5459&view_public 23andme] 2013-, [http://are.na/casey-gollan Are.na] 2012-, [http://reading.am/CaseyG Reading] 2012-, [https://open.spotify.com/user/sneezeburg Spotify] 2011-, [http://pinboard.in/u:caseygollan Pinboard] 2010-, [https://github.com/caseyg Github] 2010-, [http://twitter.com/caseyg Twitter] 2007-, [http://last.fm/user/caseygollan Last.fm] 2005-"
+      },
+      "date": 1581968529622
+    },
+    {
+      "type": "edit",
+      "id": "6c7ca58e9ada9436",
+      "item": {
+        "type": "paragraph",
+        "id": "6c7ca58e9ada9436",
+        "text": "[cag.exchange https://cag.exchange] 2020-, Scuttlebutt* 2018-, [https://hashbase.io/caseyg Hashbase] 2018-, [https://social.coop/@caseyg Social.coop] 2018-, [https://www.zotero.org/caseygollan/library Zotero] 2017-, [http://mastodon.social/@caseyg Mastodon.social] 2017-, [http://cag.wiki CAG.wiki] 2016-, [http://cag.blot.im Blot] 2016-, [https://www.mixcloud.com/casey-a-von-gollan/ Mixcloud] 2015-, [http://orbital.nyc Orbital] 2014-, [https://cash.me/$caseyg Cash] 2014-, [https://venmo.com/Casey-Gollan Venmo] 2014-, [https://keybase.io/caseyg Keybase] 2014-, [https://medium.com/@caseyg Medium] 2013-,   [https://www.23andme.com/user/?profile=1a8c4b63b79c5459&view_public 23andme] 2013-, [http://are.na/casey-gollan Are.na] 2012-, [http://reading.am/CaseyG Reading] 2012-, [https://open.spotify.com/user/sneezeburg Spotify] 2011-, [http://pinboard.in/u:caseygollan Pinboard] 2010-, [https://github.com/caseyg Github] 2010-, [http://twitter.com/caseyg Twitter] 2007-, [http://last.fm/user/caseygollan Last.fm] 2005-"
+      },
+      "date": 1581968554279
+    },
+    {
+      "type": "edit",
+      "id": "6c7ca58e9ada9436",
+      "item": {
+        "type": "paragraph",
+        "id": "6c7ca58e9ada9436",
+        "text": "[https://cag.exchange/u/cag/"
+      },
+      "date": 1581968605378
+    },
+    {
+      "type": "edit",
+      "id": "6c7ca58e9ada9436",
+      "item": {
+        "type": "paragraph",
+        "id": "6c7ca58e9ada9436",
+        "text": "[https://cag.exchange/u/cag/ cag.exchange] 2020-, Scuttlebutt* 2018-, [https://hashbase.io/caseyg Hashbase] 2018-, [https://social.coop/@caseyg Social.coop] 2018-, [https://www.zotero.org/caseygollan/library Zotero] 2017-, [http://mastodon.social/@caseyg Mastodon.social] 2017-, [http://cag.wiki CAG.wiki] 2016-, [http://cag.blot.im Blot] 2016-, [https://www.mixcloud.com/casey-a-von-gollan/ Mixcloud] 2015-, [http://orbital.nyc Orbital] 2014-, [https://cash.me/$caseyg Cash] 2014-, [https://venmo.com/Casey-Gollan Venmo] 2014-, [https://keybase.io/caseyg Keybase] 2014-, [https://medium.com/@caseyg Medium] 2013-,   [https://www.23andme.com/user/?profile=1a8c4b63b79c5459&view_public 23andme] 2013-, [http://are.na/casey-gollan Are.na] 2012-, [http://reading.am/CaseyG Reading] 2012-, [https://open.spotify.com/user/sneezeburg Spotify] 2011-, [http://pinboard.in/u:caseygollan Pinboard] 2010-, [https://github.com/caseyg Github] 2010-, [http://twitter.com/caseyg Twitter] 2007-, [http://last.fm/user/caseygollan Last.fm] 2005-"
+      },
+      "date": 1581968608361
     }
   ]
 }

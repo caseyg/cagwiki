@@ -3,6 +3,26 @@
   "story": [
     {
       "type": "pagefold",
+      "id": "6fd54aacbc353fce",
+      "text": "2020"
+    },
+    {
+      "type": "paragraph",
+      "id": "50f8f2926de2be34",
+      "text": "April 18 — fuck I can't log into the backend of this site anymore!!! ssh keys on my laptop must've changed or somehting? and I don't remember the passwords? last week a total rando DM'd me to say they thought my website is cool ^__^"
+    },
+    {
+      "type": "paragraph",
+      "id": "186c33d754a4f19f",
+      "text": "March 30 — forgot how good my blogroll is. miss my book list, here! can't believe how long it's been since I last updated wtf. don't even remember which version I'm on... soon I'd like to update to 0.17.3 https://github.com/fedwiki/wiki-server/releases/tag/v0.17.3"
+    },
+    {
+      "type": "paragraph",
+      "id": "a65cec1cfece55f3",
+      "text": "wish the editor worked a bit better, more like docs, paper, or notion"
+    },
+    {
+      "type": "pagefold",
       "id": "fc471c4ff435e1b0",
       "text": "2018"
     },
@@ -836,6 +856,173 @@
         "text": "April 19 — wiki was down again, installed papertrail to log everything and set up a log for errors, deleted the fedwiki-meta and wiki-plugins pages which I suspect were causing the server to melt down, updated node modules"
       },
       "date": 1524178999150
+    },
+    {
+      "type": "add",
+      "id": "186c33d754a4f19f",
+      "item": {
+        "type": "paragraph",
+        "id": "186c33d754a4f19f",
+        "text": "March 30"
+      },
+      "after": "fc471c4ff435e1b0",
+      "date": 1585626892621
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fd54aacbc353fce"
+      },
+      "id": "6fd54aacbc353fce",
+      "type": "add",
+      "after": "f7f8fbdb072e670d",
+      "date": 1585626896982
+    },
+    {
+      "type": "edit",
+      "id": "6fd54aacbc353fce",
+      "item": {
+        "type": "pagefold",
+        "id": "6fd54aacbc353fce",
+        "text": "2020"
+      },
+      "date": 1585626904016
+    },
+    {
+      "type": "move",
+      "order": [
+        "6fd54aacbc353fce",
+        "fc471c4ff435e1b0",
+        "186c33d754a4f19f",
+        "0739319b38125b32",
+        "277b6c253f2d38b8",
+        "647b517a34cb0637",
+        "7afee39b21fa4d56",
+        "057223e65f7707c7",
+        "1a0fa04298f0fd2b",
+        "0133cab93eb458ab",
+        "43b9c8d895862611",
+        "e777176ffaf08081",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "6fd54aacbc353fce",
+      "date": 1585626908797
+    },
+    {
+      "type": "move",
+      "order": [
+        "6fd54aacbc353fce",
+        "186c33d754a4f19f",
+        "fc471c4ff435e1b0",
+        "0739319b38125b32",
+        "277b6c253f2d38b8",
+        "647b517a34cb0637",
+        "7afee39b21fa4d56",
+        "057223e65f7707c7",
+        "1a0fa04298f0fd2b",
+        "0133cab93eb458ab",
+        "43b9c8d895862611",
+        "e777176ffaf08081",
+        "e104be173593fbc6",
+        "953de15c07153249",
+        "6703c00e81173b44",
+        "972e61bdac311087",
+        "00c005f51bcf934a",
+        "46cecb06b97ec463",
+        "39a1c3886062bc97",
+        "f7f8fbdb072e670d"
+      ],
+      "id": "186c33d754a4f19f",
+      "date": 1585626909971
+    },
+    {
+      "type": "edit",
+      "id": "186c33d754a4f19f",
+      "item": {
+        "type": "paragraph",
+        "id": "186c33d754a4f19f",
+        "text": "March 30 — can't believe how long it's been since I last updated wtf. don't even remember which version I'm on..."
+      },
+      "date": 1585626928547
+    },
+    {
+      "type": "edit",
+      "id": "186c33d754a4f19f",
+      "item": {
+        "type": "paragraph",
+        "id": "186c33d754a4f19f",
+        "text": "March 30 — can't believe how long it's been since I last updated wtf. don't even remember which version I'm on... soon I'd like to update to 0.17.3"
+      },
+      "date": 1585626957500
+    },
+    {
+      "type": "edit",
+      "id": "186c33d754a4f19f",
+      "item": {
+        "type": "paragraph",
+        "id": "186c33d754a4f19f",
+        "text": "March 30 — can't believe how long it's been since I last updated wtf. don't even remember which version I'm on... soon I'd like to update to 0.17.3 https://github.com/fedwiki/wiki-server/releases/tag/v0.17.3"
+      },
+      "date": 1585626963463
+    },
+    {
+      "type": "edit",
+      "id": "186c33d754a4f19f",
+      "item": {
+        "type": "paragraph",
+        "id": "186c33d754a4f19f",
+        "text": "March 30 — forgot how good my blogroll is. miss my book list, here! can't believe how long it's been since I last updated wtf. don't even remember which version I'm on... soon I'd like to update to 0.17.3 https://github.com/fedwiki/wiki-server/releases/tag/v0.17.3"
+      },
+      "date": 1585626982808
+    },
+    {
+      "type": "add",
+      "id": "a65cec1cfece55f3",
+      "item": {
+        "type": "paragraph",
+        "id": "a65cec1cfece55f3",
+        "text": "wish the editor worked a bit better, more like docs, paper, or notion"
+      },
+      "after": "186c33d754a4f19f",
+      "date": 1585627000893
+    },
+    {
+      "type": "add",
+      "id": "50f8f2926de2be34",
+      "item": {
+        "type": "paragraph",
+        "id": "50f8f2926de2be34",
+        "text": "April 18 — fuck I can't log into the backend of this site anymore!!!"
+      },
+      "after": "6fd54aacbc353fce",
+      "date": 1587228523414
+    },
+    {
+      "type": "edit",
+      "id": "50f8f2926de2be34",
+      "item": {
+        "type": "paragraph",
+        "id": "50f8f2926de2be34",
+        "text": "April 18 — fuck I can't log into the backend of this site anymore!!! ssh keys on my laptop must've changed or somehting? and I don't remember the passwords?"
+      },
+      "date": 1587228547927
+    },
+    {
+      "type": "edit",
+      "id": "50f8f2926de2be34",
+      "item": {
+        "type": "paragraph",
+        "id": "50f8f2926de2be34",
+        "text": "April 18 — fuck I can't log into the backend of this site anymore!!! ssh keys on my laptop must've changed or somehting? and I don't remember the passwords? last week a total rando DM'd me to say they thought my website is cool ^__^"
+      },
+      "date": 1587228565014
     }
   ]
 }
