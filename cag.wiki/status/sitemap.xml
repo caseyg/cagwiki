@@ -1,662 +1,662 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://cag.wiki/2016.html</loc>
+    <loc>http://localhost:3000/2016.html</loc>
     <lastmod>2016-12-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2016-12-28.html</loc>
+    <loc>http://localhost:3000/2016-12-28.html</loc>
     <lastmod>2016-12-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2016-48.html</loc>
+    <loc>http://localhost:3000/2016-48.html</loc>
     <lastmod>2016-12-07</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2016-49.html</loc>
+    <loc>http://localhost:3000/2016-49.html</loc>
     <lastmod>2016-12-09</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2016-52.html</loc>
+    <loc>http://localhost:3000/2016-52.html</loc>
     <lastmod>2016-12-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-01-15.html</loc>
+    <loc>http://localhost:3000/2017-01-15.html</loc>
     <lastmod>2017-01-15</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-01-22.html</loc>
+    <loc>http://localhost:3000/2017-01-22.html</loc>
     <lastmod>2017-01-22</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-01-25.html</loc>
+    <loc>http://localhost:3000/2017-01-25.html</loc>
     <lastmod>2017-01-26</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-01-27.html</loc>
+    <loc>http://localhost:3000/2017-01-27.html</loc>
     <lastmod>2017-01-27</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-02-16.html</loc>
+    <loc>http://localhost:3000/2017-02-16.html</loc>
     <lastmod>2017-02-16</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-04-04.html</loc>
+    <loc>http://localhost:3000/2017-04-04.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-04-11.html</loc>
+    <loc>http://localhost:3000/2017-04-11.html</loc>
     <lastmod>2017-05-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-05-26.html</loc>
+    <loc>http://localhost:3000/2017-05-26.html</loc>
     <lastmod>2017-05-26</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-05-28.html</loc>
+    <loc>http://localhost:3000/2017-05-28.html</loc>
     <lastmod>2017-05-29</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-07-28.html</loc>
+    <loc>http://localhost:3000/2017-07-28.html</loc>
     <lastmod>2017-07-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-10-08.html</loc>
+    <loc>http://localhost:3000/2017-10-08.html</loc>
     <lastmod>2017-10-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/2017-3.html</loc>
+    <loc>http://localhost:3000/2017-3.html</loc>
     <lastmod>2017-01-19</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/a-better-pen.html</loc>
+    <loc>http://localhost:3000/a-better-pen.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/a-pattern-language.html</loc>
+    <loc>http://localhost:3000/a-pattern-language.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/about.html</loc>
+    <loc>http://localhost:3000/about.html</loc>
     <lastmod>2017-05-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/about-activity-plugin.html</loc>
+    <loc>http://localhost:3000/about-activity-plugin.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/about-factory-plugin.html</loc>
+    <loc>http://localhost:3000/about-factory-plugin.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/about-html-plugin.html</loc>
+    <loc>http://localhost:3000/about-html-plugin.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/about-shell-plugin.html</loc>
+    <loc>http://localhost:3000/about-shell-plugin.html</loc>
     <lastmod>2017-04-12</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/anagrams.html</loc>
+    <loc>http://localhost:3000/anagrams.html</loc>
     <lastmod>2018-03-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/anagrams-for-casey-alexander-gollan.html</loc>
+    <loc>http://localhost:3000/anagrams-for-casey-alexander-gollan.html</loc>
     <lastmod>2018-03-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/anagrams-for-casey-gollan.html</loc>
+    <loc>http://localhost:3000/anagrams-for-casey-gollan.html</loc>
     <lastmod>2018-03-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/anchor-song.html</loc>
+    <loc>http://localhost:3000/anchor-song.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/appliances.html</loc>
+    <loc>http://localhost:3000/appliances.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/baby-names.html</loc>
+    <loc>http://localhost:3000/baby-names.html</loc>
     <lastmod>2020-01-31</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/backup.html</loc>
+    <loc>http://localhost:3000/backup.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/bedroom-stack.html</loc>
+    <loc>http://localhost:3000/bedroom-stack.html</loc>
     <lastmod>2018-04-27</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/between-bridges-20160116.html</loc>
+    <loc>http://localhost:3000/between-bridges-20160116.html</loc>
     <lastmod>2017-10-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/big-data-baby.html</loc>
+    <loc>http://localhost:3000/big-data-baby.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/blogroll.html</loc>
+    <loc>http://localhost:3000/blogroll.html</loc>
     <lastmod>2020-03-31</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/books.html</loc>
+    <loc>http://localhost:3000/books.html</loc>
     <lastmod>2018-02-07</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/books-2015.html</loc>
+    <loc>http://localhost:3000/books-2015.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/books-to-borrow-or-get.html</loc>
+    <loc>http://localhost:3000/books-to-borrow-or-get.html</loc>
     <lastmod>2016-12-06</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/bread-play.html</loc>
+    <loc>http://localhost:3000/bread-play.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/bs.html</loc>
+    <loc>http://localhost:3000/bs.html</loc>
     <lastmod>2019-02-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/busterpublic.html</loc>
+    <loc>http://localhost:3000/busterpublic.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/cags-wikis.html</loc>
+    <loc>http://localhost:3000/cags-wikis.html</loc>
     <lastmod>2017-12-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/calm-technology.html</loc>
+    <loc>http://localhost:3000/calm-technology.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/can-communication-escape-embodiment.html</loc>
+    <loc>http://localhost:3000/can-communication-escape-embodiment.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/care.html</loc>
+    <loc>http://localhost:3000/care.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/casey.html</loc>
+    <loc>http://localhost:3000/casey.html</loc>
     <lastmod>2016-11-23</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/casey-gollan.html</loc>
+    <loc>http://localhost:3000/casey-gollan.html</loc>
     <lastmod>2020-02-17</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/christopher-alexander.html</loc>
+    <loc>http://localhost:3000/christopher-alexander.html</loc>
     <lastmod>2016-12-01</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/closing-tabs.html</loc>
+    <loc>http://localhost:3000/closing-tabs.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/communication-is-literally-just-a-theory.html</loc>
+    <loc>http://localhost:3000/communication-is-literally-just-a-theory.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/contact.html</loc>
+    <loc>http://localhost:3000/contact.html</loc>
     <lastmod>2018-03-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/dangling-string.html</loc>
+    <loc>http://localhost:3000/dangling-string.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/data-doppelganger.html</loc>
+    <loc>http://localhost:3000/data-doppelganger.html</loc>
     <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/designing-a-book.html</loc>
+    <loc>http://localhost:3000/designing-a-book.html</loc>
     <lastmod>2016-12-16</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/disposition.html</loc>
+    <loc>http://localhost:3000/disposition.html</loc>
     <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/electric-brain.html</loc>
+    <loc>http://localhost:3000/electric-brain.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/engagement-locations.html</loc>
+    <loc>http://localhost:3000/engagement-locations.html</loc>
     <lastmod>2018-05-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/everyday-weblog.html</loc>
+    <loc>http://localhost:3000/everyday-weblog.html</loc>
     <lastmod>2017-10-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/federated-wiki.html</loc>
+    <loc>http://localhost:3000/federated-wiki.html</loc>
     <lastmod>2018-04-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/files.html</loc>
+    <loc>http://localhost:3000/files.html</loc>
     <lastmod>2018-05-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/friend-graveyard.html</loc>
+    <loc>http://localhost:3000/friend-graveyard.html</loc>
     <lastmod>2017-08-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/games.html</loc>
+    <loc>http://localhost:3000/games.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/ghosts.html</loc>
+    <loc>http://localhost:3000/ghosts.html</loc>
     <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/gjovernance.html</loc>
+    <loc>http://localhost:3000/gjovernance.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/glass-bead-game.html</loc>
+    <loc>http://localhost:3000/glass-bead-game.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/grep-for-all-videos.html</loc>
+    <loc>http://localhost:3000/grep-for-all-videos.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/havent-spoken-about-data-since-i-was-much-younger.html</loc>
+    <loc>http://localhost:3000/havent-spoken-about-data-since-i-was-much-younger.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/how-to-wiki.html</loc>
+    <loc>http://localhost:3000/how-to-wiki.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/hypertext.html</loc>
+    <loc>http://localhost:3000/hypertext.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/i-want-to.html</loc>
+    <loc>http://localhost:3000/i-want-to.html</loc>
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/idea-for-books-page.html</loc>
+    <loc>http://localhost:3000/idea-for-books-page.html</loc>
     <lastmod>2017-10-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/if-im-making-progress-its-slowest-ever.html</loc>
+    <loc>http://localhost:3000/if-im-making-progress-its-slowest-ever.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/im-trying-to-ask-existential-question-straightforwardly.html</loc>
+    <loc>http://localhost:3000/im-trying-to-ask-existential-question-straightforwardly.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/incremental-paragraphs.html</loc>
+    <loc>http://localhost:3000/incremental-paragraphs.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/index-cards.html</loc>
+    <loc>http://localhost:3000/index-cards.html</loc>
     <lastmod>2017-08-19</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/information-action-ratio.html</loc>
+    <loc>http://localhost:3000/information-action-ratio.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/instruments.html</loc>
+    <loc>http://localhost:3000/instruments.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/interior-window.html</loc>
+    <loc>http://localhost:3000/interior-window.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/leading-and-lagging-indicators.html</loc>
+    <loc>http://localhost:3000/interviews.html</loc>
+    <lastmod>2020-04-18</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/leading-and-lagging-indicators.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/learn.html</loc>
+    <loc>http://localhost:3000/learn.html</loc>
     <lastmod>2018-05-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/leverage-points.html</loc>
+    <loc>http://localhost:3000/leverage-points.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/lifehacks.html</loc>
+    <loc>http://localhost:3000/lifehacks.html</loc>
     <lastmod>2016-12-07</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/lifelogging.html</loc>
+    <loc>http://localhost:3000/lifelogging.html</loc>
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/living-archive.html</loc>
+    <loc>http://localhost:3000/living-archive.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/local-to-web-fork-test.html</loc>
+    <loc>http://localhost:3000/local-to-web-fork-test.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/lyrics.html</loc>
+    <loc>http://localhost:3000/lyrics.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/maintaining-our-collective-clunker.html</loc>
+    <loc>http://localhost:3000/maintaining-our-collective-clunker.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/mapping-maps-you.html</loc>
+    <loc>http://localhost:3000/mapping-maps-you.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/maps.html</loc>
+    <loc>http://localhost:3000/maps.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/mean.html</loc>
+    <loc>http://localhost:3000/mean.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/mit.html</loc>
+    <loc>http://localhost:3000/mit.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/my-time.html</loc>
+    <loc>http://localhost:3000/my-time.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/neighborhood.html</loc>
+    <loc>http://localhost:3000/neighborhood.html</loc>
     <lastmod>2016-11-23</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/new.html</loc>
+    <loc>http://localhost:3000/new.html</loc>
   </url>
   <url>
-    <loc>http://cag.wiki/not-fear-of-death.html</loc>
+    <loc>http://localhost:3000/newsletters.html</loc>
+    <lastmod>2020-04-18</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/not-fear-of-death.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/not-integration.html</loc>
+    <loc>http://localhost:3000/not-integration.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/notebooks.html</loc>
+    <loc>http://localhost:3000/notebooks.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/notes.html</loc>
+    <loc>http://localhost:3000/notes.html</loc>
     <lastmod>2017-02-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/ornery.html</loc>
+    <loc>http://localhost:3000/ornery.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/orrery.html</loc>
+    <loc>http://localhost:3000/orrery.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/overton-window.html</loc>
+    <loc>http://localhost:3000/overton-window.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/oxbow-talk-index-cards.html</loc>
+    <loc>http://localhost:3000/oxbow-talk-index-cards.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/p2p.html</loc>
+    <loc>http://localhost:3000/p2p.html</loc>
     <lastmod>2018-04-27</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/path-dependence.html</loc>
+    <loc>http://localhost:3000/path-dependence.html</loc>
     <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/ponr.html</loc>
+    <loc>http://localhost:3000/ponr.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/popr.html</loc>
+    <loc>http://localhost:3000/popr.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/premature-optimization.html</loc>
+    <loc>http://localhost:3000/premature-optimization.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/primal-scene.html</loc>
+    <loc>http://localhost:3000/primal-scene.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/privacy-on-earth.html</loc>
+    <loc>http://localhost:3000/privacy-on-earth.html</loc>
     <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/programming-snippets.html</loc>
+    <loc>http://localhost:3000/programming-snippets.html</loc>
     <lastmod>2016-11-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/projectfile.html</loc>
+    <loc>http://localhost:3000/projectfile.html</loc>
     <lastmod>2018-05-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/projects.html</loc>
+    <loc>http://localhost:3000/projects.html</loc>
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/projects-presentation-index-cards.html</loc>
+    <loc>http://localhost:3000/projects-presentation-index-cards.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/questions-from-talks.html</loc>
+    <loc>http://localhost:3000/questions-from-talks.html</loc>
     <lastmod>2017-10-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/quite-still.html</loc>
+    <loc>http://localhost:3000/quite-still.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/recent-changes.html</loc>
+    <loc>http://localhost:3000/recent-changes.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/repair.html</loc>
+    <loc>http://localhost:3000/repair.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/resetting-a-computer.html</loc>
+    <loc>http://localhost:3000/resetting-a-computer.html</loc>
     <lastmod>2016-12-20</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/sand-garden.html</loc>
+    <loc>http://localhost:3000/sand-garden.html</loc>
     <lastmod>2016-12-07</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/sand-table.html</loc>
+    <loc>http://localhost:3000/sand-table.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/scanners.html</loc>
+    <loc>http://localhost:3000/scanners.html</loc>
     <lastmod>2016-11-26</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/scratchpad.html</loc>
+    <loc>http://localhost:3000/scratchpad.html</loc>
     <lastmod>2017-10-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/shift-double-click.html</loc>
+    <loc>http://localhost:3000/shift-double-click.html</loc>
     <lastmod>2016-11-27</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/south-afternoon.html</loc>
+    <loc>http://localhost:3000/south-afternoon.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/speaking-into-the-air.html</loc>
+    <loc>http://localhost:3000/speaking-into-the-air.html</loc>
     <lastmod>2016-11-23</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/stake-driving.html</loc>
+    <loc>http://localhost:3000/stake-driving.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/steganography.html</loc>
+    <loc>http://localhost:3000/steganography.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/summarization.html</loc>
+    <loc>http://localhost:3000/summarization.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/talks.html</loc>
+    <loc>http://localhost:3000/talks.html</loc>
     <lastmod>2018-04-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/teaching-machines-mike-caulfield.html</loc>
+    <loc>http://localhost:3000/teaching-machines-mike-caulfield.html</loc>
     <lastmod>2015-06-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/techne.html</loc>
+    <loc>http://localhost:3000/techne.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/technological-metaphors.html</loc>
+    <loc>http://localhost:3000/technological-metaphors.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/test.html</loc>
+    <loc>http://localhost:3000/test.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/the-coming-age-of-calm-technology.html</loc>
+    <loc>http://localhost:3000/the-coming-age-of-calm-technology.html</loc>
     <lastmod>2017-04-05</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/the-oxbow-school-20161108.html</loc>
+    <loc>http://localhost:3000/the-oxbow-school-20161108.html</loc>
     <lastmod>2017-10-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/theres-got-to-be-a-way-to-move-through-it.html</loc>
+    <loc>http://localhost:3000/theres-got-to-be-a-way-to-move-through-it.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/things.html</loc>
+    <loc>http://localhost:3000/things.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/tools.html</loc>
+    <loc>http://localhost:3000/tools.html</loc>
     <lastmod>2017-10-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/tools-for-transcription.html</loc>
+    <loc>http://localhost:3000/tools-for-transcription.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/vaporware.html</loc>
+    <loc>http://localhost:3000/vaporware.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/vera-list-center-20160908.html</loc>
+    <loc>http://localhost:3000/vera-list-center-20160908.html</loc>
     <lastmod>2017-04-04</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/vertebr-by-vertebr.html</loc>
+    <loc>http://localhost:3000/vertebr-by-vertebr.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/ward-cunningham.html</loc>
+    <loc>http://localhost:3000/ward-cunningham.html</loc>
     <lastmod>2019-02-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/weather-vibes.html</loc>
+    <loc>http://localhost:3000/weather-vibes.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/website-theory.html</loc>
+    <loc>http://localhost:3000/website-theory.html</loc>
     <lastmod>2018-07-01</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/weeknotes.html</loc>
+    <loc>http://localhost:3000/weeknotes.html</loc>
     <lastmod>2017-01-19</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/weeknotes-2016-archive.html</loc>
+    <loc>http://localhost:3000/weeknotes-2016-archive.html</loc>
     <lastmod>2017-02-28</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/welcome-visitors.html</loc>
+    <loc>http://localhost:3000/welcome-visitors.html</loc>
     <lastmod>2020-04-18</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/what-is-a-system.html</loc>
+    <loc>http://localhost:3000/what-is-a-system.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/what-isnt-a-system.html</loc>
+    <loc>http://localhost:3000/what-isnt-a-system.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/wiki.html</loc>
+    <loc>http://localhost:3000/wiki.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/wiki-ideas.html</loc>
+    <loc>http://localhost:3000/wiki-ideas.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/wiki-meta-journal.html</loc>
+    <loc>http://localhost:3000/wiki-meta-journal.html</loc>
     <lastmod>2020-04-18</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/wiki-reading-and-links.html</loc>
+    <loc>http://localhost:3000/wiki-reading-and-links.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/wiki-reference.html</loc>
+    <loc>http://localhost:3000/wiki-reference.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/word-processor.html</loc>
+    <loc>http://localhost:3000/word-processor.html</loc>
     <lastmod>2016-11-25</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/words.html</loc>
+    <loc>http://localhost:3000/words.html</loc>
     <lastmod>2020-03-31</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/words-in-casey-alexander-gollan.html</loc>
+    <loc>http://localhost:3000/words-in-casey-alexander-gollan.html</loc>
     <lastmod>2018-03-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/words-in-casey-gollan.html</loc>
+    <loc>http://localhost:3000/words-in-casey-gollan.html</loc>
     <lastmod>2018-03-08</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/work.html</loc>
+    <loc>http://localhost:3000/work.html</loc>
     <lastmod>2016-11-24</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/work-in-public-reveal-nothing.html</loc>
+    <loc>http://localhost:3000/work-in-public-reveal-nothing.html</loc>
     <lastmod>2016-11-29</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/writing.html</loc>
+    <loc>http://localhost:3000/writing.html</loc>
     <lastmod>2019-10-29</lastmod>
   </url>
   <url>
-    <loc>http://cag.wiki/yale-school-of-art-20170407.html</loc>
+    <loc>http://localhost:3000/yale-school-of-art-20170407.html</loc>
     <lastmod>2017-07-01</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/interviews.html</loc>
-    <lastmod>2020-04-18</lastmod>
-  </url>
-  <url>
-    <loc>http://cag.wiki/newsletters.html</loc>
-    <lastmod>2020-04-18</lastmod>
   </url>
 </urlset>
