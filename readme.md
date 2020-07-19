@@ -4,7 +4,7 @@ TO WHOMST IT MAY CONCERN: This is an ~experimental federated wiki server~! 🛠 
 
 ## A
 
-[[Anagrams]]
+[[anagrams.md]]
 
 ## B
 
