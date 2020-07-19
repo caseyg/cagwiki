@@ -8,86 +8,66 @@ TO WHOMST IT MAY CONCERN: This is an ~experimental federated wiki server~! 🛠 
 
 ## B
 
-Baby Names
-
-Blogroll
-
-Books
-
-Bullshit.systems 
+[[Baby Names]]
+[[Blogroll]]
+[[Books]]
+[Bullshit.systems](https://bullshit.systems)
 
 ## C
 
-Cag.exchange
-
-Cag.micro.blog
-
-Caseyagollan.com archive 
-
-Casey Gollan
-
-Contact
+[[Cag.exchange]](https://)
+[Caseyagollan.com](https://)
+[[Casey Gollan]]
+[[Contact]]
 
 ## D ... E
 
-Everyday Weblog
-
-Engagement Locations
+[[Everyday Weblog]]
+[[Engagement Locations]]
 
 ## F
 
-Files
+[[Files]]
 
 ## G ... H
 
-Hire.caseyagollan.com 
+[Hire.caseyagollan.com](https://)
 
 ## I ... J ... K ... L
 
-Learn
+[[Learn]]
 
 ## M
 
-Media
+[[Media]]
 
 ## N
 
-Newsletters
-
-Notes
+[[Newsletters]]
+[[Notes]]
 
 ## O ... P
 
-P2P
-
-Projects Class notes  and class wiki 
-
-Projectfile
+[[P2P]]
+[[Projects Class]]
+[[Projectfile]]
 
 ## Q ... R ... S
 
-Scratchpad
+[[Scratchpad]]
 
 ## T
 
-Talks
-
-Things
-
-Tools
+[[Talks]]
+[[Things]]
+[[Tools]]
 
 ## U ... V ... W
 
-Website Theory
-
-What I Think Is Sexy  (playlist)
-
-Wiki Meta Journal
-
-Words
-
-Work.cag.wiki 
-
-Writing
+[[Website Theory]]
+[What I Think Is Sexy (playlist)]()
+[[Wiki Meta Journal]]
+[[Words]]
+[[Writing]]
 
 ## X ... Y ... Z
