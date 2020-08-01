@@ -1,4 +1,4 @@
-# Readme
+# Home
 
 \/\/elcome to CAG.wiki 👽we come in peace!!
 
