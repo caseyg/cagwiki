@@ -28,3 +28,9 @@ h1 img {
   height: 1em;
   width: 1em;
 }
+
+h1 a:link,
+h1 a:visited {
+  text-decoration: none;
+  color: #000;
+}
