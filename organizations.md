@@ -8,7 +8,11 @@
 
 [[design]]
 
+[[development]]
+
 [[facilitation]]
+
+[[finance]]
 
 [[governance]]
 

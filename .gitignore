@@ -13,3 +13,5 @@ status/owner.json
 owner.json
 .gitconfig
 npm-debug.log*
+_site
+.jekyll-cache
