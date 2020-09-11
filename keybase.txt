@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/caseyg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cag.wiki
+  * I am caseyg (https://keybase.io/caseyg) on keybase.
+  * I have a public key with fingerprint 7B60 6290 0B87 9B2E 902E  8FFB 1441 54C3 9017 DB71
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a4e1103c3af126e9dc5b3f43a59cd0f56f5c23574be7ba26a824f821d45d930b0a",
+      "fingerprint": "7b6062900b879b2e902e8ffb144154c39017db71",
+      "host": "keybase.io",
+      "key_id": "144154c39017db71",
+      "kid": "01011a436353161e6fde63e54d3833895dfe472e36203927e593ecdf371ffa9593180a",
+      "uid": "fa1d2990ff3958e02894c77bc96c3d00",
+      "username": "caseyg"
+    },
+    "service": {
+      "hostname": "cag.wiki",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1599785395,
+  "expire_in": 157680000,
+  "prev": "82645e3c6f81b6d5912c20e1918b6b9bade1532642216d50be2d8ed437ba97a0",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJtUFRVGN5d16I1QZMZlUGUGwbkCvec+73TSKtIVKMNUJLCsN6Pc5c7
+C7vLfvC9ExCiqODixyiaRJgmmH9CpRJShJoCnQiJHBQDS5gELSIdnIbqLpP96vw5
+877v8zzned/zdi+cpzFoQ81vdvmX3szT9nbu92os275pLcEEh1SEmUowG5q7UI6E
+3B6LTZEwE4YDiPMkAgAnRIKXAaQRJ4mUQMgkwVOcKOEyRcuUCAmKIQXECDykeRaS
+MguBRFISR+ACzmNGTFbsVuRyuhS7R5VlBBqnIYfjAstwAkQcDhErywIgSUCRIsHh
+gJEEBqjEbIc7wFDNCbwbxSkONacGljl7/4N/4hsHgCcJmqAIQANEyxKiCUSREsES
+BMtRkoxIBiKChjjBQQZRHIFESSYYIMs8p0aAnfPtnZOTeSBBjsNlmeAoFuGQ5UiR
+YQSRo0VCwvEA0I1cdj4XqWhRNVpkxXxGTM3lKyIKjDXQx391a1yBYlNUltPl8DhE
+R46azfZ4nG5TgOUpcgZgBUiw/CtgERS7pE5QZeQjl1tx2DETUJGiRwkoAorjGJZS
+vRkxVOhUXMiiBBAUQ7O4egLvoHxVkoU0SSFCpGUWCLREcQCKEEeAA6xAC5zASwhQ
+hAqCEKhlXEBQYpFEEurHcgwf6NON8uwOzASh6pO3qppuxWrnPV4XwnxXOjP1Gq1B
+89R8XWC1NIZnFj1ZOENxyN9iVvQi/0ShrvyIa/zUR8rZ7t3QHL3p2KXLlUF6slV3
+svjiQPDbJT0nWqyrKnxDjVXVCff6Xj/pHrzS0uyb7ar6dmRBntRePfogdLjiM8dv
+29uvrRzVXisg7jUPTtZ39+oNgF7cdPwPPLzj+r5fmqaPNAeN5DdM3nb1r6+x6dM2
+R/nrIoI7U8Lzw7hdrl8fv6Ubjog42LY4+WoSHX9olTk3qC1yamZs0P++/ZO9u8re
+uG1uHlyzZbNQ9ihm2rSzJXEoah0Z+lLr2gGPLsxV3thfE5yztNRak5mYunzs+y1H
+03p/iDDWV+86FfPjSEOSPJarTK07E5kcsrB45+nsqzOvnK69azbon3/1VtOyFc/W
+8o1Y5NaZ7/anphzkCx6eeI6p+Io9nFAYFPf1h8eyb2Q0vOi1fTxRnDjZVB5WFVth
+LY1i73i/2HN85MKFAXuu8bUkKgzGXj//+dQ7f717U3Mj5swCx9r0iZ8zY9vvV748
+sHq8sis+dXSo8enV2g7TsruPMr0vlB6Ytm0aykjLDZ7Xm6H1p29L7XBmptTtzTJz
+vqno6bNZM9P91sMbwzeulH+q3/f7A53/XM9941HfB8vb6sqS1yfEhgxX7lYe7qgV
+kRIOp/JuXepdAi9ufVygmTyww/9e6Dl5yaxutu/O/JTYFePph7J7vozb8OfE2PmW
+y59u0Mc3tcZotq/p+wdUGbg2
+=KqWa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/caseyg
+
+==================================================================
