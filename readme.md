@@ -88,8 +88,6 @@ TO WHOMST IT MAY CONCERN: This is an ~experimental wiki server~! 🛠 Data loss 
 
 [[weeknotes]]
 
-[what i think is sexy (playlist)]()
-
 [[wiki meta journal]]
 
 [[words]]
